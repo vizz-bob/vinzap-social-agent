@@ -1,0 +1,20 @@
+{
+  "dry_run": true,
+  "interval_minutes": 60,
+  "daily_cap_per_platform": 10,
+  "start_hour": 8,
+  "end_hour": 23,
+  "auto_approve": false,
+  "autopilot": true,
+  "festival_discount_percent": 0,
+  "port": 8765,
+
+  "instagram_user_id": "PASTE_IG_BUSINESS_OR_CREATOR_ID",
+  "meta_access_token": "PASTE_LONG_LIVED_META_TOKEN",
+  "facebook_page_id": "PASTE_PAGE_ID",
+  "facebook_page_token": "PASTE_PAGE_TOKEN",
+  "youtube_client_id": "PASTE",
+  "youtube_client_secret": "PASTE",
+  "youtube_refresh_token": "PASTE",
+  "youtube_privacy": "public"
+}
