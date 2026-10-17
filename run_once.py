@@ -25,7 +25,7 @@ def main():
     plats = ["instagram", "facebook", "youtube"] if kind == "reel" else ["instagram", "facebook"]
     if not any(tg[k][0] in plats for k in due): kind, plats = "reel", ["instagram", "facebook", "youtube"]
 
-    prods = products.fetch(c["store_url"])
+    prods = products.home_kitchen(products.fetch(c["store_url"]), c.get("product_types"))
     used = {i.get("handle") for i in q["items"] if i.get("handle")}
     fresh = [p for p in prods if p["handle"] not in used] or prods
     random.shuffle(fresh); p = None; item = None

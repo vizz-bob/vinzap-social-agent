@@ -22,6 +22,12 @@ def fetch(store="https://www.vinzapstore.in", limit=250):
         if len(data) < 250: break
     return out[:limit]
 
+HOME_KITCHEN = ("Home & Kitchen", "Kitchen Combos", "Custom Print Drinkware")
+def home_kitchen(prods, types=None):
+    """keep only kitchen / home products (by the store's own product type); never returns an empty list"""
+    types = tuple(types or HOME_KITCHEN)
+    return [p for p in prods if p.get("type") in types] or prods
+
 def clean(s): return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
 
 def short_name(title, n=44):

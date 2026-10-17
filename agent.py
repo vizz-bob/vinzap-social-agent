@@ -104,7 +104,7 @@ def product_items(p, c):
     return ids
 
 def autofill(n):
-    c = cfg(); prods = products.fetch(c["store_url"])
+    c = cfg(); prods = products.home_kitchen(products.fetch(c["store_url"]), c.get("product_types"))
     with LOCK: used = {i.get("handle") for i in load()["items"] if i.get("handle")}
     fresh = [p for p in prods if p["handle"] not in used]
     if not fresh and prods:   # all products used once: start a new round
