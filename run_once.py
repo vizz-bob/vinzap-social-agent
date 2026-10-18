@@ -49,6 +49,15 @@ def main():
     agent.save(q)
     agent.tick()                              # posts the new item to every due account
     q = agent.load()
+    if kind == "reel" and c.get("stories", True):   # also post it as a Story (with sound) on Instagram + Facebook
+        it = next(i for i in q["items"] if i["id"] == iid); vid = os.path.join(agent.OUT, it["file"]); it.setdefault("stories", {})
+        for tkey, rec in list(it["posted"].items()):
+            pl, m = tg.get(tkey, (None, None))
+            if pl in ("instagram", "facebook") and rec.get("ok") and not rec.get("dry") and tkey not in it["stories"]:
+                try:
+                    it["stories"][tkey] = dict(ok=True, id=poster.story(m, pl, vid)); agent.log(q, f"STORY POSTED {tkey} {iid}")
+                except Exception as e:
+                    it["stories"][tkey] = dict(ok=False, error=str(e)[:200]); agent.log(q, f"STORY FAILED {tkey} {iid}: {str(e)[:160]}")
     q["items"] = q["items"][-80:]             # keep the history small
     for i in q["items"]: i.pop("photos", None)
     agent.save(q)

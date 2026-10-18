@@ -84,6 +84,20 @@ def instagram_photo(cfg, image, caption, kind="image", title=""):
         time.sleep(3)
     return _form(f"https://graph.facebook.com/{GV}/{cfg['instagram_user_id']}/media_publish", creation_id=c["id"], access_token=cfg["meta_access_token"])["id"]
 
+def facebook_story(cfg, video):
+    """Facebook Page video Story (keeps the sound of the video)"""
+    page, tok = cfg["facebook_page_id"], cfg["facebook_page_token"]
+    s = _form(f"https://graph.facebook.com/{GV}/{page}/video_stories", upload_phase="start", access_token=tok)
+    data = open(video, "rb").read()
+    _req(s["upload_url"], data, {"Authorization": "OAuth " + tok, "offset": "0", "file_size": str(len(data))}, "POST")
+    r = _form(f"https://graph.facebook.com/{GV}/{page}/video_stories", upload_phase="finish", video_id=s["video_id"], access_token=tok)
+    return r.get("post_id") or s["video_id"]
+
+def story(cfg, plat, video):
+    if plat == "instagram": return instagram(cfg, video, "", "story")
+    if plat == "facebook": return facebook_story(cfg, video)
+    raise RuntimeError("no stories on " + plat)
+
 PLATFORMS = {"instagram": instagram, "facebook": facebook, "youtube": youtube}
 NEEDS = {"instagram": ("instagram_user_id", "meta_access_token"), "facebook": ("facebook_page_id", "facebook_page_token"),
          "youtube": ("youtube_client_id", "youtube_client_secret", "youtube_refresh_token")}
