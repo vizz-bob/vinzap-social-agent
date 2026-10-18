@@ -430,9 +430,71 @@
    "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
    "file": "e4e4ed73.mp4",
    "thumb": "e4e4ed73_t.jpg"
+  },
+  {
+   "id": "9df5a69b",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Disposable Small Plastic Gloves",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "100 disposable gloves per pack",
+     "size for a comfortable fit",
+     "Transparent design for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Disposable Small Plastic Gloves | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Small Plastic Gloves"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nDisposable Small Plastic Gloves\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#diwali #trendingshorts",
+   "title": "Disposable Small Plastic Gloves",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792343746.8481627,
+     "id": "18112760276587579",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792343746.8481627,
+     "id": "1428352113685678_122109661773501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792343746.8481627,
+     "id": "1317760538089559_122120505261480728",
+     "dry": false
+    }
+   },
+   "created": 1792343744.499453,
+   "after": 0,
+   "handle": "disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
+   "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
+   "file": "9df5a69b.jpg",
+   "thumb": "9df5a69b.jpg"
   }
  ],
- "last_post": 1792341975.9284973,
+ "last_post": 1792343746.8481627,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -465,13 +527,17 @@
   "22:16:56 POSTED instagram@Vinzap-Finds e4e4ed73: 17901763959607486",
   "22:17:00 POSTED facebook@Vinzap-Finds e4e4ed73: 4390883294575379",
   "22:17:04 POSTED facebook@Vijayendra-Singh e4e4ed73: 2383147559091436",
-  "22:17:06 POSTED youtube e4e4ed73: dsaTXPlanrw"
+  "22:17:06 POSTED youtube e4e4ed73: dsaTXPlanrw",
+  "22:45:46 READY 9df5a69b Disposable Small Plastic Gloves (auto-approved)",
+  "22:46:02 POSTED instagram@Vinzap-Finds 9df5a69b: 18112760276587579",
+  "22:46:06 POSTED facebook@Vinzap-Finds 9df5a69b: 1428352113685678_122109661773501659",
+  "22:46:10 POSTED facebook@Vijayendra-Singh 9df5a69b: 1317760538089559_122120505261480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792341975.9284973,
-  "facebook@Vinzap-Finds": 1792341975.9284973,
-  "facebook@Vijayendra-Singh": 1792341975.9284973,
+  "instagram@Vinzap-Finds": 1792343746.8481627,
+  "facebook@Vinzap-Finds": 1792343746.8481627,
+  "facebook@Vijayendra-Singh": 1792343746.8481627,
   "youtube": 1792341975.9284973
  },
- "n": 7
+ "n": 8
 }
