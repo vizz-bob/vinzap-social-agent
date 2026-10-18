@@ -67,6 +67,16 @@ def hashtags(p):
         if k in text: out += v.split()
     return " ".join(dict.fromkeys(out))[:200]
 
+def trending_keywords(handle, n=None):
+    """1-2 trending keywords (from keywords.json, refreshed from vidIQ) picked in rotation per product"""
+    try:
+        d = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "keywords.json")))
+        kws = [k.strip() for k in d.get("keywords", []) if k.strip()]; n = n or int(d.get("how_many_per_post", 2))
+    except Exception: return []
+    if not kws: return []
+    import zlib; start = zlib.crc32(handle.encode()) % len(kws)
+    return [kws[(start + i) % len(kws)] for i in range(min(n, len(kws)))]
+
 def download(urls, dest_dir, prefix):
     paths = []
     for n, u in enumerate(urls):

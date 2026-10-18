@@ -76,17 +76,19 @@ def build_info(p, c):
     fest = festival_tag(); price, was = p["price"], 0; d = float(c.get("festival_discount_percent") or 0)
     if d > 0: was, price = p["price"], int(round(p["price"]*(1-d/100)))
     elif p.get("compare_at"): was = p["compare_at"]
-    name = products.short_name(p["title"]); sale = bool(was)
+    name = products.short_name(p["title"]); sale = bool(was); kw = products.trending_keywords(p["handle"])
     strip = f"{fest.capitalize()} {'Sale' if sale else 'Special'}  |  " + (f"Extra {int(d)}% OFF" if d > 0 else "Home & Kitchen")
     return dict(fest=fest, headline=name, strip=strip, price=price, was=was, feats=products.features(p), label2="SALE" if sale else "SPECIAL",
-                cta="Comment LINK to order", site=c["store_url"].replace("https://", ""))
+                cta="Comment LINK to order", site=c["store_url"].replace("https://", ""),
+                kw=kw, yt_title=(name + " | " + kw[0].title()) if kw else name)
 
 def caption_for(p, info):
     feats = "\n".join("✔ " + f for f in info["feats"])
     price = f"Only ₹{info['price']}" + (f" (was ₹{info['was']})" if info["was"] else "")
     h = trends.HASHTAGS[info["fest"]].split()
     return (f"{GREET[info['fest']]}\n\n{info['headline']}\n{feats}\n\n{price}. Comment LINK and we will send it, "
-            f"or order at vinzapstore.in (link in bio).\n\n{h[0]} {h[1]} {products.hashtags(p)}")
+            f"or order at vinzapstore.in (link in bio).\n\n{h[0]} {h[1]} {products.hashtags(p)}"
+            + ("\n" + " ".join("#" + k.replace(" ", "") for k in info.get("kw", [])) if info.get("kw") else ""))
 
 def product_items(p, c):
     """one product -> 1 animated Reel + 1 feed poster, both fully designed from store data"""
@@ -96,7 +98,7 @@ def product_items(p, c):
     for kind, plats in (("reel", ["instagram", "facebook", "youtube"]), ("image", ["instagram", "facebook"])):
         iid = uuid.uuid4().hex[:8]
         it = dict(id=iid, status="generating", kind=kind, style="sale", info=info, spec=dict(theme="product", hook=info["headline"]), photos=photos,
-                  caption=caption_for(p, info), title=info["headline"], platforms=plats, posted={}, created=time.time(), after=0,
+                  caption=caption_for(p, info), title=(info.get("yt_title") if kind == "reel" else info["headline"]), platforms=plats, posted={}, created=time.time(), after=0,
                   handle=p["handle"], product_url=p["url"])
         with LOCK:
             q = load(); q["items"].append(it); save(q)

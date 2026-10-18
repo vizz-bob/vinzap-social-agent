@@ -39,7 +39,7 @@ def main():
     if not p: print("no usable product"); sys.exit(1)
     iid = uuid.uuid4().hex[:8]
     item = dict(id=iid, status="generating", kind=kind, style="sale", info=info, spec=dict(theme="product", hook=info["headline"]), photos=photos,
-                caption=agent.caption_for(p, info), title=info["headline"], platforms=plats, posted={}, created=now, after=0,
+                caption=agent.caption_for(p, info), title=(info.get("yt_title") if kind == "reel" else info["headline"]), platforms=plats, posted={}, created=now, after=0,
                 handle=p["handle"], product_url=p["url"])
     q["items"].append(item); q["n"] = q.get("n", 0) + 1; agent.save(q)
     agent.generate(iid)                       # renders now and waits until the file is finished
