@@ -299,9 +299,71 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-premium-4-in-1-stainless-steel-compact-grater-and-slicer",
    "file": "a6f28b7d.mp4",
    "thumb": "a6f28b7d_t.jpg"
+  },
+  {
+   "id": "a9ce49c2",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Electric Lunch Box",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 1399,
+    "was": 0,
+    "feats": [
+     "Power: 40 W",
+     "Size: 23 x 16 x 11 cm",
+     "Removable containers"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Electric Lunch Box | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Lunch Box"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nElectric Lunch Box\n✔ Power: 40 W\n✔ Size: 23 x 16 x 11 cm\n✔ Removable containers\n\nOnly ₹1399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
+   "title": "Electric Lunch Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792340147.4387436,
+     "id": "18219952825345343",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792340147.4387436,
+     "id": "1428352113685678_122109644745501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792340147.4387436,
+     "id": "1317760538089559_122120490249480728",
+     "dry": false
+    }
+   },
+   "created": 1792340145.8722076,
+   "after": 0,
+   "handle": "058-electric-lunch-box-1",
+   "product_url": "https://www.vinzapstore.in/products/058-electric-lunch-box-1",
+   "file": "a9ce49c2.jpg",
+   "thumb": "a9ce49c2.jpg"
   }
  ],
- "last_post": 1792338673.7238414,
+ "last_post": 1792340147.4387436,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -325,13 +387,17 @@
   "21:21:52 POSTED instagram@Vinzap-Finds a6f28b7d: 17902788174370716",
   "21:21:56 POSTED facebook@Vinzap-Finds a6f28b7d: 1452149980313097",
   "21:22:01 POSTED facebook@Vijayendra-Singh a6f28b7d: 1985294582163629",
-  "21:22:04 POSTED youtube a6f28b7d: KMYhQAUm8MQ"
+  "21:22:04 POSTED youtube a6f28b7d: KMYhQAUm8MQ",
+  "21:45:47 READY a9ce49c2 Electric Lunch Box (auto-approved)",
+  "21:45:59 POSTED instagram@Vinzap-Finds a9ce49c2: 18219952825345343",
+  "21:46:02 POSTED facebook@Vinzap-Finds a9ce49c2: 1428352113685678_122109644745501659",
+  "21:46:06 POSTED facebook@Vijayendra-Singh a9ce49c2: 1317760538089559_122120490249480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792338673.7238414,
-  "facebook@Vinzap-Finds": 1792338673.7238414,
-  "facebook@Vijayendra-Singh": 1792338673.7238414,
-  "youtube": 1792338673.7238414
+  "instagram@Vinzap-Finds": 1792340147.4387436,
+  "facebook@Vinzap-Finds": 1792340147.4387436,
+  "facebook@Vijayendra-Singh": 1792340147.4387436,
+  "youtube": 1792338253.7238414
  },
- "n": 5
+ "n": 6
 }
