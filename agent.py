@@ -131,6 +131,11 @@ def posted_today(q, plat):
     t0 = datetime.datetime.now().replace(hour=0, minute=0, second=0).timestamp()
     return sum(1 for i in q["items"] for p, r in i["posted"].items() if p == plat and r.get("ts", 0) >= t0 and r.get("ok"))
 
+def limits(c, pl):
+    """(interval minutes, daily cap) for a platform. YouTube is limited harder to protect the channel + API quota."""
+    if pl == "youtube": return c.get("youtube_interval_minutes", c["interval_minutes"]), c.get("youtube_daily_cap", c["daily_cap_per_platform"])
+    return c["interval_minutes"], c["daily_cap_per_platform"]
+
 def tick():
     c = cfg()
     if not (c["start_hour"] <= datetime.datetime.now().hour < c["end_hour"]): return  # only post in your daytime window
@@ -138,11 +143,13 @@ def tick():
         q = load(); last = q.setdefault("last", {}); tg = poster.all_targets(c); now = time.time(); changed = False
         for tkey, (pl, m) in tg.items():
             if not c["dry_run"] and not poster.configured(m, pl): continue   # live mode: skip platforms without keys
-            if now - last.get(tkey, 0) < c["interval_minutes"]*60: continue
-            if posted_today(q, tkey) >= c["daily_cap_per_platform"]: continue
+            iv, cap = limits(c, pl)
+            if now - last.get(tkey, 0) < iv*60: continue
+            if posted_today(q, tkey) >= cap: continue
             for it in q["items"]:
                 if it["status"] != "scheduled" or it.get("after", 0) > now or pl not in it["platforms"] or tkey in it["posted"]: continue
                 vid = os.path.join(OUT, it["file"])
+                if not os.path.exists(vid): continue   # old video from an earlier run (not kept on the server)
                 try:
                     res = poster.post(m, pl, vid, it["caption"], it["kind"], it["title"], c["dry_run"], os.path.join(OUT, it["thumb"]) if it.get("thumb") and it["kind"] != "image" else None)
                     it["posted"][tkey] = dict(ok=True, ts=now, id=res, dry=c["dry_run"]); log(q, f"POSTED {tkey} {it['id']}: {res}")

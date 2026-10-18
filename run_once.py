@@ -16,8 +16,9 @@ def main():
     due = []
     for k, (pl, m) in tg.items():
         if not c["dry_run"] and not poster.configured(m, pl): continue
-        if now - last.get(k, 0) < c["interval_minutes"] * 60 - SLACK: continue
-        if agent.posted_today(q, k) >= c["daily_cap_per_platform"]: continue
+        iv, cap = agent.limits(c, pl)
+        if now - last.get(k, 0) < iv * 60 - SLACK: continue
+        if agent.posted_today(q, k) >= cap: continue
         due.append(k)
     if not due: print("nothing due"); return
     kind = "reel" if q.get("n", 0) % 2 == 0 else "image"
