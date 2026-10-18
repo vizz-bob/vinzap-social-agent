@@ -361,9 +361,78 @@
    "product_url": "https://www.vinzapstore.in/products/058-electric-lunch-box-1",
    "file": "a9ce49c2.jpg",
    "thumb": "a9ce49c2.jpg"
+  },
+  {
+   "id": "e4e4ed73",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Heart Shape Ice Cube Tray",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Add water",
+     "DIY & Reserve dessert",
+     "The cubes fit your small diameter"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Heart Shape Ice Cube Tray | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Heart Shape Ice Cube Tray"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nHeart Shape Ice Cube Tray\n✔ Add water\n✔ DIY & Reserve dessert\n✔ The cubes fit your small diameter\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Heart Shape Ice Cube Tray | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792341975.9284973,
+     "id": "17901763959607486",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792341975.9284973,
+     "id": "4390883294575379",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792341975.9284973,
+     "id": "2383147559091436",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792341975.9284973,
+     "id": "dsaTXPlanrw",
+     "dry": false
+    }
+   },
+   "created": 1792341949.3983428,
+   "after": 0,
+   "handle": "1133-heart-shape-ice-cube-tray",
+   "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
+   "file": "e4e4ed73.mp4",
+   "thumb": "e4e4ed73_t.jpg"
   }
  ],
- "last_post": 1792340147.4387436,
+ "last_post": 1792341975.9284973,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -391,13 +460,18 @@
   "21:45:47 READY a9ce49c2 Electric Lunch Box (auto-approved)",
   "21:45:59 POSTED instagram@Vinzap-Finds a9ce49c2: 18219952825345343",
   "21:46:02 POSTED facebook@Vinzap-Finds a9ce49c2: 1428352113685678_122109644745501659",
-  "21:46:06 POSTED facebook@Vijayendra-Singh a9ce49c2: 1317760538089559_122120490249480728"
+  "21:46:06 POSTED facebook@Vijayendra-Singh a9ce49c2: 1317760538089559_122120490249480728",
+  "22:16:15 READY e4e4ed73 Heart Shape Ice Cube Tray | Home Decor Ideas (auto-approved)",
+  "22:16:56 POSTED instagram@Vinzap-Finds e4e4ed73: 17901763959607486",
+  "22:17:00 POSTED facebook@Vinzap-Finds e4e4ed73: 4390883294575379",
+  "22:17:04 POSTED facebook@Vijayendra-Singh e4e4ed73: 2383147559091436",
+  "22:17:06 POSTED youtube e4e4ed73: dsaTXPlanrw"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792340147.4387436,
-  "facebook@Vinzap-Finds": 1792340147.4387436,
-  "facebook@Vijayendra-Singh": 1792340147.4387436,
-  "youtube": 1792338253.7238414
+  "instagram@Vinzap-Finds": 1792341975.9284973,
+  "facebook@Vinzap-Finds": 1792341975.9284973,
+  "facebook@Vijayendra-Singh": 1792341975.9284973,
+  "youtube": 1792341975.9284973
  },
- "n": 6
+ "n": 7
 }
