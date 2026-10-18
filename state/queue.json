@@ -235,9 +235,73 @@
    "product_url": "https://www.vinzapstore.in/products/steel-kids-dinosaur-lunch-box-bento-tiffin-with-steel-tray-spoon-sauce-cup-1-set",
    "file": "7191fc06.jpg",
    "thumb": "7191fc06.jpg"
+  },
+  {
+   "id": "a6f28b7d",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "4-in-1 Stainless Steel Compact Grater and",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 289,
+    "was": 0,
+    "feats": [
+     "4-in-1 design with multiple",
+     "Made from premium food-grade",
+     "Sharp blades for effortless"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "4-in-1 Stainless Steel Compact Grater and"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\n4-in-1 Stainless Steel Compact Grater and\n✔ 4-in-1 design with multiple\n✔ Made from premium food-grade\n✔ Sharp blades for effortless\n\nOnly ₹289. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials",
+   "title": "4-in-1 Stainless Steel Compact Grater and",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792338673.7238414,
+     "id": "17902788174370716",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792338673.7238414,
+     "id": "1452149980313097",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792338673.7238414,
+     "id": "1985294582163629",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792338673.7238414,
+     "id": "KMYhQAUm8MQ",
+     "dry": false
+    }
+   },
+   "created": 1792338654.486234,
+   "after": 0,
+   "handle": "supermom-premium-4-in-1-stainless-steel-compact-grater-and-slicer",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-4-in-1-stainless-steel-compact-grater-and-slicer",
+   "file": "a6f28b7d.mp4",
+   "thumb": "a6f28b7d_t.jpg"
   }
  ],
- "last_post": 1792334262.0991766,
+ "last_post": 1792338673.7238414,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -256,13 +320,18 @@
   "20:07:42 READY 7191fc06 Steel Kids Dinosaur Lunch Box Bento Tiffin (auto-approved)",
   "20:07:53 POSTED instagram@Vinzap-Finds 7191fc06: 18132217823502918",
   "20:07:56 POSTED facebook@Vinzap-Finds 7191fc06: 1428352113685678_122109614577501659",
-  "20:08:00 POSTED facebook@Vijayendra-Singh 7191fc06: 1317760538089559_122120462715480728"
+  "20:08:00 POSTED facebook@Vijayendra-Singh 7191fc06: 1317760538089559_122120462715480728",
+  "21:21:13 READY a6f28b7d 4-in-1 Stainless Steel Compact Grater and (auto-approved)",
+  "21:21:52 POSTED instagram@Vinzap-Finds a6f28b7d: 17902788174370716",
+  "21:21:56 POSTED facebook@Vinzap-Finds a6f28b7d: 1452149980313097",
+  "21:22:01 POSTED facebook@Vijayendra-Singh a6f28b7d: 1985294582163629",
+  "21:22:04 POSTED youtube a6f28b7d: KMYhQAUm8MQ"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792334262.0991766,
-  "facebook@Vinzap-Finds": 1792334262.0991766,
-  "facebook@Vijayendra-Singh": 1792334262.0991766,
-  "youtube": 1792321586.1050432
+  "instagram@Vinzap-Finds": 1792338673.7238414,
+  "facebook@Vinzap-Finds": 1792338673.7238414,
+  "facebook@Vijayendra-Singh": 1792338673.7238414,
+  "youtube": 1792338673.7238414
  },
- "n": 4
+ "n": 5
 }
