@@ -61,21 +61,80 @@
    "product_url": "https://www.vinzapstore.in/products/aop-full-sleeve-crop-top",
    "file": "57591208.mp4",
    "thumb": "57591208_t.jpg"
+  },
+  {
+   "id": "e64e113f",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Plastic Tea and Coffee Cups",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Reliable Material for Safe Using:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Tea and Coffee Cups"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nPlastic Tea and Coffee Cups\n✔ Reliable Material for Safe Using:\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas",
+   "title": "Plastic Tea and Coffee Cups",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792313244.3504827,
+     "id": "18106682594339820",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792313244.3504827,
+     "id": "1428352113685678_122109488259501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792313244.3504827,
+     "id": "1317760538089559_122120383995480728",
+     "dry": false
+    }
+   },
+   "created": 1792313241.4885924,
+   "after": 0,
+   "handle": "5719-small-plastic-coffee-tea-cups-reusable-plastic-cup-mug-lightweight-microwavable-dishwasher-safe-unbreakable-camping-coffee-mugs-for-tea-milk-water-juice-tea-3-pcs-set",
+   "product_url": "https://www.vinzapstore.in/products/5719-small-plastic-coffee-tea-cups-reusable-plastic-cup-mug-lightweight-microwavable-dishwasher-safe-unbreakable-camping-coffee-mugs-for-tea-milk-water-juice-tea-3-pcs-set",
+   "file": "e64e113f.jpg",
+   "thumb": "e64e113f.jpg"
   }
  ],
- "last_post": 1792279565.5152254,
+ "last_post": 1792313244.3504827,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
   "04:56:48 POSTED facebook@Vinzap-Finds 57591208: 1358990662812822",
   "04:56:52 POSTED facebook@Vijayendra-Singh 57591208: 1062585796808695",
-  "04:56:54 POSTED youtube 57591208: fyfeGYeeKMM"
+  "04:56:54 POSTED youtube 57591208: fyfeGYeeKMM",
+  "14:17:24 READY e64e113f Plastic Tea and Coffee Cups (auto-approved)",
+  "14:17:34 POSTED instagram@Vinzap-Finds e64e113f: 18106682594339820",
+  "14:17:37 POSTED facebook@Vinzap-Finds e64e113f: 1428352113685678_122109488259501659",
+  "14:17:41 POSTED facebook@Vijayendra-Singh e64e113f: 1317760538089559_122120383995480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792279565.5152254,
-  "facebook@Vinzap-Finds": 1792279565.5152254,
-  "facebook@Vijayendra-Singh": 1792279565.5152254,
-  "youtube": 1792279565.5152254
+  "instagram@Vinzap-Finds": 1792313244.3504827,
+  "facebook@Vinzap-Finds": 1792313244.3504827,
+  "facebook@Vijayendra-Singh": 1792313244.3504827,
+  "youtube": 1792279145.5152254
  },
- "n": 1
+ "n": 2
 }
