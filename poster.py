@@ -18,11 +18,22 @@ def _form(url, **kw): return _req(url, urllib.parse.urlencode(kw).encode(), {"Co
 def _get(url, **kw): return _req(url + "?" + urllib.parse.urlencode(kw))
 
 # ---------- Instagram (Reels / Stories) ----------
-def instagram(cfg, video, caption, kind="reel"):
+def _public_url(cfg, image):
+    """public URL for an image: upload it unpublished to the Facebook Page, read its URL (used for Instagram cover)"""
+    try:
+        pg = _multipart(f"https://graph.facebook.com/{GV}/{cfg['facebook_page_id']}/photos", dict(published="false", access_token=cfg["facebook_page_token"]),
+                        "cover.jpg", open(image, "rb").read(), "image/jpeg")["id"]
+        return _get(f"https://graph.facebook.com/{GV}/{pg}", fields="images", access_token=cfg["facebook_page_token"])["images"][0]["source"]
+    except Exception: return None
+
+def instagram(cfg, video, caption, kind="reel", thumb=None):
     ig, tok = cfg["instagram_user_id"], cfg["meta_access_token"]
     mt = "STORIES" if kind == "story" else "REELS"
     p = dict(media_type=mt, upload_type="resumable", access_token=tok)
-    if mt == "REELS": p["caption"] = caption; p["share_to_feed"] = "true"
+    if mt == "REELS":
+        p["caption"] = caption; p["share_to_feed"] = "true"
+        cu = _public_url(cfg, thumb) if thumb and os.path.exists(thumb) else None
+        if cu: p["cover_url"] = cu
     c = _form(f"https://graph.facebook.com/{GV}/{ig}/media", **p)
     cid, uri = c["id"], c.get("uri") or f"https://rupload.facebook.com/ig-api-upload/{GV}/{c['id']}"
     data = open(video, "rb").read()
@@ -36,11 +47,13 @@ def instagram(cfg, video, caption, kind="reel"):
     return pub["id"]
 
 # ---------- Facebook Page video ----------
-def facebook(cfg, video, caption, kind="reel"):
+def facebook(cfg, video, caption, kind="reel", thumb=None):
     page, tok = cfg["facebook_page_id"], cfg["facebook_page_token"]
     b = uuid.uuid4().hex; data = open(video, "rb").read(); body = b""
     for k, v in (("description", caption), ("access_token", tok)):
         body += f'--{b}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode()
+    if thumb and os.path.exists(thumb):
+        body += (f'--{b}\r\nContent-Disposition: form-data; name="thumb"; filename="thumb.jpg"\r\nContent-Type: image/jpeg\r\n\r\n').encode() + open(thumb, "rb").read() + b"\r\n"
     body += (f'--{b}\r\nContent-Disposition: form-data; name="source"; filename="v.mp4"\r\nContent-Type: video/mp4\r\n\r\n').encode() + data + f"\r\n--{b}--\r\n".encode()
     return _req(f"https://graph-video.facebook.com/{GV}/{page}/videos", body, {"Content-Type": "multipart/form-data; boundary=" + b}, "POST")["id"]
 
@@ -49,7 +62,7 @@ def _yt_token(cfg):
     return _form("https://oauth2.googleapis.com/token", client_id=cfg["youtube_client_id"], client_secret=cfg["youtube_client_secret"],
                  refresh_token=cfg["youtube_refresh_token"], grant_type="refresh_token")["access_token"]
 
-def youtube(cfg, video, caption, kind="reel", title="Shorts"):
+def youtube(cfg, video, caption, kind="reel", title="Shorts", thumb=None):
     tok = _yt_token(cfg)
     meta = {"snippet": {"title": (title[:90] + " #Shorts")[:100], "description": caption + "\n#Shorts", "categoryId": "22"},
             "status": {"privacyStatus": cfg.get("youtube_privacy", "public"), "selfDeclaredMadeForKids": False}}
@@ -58,7 +71,11 @@ def youtube(cfg, video, caption, kind="reel", title="Shorts"):
         json.dumps(meta).encode(), {"Authorization": "Bearer " + tok, "Content-Type": "application/json; charset=UTF-8",
         "X-Upload-Content-Type": "video/mp4", "X-Upload-Content-Length": str(len(data))}, method="POST")
     loc = urllib.request.urlopen(r, timeout=60).headers["Location"]
-    return _req(loc, data, {"Content-Type": "video/mp4", "Authorization": "Bearer " + tok}, "PUT")["id"]
+    vid = _req(loc, data, {"Content-Type": "video/mp4", "Authorization": "Bearer " + tok}, "PUT")["id"]
+    if thumb and os.path.exists(thumb):
+        try: _req("https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=" + vid, open(thumb, "rb").read(), {"Content-Type": "image/jpeg", "Authorization": "Bearer " + tok}, "POST")
+        except Exception: pass   # needs a phone-verified channel; the video is already posted
+    return vid
 
 def _multipart(url, fields, fname, data, ctype):
     b = uuid.uuid4().hex; body = b""
@@ -104,14 +121,14 @@ NEEDS = {"instagram": ("instagram_user_id", "meta_access_token"), "facebook": ("
 
 def configured(cfg, plat): return all(cfg.get(k) and not str(cfg[k]).startswith("PASTE") for k in NEEDS[plat])
 
-def post(cfg, plat, video, caption, kind, title, dry):
+def post(cfg, plat, video, caption, kind, title, dry, thumb=None):
     if dry: return "DRY-RUN (not posted): %s %s %s" % (plat, kind, os.path.basename(video))
     if not configured(cfg, plat): raise RuntimeError("missing keys for %s in config.json" % plat)
     if kind == "image":
         if plat == "youtube": raise RuntimeError("YouTube takes videos only")
         return (instagram_photo if plat == "instagram" else facebook_photo)(cfg, video, caption, kind, title)
     f = PLATFORMS[plat]
-    return f(cfg, video, caption, kind, title) if plat == "youtube" else f(cfg, video, caption, kind)
+    return f(cfg, video, caption, kind, title, thumb) if plat == "youtube" else f(cfg, video, caption, kind, thumb)
 
 
 def all_targets(cfg):

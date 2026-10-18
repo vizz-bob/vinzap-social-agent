@@ -144,7 +144,7 @@ def tick():
                 if it["status"] != "scheduled" or it.get("after", 0) > now or pl not in it["platforms"] or tkey in it["posted"]: continue
                 vid = os.path.join(OUT, it["file"])
                 try:
-                    res = poster.post(m, pl, vid, it["caption"], it["kind"], it["title"], c["dry_run"])
+                    res = poster.post(m, pl, vid, it["caption"], it["kind"], it["title"], c["dry_run"], os.path.join(OUT, it["thumb"]) if it.get("thumb") and it["kind"] != "image" else None)
                     it["posted"][tkey] = dict(ok=True, ts=now, id=res, dry=c["dry_run"]); log(q, f"POSTED {tkey} {it['id']}: {res}")
                 except Exception as e:
                     it["posted"][tkey] = dict(ok=False, ts=now, error=str(e)[:300]); log(q, f"FAILED post {tkey} {it['id']}: {e}")
