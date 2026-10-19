@@ -1981,9 +1981,71 @@
      "id": "1486996650018354"
     }
    }
+  },
+  {
+   "id": "4e1d2b6c",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Transparent Plastic Cup",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Transparent body lets you see",
+     "Comfortable side handle",
+     "Anti-slip grip band around"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Transparent Plastic Cup | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Transparent Plastic Cup"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nTransparent Plastic Cup\n✔ Transparent body lets you see\n✔ Comfortable side handle\n✔ Anti-slip grip band around\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#diwali #trendingshorts",
+   "title": "Transparent Plastic Cup",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792429263.9506843,
+     "id": "17940569310380225",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792429263.9506843,
+     "id": "1428352113685678_122110056165501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792429263.9506843,
+     "id": "1317760538089559_122120822511480728",
+     "dry": false
+    }
+   },
+   "created": 1792429261.3262508,
+   "after": 0,
+   "handle": "transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
+   "file": "4e1d2b6c.jpg",
+   "thumb": "4e1d2b6c.jpg"
   }
  ],
- "last_post": 1792427479.247098,
+ "last_post": 1792429263.9506843,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -2141,13 +2203,17 @@
   "22:02:01 POSTED facebook@Vijayendra-Singh b3f88e44: 1636191911567747",
   "22:02:33 STORY POSTED instagram@Vinzap-Finds b3f88e44",
   "22:02:41 STORY POSTED facebook@Vinzap-Finds b3f88e44",
-  "22:02:47 STORY POSTED facebook@Vijayendra-Singh b3f88e44"
+  "22:02:47 STORY POSTED facebook@Vijayendra-Singh b3f88e44",
+  "22:31:03 READY 4e1d2b6c Transparent Plastic Cup (auto-approved)",
+  "22:31:17 POSTED instagram@Vinzap-Finds 4e1d2b6c: 17940569310380225",
+  "22:31:21 POSTED facebook@Vinzap-Finds 4e1d2b6c: 1428352113685678_122110056165501659",
+  "22:31:25 POSTED facebook@Vijayendra-Singh 4e1d2b6c: 1317760538089559_122120822511480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792427479.247098,
-  "facebook@Vinzap-Finds": 1792427479.247098,
-  "facebook@Vijayendra-Singh": 1792427479.247098,
+  "instagram@Vinzap-Finds": 1792429263.9506843,
+  "facebook@Vinzap-Finds": 1792429263.9506843,
+  "facebook@Vijayendra-Singh": 1792429263.9506843,
   "youtube": 1792423884.2437162
  },
- "n": 29
+ "n": 30
 }
