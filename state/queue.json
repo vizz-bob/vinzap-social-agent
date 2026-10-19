@@ -1842,9 +1842,71 @@
      "id": "1160518809977516"
     }
    }
+  },
+  {
+   "id": "bfa6f204",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Wooden Mouse Rat Trap",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "EASY MOUSE TRAP: Classic easy",
+     "PREMIUM AND REUSABLE: Made from",
+     "EASY TO SET MOUSE TRAP: With just"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Wooden Mouse Rat Trap | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Wooden Mouse Rat Trap"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nWooden Mouse Rat Trap\n✔ EASY MOUSE TRAP: Classic easy\n✔ PREMIUM AND REUSABLE: Made from\n✔ EASY TO SET MOUSE TRAP: With just\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Wooden Mouse Rat Trap",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792425655.3914497,
+     "id": "17982869904106887",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792425655.3914497,
+     "id": "1428352113685678_122110043853501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792425655.3914497,
+     "id": "1317760538089559_122120811555480728",
+     "dry": false
+    }
+   },
+   "created": 1792425652.5606205,
+   "after": 0,
+   "handle": "wooden-mouse-rat-traps-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/wooden-mouse-rat-traps-1-pc",
+   "file": "bfa6f204.jpg",
+   "thumb": "bfa6f204.jpg"
   }
  ],
- "last_post": 1792423884.2437162,
+ "last_post": 1792425655.3914497,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1991,13 +2053,17 @@
   "21:02:25 POSTED youtube 1ea7ad13: vL-OG7ZEax0",
   "21:02:59 STORY POSTED instagram@Vinzap-Finds 1ea7ad13",
   "21:03:10 STORY POSTED facebook@Vinzap-Finds 1ea7ad13",
-  "21:03:22 STORY POSTED facebook@Vijayendra-Singh 1ea7ad13"
+  "21:03:22 STORY POSTED facebook@Vijayendra-Singh 1ea7ad13",
+  "21:30:55 READY bfa6f204 Wooden Mouse Rat Trap (auto-approved)",
+  "21:31:08 POSTED instagram@Vinzap-Finds bfa6f204: 17982869904106887",
+  "21:31:13 POSTED facebook@Vinzap-Finds bfa6f204: 1428352113685678_122110043853501659",
+  "21:31:17 POSTED facebook@Vijayendra-Singh bfa6f204: 1317760538089559_122120811555480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792423884.2437162,
-  "facebook@Vinzap-Finds": 1792423884.2437162,
-  "facebook@Vijayendra-Singh": 1792423884.2437162,
+  "instagram@Vinzap-Finds": 1792425655.3914497,
+  "facebook@Vinzap-Finds": 1792425655.3914497,
+  "facebook@Vijayendra-Singh": 1792425655.3914497,
   "youtube": 1792423884.2437162
  },
- "n": 27
+ "n": 28
 }
