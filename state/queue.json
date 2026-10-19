@@ -1904,9 +1904,86 @@
    "product_url": "https://www.vinzapstore.in/products/wooden-mouse-rat-traps-1-pc",
    "file": "bfa6f204.jpg",
    "thumb": "bfa6f204.jpg"
+  },
+  {
+   "id": "b3f88e44",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Apex Power-X Hand-Pull Vegetable Chopper",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "500ML Capacity: Perfect",
+     "Triple Stainless Steel Blades:",
+     "Patented Pull-Cord Mechanism:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Apex Power-X Hand-Pull Vegetable Chopper | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Power-X Hand-Pull Vegetable Chopper"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nApex Power-X Hand-Pull Vegetable Chopper\n✔ 500ML Capacity: Perfect\n✔ Triple Stainless Steel Blades:\n✔ Patented Pull-Cord Mechanism:\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Apex Power-X Hand-Pull Vegetable Chopper | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792427479.247098,
+     "id": "17907589224573498",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792427479.247098,
+     "id": "2170569050222276",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792427479.247098,
+     "id": "1636191911567747",
+     "dry": false
+    }
+   },
+   "created": 1792427447.374531,
+   "after": 0,
+   "handle": "apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
+   "product_url": "https://www.vinzapstore.in/products/apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
+   "file": "b3f88e44.mp4",
+   "thumb": "b3f88e44_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17980330023136947"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1663344025298924"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1486996650018354"
+    }
+   }
   }
  ],
- "last_post": 1792425655.3914497,
+ "last_post": 1792427479.247098,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -2057,13 +2134,20 @@
   "21:30:55 READY bfa6f204 Wooden Mouse Rat Trap (auto-approved)",
   "21:31:08 POSTED instagram@Vinzap-Finds bfa6f204: 17982869904106887",
   "21:31:13 POSTED facebook@Vinzap-Finds bfa6f204: 1428352113685678_122110043853501659",
-  "21:31:17 POSTED facebook@Vijayendra-Singh bfa6f204: 1317760538089559_122120811555480728"
+  "21:31:17 POSTED facebook@Vijayendra-Singh bfa6f204: 1317760538089559_122120811555480728",
+  "22:01:19 READY b3f88e44 Apex Power-X Hand-Pull Vegetable Chopper | Cooking (auto-approved)",
+  "22:01:54 POSTED instagram@Vinzap-Finds b3f88e44: 17907589224573498",
+  "22:01:57 POSTED facebook@Vinzap-Finds b3f88e44: 2170569050222276",
+  "22:02:01 POSTED facebook@Vijayendra-Singh b3f88e44: 1636191911567747",
+  "22:02:33 STORY POSTED instagram@Vinzap-Finds b3f88e44",
+  "22:02:41 STORY POSTED facebook@Vinzap-Finds b3f88e44",
+  "22:02:47 STORY POSTED facebook@Vijayendra-Singh b3f88e44"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792425655.3914497,
-  "facebook@Vinzap-Finds": 1792425655.3914497,
-  "facebook@Vijayendra-Singh": 1792425655.3914497,
+  "instagram@Vinzap-Finds": 1792427479.247098,
+  "facebook@Vinzap-Finds": 1792427479.247098,
+  "facebook@Vijayendra-Singh": 1792427479.247098,
   "youtube": 1792423884.2437162
  },
- "n": 28
+ "n": 29
 }
