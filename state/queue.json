@@ -774,9 +774,86 @@
    "product_url": "https://www.vinzapstore.in/products/0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
    "file": "d3e06fdc.jpg",
    "thumb": "d3e06fdc.jpg"
+  },
+  {
+   "id": "2229c0d8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Bagasse Clamshell Food Box 9x6 Inch",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "Premium bagasse clamshell food",
+     "Pack of 10 pieces for restaurant",
+     "9x6 inch size ideal for lunch"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Bagasse Clamshell Food Box 9x6 Inch | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Bagasse Clamshell Food Box 9x6 Inch"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nBagasse Clamshell Food Box 9x6 Inch\n✔ Premium bagasse clamshell food\n✔ Pack of 10 pieces for restaurant\n✔ 9x6 inch size ideal for lunch\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Bagasse Clamshell Food Box 9x6 Inch | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792398686.8452778,
+     "id": "18092224004488063",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792398686.8452778,
+     "id": "1685013866667908",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792398686.8452778,
+     "id": "1422512449356512",
+     "dry": false
+    }
+   },
+   "created": 1792398661.5028236,
+   "after": 0,
+   "handle": "vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
+   "product_url": "https://www.vinzapstore.in/products/vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
+   "file": "2229c0d8.mp4",
+   "thumb": "2229c0d8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18118216433044161"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1658186902595338"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "28696496399959687"
+    }
+   }
   }
  ],
- "last_post": 1792396861.4903712,
+ "last_post": 1792398686.8452778,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -836,13 +913,20 @@
   "13:31:01 READY d3e06fdc Pav Bhaji Masher (auto-approved)",
   "13:31:17 POSTED instagram@Vinzap-Finds d3e06fdc: 18115955969331856",
   "13:31:20 POSTED facebook@Vinzap-Finds d3e06fdc: 1428352113685678_122109859893501659",
-  "13:31:24 POSTED facebook@Vijayendra-Singh d3e06fdc: 1317760538089559_122120689137480728"
+  "13:31:24 POSTED facebook@Vijayendra-Singh d3e06fdc: 1317760538089559_122120689137480728",
+  "14:01:26 READY 2229c0d8 Bagasse Clamshell Food Box 9x6 Inch | Trending Shorts (auto-approved)",
+  "14:02:05 POSTED instagram@Vinzap-Finds 2229c0d8: 18092224004488063",
+  "14:02:08 POSTED facebook@Vinzap-Finds 2229c0d8: 1685013866667908",
+  "14:02:11 POSTED facebook@Vijayendra-Singh 2229c0d8: 1422512449356512",
+  "14:02:43 STORY POSTED instagram@Vinzap-Finds 2229c0d8",
+  "14:02:54 STORY POSTED facebook@Vinzap-Finds 2229c0d8",
+  "14:03:03 STORY POSTED facebook@Vijayendra-Singh 2229c0d8"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792396861.4903712,
-  "facebook@Vinzap-Finds": 1792396861.4903712,
-  "facebook@Vijayendra-Singh": 1792396861.4903712,
+  "instagram@Vinzap-Finds": 1792398686.8452778,
+  "facebook@Vinzap-Finds": 1792398686.8452778,
+  "facebook@Vijayendra-Singh": 1792398686.8452778,
   "youtube": 1792391479.013926
  },
- "n": 12
+ "n": 13
 }
