@@ -1558,9 +1558,71 @@
      "id": "1126791090329056"
     }
    }
+  },
+  {
+   "id": "db1d6863",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Apex Flexi Stainless Steel Lunch Box",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 979,
+    "was": 0,
+    "feats": [
+     "Wide rectangular container takes",
+     "Round bowl is sized right",
+     "Flexible sealing lids press tight"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Apex Flexi Stainless Steel Lunch Box | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Flexi Stainless Steel Lunch Box"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nApex Flexi Stainless Steel Lunch Box\n✔ Wide rectangular container takes\n✔ Round bowl is sized right\n✔ Flexible sealing lids press tight\n\nOnly ₹979. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
+   "title": "Apex Flexi Stainless Steel Lunch Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792418469.1141064,
+     "id": "17934902838404902",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792418469.1141064,
+     "id": "1428352113685678_122109995157501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792418469.1141064,
+     "id": "1317760538089559_122120773689480728",
+     "dry": false
+    }
+   },
+   "created": 1792418467.0190277,
+   "after": 0,
+   "handle": "apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
+   "file": "db1d6863.jpg",
+   "thumb": "db1d6863.jpg"
   }
  ],
- "last_post": 1792416668.967118,
+ "last_post": 1792418469.1141064,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1684,13 +1746,17 @@
   "19:01:57 POSTED facebook@Vijayendra-Singh c3edc246: 1090658657069079",
   "19:02:30 STORY POSTED instagram@Vinzap-Finds c3edc246",
   "19:02:39 STORY POSTED facebook@Vinzap-Finds c3edc246",
-  "19:02:46 STORY POSTED facebook@Vijayendra-Singh c3edc246"
+  "19:02:46 STORY POSTED facebook@Vijayendra-Singh c3edc246",
+  "19:31:09 READY db1d6863 Apex Flexi Stainless Steel Lunch Box (auto-approved)",
+  "19:31:20 POSTED instagram@Vinzap-Finds db1d6863: 17934902838404902",
+  "19:31:24 POSTED facebook@Vinzap-Finds db1d6863: 1428352113685678_122109995157501659",
+  "19:31:28 POSTED facebook@Vijayendra-Singh db1d6863: 1317760538089559_122120773689480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792416668.967118,
-  "facebook@Vinzap-Finds": 1792416668.967118,
-  "facebook@Vijayendra-Singh": 1792416668.967118,
+  "instagram@Vinzap-Finds": 1792418469.1141064,
+  "facebook@Vinzap-Finds": 1792418469.1141064,
+  "facebook@Vijayendra-Singh": 1792418469.1141064,
   "youtube": 1792413094.791144
  },
- "n": 23
+ "n": 24
 }
