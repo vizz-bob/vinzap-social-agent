@@ -575,9 +575,71 @@
      "id": "1145618781749223"
     }
    }
+  },
+  {
+   "id": "3f8c580f",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Unbreakable Plastic Serving Bowl Set of 6",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Set of 6 plastic serving bowls",
+     "Glossy finish with an attractive",
+     "Lightweight yet strong"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Unbreakable Plastic Serving Bowl Set of 6 | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Unbreakable Plastic Serving Bowl Set of 6"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nUnbreakable Plastic Serving Bowl Set of 6\n✔ Set of 6 plastic serving bowls\n✔ Glossy finish with an attractive\n✔ Lightweight yet strong\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Unbreakable Plastic Serving Bowl Set of 6",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792393270.661725,
+     "id": "18026525849875226",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792393270.661725,
+     "id": "1428352113685678_122109841419501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792393270.661725,
+     "id": "1317760538089559_122120678451480728",
+     "dry": false
+    }
+   },
+   "created": 1792393268.1563437,
+   "after": 0,
+   "handle": "plastic-serving-bowl-set-multicolour-unbreakable-kitchen-bowls-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-serving-bowl-set-multicolour-unbreakable-kitchen-bowls-6-pc-set",
+   "file": "3f8c580f.jpg",
+   "thumb": "3f8c580f.jpg"
   }
  ],
- "last_post": 1792391479.013926,
+ "last_post": 1792393270.661725,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -622,13 +684,17 @@
   "12:02:07 POSTED youtube 303aca1f: lryMmMSmAGk",
   "12:02:42 STORY POSTED instagram@Vinzap-Finds 303aca1f",
   "12:02:50 STORY POSTED facebook@Vinzap-Finds 303aca1f",
-  "12:02:56 STORY POSTED facebook@Vijayendra-Singh 303aca1f"
+  "12:02:56 STORY POSTED facebook@Vijayendra-Singh 303aca1f",
+  "12:31:10 READY 3f8c580f Unbreakable Plastic Serving Bowl Set of 6 (auto-approved)",
+  "12:31:26 POSTED instagram@Vinzap-Finds 3f8c580f: 18026525849875226",
+  "12:31:30 POSTED facebook@Vinzap-Finds 3f8c580f: 1428352113685678_122109841419501659",
+  "12:31:34 POSTED facebook@Vijayendra-Singh 3f8c580f: 1317760538089559_122120678451480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792391479.013926,
-  "facebook@Vinzap-Finds": 1792391479.013926,
-  "facebook@Vijayendra-Singh": 1792391479.013926,
+  "instagram@Vinzap-Finds": 1792393270.661725,
+  "facebook@Vinzap-Finds": 1792393270.661725,
+  "facebook@Vijayendra-Singh": 1792393270.661725,
   "youtube": 1792391479.013926
  },
- "n": 9
+ "n": 10
 }
