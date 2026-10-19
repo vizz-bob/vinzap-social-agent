@@ -1620,9 +1620,86 @@
    "product_url": "https://www.vinzapstore.in/products/apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
    "file": "db1d6863.jpg",
    "thumb": "db1d6863.jpg"
+  },
+  {
+   "id": "7b624319",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Silicone Ice Cube Tray 24 Cavity Multicolour",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 291,
+    "was": 0,
+    "feats": [
+     "The trays are made of lightweight",
+     "Easy to use",
+     "Convenient storage"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Tray 24 Cavity Multicolour"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nSilicone Ice Cube Tray 24 Cavity Multicolour\n✔ The trays are made of lightweight\n✔ Easy to use\n✔ Convenient storage\n\nOnly ₹291. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792420273.5637321,
+     "id": "18121076894051576",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792420273.5637321,
+     "id": "1466016552289424",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792420273.5637321,
+     "id": "1465111652177075",
+     "dry": false
+    }
+   },
+   "created": 1792420246.034504,
+   "after": 0,
+   "handle": "1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "product_url": "https://www.vinzapstore.in/products/1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "file": "7b624319.mp4",
+   "thumb": "7b624319_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18111802298228808"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1051728534559779"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1750786299327616"
+    }
+   }
   }
  ],
- "last_post": 1792418469.1141064,
+ "last_post": 1792420273.5637321,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1750,13 +1827,20 @@
   "19:31:09 READY db1d6863 Apex Flexi Stainless Steel Lunch Box (auto-approved)",
   "19:31:20 POSTED instagram@Vinzap-Finds db1d6863: 17934902838404902",
   "19:31:24 POSTED facebook@Vinzap-Finds db1d6863: 1428352113685678_122109995157501659",
-  "19:31:28 POSTED facebook@Vijayendra-Singh db1d6863: 1317760538089559_122120773689480728"
+  "19:31:28 POSTED facebook@Vijayendra-Singh db1d6863: 1317760538089559_122120773689480728",
+  "20:01:13 READY 7b624319 Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets (auto-approved)",
+  "20:01:51 POSTED instagram@Vinzap-Finds 7b624319: 18121076894051576",
+  "20:01:54 POSTED facebook@Vinzap-Finds 7b624319: 1466016552289424",
+  "20:01:58 POSTED facebook@Vijayendra-Singh 7b624319: 1465111652177075",
+  "20:02:29 STORY POSTED instagram@Vinzap-Finds 7b624319",
+  "20:02:37 STORY POSTED facebook@Vinzap-Finds 7b624319",
+  "20:02:43 STORY POSTED facebook@Vijayendra-Singh 7b624319"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792418469.1141064,
-  "facebook@Vinzap-Finds": 1792418469.1141064,
-  "facebook@Vijayendra-Singh": 1792418469.1141064,
+  "instagram@Vinzap-Finds": 1792420273.5637321,
+  "facebook@Vinzap-Finds": 1792420273.5637321,
+  "facebook@Vijayendra-Singh": 1792420273.5637321,
   "youtube": 1792413094.791144
  },
- "n": 24
+ "n": 25
 }
