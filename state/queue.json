@@ -1481,9 +1481,86 @@
    "product_url": "https://www.vinzapstore.in/products/kitchen-prep-combo-of-3",
    "file": "8f8c5439.jpg",
    "thumb": "8f8c5439.jpg"
+  },
+  {
+   "id": "c3edc246",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Teak Wood Chopping Board",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 1169,
+    "was": 0,
+    "feats": [
+     "Made from 100% natural seasoned",
+     "Strong and durable design",
+     "Gentle on knives – prevents"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Teak Wood Chopping Board | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Teak Wood Chopping Board"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nTeak Wood Chopping Board\n✔ Made from 100% natural seasoned\n✔ Strong and durable design\n✔ Gentle on knives – prevents\n\nOnly ₹1169. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Teak Wood Chopping Board | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792416668.967118,
+     "id": "18145480570542344",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792416668.967118,
+     "id": "2467727443637051",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792416668.967118,
+     "id": "1090658657069079",
+     "dry": false
+    }
+   },
+   "created": 1792416650.4950645,
+   "after": 0,
+   "handle": "supermom-premium-teak-wood-chopping-board-for-kitchen-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-teak-wood-chopping-board-for-kitchen-1-pc",
+   "file": "c3edc246.mp4",
+   "thumb": "c3edc246_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18148371982560235"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1919397129034726"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1126791090329056"
+    }
+   }
   }
  ],
- "last_post": 1792414865.2888527,
+ "last_post": 1792416668.967118,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1600,13 +1677,20 @@
   "18:31:05 READY 8f8c5439 Kitchen Prep Combo of 3 (auto-approved)",
   "18:31:16 POSTED instagram@Vinzap-Finds 8f8c5439: 18117760564804360",
   "18:31:19 POSTED facebook@Vinzap-Finds 8f8c5439: 1428352113685678_122109966129501659",
-  "18:31:22 POSTED facebook@Vijayendra-Singh 8f8c5439: 1317760538089559_122120758191480728"
+  "18:31:22 POSTED facebook@Vijayendra-Singh 8f8c5439: 1317760538089559_122120758191480728",
+  "19:01:08 READY c3edc246 Teak Wood Chopping Board | Cooking (auto-approved)",
+  "19:01:48 POSTED instagram@Vinzap-Finds c3edc246: 18145480570542344",
+  "19:01:53 POSTED facebook@Vinzap-Finds c3edc246: 2467727443637051",
+  "19:01:57 POSTED facebook@Vijayendra-Singh c3edc246: 1090658657069079",
+  "19:02:30 STORY POSTED instagram@Vinzap-Finds c3edc246",
+  "19:02:39 STORY POSTED facebook@Vinzap-Finds c3edc246",
+  "19:02:46 STORY POSTED facebook@Vijayendra-Singh c3edc246"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792414865.2888527,
-  "facebook@Vinzap-Finds": 1792414865.2888527,
-  "facebook@Vijayendra-Singh": 1792414865.2888527,
+  "instagram@Vinzap-Finds": 1792416668.967118,
+  "facebook@Vinzap-Finds": 1792416668.967118,
+  "facebook@Vijayendra-Singh": 1792416668.967118,
   "youtube": 1792413094.791144
  },
- "n": 22
+ "n": 23
 }
