@@ -714,9 +714,69 @@
      "id": "1927364498437286"
     }
    }
+  },
+  {
+   "id": "d3e06fdc",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Pav Bhaji Masher",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 109,
+    "was": 0,
+    "feats": [
+     "0064A Paubhaji Masher used in all"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Pav Bhaji Masher | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Pav Bhaji Masher"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nPav Bhaji Masher\n✔ 0064A Paubhaji Masher used in all\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Pav Bhaji Masher",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792396861.4903712,
+     "id": "18115955969331856",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792396861.4903712,
+     "id": "1428352113685678_122109859893501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792396861.4903712,
+     "id": "1317760538089559_122120689137480728",
+     "dry": false
+    }
+   },
+   "created": 1792396858.7569954,
+   "after": 0,
+   "handle": "0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
+   "product_url": "https://www.vinzapstore.in/products/0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
+   "file": "d3e06fdc.jpg",
+   "thumb": "d3e06fdc.jpg"
   }
  ],
- "last_post": 1792395083.1506371,
+ "last_post": 1792396861.4903712,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -772,13 +832,17 @@
   "13:02:11 POSTED facebook@Vijayendra-Singh 80e0f5cc: 2129483155114433",
   "13:02:43 STORY POSTED instagram@Vinzap-Finds 80e0f5cc",
   "13:02:51 STORY POSTED facebook@Vinzap-Finds 80e0f5cc",
-  "13:02:59 STORY POSTED facebook@Vijayendra-Singh 80e0f5cc"
+  "13:02:59 STORY POSTED facebook@Vijayendra-Singh 80e0f5cc",
+  "13:31:01 READY d3e06fdc Pav Bhaji Masher (auto-approved)",
+  "13:31:17 POSTED instagram@Vinzap-Finds d3e06fdc: 18115955969331856",
+  "13:31:20 POSTED facebook@Vinzap-Finds d3e06fdc: 1428352113685678_122109859893501659",
+  "13:31:24 POSTED facebook@Vijayendra-Singh d3e06fdc: 1317760538089559_122120689137480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792395083.1506371,
-  "facebook@Vinzap-Finds": 1792395083.1506371,
-  "facebook@Vijayendra-Singh": 1792395083.1506371,
+  "instagram@Vinzap-Finds": 1792396861.4903712,
+  "facebook@Vinzap-Finds": 1792396861.4903712,
+  "facebook@Vijayendra-Singh": 1792396861.4903712,
   "youtube": 1792391479.013926
  },
- "n": 11
+ "n": 12
 }
