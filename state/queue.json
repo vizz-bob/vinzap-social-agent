@@ -1697,9 +1697,71 @@
      "id": "1750786299327616"
     }
    }
+  },
+  {
+   "id": "9ed1777b",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Stainless Steel 2-in-1 Cutting and Chopping",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 1699,
+    "was": 0,
+    "feats": [
+     "2 in 1 design works as both",
+     "Built-in razor-sharp stainless",
+     "Durable stainless steel surface"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel 2-in-1 Cutting and Chopping | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel 2-in-1 Cutting and Chopping"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nStainless Steel 2-in-1 Cutting and Chopping\n✔ 2 in 1 design works as both\n✔ Built-in razor-sharp stainless\n✔ Durable stainless steel surface\n\nOnly ₹1699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Stainless Steel 2-in-1 Cutting and Chopping",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792422059.012259,
+     "id": "18117309896100588",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792422059.012259,
+     "id": "1428352113685678_122110019523501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792422059.012259,
+     "id": "1317760538089559_122120795181480728",
+     "dry": false
+    }
+   },
+   "created": 1792422056.871245,
+   "after": 0,
+   "handle": "stainless-steel-2-in-1-cutting-and-chopping-board-with-knife-for-kitchen-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-2-in-1-cutting-and-chopping-board-with-knife-for-kitchen-1-pc",
+   "file": "9ed1777b.jpg",
+   "thumb": "9ed1777b.jpg"
   }
  ],
- "last_post": 1792420273.5637321,
+ "last_post": 1792422059.012259,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1834,13 +1896,17 @@
   "20:01:58 POSTED facebook@Vijayendra-Singh 7b624319: 1465111652177075",
   "20:02:29 STORY POSTED instagram@Vinzap-Finds 7b624319",
   "20:02:37 STORY POSTED facebook@Vinzap-Finds 7b624319",
-  "20:02:43 STORY POSTED facebook@Vijayendra-Singh 7b624319"
+  "20:02:43 STORY POSTED facebook@Vijayendra-Singh 7b624319",
+  "20:30:59 READY 9ed1777b Stainless Steel 2-in-1 Cutting and Chopping (auto-approved)",
+  "20:31:08 POSTED instagram@Vinzap-Finds 9ed1777b: 18117309896100588",
+  "20:31:12 POSTED facebook@Vinzap-Finds 9ed1777b: 1428352113685678_122110019523501659",
+  "20:31:16 POSTED facebook@Vijayendra-Singh 9ed1777b: 1317760538089559_122120795181480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792420273.5637321,
-  "facebook@Vinzap-Finds": 1792420273.5637321,
-  "facebook@Vijayendra-Singh": 1792420273.5637321,
-  "youtube": 1792413094.791144
+  "instagram@Vinzap-Finds": 1792422059.012259,
+  "facebook@Vinzap-Finds": 1792422059.012259,
+  "facebook@Vijayendra-Singh": 1792422059.012259,
+  "youtube": 1792412674.791144
  },
- "n": 25
+ "n": 26
 }
