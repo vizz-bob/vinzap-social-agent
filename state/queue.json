@@ -1135,9 +1135,71 @@
      "id": "2576209836139216"
     }
    }
+  },
+  {
+   "id": "1c232eff",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "1 Litre Sports Sipper Water Bottle",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Capacity: approx. 1000 ml",
+     "Flip-lock sipper cap",
+     "Carry strap for easy holding"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "1 Litre Sports Sipper Water Bottle | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "1 Litre Sports Sipper Water Bottle"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\n1 Litre Sports Sipper Water Bottle\n✔ Capacity: approx. 1000 ml\n✔ Flip-lock sipper cap\n✔ Carry strap for easy holding\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
+   "title": "1 Litre Sports Sipper Water Bottle",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792407659.784172,
+     "id": "18005633838010444",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792407659.784172,
+     "id": "1428352113685678_122109914889501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792407659.784172,
+     "id": "1317760538089559_122120728731480728",
+     "dry": false
+    }
+   },
+   "created": 1792407657.268991,
+   "after": 0,
+   "handle": "aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
+   "product_url": "https://www.vinzapstore.in/products/aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
+   "file": "1c232eff.jpg",
+   "thumb": "1c232eff.jpg"
   }
  ],
- "last_post": 1792405885.279365,
+ "last_post": 1792407659.784172,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1227,13 +1289,17 @@
   "16:02:11 POSTED facebook@Vijayendra-Singh 7a2a05dc: 2087778971845706",
   "16:02:44 STORY POSTED instagram@Vinzap-Finds 7a2a05dc",
   "16:02:52 STORY POSTED facebook@Vinzap-Finds 7a2a05dc",
-  "16:03:01 STORY POSTED facebook@Vijayendra-Singh 7a2a05dc"
+  "16:03:01 STORY POSTED facebook@Vijayendra-Singh 7a2a05dc",
+  "16:30:59 READY 1c232eff 1 Litre Sports Sipper Water Bottle (auto-approved)",
+  "16:31:17 POSTED instagram@Vinzap-Finds 1c232eff: 18005633838010444",
+  "16:31:21 POSTED facebook@Vinzap-Finds 1c232eff: 1428352113685678_122109914889501659",
+  "16:31:26 POSTED facebook@Vijayendra-Singh 1c232eff: 1317760538089559_122120728731480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792405885.279365,
-  "facebook@Vinzap-Finds": 1792405885.279365,
-  "facebook@Vijayendra-Singh": 1792405885.279365,
+  "instagram@Vinzap-Finds": 1792407659.784172,
+  "facebook@Vinzap-Finds": 1792407659.784172,
+  "facebook@Vijayendra-Singh": 1792407659.784172,
   "youtube": 1792402283.521814
  },
- "n": 17
+ "n": 18
 }
