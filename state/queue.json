@@ -1197,9 +1197,86 @@
    "product_url": "https://www.vinzapstore.in/products/aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
    "file": "1c232eff.jpg",
    "thumb": "1c232eff.jpg"
+  },
+  {
+   "id": "d529aa20",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Stainless Steel Hot Pot Gripper Clamp Pan",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Strong stainless steel gripping",
+     "Heat-resistant anti-slip handle",
+     "Multi-purpose design suitable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Hot Pot Gripper Clamp Pan"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nStainless Steel Hot Pot Gripper Clamp Pan\n✔ Strong stainless steel gripping\n✔ Heat-resistant anti-slip handle\n✔ Multi-purpose design suitable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792409478.7562327,
+     "id": "18096791771214478",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792409478.7562327,
+     "id": "2183581355921020",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792409478.7562327,
+     "id": "1060199780390552",
+     "dry": false
+    }
+   },
+   "created": 1792409447.9466937,
+   "after": 0,
+   "handle": "multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
+   "file": "d529aa20.mp4",
+   "thumb": "d529aa20_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18031575195473567"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "963892882934471"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1604063713917203"
+    }
+   }
   }
  ],
- "last_post": 1792407659.784172,
+ "last_post": 1792409478.7562327,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1293,13 +1370,20 @@
   "16:30:59 READY 1c232eff 1 Litre Sports Sipper Water Bottle (auto-approved)",
   "16:31:17 POSTED instagram@Vinzap-Finds 1c232eff: 18005633838010444",
   "16:31:21 POSTED facebook@Vinzap-Finds 1c232eff: 1428352113685678_122109914889501659",
-  "16:31:26 POSTED facebook@Vijayendra-Singh 1c232eff: 1317760538089559_122120728731480728"
+  "16:31:26 POSTED facebook@Vijayendra-Singh 1c232eff: 1317760538089559_122120728731480728",
+  "17:01:18 READY d529aa20 Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets (auto-approved)",
+  "17:01:55 POSTED instagram@Vinzap-Finds d529aa20: 18096791771214478",
+  "17:01:59 POSTED facebook@Vinzap-Finds d529aa20: 2183581355921020",
+  "17:02:04 POSTED facebook@Vijayendra-Singh d529aa20: 1060199780390552",
+  "17:02:34 STORY POSTED instagram@Vinzap-Finds d529aa20",
+  "17:02:44 STORY POSTED facebook@Vinzap-Finds d529aa20",
+  "17:02:51 STORY POSTED facebook@Vijayendra-Singh d529aa20"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792407659.784172,
-  "facebook@Vinzap-Finds": 1792407659.784172,
-  "facebook@Vijayendra-Singh": 1792407659.784172,
+  "instagram@Vinzap-Finds": 1792409478.7562327,
+  "facebook@Vinzap-Finds": 1792409478.7562327,
+  "facebook@Vijayendra-Singh": 1792409478.7562327,
   "youtube": 1792402283.521814
  },
- "n": 18
+ "n": 19
 }
