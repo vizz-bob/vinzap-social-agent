@@ -996,9 +996,71 @@
      "id": "999269139862454"
     }
    }
+  },
+  {
+   "id": "b242e928",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Professional Kitchen Knife Set",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 1509,
+    "was": 0,
+    "feats": [
+     "✅ 6-in-1 Multi-Purpose Set –",
+     "✅ Sharp Stainless Steel Blades –",
+     "✅ Non-Stick Yellow Blade Coating"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Professional Kitchen Knife Set | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Professional Kitchen Knife Set"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nProfessional Kitchen Knife Set\n✔ ✅ 6-in-1 Multi-Purpose Set –\n✔ ✅ Sharp Stainless Steel Blades –\n✔ ✅ Non-Stick Yellow Blade Coating\n\nOnly ₹1509. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Professional Kitchen Knife Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792404052.6494324,
+     "id": "18061251137802935",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792404052.6494324,
+     "id": "1428352113685678_122109896277501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792404052.6494324,
+     "id": "1317760538089559_122120715525480728",
+     "dry": false
+    }
+   },
+   "created": 1792404050.0826383,
+   "after": 0,
+   "handle": "6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
+   "product_url": "https://www.vinzapstore.in/products/6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
+   "file": "b242e928.jpg",
+   "thumb": "b242e928.jpg"
   }
  ],
- "last_post": 1792402283.521814,
+ "last_post": 1792404052.6494324,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1077,13 +1139,17 @@
   "15:02:17 POSTED youtube 371e4fa0: Gc913LBvMhM",
   "15:02:49 STORY POSTED instagram@Vinzap-Finds 371e4fa0",
   "15:02:58 STORY POSTED facebook@Vinzap-Finds 371e4fa0",
-  "15:03:07 STORY POSTED facebook@Vijayendra-Singh 371e4fa0"
+  "15:03:07 STORY POSTED facebook@Vijayendra-Singh 371e4fa0",
+  "15:30:52 READY b242e928 Professional Kitchen Knife Set (auto-approved)",
+  "15:31:09 POSTED instagram@Vinzap-Finds b242e928: 18061251137802935",
+  "15:31:12 POSTED facebook@Vinzap-Finds b242e928: 1428352113685678_122109896277501659",
+  "15:31:17 POSTED facebook@Vijayendra-Singh b242e928: 1317760538089559_122120715525480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792402283.521814,
-  "facebook@Vinzap-Finds": 1792402283.521814,
-  "facebook@Vijayendra-Singh": 1792402283.521814,
+  "instagram@Vinzap-Finds": 1792404052.6494324,
+  "facebook@Vinzap-Finds": 1792404052.6494324,
+  "facebook@Vijayendra-Singh": 1792404052.6494324,
   "youtube": 1792402283.521814
  },
- "n": 15
+ "n": 16
 }
