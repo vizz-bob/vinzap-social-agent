@@ -913,9 +913,92 @@
    "product_url": "https://www.vinzapstore.in/products/apex-cozy-coffee-mug-450-ml-with-lid-and-steel-rim-for-desk-use-1-pc",
    "file": "8ca1c575.jpg",
    "thumb": "8ca1c575.jpg"
+  },
+  {
+   "id": "371e4fa0",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Fish Scaler Scraper",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Sharp serrated scraper removes",
+     "Attached lid acts as a scale",
+     "Comfortable handle gives a firm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Fish Scaler Scraper | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fish Scaler Scraper"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nFish Scaler Scraper\n✔ Sharp serrated scraper removes\n✔ Attached lid acts as a scale\n✔ Comfortable handle gives a firm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#trendingshorts #kitchengadgets",
+   "title": "Fish Scaler Scraper | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792402283.521814,
+     "id": "18130808713748675",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792402283.521814,
+     "id": "1121030680377577",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792402283.521814,
+     "id": "1125526020023538",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792402283.521814,
+     "id": "Gc913LBvMhM",
+     "dry": false
+    }
+   },
+   "created": 1792402252.4257202,
+   "after": 0,
+   "handle": "fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
+   "file": "371e4fa0.mp4",
+   "thumb": "371e4fa0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18116471219597236"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1888788265770002"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "999269139862454"
+    }
+   }
   }
  ],
- "last_post": 1792400468.2694516,
+ "last_post": 1792402283.521814,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -986,13 +1069,21 @@
   "14:31:08 READY 8ca1c575 Apex Cozy Coffee Mug 450ml (auto-approved)",
   "14:31:19 POSTED instagram@Vinzap-Finds 8ca1c575: 18102455015457394",
   "14:31:22 POSTED facebook@Vinzap-Finds 8ca1c575: 1428352113685678_122109876819501659",
-  "14:31:26 POSTED facebook@Vijayendra-Singh 8ca1c575: 1317760538089559_122120701707480728"
+  "14:31:26 POSTED facebook@Vijayendra-Singh 8ca1c575: 1317760538089559_122120701707480728",
+  "15:01:23 READY 371e4fa0 Fish Scaler Scraper | Trending Shorts (auto-approved)",
+  "15:02:01 POSTED instagram@Vinzap-Finds 371e4fa0: 18130808713748675",
+  "15:02:07 POSTED facebook@Vinzap-Finds 371e4fa0: 1121030680377577",
+  "15:02:13 POSTED facebook@Vijayendra-Singh 371e4fa0: 1125526020023538",
+  "15:02:17 POSTED youtube 371e4fa0: Gc913LBvMhM",
+  "15:02:49 STORY POSTED instagram@Vinzap-Finds 371e4fa0",
+  "15:02:58 STORY POSTED facebook@Vinzap-Finds 371e4fa0",
+  "15:03:07 STORY POSTED facebook@Vijayendra-Singh 371e4fa0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792400468.2694516,
-  "facebook@Vinzap-Finds": 1792400468.2694516,
-  "facebook@Vijayendra-Singh": 1792400468.2694516,
-  "youtube": 1792391059.013926
+  "instagram@Vinzap-Finds": 1792402283.521814,
+  "facebook@Vinzap-Finds": 1792402283.521814,
+  "facebook@Vijayendra-Singh": 1792402283.521814,
+  "youtube": 1792402283.521814
  },
- "n": 14
+ "n": 15
 }
