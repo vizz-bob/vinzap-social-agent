@@ -492,9 +492,92 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
    "file": "9df5a69b.jpg",
    "thumb": "9df5a69b.jpg"
+  },
+  {
+   "id": "303aca1f",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Reusable Plastic Champagne Flutes Wine",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "Set of 6 reusable champagne",
+     "Made from durable",
+     "Elegant stemmed design looks"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Reusable Plastic Champagne Flutes Wine | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Plastic Champagne Flutes Wine"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nReusable Plastic Champagne Flutes Wine\n✔ Set of 6 reusable champagne\n✔ Made from durable\n✔ Elegant stemmed design looks\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Reusable Plastic Champagne Flutes Wine | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792391479.013926,
+     "id": "17962092378245769",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792391479.013926,
+     "id": "2628578180933323",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792391479.013926,
+     "id": "1132865175966937",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792391479.013926,
+     "id": "lryMmMSmAGk",
+     "dry": false
+    }
+   },
+   "created": 1792391453.8923547,
+   "after": 0,
+   "handle": "reusable-plastic-champagne-flutes-wine-glasses-set-assorted-colours-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/reusable-plastic-champagne-flutes-wine-glasses-set-assorted-colours-6-pc-set",
+   "file": "303aca1f.mp4",
+   "thumb": "303aca1f_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18107794433198219"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1113280981494627"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1145618781749223"
+    }
+   }
   }
  ],
- "last_post": 1792343746.8481627,
+ "last_post": 1792391479.013926,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -531,13 +614,21 @@
   "22:45:46 READY 9df5a69b Disposable Small Plastic Gloves (auto-approved)",
   "22:46:02 POSTED instagram@Vinzap-Finds 9df5a69b: 18112760276587579",
   "22:46:06 POSTED facebook@Vinzap-Finds 9df5a69b: 1428352113685678_122109661773501659",
-  "22:46:10 POSTED facebook@Vijayendra-Singh 9df5a69b: 1317760538089559_122120505261480728"
+  "22:46:10 POSTED facebook@Vijayendra-Singh 9df5a69b: 1317760538089559_122120505261480728",
+  "12:01:19 READY 303aca1f Reusable Plastic Champagne Flutes Wine | Trending Shorts (auto-approved)",
+  "12:01:54 POSTED instagram@Vinzap-Finds 303aca1f: 17962092378245769",
+  "12:01:58 POSTED facebook@Vinzap-Finds 303aca1f: 2628578180933323",
+  "12:02:01 POSTED facebook@Vijayendra-Singh 303aca1f: 1132865175966937",
+  "12:02:07 POSTED youtube 303aca1f: lryMmMSmAGk",
+  "12:02:42 STORY POSTED instagram@Vinzap-Finds 303aca1f",
+  "12:02:50 STORY POSTED facebook@Vinzap-Finds 303aca1f",
+  "12:02:56 STORY POSTED facebook@Vijayendra-Singh 303aca1f"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792343746.8481627,
-  "facebook@Vinzap-Finds": 1792343746.8481627,
-  "facebook@Vijayendra-Singh": 1792343746.8481627,
-  "youtube": 1792341975.9284973
+  "instagram@Vinzap-Finds": 1792391479.013926,
+  "facebook@Vinzap-Finds": 1792391479.013926,
+  "facebook@Vijayendra-Singh": 1792391479.013926,
+  "youtube": 1792391479.013926
  },
- "n": 8
+ "n": 9
 }
