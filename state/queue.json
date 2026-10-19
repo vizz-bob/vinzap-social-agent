@@ -1058,9 +1058,86 @@
    "product_url": "https://www.vinzapstore.in/products/6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
    "file": "b242e928.jpg",
    "thumb": "b242e928.jpg"
+  },
+  {
+   "id": "7a2a05dc",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "4-Tier Plastic Storage Trolley",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 5999,
+    "was": 0,
+    "feats": [
+     "4 spacious pull-out drawers",
+     "Smooth-rolling wheels to move it",
+     "Sturdy frame with a comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "4-Tier Plastic Storage Trolley | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "4-Tier Plastic Storage Trolley"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\n4-Tier Plastic Storage Trolley\n✔ 4 spacious pull-out drawers\n✔ Smooth-rolling wheels to move it\n✔ Sturdy frame with a comfortable\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchenorganization #cooking",
+   "title": "4-Tier Plastic Storage Trolley | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792405885.279365,
+     "id": "18114434321128335",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792405885.279365,
+     "id": "1298800782331633",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792405885.279365,
+     "id": "2087778971845706",
+     "dry": false
+    }
+   },
+   "created": 1792405854.0639398,
+   "after": 0,
+   "handle": "4-tier-plastic-storage-trolley-with-wheels-rolling-drawer-organizer-cart-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/4-tier-plastic-storage-trolley-with-wheels-rolling-drawer-organizer-cart-1-pc",
+   "file": "7a2a05dc.mp4",
+   "thumb": "7a2a05dc_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18152495671542684"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1818349792806021"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2576209836139216"
+    }
+   }
   }
  ],
- "last_post": 1792404052.6494324,
+ "last_post": 1792405885.279365,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1143,13 +1220,20 @@
   "15:30:52 READY b242e928 Professional Kitchen Knife Set (auto-approved)",
   "15:31:09 POSTED instagram@Vinzap-Finds b242e928: 18061251137802935",
   "15:31:12 POSTED facebook@Vinzap-Finds b242e928: 1428352113685678_122109896277501659",
-  "15:31:17 POSTED facebook@Vijayendra-Singh b242e928: 1317760538089559_122120715525480728"
+  "15:31:17 POSTED facebook@Vijayendra-Singh b242e928: 1317760538089559_122120715525480728",
+  "16:01:25 READY 7a2a05dc 4-Tier Plastic Storage Trolley | Kitchen Organization (auto-approved)",
+  "16:02:03 POSTED instagram@Vinzap-Finds 7a2a05dc: 18114434321128335",
+  "16:02:07 POSTED facebook@Vinzap-Finds 7a2a05dc: 1298800782331633",
+  "16:02:11 POSTED facebook@Vijayendra-Singh 7a2a05dc: 2087778971845706",
+  "16:02:44 STORY POSTED instagram@Vinzap-Finds 7a2a05dc",
+  "16:02:52 STORY POSTED facebook@Vinzap-Finds 7a2a05dc",
+  "16:03:01 STORY POSTED facebook@Vijayendra-Singh 7a2a05dc"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792404052.6494324,
-  "facebook@Vinzap-Finds": 1792404052.6494324,
-  "facebook@Vijayendra-Singh": 1792404052.6494324,
+  "instagram@Vinzap-Finds": 1792405885.279365,
+  "facebook@Vinzap-Finds": 1792405885.279365,
+  "facebook@Vijayendra-Singh": 1792405885.279365,
   "youtube": 1792402283.521814
  },
- "n": 16
+ "n": 17
 }
