@@ -1419,9 +1419,71 @@
      "id": "2166976417243789"
     }
    }
+  },
+  {
+   "id": "8f8c5439",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "navratri",
+    "headline": "Kitchen Prep Combo of 3",
+    "strip": "Navratri Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Small Meatball Maker and Cake",
+     "Foldable Rotating Wall Mounted",
+     "Plastic Round Puri Cutter"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Kitchen Prep Combo of 3 | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kitchen Prep Combo of 3"
+   },
+   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nKitchen Prep Combo of 3\n✔ Small Meatball Maker and Cake\n✔ Foldable Rotating Wall Mounted\n✔ Plastic Round Puri Cutter\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#homedecorideas #diwali",
+   "title": "Kitchen Prep Combo of 3",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792414865.2888527,
+     "id": "18117760564804360",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792414865.2888527,
+     "id": "1428352113685678_122109966129501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792414865.2888527,
+     "id": "1317760538089559_122120758191480728",
+     "dry": false
+    }
+   },
+   "created": 1792414862.9096696,
+   "after": 0,
+   "handle": "kitchen-prep-combo-of-3",
+   "product_url": "https://www.vinzapstore.in/products/kitchen-prep-combo-of-3",
+   "file": "8f8c5439.jpg",
+   "thumb": "8f8c5439.jpg"
   }
  ],
- "last_post": 1792413094.791144,
+ "last_post": 1792414865.2888527,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -1534,13 +1596,17 @@
   "18:02:29 POSTED youtube 9dd4119e: 5TTad5678Dg",
   "18:03:00 STORY POSTED instagram@Vinzap-Finds 9dd4119e",
   "18:03:08 STORY POSTED facebook@Vinzap-Finds 9dd4119e",
-  "18:03:16 STORY POSTED facebook@Vijayendra-Singh 9dd4119e"
+  "18:03:16 STORY POSTED facebook@Vijayendra-Singh 9dd4119e",
+  "18:31:05 READY 8f8c5439 Kitchen Prep Combo of 3 (auto-approved)",
+  "18:31:16 POSTED instagram@Vinzap-Finds 8f8c5439: 18117760564804360",
+  "18:31:19 POSTED facebook@Vinzap-Finds 8f8c5439: 1428352113685678_122109966129501659",
+  "18:31:22 POSTED facebook@Vijayendra-Singh 8f8c5439: 1317760538089559_122120758191480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792413094.791144,
-  "facebook@Vinzap-Finds": 1792413094.791144,
-  "facebook@Vijayendra-Singh": 1792413094.791144,
+  "instagram@Vinzap-Finds": 1792414865.2888527,
+  "facebook@Vinzap-Finds": 1792414865.2888527,
+  "facebook@Vijayendra-Singh": 1792414865.2888527,
   "youtube": 1792413094.791144
  },
- "n": 21
+ "n": 22
 }
