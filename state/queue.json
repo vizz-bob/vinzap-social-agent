@@ -2827,14 +2827,72 @@
      "id": "3362243400651190"
     }
    }
+  },
+  {
+   "id": "5a774963",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "dussehra",
+    "headline": "Smiley Design Plastic Soap Case",
+    "strip": "Dussehra Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Cute smiley design adds",
+     "Flip lid cover protects soap from",
+     "Built-in drainage holes help soap"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Smiley Design Plastic Soap Case | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Smiley Design Plastic Soap Case"
+   },
+   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nSmiley Design Plastic Soap Case\n✔ Cute smiley design adds\n✔ Flip lid cover protects soap from\n✔ Built-in drainage holes help soap\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#diwali #trendingshorts",
+   "title": "Smiley Design Plastic Soap Case",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792497666.5121312,
+     "id": "18201498019376294",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792497666.5121312,
+     "id": "1428352113685678_122110339755501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792497666.5121312,
+     "id": "1317760538089559_122121082863480728",
+     "dry": false
+    }
+   },
+   "created": 1792497664.2290697,
+   "after": 0,
+   "handle": "cute-smiley-design-plastic-soap-case-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/cute-smiley-design-plastic-soap-case-1-pc",
+   "file": "5a774963.jpg",
+   "thumb": "5a774963.jpg"
   }
  ],
- "last_post": 1792495869.515522,
+ "last_post": 1792497666.5121312,
  "log": [
-  "21:46:02 POSTED facebook@Vinzap-Finds a9ce49c2: 1428352113685678_122109644745501659",
-  "21:46:06 POSTED facebook@Vijayendra-Singh a9ce49c2: 1317760538089559_122120490249480728",
-  "22:16:15 READY e4e4ed73 Heart Shape Ice Cube Tray | Home Decor Ideas (auto-approved)",
-  "22:16:56 POSTED instagram@Vinzap-Finds e4e4ed73: 17901763959607486",
   "22:17:00 POSTED facebook@Vinzap-Finds e4e4ed73: 4390883294575379",
   "22:17:04 POSTED facebook@Vijayendra-Singh e4e4ed73: 2383147559091436",
   "22:17:06 POSTED youtube e4e4ed73: dsaTXPlanrw",
@@ -3030,13 +3088,17 @@
   "17:01:52 POSTED facebook@Vijayendra-Singh 90086db0: 2283011182241944",
   "17:02:25 STORY POSTED instagram@Vinzap-Finds 90086db0",
   "17:02:33 STORY POSTED facebook@Vinzap-Finds 90086db0",
-  "17:02:42 STORY POSTED facebook@Vijayendra-Singh 90086db0"
+  "17:02:42 STORY POSTED facebook@Vijayendra-Singh 90086db0",
+  "17:31:06 READY 5a774963 Smiley Design Plastic Soap Case (auto-approved)",
+  "17:31:18 POSTED instagram@Vinzap-Finds 5a774963: 18201498019376294",
+  "17:31:22 POSTED facebook@Vinzap-Finds 5a774963: 1428352113685678_122110339755501659",
+  "17:31:25 POSTED facebook@Vijayendra-Singh 5a774963: 1317760538089559_122121082863480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792495869.515522,
-  "facebook@Vinzap-Finds": 1792495869.515522,
-  "facebook@Vijayendra-Singh": 1792495869.515522,
-  "youtube": 1792488688.5086439
+  "instagram@Vinzap-Finds": 1792497666.5121312,
+  "facebook@Vinzap-Finds": 1792497666.5121312,
+  "facebook@Vijayendra-Singh": 1792497666.5121312,
+  "youtube": 1792488268.5086439
  },
- "n": 41
+ "n": 42
 }
