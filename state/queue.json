@@ -3111,14 +3111,72 @@
      "id": "1495322279324526"
     }
    }
+  },
+  {
+   "id": "8b1b7552",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "dussehra",
+    "headline": "Disposable Plastic Forks",
+    "strip": "Dussehra Special  |  Home & Kitchen",
+    "price": 89,
+    "was": 0,
+    "feats": [
+     "Bold Design: Bright",
+     "Strong Build: Durable plastic",
+     "Versatile Use: Great for pasta"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Disposable Plastic Forks | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Plastic Forks"
+   },
+   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nDisposable Plastic Forks\n✔ Bold Design: Bright\n✔ Strong Build: Durable plastic\n✔ Versatile Use: Great for pasta\n\nOnly ₹89. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Disposable Plastic Forks",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792504860.6527066,
+     "id": "18132973201749659",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792504860.6527066,
+     "id": "1428352113685678_122110376307501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792504860.6527066,
+     "id": "1317760538089559_122121130959480728",
+     "dry": false
+    }
+   },
+   "created": 1792504857.9691179,
+   "after": 0,
+   "handle": "premium-disposable-plastic-forks-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/premium-disposable-plastic-forks-1-pc",
+   "file": "8b1b7552.jpg",
+   "thumb": "8b1b7552.jpg"
   }
  ],
- "last_post": 1792503115.6319287,
+ "last_post": 1792504860.6527066,
  "log": [
-  "13:01:23 READY 80e0f5cc 3 Layer Wall Mounted Food Organizer Rack | Home Decor (auto-approved)",
-  "13:02:01 POSTED instagram@Vinzap-Finds 80e0f5cc: 18134755108663495",
-  "13:02:07 POSTED facebook@Vinzap-Finds 80e0f5cc: 1407349334722481",
-  "13:02:11 POSTED facebook@Vijayendra-Singh 80e0f5cc: 2129483155114433",
   "13:02:43 STORY POSTED instagram@Vinzap-Finds 80e0f5cc",
   "13:02:51 STORY POSTED facebook@Vinzap-Finds 80e0f5cc",
   "13:02:59 STORY POSTED facebook@Vijayendra-Singh 80e0f5cc",
@@ -3314,13 +3372,17 @@
   "19:02:43 POSTED facebook@Vijayendra-Singh f44c2027: 29173168802280845",
   "19:03:15 STORY POSTED instagram@Vinzap-Finds f44c2027",
   "19:03:24 STORY POSTED facebook@Vinzap-Finds f44c2027",
-  "19:03:33 STORY POSTED facebook@Vijayendra-Singh f44c2027"
+  "19:03:33 STORY POSTED facebook@Vijayendra-Singh f44c2027",
+  "19:31:00 READY 8b1b7552 Disposable Plastic Forks (auto-approved)",
+  "19:31:14 POSTED instagram@Vinzap-Finds 8b1b7552: 18132973201749659",
+  "19:31:18 POSTED facebook@Vinzap-Finds 8b1b7552: 1428352113685678_122110376307501659",
+  "19:31:21 POSTED facebook@Vijayendra-Singh 8b1b7552: 1317760538089559_122121130959480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792503115.6319287,
-  "facebook@Vinzap-Finds": 1792503115.6319287,
-  "facebook@Vijayendra-Singh": 1792503115.6319287,
+  "instagram@Vinzap-Finds": 1792504860.6527066,
+  "facebook@Vinzap-Finds": 1792504860.6527066,
+  "facebook@Vijayendra-Singh": 1792504860.6527066,
   "youtube": 1792499494.088243
  },
- "n": 45
+ "n": 46
 }
