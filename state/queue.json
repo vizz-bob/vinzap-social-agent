@@ -2126,9 +2126,71 @@
      "id": "1580290036759465"
     }
    }
+  },
+  {
+   "id": "38838cca",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "dussehra",
+    "headline": "Apex Quba Push Chopper 1000ml",
+    "strip": "Dussehra Special  |  Home & Kitchen",
+    "price": 639,
+    "was": 0,
+    "feats": [
+     "1000ML Large Capacity: Ideal",
+     "Push-Down Operation: Smooth",
+     "420 Stainless Steel Blades:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Apex Quba Push Chopper 1000ml | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Quba Push Chopper 1000ml"
+   },
+   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nApex Quba Push Chopper 1000ml\n✔ 1000ML Large Capacity: Ideal\n✔ Push-Down Operation: Smooth\n✔ 420 Stainless Steel Blades:\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Apex Quba Push Chopper 1000ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792479665.5556576,
+     "id": "18178386274379788",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792479665.5556576,
+     "id": "1428352113685678_122110254879501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792479665.5556576,
+     "id": "1317760538089559_122121010977480728",
+     "dry": false
+    }
+   },
+   "created": 1792479662.8202782,
+   "after": 0,
+   "handle": "apex-quba-push-chopper-with-stainless-steel-blades-1000ml",
+   "product_url": "https://www.vinzapstore.in/products/apex-quba-push-chopper-with-stainless-steel-blades-1000ml",
+   "file": "38838cca.jpg",
+   "thumb": "38838cca.jpg"
   }
  ],
- "last_post": 1792477882.321322,
+ "last_post": 1792479665.5556576,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -2298,13 +2360,17 @@
   "12:02:16 POSTED youtube 105ae1ac: CLTL_l4-2es",
   "12:02:50 STORY POSTED instagram@Vinzap-Finds 105ae1ac",
   "12:02:59 STORY POSTED facebook@Vinzap-Finds 105ae1ac",
-  "12:03:08 STORY POSTED facebook@Vijayendra-Singh 105ae1ac"
+  "12:03:08 STORY POSTED facebook@Vijayendra-Singh 105ae1ac",
+  "12:31:05 READY 38838cca Apex Quba Push Chopper 1000ml (auto-approved)",
+  "12:31:16 POSTED instagram@Vinzap-Finds 38838cca: 18178386274379788",
+  "12:31:20 POSTED facebook@Vinzap-Finds 38838cca: 1428352113685678_122110254879501659",
+  "12:31:24 POSTED facebook@Vijayendra-Singh 38838cca: 1317760538089559_122121010977480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792477882.321322,
-  "facebook@Vinzap-Finds": 1792477882.321322,
-  "facebook@Vijayendra-Singh": 1792477882.321322,
+  "instagram@Vinzap-Finds": 1792479665.5556576,
+  "facebook@Vinzap-Finds": 1792479665.5556576,
+  "facebook@Vijayendra-Singh": 1792479665.5556576,
   "youtube": 1792477882.321322
  },
- "n": 31
+ "n": 32
 }
