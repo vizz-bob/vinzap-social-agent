@@ -2404,9 +2404,71 @@
      "id": "1439548828280540"
     }
    }
+  },
+  {
+   "id": "a9286b7f",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "dussehra",
+    "headline": "Plastic Sports Water Bottle 1000ml",
+    "strip": "Dussehra Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "1000 ML large capacity for daily",
+     "Flip-top lid for easy and quick",
+     "Leakproof design to prevent"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Plastic Sports Water Bottle 1000ml | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Sports Water Bottle 1000ml"
+   },
+   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nPlastic Sports Water Bottle 1000ml\n✔ 1000 ML large capacity for daily\n✔ Flip-top lid for easy and quick\n✔ Leakproof design to prevent\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
+   "title": "Plastic Sports Water Bottle 1000ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792486868.4967945,
+     "id": "18109699967236062",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792486868.4967945,
+     "id": "1428352113685678_122110284051501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792486868.4967945,
+     "id": "1317760538089559_122121036189480728",
+     "dry": false
+    }
+   },
+   "created": 1792486866.5461643,
+   "after": 0,
+   "handle": "plastic-1000-ml-approx-sports-water-bottle-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/plastic-1000-ml-approx-sports-water-bottle-1-pc",
+   "file": "a9286b7f.jpg",
+   "thumb": "a9286b7f.jpg"
   }
  ],
- "last_post": 1792485074.7812011,
+ "last_post": 1792486868.4967945,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -2598,13 +2660,17 @@
   "14:01:56 POSTED facebook@Vijayendra-Singh b3e61fca: 2275595163014774",
   "14:02:27 STORY POSTED instagram@Vinzap-Finds b3e61fca",
   "14:02:36 STORY POSTED facebook@Vinzap-Finds b3e61fca",
-  "14:02:44 STORY POSTED facebook@Vijayendra-Singh b3e61fca"
+  "14:02:44 STORY POSTED facebook@Vijayendra-Singh b3e61fca",
+  "14:31:08 READY a9286b7f Plastic Sports Water Bottle 1000ml (auto-approved)",
+  "14:31:21 POSTED instagram@Vinzap-Finds a9286b7f: 18109699967236062",
+  "14:31:25 POSTED facebook@Vinzap-Finds a9286b7f: 1428352113685678_122110284051501659",
+  "14:31:28 POSTED facebook@Vijayendra-Singh a9286b7f: 1317760538089559_122121036189480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792485074.7812011,
-  "facebook@Vinzap-Finds": 1792485074.7812011,
-  "facebook@Vijayendra-Singh": 1792485074.7812011,
-  "youtube": 1792477882.321322
+  "instagram@Vinzap-Finds": 1792486868.4967945,
+  "facebook@Vinzap-Finds": 1792486868.4967945,
+  "facebook@Vijayendra-Singh": 1792486868.4967945,
+  "youtube": 1792477462.321322
  },
- "n": 35
+ "n": 36
 }
