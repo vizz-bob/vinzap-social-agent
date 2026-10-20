@@ -3534,14 +3534,72 @@
      "id": "1678841620260155"
     }
    }
+  },
+  {
+   "id": "6fbdd043",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "dussehra",
+    "headline": "Plastic Lunch Box",
+    "strip": "Dussehra Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Dual compartment design",
+     "Secure locking lid to help",
+     "Matching water bottle with easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Plastic Lunch Box | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Lunch Box"
+   },
+   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nPlastic Lunch Box\n✔ Dual compartment design\n✔ Secure locking lid to help\n✔ Matching water bottle with easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #bottle #homeessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
+   "title": "Plastic Lunch Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792516554.5149727,
+     "id": "18131503111839978",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792516554.5149727,
+     "id": "1428352113685678_122110431969501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792516554.5149727,
+     "id": "1317760538089559_122121172311480728",
+     "dry": false
+    }
+   },
+   "created": 1792516552.0170584,
+   "after": 0,
+   "handle": "plastic-lunch-box-with-water-bottle-combo-set-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-lunch-box-with-water-bottle-combo-set-1-set",
+   "file": "6fbdd043.jpg",
+   "thumb": "6fbdd043.jpg"
   }
  ],
- "last_post": 1792514772.1247485,
+ "last_post": 1792516554.5149727,
  "log": [
-  "16:01:25 READY 7a2a05dc 4-Tier Plastic Storage Trolley | Kitchen Organization (auto-approved)",
-  "16:02:03 POSTED instagram@Vinzap-Finds 7a2a05dc: 18114434321128335",
-  "16:02:07 POSTED facebook@Vinzap-Finds 7a2a05dc: 1298800782331633",
-  "16:02:11 POSTED facebook@Vijayendra-Singh 7a2a05dc: 2087778971845706",
   "16:02:44 STORY POSTED instagram@Vinzap-Finds 7a2a05dc",
   "16:02:52 STORY POSTED facebook@Vinzap-Finds 7a2a05dc",
   "16:03:01 STORY POSTED facebook@Vijayendra-Singh 7a2a05dc",
@@ -3737,13 +3795,17 @@
   "22:16:53 POSTED facebook@Vijayendra-Singh bbd0455f: 2136633167247002",
   "22:17:24 STORY POSTED instagram@Vinzap-Finds bbd0455f",
   "22:17:33 STORY POSTED facebook@Vinzap-Finds bbd0455f",
-  "22:17:41 STORY POSTED facebook@Vijayendra-Singh bbd0455f"
+  "22:17:41 STORY POSTED facebook@Vijayendra-Singh bbd0455f",
+  "22:45:54 READY 6fbdd043 Plastic Lunch Box (auto-approved)",
+  "22:46:09 POSTED instagram@Vinzap-Finds 6fbdd043: 18131503111839978",
+  "22:46:13 POSTED facebook@Vinzap-Finds 6fbdd043: 1428352113685678_122110431969501659",
+  "22:46:17 POSTED facebook@Vijayendra-Singh 6fbdd043: 1317760538089559_122121172311480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792514772.1247485,
-  "facebook@Vinzap-Finds": 1792514772.1247485,
-  "facebook@Vijayendra-Singh": 1792514772.1247485,
+  "instagram@Vinzap-Finds": 1792516554.5149727,
+  "facebook@Vinzap-Finds": 1792516554.5149727,
+  "facebook@Vijayendra-Singh": 1792516554.5149727,
   "youtube": 1792511173.4494705
  },
- "n": 51
+ "n": 52
 }
