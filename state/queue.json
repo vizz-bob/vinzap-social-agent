@@ -2972,14 +2972,72 @@
      "id": "1079688538201865"
     }
    }
+  },
+  {
+   "id": "3127f7fd",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "dussehra",
+    "headline": "Stainless Steel Ice Cream Scoop",
+    "strip": "Dussehra Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Trigger release lever pushes out",
+     "Sturdy stainless steel build is",
+     "Comfortable handle gives a firm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Ice Cream Scoop | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Ice Cream Scoop"
+   },
+   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nStainless Steel Ice Cream Scoop\n✔ Trigger release lever pushes out\n✔ Sturdy stainless steel build is\n✔ Comfortable handle gives a firm\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Ice Cream Scoop",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792501264.2488122,
+     "id": "18155018212527143",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792501264.2488122,
+     "id": "1428352113685678_122110359633501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792501264.2488122,
+     "id": "1317760538089559_122121103155480728",
+     "dry": false
+    }
+   },
+   "created": 1792501261.706513,
+   "after": 0,
+   "handle": "stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
+   "file": "3127f7fd.jpg",
+   "thumb": "3127f7fd.jpg"
   }
  ],
- "last_post": 1792499494.088243,
+ "last_post": 1792501264.2488122,
  "log": [
-  "12:01:54 POSTED instagram@Vinzap-Finds 303aca1f: 17962092378245769",
-  "12:01:58 POSTED facebook@Vinzap-Finds 303aca1f: 2628578180933323",
-  "12:02:01 POSTED facebook@Vijayendra-Singh 303aca1f: 1132865175966937",
-  "12:02:07 POSTED youtube 303aca1f: lryMmMSmAGk",
   "12:02:42 STORY POSTED instagram@Vinzap-Finds 303aca1f",
   "12:02:50 STORY POSTED facebook@Vinzap-Finds 303aca1f",
   "12:02:56 STORY POSTED facebook@Vijayendra-Singh 303aca1f",
@@ -3175,13 +3233,17 @@
   "18:02:27 POSTED youtube 597b0c42: B_fE6ZIX_dY",
   "18:02:57 STORY POSTED instagram@Vinzap-Finds 597b0c42",
   "18:03:09 STORY POSTED facebook@Vinzap-Finds 597b0c42",
-  "18:03:18 STORY POSTED facebook@Vijayendra-Singh 597b0c42"
+  "18:03:18 STORY POSTED facebook@Vijayendra-Singh 597b0c42",
+  "18:31:04 READY 3127f7fd Stainless Steel Ice Cream Scoop (auto-approved)",
+  "18:31:18 POSTED instagram@Vinzap-Finds 3127f7fd: 18155018212527143",
+  "18:31:22 POSTED facebook@Vinzap-Finds 3127f7fd: 1428352113685678_122110359633501659",
+  "18:31:25 POSTED facebook@Vijayendra-Singh 3127f7fd: 1317760538089559_122121103155480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792499494.088243,
-  "facebook@Vinzap-Finds": 1792499494.088243,
-  "facebook@Vijayendra-Singh": 1792499494.088243,
+  "instagram@Vinzap-Finds": 1792501264.2488122,
+  "facebook@Vinzap-Finds": 1792501264.2488122,
+  "facebook@Vijayendra-Singh": 1792501264.2488122,
   "youtube": 1792499494.088243
  },
- "n": 43
+ "n": 44
 }
