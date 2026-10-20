@@ -2188,9 +2188,86 @@
    "product_url": "https://www.vinzapstore.in/products/apex-quba-push-chopper-with-stainless-steel-blades-1000ml",
    "file": "38838cca.jpg",
    "thumb": "38838cca.jpg"
+  },
+  {
+   "id": "1d54dc01",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "dussehra",
+    "headline": "Dish Brush Set",
+    "strip": "Dussehra Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "9-piece set",
+     "3 interchangeable brush heads",
+     "Long handle with an angled head"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Dish Brush Set | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Dish Brush Set"
+   },
+   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nDish Brush Set\n✔ 9-piece set\n✔ 3 interchangeable brush heads\n✔ Long handle with an angled head\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#cooking #homedecor",
+   "title": "Dish Brush Set | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792481468.1701217,
+     "id": "18088231640315484",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792481468.1701217,
+     "id": "1433972353127071",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792481468.1701217,
+     "id": "1125603000002303",
+     "dry": false
+    }
+   },
+   "created": 1792481449.4500022,
+   "after": 0,
+   "handle": "dish-brush-set-with-handle-replacement-heads-drain-tray-in-kitchen-9-pcs-set",
+   "product_url": "https://www.vinzapstore.in/products/dish-brush-set-with-handle-replacement-heads-drain-tray-in-kitchen-9-pcs-set",
+   "file": "1d54dc01.mp4",
+   "thumb": "1d54dc01_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18144938440590463"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1446941694072852"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1986694062004523"
+    }
+   }
   }
  ],
- "last_post": 1792479665.5556576,
+ "last_post": 1792481468.1701217,
  "log": [
   "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
   "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
@@ -2364,13 +2441,20 @@
   "12:31:05 READY 38838cca Apex Quba Push Chopper 1000ml (auto-approved)",
   "12:31:16 POSTED instagram@Vinzap-Finds 38838cca: 18178386274379788",
   "12:31:20 POSTED facebook@Vinzap-Finds 38838cca: 1428352113685678_122110254879501659",
-  "12:31:24 POSTED facebook@Vijayendra-Singh 38838cca: 1317760538089559_122121010977480728"
+  "12:31:24 POSTED facebook@Vijayendra-Singh 38838cca: 1317760538089559_122121010977480728",
+  "13:01:08 READY 1d54dc01 Dish Brush Set | Cooking (auto-approved)",
+  "13:01:47 POSTED instagram@Vinzap-Finds 1d54dc01: 18088231640315484",
+  "13:01:56 POSTED facebook@Vinzap-Finds 1d54dc01: 1433972353127071",
+  "13:02:02 POSTED facebook@Vijayendra-Singh 1d54dc01: 1125603000002303",
+  "13:02:34 STORY POSTED instagram@Vinzap-Finds 1d54dc01",
+  "13:02:45 STORY POSTED facebook@Vinzap-Finds 1d54dc01",
+  "13:02:55 STORY POSTED facebook@Vijayendra-Singh 1d54dc01"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792479665.5556576,
-  "facebook@Vinzap-Finds": 1792479665.5556576,
-  "facebook@Vijayendra-Singh": 1792479665.5556576,
+  "instagram@Vinzap-Finds": 1792481468.1701217,
+  "facebook@Vinzap-Finds": 1792481468.1701217,
+  "facebook@Vijayendra-Singh": 1792481468.1701217,
   "youtube": 1792477882.321322
  },
- "n": 32
+ "n": 33
 }
