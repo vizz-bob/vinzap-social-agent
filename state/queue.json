@@ -2466,13 +2466,93 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-1000-ml-approx-sports-water-bottle-1-pc",
    "file": "a9286b7f.jpg",
    "thumb": "a9286b7f.jpg"
+  },
+  {
+   "id": "8a4e6f32",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "dussehra",
+    "headline": "Ice Cube Tray",
+    "strip": "Dussehra Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "14-grid design for making",
+     "Comes with a lid to keep ice",
+     "Easy release design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Ice Cube Tray | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Cube Tray"
+   },
+   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Ice Cube Tray | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792488688.5086439,
+     "id": "18129623173829998",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792488688.5086439,
+     "id": "28848662681460439",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792488688.5086439,
+     "id": "1162458346710077",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792488688.5086439,
+     "id": "VYVMEdMTx2c",
+     "dry": false
+    }
+   },
+   "created": 1792488658.3586466,
+   "after": 0,
+   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
+   "file": "8a4e6f32.mp4",
+   "thumb": "8a4e6f32_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18090790022679495"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2493089267881794"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2612611545876393"
+    }
+   }
   }
  ],
- "last_post": 1792486868.4967945,
+ "last_post": 1792488688.5086439,
  "log": [
-  "04:56:05 READY 57591208 Full Sleeve Crop Top All Over Print (auto-approved)",
-  "04:56:44 POSTED instagram@Vinzap-Finds 57591208: 18076298825761101",
-  "04:56:48 POSTED facebook@Vinzap-Finds 57591208: 1358990662812822",
   "04:56:52 POSTED facebook@Vijayendra-Singh 57591208: 1062585796808695",
   "04:56:54 POSTED youtube 57591208: fyfeGYeeKMM",
   "14:17:24 READY e64e113f Plastic Tea and Coffee Cups (auto-approved)",
@@ -2664,13 +2744,21 @@
   "14:31:08 READY a9286b7f Plastic Sports Water Bottle 1000ml (auto-approved)",
   "14:31:21 POSTED instagram@Vinzap-Finds a9286b7f: 18109699967236062",
   "14:31:25 POSTED facebook@Vinzap-Finds a9286b7f: 1428352113685678_122110284051501659",
-  "14:31:28 POSTED facebook@Vijayendra-Singh a9286b7f: 1317760538089559_122121036189480728"
+  "14:31:28 POSTED facebook@Vijayendra-Singh a9286b7f: 1317760538089559_122121036189480728",
+  "15:01:28 READY 8a4e6f32 Ice Cube Tray | Kitchen Organization (auto-approved)",
+  "15:02:03 POSTED instagram@Vinzap-Finds 8a4e6f32: 18129623173829998",
+  "15:02:07 POSTED facebook@Vinzap-Finds 8a4e6f32: 28848662681460439",
+  "15:02:12 POSTED facebook@Vijayendra-Singh 8a4e6f32: 1162458346710077",
+  "15:02:17 POSTED youtube 8a4e6f32: VYVMEdMTx2c",
+  "15:02:49 STORY POSTED instagram@Vinzap-Finds 8a4e6f32",
+  "15:02:58 STORY POSTED facebook@Vinzap-Finds 8a4e6f32",
+  "15:03:08 STORY POSTED facebook@Vijayendra-Singh 8a4e6f32"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792486868.4967945,
-  "facebook@Vinzap-Finds": 1792486868.4967945,
-  "facebook@Vijayendra-Singh": 1792486868.4967945,
-  "youtube": 1792477462.321322
+  "instagram@Vinzap-Finds": 1792488688.5086439,
+  "facebook@Vinzap-Finds": 1792488688.5086439,
+  "facebook@Vijayendra-Singh": 1792488688.5086439,
+  "youtube": 1792488688.5086439
  },
- "n": 36
+ "n": 37
 }
