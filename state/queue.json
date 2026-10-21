@@ -4801,14 +4801,72 @@
      "id": "1859836775428968"
     }
    }
+  },
+  {
+   "id": "080caf3c",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Slant Lid Kitchen Storage Jar Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 239,
+    "was": 0,
+    "feats": [
+     "Modern Slanted Lid Design : Each",
+     "Airtight Seal : Keeps contents",
+     "Premium Quality Materials : Body"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Slant Lid Kitchen Storage Jar Set | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Slant Lid Kitchen Storage Jar Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSlant Lid Kitchen Storage Jar Set\n✔ Modern Slanted Lid Design : Each\n✔ Airtight Seal : Keeps contents\n✔ Premium Quality Materials : Body\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
+   "title": "Slant Lid Kitchen Storage Jar Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792594871.1882646,
+     "id": "18130563127888866",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792594871.1882646,
+     "id": "1428352113685678_122110762557501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792594871.1882646,
+     "id": "1317760538089559_122121535323480728",
+     "dry": false
+    }
+   },
+   "created": 1792594869.1214333,
+   "after": 0,
+   "handle": "apex-slant-lid-kitchen-storage-jar-set-2-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-slant-lid-kitchen-storage-jar-set-2-pc",
+   "file": "080caf3c.jpg",
+   "thumb": "080caf3c.jpg"
   }
  ],
- "last_post": 1792593085.0557802,
+ "last_post": 1792594871.1882646,
  "log": [
-  "14:01:14 READY b3e61fca Stainless Steel Coconut Scraper | Home Decor (auto-approved)",
-  "14:01:47 POSTED instagram@Vinzap-Finds b3e61fca: 17984107587104150",
-  "14:01:51 POSTED facebook@Vinzap-Finds b3e61fca: 2033679700665625",
-  "14:01:56 POSTED facebook@Vijayendra-Singh b3e61fca: 2275595163014774",
   "14:02:27 STORY POSTED instagram@Vinzap-Finds b3e61fca",
   "14:02:36 STORY POSTED facebook@Vinzap-Finds b3e61fca",
   "14:02:44 STORY POSTED facebook@Vijayendra-Singh b3e61fca",
@@ -5004,13 +5062,17 @@
   "20:02:13 POSTED facebook@Vijayendra-Singh ba1382ef: 1452006410210124",
   "20:02:45 STORY POSTED instagram@Vinzap-Finds ba1382ef",
   "20:02:54 STORY POSTED facebook@Vinzap-Finds ba1382ef",
-  "20:03:06 STORY POSTED facebook@Vijayendra-Singh ba1382ef"
+  "20:03:06 STORY POSTED facebook@Vijayendra-Singh ba1382ef",
+  "20:31:11 READY 080caf3c Slant Lid Kitchen Storage Jar Set (auto-approved)",
+  "20:31:21 POSTED instagram@Vinzap-Finds 080caf3c: 18130563127888866",
+  "20:31:25 POSTED facebook@Vinzap-Finds 080caf3c: 1428352113685678_122110762557501659",
+  "20:31:27 POSTED facebook@Vijayendra-Singh 080caf3c: 1317760538089559_122121535323480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792593085.0557802,
-  "facebook@Vinzap-Finds": 1792593085.0557802,
-  "facebook@Vijayendra-Singh": 1792593085.0557802,
-  "youtube": 1792585879.4431295
+  "instagram@Vinzap-Finds": 1792594871.1882646,
+  "facebook@Vinzap-Finds": 1792594871.1882646,
+  "facebook@Vijayendra-Singh": 1792594871.1882646,
+  "youtube": 1792585459.4431295
  },
- "n": 69
+ "n": 70
 }
