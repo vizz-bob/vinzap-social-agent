@@ -4100,14 +4100,72 @@
      "id": "1142455621538875"
     }
    }
+  },
+  {
+   "id": "73f6750c",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Konvex Duo Grater",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 309,
+    "was": 0,
+    "feats": [
+     "Duo grating surface suitable",
+     "Built-in container collects",
+     "Lid allows easy storage of grated"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Konvex Duo Grater | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Konvex Duo Grater"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKonvex Duo Grater\n✔ Duo grating surface suitable\n✔ Built-in container collects\n✔ Lid allows easy storage of grated\n\nOnly ₹309. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Konvex Duo Grater",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792576876.3526666,
+     "id": "18637798231058212",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792576876.3526666,
+     "id": "1428352113685678_122110673631501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792576876.3526666,
+     "id": "1317760538089559_122121437835480728",
+     "dry": false
+    }
+   },
+   "created": 1792576874.2317772,
+   "after": 0,
+   "handle": "konvex-duo-grater-with-container-and-lid-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/konvex-duo-grater-with-container-and-lid-1-pc",
+   "file": "73f6750c.jpg",
+   "thumb": "73f6750c.jpg"
   }
  ],
- "last_post": 1792575075.7202992,
+ "last_post": 1792576876.3526666,
  "log": [
-  "20:01:51 POSTED instagram@Vinzap-Finds 7b624319: 18121076894051576",
-  "20:01:54 POSTED facebook@Vinzap-Finds 7b624319: 1466016552289424",
-  "20:01:58 POSTED facebook@Vijayendra-Singh 7b624319: 1465111652177075",
-  "20:02:29 STORY POSTED instagram@Vinzap-Finds 7b624319",
   "20:02:37 STORY POSTED facebook@Vinzap-Finds 7b624319",
   "20:02:43 STORY POSTED facebook@Vijayendra-Singh 7b624319",
   "20:30:59 READY 9ed1777b Stainless Steel 2-in-1 Cutting and Chopping (auto-approved)",
@@ -4303,13 +4361,17 @@
   "15:02:04 POSTED youtube 8afeb06f: xC_G7xfdcVY",
   "15:02:38 STORY POSTED instagram@Vinzap-Finds 8afeb06f",
   "15:02:47 STORY POSTED facebook@Vinzap-Finds 8afeb06f",
-  "15:02:57 STORY POSTED facebook@Vijayendra-Singh 8afeb06f"
+  "15:02:57 STORY POSTED facebook@Vijayendra-Singh 8afeb06f",
+  "15:31:16 READY 73f6750c Konvex Duo Grater (auto-approved)",
+  "15:31:27 POSTED instagram@Vinzap-Finds 73f6750c: 18637798231058212",
+  "15:31:31 POSTED facebook@Vinzap-Finds 73f6750c: 1428352113685678_122110673631501659",
+  "15:31:34 POSTED facebook@Vijayendra-Singh 73f6750c: 1317760538089559_122121437835480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792575075.7202992,
-  "facebook@Vinzap-Finds": 1792575075.7202992,
-  "facebook@Vijayendra-Singh": 1792575075.7202992,
+  "instagram@Vinzap-Finds": 1792576876.3526666,
+  "facebook@Vinzap-Finds": 1792576876.3526666,
+  "facebook@Vijayendra-Singh": 1792576876.3526666,
   "youtube": 1792575075.7202992
  },
- "n": 59
+ "n": 60
 }
