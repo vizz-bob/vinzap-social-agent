@@ -3679,14 +3679,72 @@
      "id": "4549234648648198"
     }
    }
+  },
+  {
+   "id": "3eb44441",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Non-Slip Decorative Serving Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Multi-purpose use – can be used",
+     "Non-slip surface for stability",
+     "Durable plastic construction"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Non-Slip Decorative Serving Tray | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Non-Slip Decorative Serving Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nNon-Slip Decorative Serving Tray\n✔ Multi-purpose use – can be used\n✔ Non-slip surface for stability\n✔ Durable plastic construction\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Non-Slip Decorative Serving Tray",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792566059.727816,
+     "id": "18152989774553615",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792566059.727816,
+     "id": "1428352113685678_122110620801501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792566059.727816,
+     "id": "1317760538089559_122121333555480728",
+     "dry": false
+    }
+   },
+   "created": 1792566057.4391701,
+   "after": 0,
+   "handle": "decorative-non-slip-plastic-serving-tray-with-stand-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/decorative-non-slip-plastic-serving-tray-with-stand-1-pc",
+   "file": "3eb44441.jpg",
+   "thumb": "3eb44441.jpg"
   }
  ],
- "last_post": 1792564286.09498,
+ "last_post": 1792566059.727816,
  "log": [
-  "17:01:55 POSTED instagram@Vinzap-Finds d529aa20: 18096791771214478",
-  "17:01:59 POSTED facebook@Vinzap-Finds d529aa20: 2183581355921020",
-  "17:02:04 POSTED facebook@Vijayendra-Singh d529aa20: 1060199780390552",
-  "17:02:34 STORY POSTED instagram@Vinzap-Finds d529aa20",
   "17:02:44 STORY POSTED facebook@Vinzap-Finds d529aa20",
   "17:02:51 STORY POSTED facebook@Vijayendra-Singh d529aa20",
   "17:31:01 READY b27e1717 Round Ice Ball Maker Tray, 2-in-1 Portable, (auto-approved)",
@@ -3882,13 +3940,17 @@
   "12:02:22 POSTED youtube 1b19ffb2: VWMH6i-B-o8",
   "12:02:55 STORY POSTED instagram@Vinzap-Finds 1b19ffb2",
   "12:03:05 STORY POSTED facebook@Vinzap-Finds 1b19ffb2",
-  "12:03:14 STORY POSTED facebook@Vijayendra-Singh 1b19ffb2"
+  "12:03:14 STORY POSTED facebook@Vijayendra-Singh 1b19ffb2",
+  "12:30:59 READY 3eb44441 Non-Slip Decorative Serving Tray (auto-approved)",
+  "12:31:09 POSTED instagram@Vinzap-Finds 3eb44441: 18152989774553615",
+  "12:31:13 POSTED facebook@Vinzap-Finds 3eb44441: 1428352113685678_122110620801501659",
+  "12:31:15 POSTED facebook@Vijayendra-Singh 3eb44441: 1317760538089559_122121333555480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792564286.09498,
-  "facebook@Vinzap-Finds": 1792564286.09498,
-  "facebook@Vijayendra-Singh": 1792564286.09498,
+  "instagram@Vinzap-Finds": 1792566059.727816,
+  "facebook@Vinzap-Finds": 1792566059.727816,
+  "facebook@Vijayendra-Singh": 1792566059.727816,
   "youtube": 1792564286.09498
  },
- "n": 53
+ "n": 54
 }
