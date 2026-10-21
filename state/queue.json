@@ -5083,14 +5083,72 @@
      "id": "1055361630853173"
     }
    }
+  },
+  {
+   "id": "1cd2b8b2",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Protein Shaker Tumbler 400ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Leakproof flip lid design",
+     "Ideal for mixing protein shakes",
+     "Easy to carry and travel-friendly"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Protein Shaker Tumbler 400ml | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Protein Shaker Tumbler 400ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nProtein Shaker Tumbler 400ml\n✔ Leakproof flip lid design\n✔ Ideal for mixing protein shakes\n✔ Easy to carry and travel-friendly\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#kitchenorganization #cooking",
+   "title": "Protein Shaker Tumbler 400ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792602077.618707,
+     "id": "18123912509490303",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792602077.618707,
+     "id": "1428352113685678_122110812327501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792602077.618707,
+     "id": "1317760538089559_122121560547480728",
+     "dry": false
+    }
+   },
+   "created": 1792602075.1776495,
+   "after": 0,
+   "handle": "multipurpose-protein-tumbler-with-secure-flip-lid-400ml-approx",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-protein-tumbler-with-secure-flip-lid-400ml-approx",
+   "file": "1cd2b8b2.jpg",
+   "thumb": "1cd2b8b2.jpg"
   }
  ],
- "last_post": 1792600269.2948956,
+ "last_post": 1792602077.618707,
  "log": [
-  "16:01:17 READY 93d09d47 Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali (auto-approved)",
-  "16:01:51 POSTED instagram@Vinzap-Finds 93d09d47: 18131031479500443",
-  "16:01:56 POSTED facebook@Vinzap-Finds 93d09d47: 2313645359411621",
-  "16:02:00 POSTED facebook@Vijayendra-Singh 93d09d47: 1170181825340226",
   "16:02:39 STORY POSTED instagram@Vinzap-Finds 93d09d47",
   "16:02:47 STORY POSTED facebook@Vinzap-Finds 93d09d47",
   "16:02:54 STORY POSTED facebook@Vijayendra-Singh 93d09d47",
@@ -5286,13 +5344,17 @@
   "22:01:55 POSTED facebook@Vijayendra-Singh f6d59a8d: 1408252621296121",
   "22:02:29 STORY POSTED instagram@Vinzap-Finds f6d59a8d",
   "22:02:39 STORY POSTED facebook@Vinzap-Finds f6d59a8d",
-  "22:02:50 STORY POSTED facebook@Vijayendra-Singh f6d59a8d"
+  "22:02:50 STORY POSTED facebook@Vijayendra-Singh f6d59a8d",
+  "22:31:17 READY 1cd2b8b2 Protein Shaker Tumbler 400ml (auto-approved)",
+  "22:31:31 POSTED instagram@Vinzap-Finds 1cd2b8b2: 18123912509490303",
+  "22:31:35 POSTED facebook@Vinzap-Finds 1cd2b8b2: 1428352113685678_122110812327501659",
+  "22:31:39 POSTED facebook@Vijayendra-Singh 1cd2b8b2: 1317760538089559_122121560547480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792600269.2948956,
-  "facebook@Vinzap-Finds": 1792600269.2948956,
-  "facebook@Vijayendra-Singh": 1792600269.2948956,
+  "instagram@Vinzap-Finds": 1792602077.618707,
+  "facebook@Vinzap-Finds": 1792602077.618707,
+  "facebook@Vijayendra-Singh": 1792602077.618707,
   "youtube": 1792596692.7817664
  },
- "n": 73
+ "n": 74
 }
