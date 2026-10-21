@@ -4946,14 +4946,72 @@
      "id": "3175428345973829"
     }
    }
+  },
+  {
+   "id": "0ba79829",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Supermom Multipurpose Triangular Kitchen",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "Multipurpose: vegetables",
+     "Evenly spaced drainage holes",
+     "Handle for a firm grip when"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Supermom Multipurpose Triangular Kitchen | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Supermom Multipurpose Triangular Kitchen"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Multipurpose Triangular Kitchen\n✔ Multipurpose: vegetables\n✔ Evenly spaced drainage holes\n✔ Handle for a firm grip when\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Supermom Multipurpose Triangular Kitchen",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792598308.5562139,
+     "id": "17907328248570582",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792598308.5562139,
+     "id": "1428352113685678_122110776981501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792598308.5562139,
+     "id": "1317760538089559_122121547917480728",
+     "dry": false
+    }
+   },
+   "created": 1792598306.0477014,
+   "after": 0,
+   "handle": "supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
+   "file": "0ba79829.jpg",
+   "thumb": "0ba79829.jpg"
   }
  ],
- "last_post": 1792596692.7817664,
+ "last_post": 1792598308.5562139,
  "log": [
-  "15:02:03 POSTED instagram@Vinzap-Finds 8a4e6f32: 18129623173829998",
-  "15:02:07 POSTED facebook@Vinzap-Finds 8a4e6f32: 28848662681460439",
-  "15:02:12 POSTED facebook@Vijayendra-Singh 8a4e6f32: 1162458346710077",
-  "15:02:17 POSTED youtube 8a4e6f32: VYVMEdMTx2c",
   "15:02:49 STORY POSTED instagram@Vinzap-Finds 8a4e6f32",
   "15:02:58 STORY POSTED facebook@Vinzap-Finds 8a4e6f32",
   "15:03:08 STORY POSTED facebook@Vijayendra-Singh 8a4e6f32",
@@ -5149,13 +5207,17 @@
   "21:02:24 POSTED youtube dfe9c31b: eGpZt_POVAM",
   "21:02:56 STORY POSTED instagram@Vinzap-Finds dfe9c31b",
   "21:03:05 STORY POSTED facebook@Vinzap-Finds dfe9c31b",
-  "21:03:13 STORY POSTED facebook@Vijayendra-Singh dfe9c31b"
+  "21:03:13 STORY POSTED facebook@Vijayendra-Singh dfe9c31b",
+  "21:28:28 READY 0ba79829 Supermom Multipurpose Triangular Kitchen (auto-approved)",
+  "21:28:41 POSTED instagram@Vinzap-Finds 0ba79829: 17907328248570582",
+  "21:28:44 POSTED facebook@Vinzap-Finds 0ba79829: 1428352113685678_122110776981501659",
+  "21:28:46 POSTED facebook@Vijayendra-Singh 0ba79829: 1317760538089559_122121547917480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792596692.7817664,
-  "facebook@Vinzap-Finds": 1792596692.7817664,
-  "facebook@Vijayendra-Singh": 1792596692.7817664,
+  "instagram@Vinzap-Finds": 1792598308.5562139,
+  "facebook@Vinzap-Finds": 1792598308.5562139,
+  "facebook@Vijayendra-Singh": 1792598308.5562139,
   "youtube": 1792596692.7817664
  },
- "n": 71
+ "n": 72
 }
