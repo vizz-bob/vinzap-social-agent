@@ -4378,14 +4378,72 @@
      "id": "2141332083133288"
     }
    }
+  },
+  {
+   "id": "d23a266f",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Oval Deep Serving Bowl, Red",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Contemporary oval “Marin” design",
+     "Glossy Red finish complements",
+     "Break-resistant"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Plastic Oval Deep Serving Bowl, Red | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Oval Deep Serving Bowl, Red"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Oval Deep Serving Bowl, Red\n✔ Contemporary oval “Marin” design\n✔ Glossy Red finish complements\n✔ Break-resistant\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Plastic Oval Deep Serving Bowl, Red",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792584064.1054451,
+     "id": "18110715578582350",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792584064.1054451,
+     "id": "1428352113685678_122110709067501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792584064.1054451,
+     "id": "1317760538089559_122121470289480728",
+     "dry": false
+    }
+   },
+   "created": 1792584061.7973087,
+   "after": 0,
+   "handle": "plastic-marin-serving-bowl-elegant-oval-deep-bowl-1-pc-red",
+   "product_url": "https://www.vinzapstore.in/products/plastic-marin-serving-bowl-elegant-oval-deep-bowl-1-pc-red",
+   "file": "d23a266f.jpg",
+   "thumb": "d23a266f.jpg"
   }
  ],
- "last_post": 1792582278.4644828,
+ "last_post": 1792584064.1054451,
  "log": [
-  "22:01:19 READY b3f88e44 Apex Power-X Hand-Pull Vegetable Chopper | Cooking (auto-approved)",
-  "22:01:54 POSTED instagram@Vinzap-Finds b3f88e44: 17907589224573498",
-  "22:01:57 POSTED facebook@Vinzap-Finds b3f88e44: 2170569050222276",
-  "22:02:01 POSTED facebook@Vijayendra-Singh b3f88e44: 1636191911567747",
   "22:02:33 STORY POSTED instagram@Vinzap-Finds b3f88e44",
   "22:02:41 STORY POSTED facebook@Vinzap-Finds b3f88e44",
   "22:02:47 STORY POSTED facebook@Vijayendra-Singh b3f88e44",
@@ -4581,13 +4639,17 @@
   "17:02:01 POSTED facebook@Vijayendra-Singh be7cf00f: 1685816786312099",
   "17:02:33 STORY POSTED instagram@Vinzap-Finds be7cf00f",
   "17:02:40 STORY POSTED facebook@Vinzap-Finds be7cf00f",
-  "17:02:49 STORY POSTED facebook@Vijayendra-Singh be7cf00f"
+  "17:02:49 STORY POSTED facebook@Vijayendra-Singh be7cf00f",
+  "17:31:04 READY d23a266f Plastic Oval Deep Serving Bowl, Red (auto-approved)",
+  "17:31:17 POSTED instagram@Vinzap-Finds d23a266f: 18110715578582350",
+  "17:31:21 POSTED facebook@Vinzap-Finds d23a266f: 1428352113685678_122110709067501659",
+  "17:31:24 POSTED facebook@Vijayendra-Singh d23a266f: 1317760538089559_122121470289480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792582278.4644828,
-  "facebook@Vinzap-Finds": 1792582278.4644828,
-  "facebook@Vijayendra-Singh": 1792582278.4644828,
-  "youtube": 1792575075.7202992
+  "instagram@Vinzap-Finds": 1792584064.1054451,
+  "facebook@Vinzap-Finds": 1792584064.1054451,
+  "facebook@Vijayendra-Singh": 1792584064.1054451,
+  "youtube": 1792574655.7202992
  },
- "n": 63
+ "n": 64
 }
