@@ -3818,14 +3818,72 @@
      "id": "1964638111244646"
     }
    }
+  },
+  {
+   "id": "154237e5",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Squeeze Sauce Bottle",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Easy squeeze design",
+     "Leak-proof cap for safe",
+     "Ideal for pizza sauce"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Plastic Squeeze Sauce Bottle | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Squeeze Sauce Bottle"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Squeeze Sauce Bottle\n✔ Easy squeeze design\n✔ Leak-proof cap for safe\n✔ Ideal for pizza sauce\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
+   "title": "Plastic Squeeze Sauce Bottle",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792569653.3689094,
+     "id": "17913496359540177",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792569653.3689094,
+     "id": "1428352113685678_122110637517501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792569653.3689094,
+     "id": "1317760538089559_122121344619480728",
+     "dry": false
+    }
+   },
+   "created": 1792569651.1595278,
+   "after": 0,
+   "handle": "small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
+   "file": "154237e5.jpg",
+   "thumb": "154237e5.jpg"
   }
  ],
- "last_post": 1792567868.3710463,
+ "last_post": 1792569653.3689094,
  "log": [
-  "18:02:14 POSTED instagram@Vinzap-Finds 9dd4119e: 17937770937399951",
-  "18:02:20 POSTED facebook@Vinzap-Finds 9dd4119e: 2874371029616489",
-  "18:02:25 POSTED facebook@Vijayendra-Singh 9dd4119e: 2247237619391866",
-  "18:02:29 POSTED youtube 9dd4119e: 5TTad5678Dg",
   "18:03:00 STORY POSTED instagram@Vinzap-Finds 9dd4119e",
   "18:03:08 STORY POSTED facebook@Vinzap-Finds 9dd4119e",
   "18:03:16 STORY POSTED facebook@Vijayendra-Singh 9dd4119e",
@@ -4021,13 +4079,17 @@
   "13:01:59 POSTED facebook@Vijayendra-Singh 3814f4d1: 1866674857821567",
   "13:02:35 STORY POSTED instagram@Vinzap-Finds 3814f4d1",
   "13:02:46 STORY POSTED facebook@Vinzap-Finds 3814f4d1",
-  "13:02:58 STORY POSTED facebook@Vijayendra-Singh 3814f4d1"
+  "13:02:58 STORY POSTED facebook@Vijayendra-Singh 3814f4d1",
+  "13:30:53 READY 154237e5 Plastic Squeeze Sauce Bottle (auto-approved)",
+  "13:31:05 POSTED instagram@Vinzap-Finds 154237e5: 17913496359540177",
+  "13:31:08 POSTED facebook@Vinzap-Finds 154237e5: 1428352113685678_122110637517501659",
+  "13:31:12 POSTED facebook@Vijayendra-Singh 154237e5: 1317760538089559_122121344619480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792567868.3710463,
-  "facebook@Vinzap-Finds": 1792567868.3710463,
-  "facebook@Vijayendra-Singh": 1792567868.3710463,
+  "instagram@Vinzap-Finds": 1792569653.3689094,
+  "facebook@Vinzap-Finds": 1792569653.3689094,
+  "facebook@Vijayendra-Singh": 1792569653.3689094,
   "youtube": 1792564286.09498
  },
- "n": 55
+ "n": 56
 }
