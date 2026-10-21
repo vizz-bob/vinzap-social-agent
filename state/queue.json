@@ -4162,17 +4162,87 @@
    "product_url": "https://www.vinzapstore.in/products/konvex-duo-grater-with-container-and-lid-1-pc",
    "file": "73f6750c.jpg",
    "thumb": "73f6750c.jpg"
+  },
+  {
+   "id": "379fc1bc",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3-in-1 Cleaning Brush",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Combines a scrub brush",
+     "Refillable bottle releases soap",
+     "Stiff bristles scrub away tough"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "3-in-1 Cleaning Brush | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3-in-1 Cleaning Brush"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3-in-1 Cleaning Brush\n✔ Combines a scrub brush\n✔ Refillable bottle releases soap\n✔ Stiff bristles scrub away tough\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
+   "title": "3-in-1 Cleaning Brush | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792578686.4624789,
+     "id": "18077042165443631",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792578686.4624789,
+     "id": "1653906446074910",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792578686.4624789,
+     "id": "886068751166377",
+     "dry": false
+    }
+   },
+   "created": 1792578654.4118192,
+   "after": 0,
+   "handle": "3-in-1-multi-purpose-cleaning-brush-with-soap-dispenser-sponge-scrubber-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/3-in-1-multi-purpose-cleaning-brush-with-soap-dispenser-sponge-scrubber-1-pc",
+   "file": "379fc1bc.mp4",
+   "thumb": "379fc1bc_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18131331625692893"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2352096612212311"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1576798090918481"
+    }
+   }
   }
  ],
- "last_post": 1792576876.3526666,
+ "last_post": 1792578686.4624789,
  "log": [
-  "20:02:37 STORY POSTED facebook@Vinzap-Finds 7b624319",
-  "20:02:43 STORY POSTED facebook@Vijayendra-Singh 7b624319",
-  "20:30:59 READY 9ed1777b Stainless Steel 2-in-1 Cutting and Chopping (auto-approved)",
-  "20:31:08 POSTED instagram@Vinzap-Finds 9ed1777b: 18117309896100588",
-  "20:31:12 POSTED facebook@Vinzap-Finds 9ed1777b: 1428352113685678_122110019523501659",
-  "20:31:16 POSTED facebook@Vijayendra-Singh 9ed1777b: 1317760538089559_122120795181480728",
-  "21:01:24 READY 1ea7ad13 Rustic Jar Set 450ml | Cooking (auto-approved)",
   "21:02:06 POSTED instagram@Vinzap-Finds 1ea7ad13: 18107949152622909",
   "21:02:11 POSTED facebook@Vinzap-Finds 1ea7ad13: 1097092949362099",
   "21:02:16 POSTED facebook@Vijayendra-Singh 1ea7ad13: 1068946669511239",
@@ -4365,13 +4435,20 @@
   "15:31:16 READY 73f6750c Konvex Duo Grater (auto-approved)",
   "15:31:27 POSTED instagram@Vinzap-Finds 73f6750c: 18637798231058212",
   "15:31:31 POSTED facebook@Vinzap-Finds 73f6750c: 1428352113685678_122110673631501659",
-  "15:31:34 POSTED facebook@Vijayendra-Singh 73f6750c: 1317760538089559_122121437835480728"
+  "15:31:34 POSTED facebook@Vijayendra-Singh 73f6750c: 1317760538089559_122121437835480728",
+  "16:01:26 READY 379fc1bc 3-in-1 Cleaning Brush | Home Decor (auto-approved)",
+  "16:02:00 POSTED instagram@Vinzap-Finds 379fc1bc: 18077042165443631",
+  "16:02:04 POSTED facebook@Vinzap-Finds 379fc1bc: 1653906446074910",
+  "16:02:07 POSTED facebook@Vijayendra-Singh 379fc1bc: 886068751166377",
+  "16:02:38 STORY POSTED instagram@Vinzap-Finds 379fc1bc",
+  "16:02:45 STORY POSTED facebook@Vinzap-Finds 379fc1bc",
+  "16:02:51 STORY POSTED facebook@Vijayendra-Singh 379fc1bc"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792576876.3526666,
-  "facebook@Vinzap-Finds": 1792576876.3526666,
-  "facebook@Vijayendra-Singh": 1792576876.3526666,
+  "instagram@Vinzap-Finds": 1792578686.4624789,
+  "facebook@Vinzap-Finds": 1792578686.4624789,
+  "facebook@Vijayendra-Singh": 1792578686.4624789,
   "youtube": 1792575075.7202992
  },
- "n": 60
+ "n": 61
 }
