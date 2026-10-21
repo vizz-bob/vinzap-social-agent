@@ -4523,14 +4523,72 @@
      "id": "1784340909466398"
     }
    }
+  },
+  {
+   "id": "692a285f",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "LED Dual Flow Faucet Adapter",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Dual-flow outlet supports",
+     "Aerator-style head helps create",
+     "Splash-reducing design supports"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "LED Dual Flow Faucet Adapter | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "LED Dual Flow Faucet Adapter"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLED Dual Flow Faucet Adapter\n✔ Dual-flow outlet supports\n✔ Aerator-style head helps create\n✔ Splash-reducing design supports\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "LED Dual Flow Faucet Adapter",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792587671.523523,
+     "id": "18024136733871347",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792587671.523523,
+     "id": "1428352113685678_122110727271501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792587671.523523,
+     "id": "1317760538089559_122121493209480728",
+     "dry": false
+    }
+   },
+   "created": 1792587669.0018609,
+   "after": 0,
+   "handle": "led-light-dual-flow-faucet-tap-adapter-with-splash-filter-aerator-for-kitchen-sink-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/led-light-dual-flow-faucet-tap-adapter-with-splash-filter-aerator-for-kitchen-sink-1-pc",
+   "file": "692a285f.jpg",
+   "thumb": "692a285f.jpg"
   }
  ],
- "last_post": 1792585879.4431295,
+ "last_post": 1792587671.523523,
  "log": [
-  "12:01:59 POSTED instagram@Vinzap-Finds 105ae1ac: 18110504636184561",
-  "12:02:04 POSTED facebook@Vinzap-Finds 105ae1ac: 3709913282501123",
-  "12:02:08 POSTED facebook@Vijayendra-Singh 105ae1ac: 1038772979235077",
-  "12:02:16 POSTED youtube 105ae1ac: CLTL_l4-2es",
   "12:02:50 STORY POSTED instagram@Vinzap-Finds 105ae1ac",
   "12:02:59 STORY POSTED facebook@Vinzap-Finds 105ae1ac",
   "12:03:08 STORY POSTED facebook@Vijayendra-Singh 105ae1ac",
@@ -4726,13 +4784,17 @@
   "18:02:13 POSTED youtube b67af718: c-R5H5cYEJA",
   "18:02:43 STORY POSTED instagram@Vinzap-Finds b67af718",
   "18:02:51 STORY POSTED facebook@Vinzap-Finds b67af718",
-  "18:03:00 STORY POSTED facebook@Vijayendra-Singh b67af718"
+  "18:03:00 STORY POSTED facebook@Vijayendra-Singh b67af718",
+  "18:31:11 READY 692a285f LED Dual Flow Faucet Adapter (auto-approved)",
+  "18:31:22 POSTED instagram@Vinzap-Finds 692a285f: 18024136733871347",
+  "18:31:27 POSTED facebook@Vinzap-Finds 692a285f: 1428352113685678_122110727271501659",
+  "18:31:30 POSTED facebook@Vijayendra-Singh 692a285f: 1317760538089559_122121493209480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792585879.4431295,
-  "facebook@Vinzap-Finds": 1792585879.4431295,
-  "facebook@Vijayendra-Singh": 1792585879.4431295,
+  "instagram@Vinzap-Finds": 1792587671.523523,
+  "facebook@Vinzap-Finds": 1792587671.523523,
+  "facebook@Vijayendra-Singh": 1792587671.523523,
   "youtube": 1792585879.4431295
  },
- "n": 65
+ "n": 66
 }
