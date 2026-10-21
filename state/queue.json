@@ -4662,14 +4662,72 @@
      "id": "1833961337956009"
     }
    }
+  },
+  {
+   "id": "12201eb1",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Premium Round Tea Cup Set of 6",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 419,
+    "was": 0,
+    "feats": [
+     "Set of 6 matching tea cups",
+     "Elegant round design enhances",
+     "Comfortable handle for easy grip"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Premium Round Tea Cup Set of 6 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Premium Round Tea Cup Set of 6"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Round Tea Cup Set of 6\n✔ Set of 6 matching tea cups\n✔ Elegant round design enhances\n✔ Comfortable handle for easy grip\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Premium Round Tea Cup Set of 6",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792591265.820519,
+     "id": "18434030095183718",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792591265.820519,
+     "id": "1428352113685678_122110746195501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792591265.820519,
+     "id": "1317760538089559_122121522291480728",
+     "dry": false
+    }
+   },
+   "created": 1792591262.9347425,
+   "after": 0,
+   "handle": "premium-round-tea-cup-set-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/premium-round-tea-cup-set-6-pc-set",
+   "file": "12201eb1.jpg",
+   "thumb": "12201eb1.jpg"
   }
  ],
- "last_post": 1792589475.022636,
+ "last_post": 1792591265.820519,
  "log": [
-  "13:01:08 READY 1d54dc01 Dish Brush Set | Cooking (auto-approved)",
-  "13:01:47 POSTED instagram@Vinzap-Finds 1d54dc01: 18088231640315484",
-  "13:01:56 POSTED facebook@Vinzap-Finds 1d54dc01: 1433972353127071",
-  "13:02:02 POSTED facebook@Vijayendra-Singh 1d54dc01: 1125603000002303",
   "13:02:34 STORY POSTED instagram@Vinzap-Finds 1d54dc01",
   "13:02:45 STORY POSTED facebook@Vinzap-Finds 1d54dc01",
   "13:02:55 STORY POSTED facebook@Vijayendra-Singh 1d54dc01",
@@ -4865,13 +4923,17 @@
   "19:02:03 POSTED facebook@Vijayendra-Singh 9cc093fc: 1734211891005391",
   "19:02:33 STORY POSTED instagram@Vinzap-Finds 9cc093fc",
   "19:02:43 STORY POSTED facebook@Vinzap-Finds 9cc093fc",
-  "19:02:50 STORY POSTED facebook@Vijayendra-Singh 9cc093fc"
+  "19:02:50 STORY POSTED facebook@Vijayendra-Singh 9cc093fc",
+  "19:31:05 READY 12201eb1 Premium Round Tea Cup Set of 6 (auto-approved)",
+  "19:31:18 POSTED instagram@Vinzap-Finds 12201eb1: 18434030095183718",
+  "19:31:21 POSTED facebook@Vinzap-Finds 12201eb1: 1428352113685678_122110746195501659",
+  "19:31:25 POSTED facebook@Vijayendra-Singh 12201eb1: 1317760538089559_122121522291480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792589475.022636,
-  "facebook@Vinzap-Finds": 1792589475.022636,
-  "facebook@Vijayendra-Singh": 1792589475.022636,
+  "instagram@Vinzap-Finds": 1792591265.820519,
+  "facebook@Vinzap-Finds": 1792591265.820519,
+  "facebook@Vijayendra-Singh": 1792591265.820519,
   "youtube": 1792585879.4431295
  },
- "n": 67
+ "n": 68
 }
