@@ -4239,14 +4239,72 @@
      "id": "1576798090918481"
     }
    }
+  },
+  {
+   "id": "76884a7e",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Sink Caddy Organizer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 999,
+    "was": 0,
+    "feats": [
+     "Multi compartment design holds",
+     "Durable stainless steel",
+     "Removable drip tray collects"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Stainless Steel Sink Caddy Organizer | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Sink Caddy Organizer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Sink Caddy Organizer\n✔ Multi compartment design holds\n✔ Durable stainless steel\n✔ Removable drip tray collects\n\nOnly ₹999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Stainless Steel Sink Caddy Organizer",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792580458.8386307,
+     "id": "18092901095694218",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792580458.8386307,
+     "id": "1428352113685678_122110690287501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792580458.8386307,
+     "id": "1317760538089559_122121451497480728",
+     "dry": false
+    }
+   },
+   "created": 1792580456.492297,
+   "after": 0,
+   "handle": "stainless-steel-sink-caddy-organizer-rack-holder-kitchen-sponge-stand-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-sink-caddy-organizer-rack-holder-kitchen-sponge-stand-1-pc",
+   "file": "76884a7e.jpg",
+   "thumb": "76884a7e.jpg"
   }
  ],
- "last_post": 1792578686.4624789,
+ "last_post": 1792580458.8386307,
  "log": [
-  "21:02:06 POSTED instagram@Vinzap-Finds 1ea7ad13: 18107949152622909",
-  "21:02:11 POSTED facebook@Vinzap-Finds 1ea7ad13: 1097092949362099",
-  "21:02:16 POSTED facebook@Vijayendra-Singh 1ea7ad13: 1068946669511239",
-  "21:02:25 POSTED youtube 1ea7ad13: vL-OG7ZEax0",
   "21:02:59 STORY POSTED instagram@Vinzap-Finds 1ea7ad13",
   "21:03:10 STORY POSTED facebook@Vinzap-Finds 1ea7ad13",
   "21:03:22 STORY POSTED facebook@Vijayendra-Singh 1ea7ad13",
@@ -4442,13 +4500,17 @@
   "16:02:07 POSTED facebook@Vijayendra-Singh 379fc1bc: 886068751166377",
   "16:02:38 STORY POSTED instagram@Vinzap-Finds 379fc1bc",
   "16:02:45 STORY POSTED facebook@Vinzap-Finds 379fc1bc",
-  "16:02:51 STORY POSTED facebook@Vijayendra-Singh 379fc1bc"
+  "16:02:51 STORY POSTED facebook@Vijayendra-Singh 379fc1bc",
+  "16:30:58 READY 76884a7e Stainless Steel Sink Caddy Organizer (auto-approved)",
+  "16:31:15 POSTED instagram@Vinzap-Finds 76884a7e: 18092901095694218",
+  "16:31:19 POSTED facebook@Vinzap-Finds 76884a7e: 1428352113685678_122110690287501659",
+  "16:31:23 POSTED facebook@Vijayendra-Singh 76884a7e: 1317760538089559_122121451497480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792578686.4624789,
-  "facebook@Vinzap-Finds": 1792578686.4624789,
-  "facebook@Vijayendra-Singh": 1792578686.4624789,
+  "instagram@Vinzap-Finds": 1792580458.8386307,
+  "facebook@Vinzap-Finds": 1792580458.8386307,
+  "facebook@Vijayendra-Singh": 1792580458.8386307,
   "youtube": 1792575075.7202992
  },
- "n": 61
+ "n": 62
 }
