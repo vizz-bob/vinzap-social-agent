@@ -3957,14 +3957,70 @@
      "id": "1587470375942187"
     }
    }
+  },
+  {
+   "id": "12a70d0e",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Laundry Washing Balls Set of 4 Wash Without",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 84,
+    "was": 0,
+    "feats": [
+     "Laundry Washing Ball"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Laundry Washing Balls Set of 4 Wash Without | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Laundry Washing Balls Set of 4 Wash Without"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLaundry Washing Balls Set of 4 Wash Without\n✔ Laundry Washing Ball\n\nOnly ₹84. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#cooking #homedecor",
+   "title": "Laundry Washing Balls Set of 4 Wash Without",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792573267.8668787,
+     "id": "18371543731210830",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792573267.8668787,
+     "id": "1428352113685678_122110657929501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792573267.8668787,
+     "id": "1317760538089559_122121425499480728",
+     "dry": false
+    }
+   },
+   "created": 1792573265.7366836,
+   "after": 0,
+   "handle": "205-laundry-washing-ball-wash-without-detergent-4pcs",
+   "product_url": "https://www.vinzapstore.in/products/205-laundry-washing-ball-wash-without-detergent-4pcs",
+   "file": "12a70d0e.jpg",
+   "thumb": "12a70d0e.jpg"
   }
  ],
- "last_post": 1792571481.7374773,
+ "last_post": 1792573267.8668787,
  "log": [
-  "19:01:08 READY c3edc246 Teak Wood Chopping Board | Cooking (auto-approved)",
-  "19:01:48 POSTED instagram@Vinzap-Finds c3edc246: 18145480570542344",
-  "19:01:53 POSTED facebook@Vinzap-Finds c3edc246: 2467727443637051",
-  "19:01:57 POSTED facebook@Vijayendra-Singh c3edc246: 1090658657069079",
   "19:02:30 STORY POSTED instagram@Vinzap-Finds c3edc246",
   "19:02:39 STORY POSTED facebook@Vinzap-Finds c3edc246",
   "19:02:46 STORY POSTED facebook@Vijayendra-Singh c3edc246",
@@ -4160,13 +4216,17 @@
   "14:02:15 POSTED facebook@Vijayendra-Singh b17469ae: 2133784337227713",
   "14:02:55 STORY POSTED instagram@Vinzap-Finds b17469ae",
   "14:03:06 STORY POSTED facebook@Vinzap-Finds b17469ae",
-  "14:03:17 STORY POSTED facebook@Vijayendra-Singh b17469ae"
+  "14:03:17 STORY POSTED facebook@Vijayendra-Singh b17469ae",
+  "14:31:07 READY 12a70d0e Laundry Washing Balls Set of 4 Wash Without (auto-approved)",
+  "14:31:18 POSTED instagram@Vinzap-Finds 12a70d0e: 18371543731210830",
+  "14:31:22 POSTED facebook@Vinzap-Finds 12a70d0e: 1428352113685678_122110657929501659",
+  "14:31:25 POSTED facebook@Vijayendra-Singh 12a70d0e: 1317760538089559_122121425499480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792571481.7374773,
-  "facebook@Vinzap-Finds": 1792571481.7374773,
-  "facebook@Vijayendra-Singh": 1792571481.7374773,
-  "youtube": 1792564286.09498
+  "instagram@Vinzap-Finds": 1792573267.8668787,
+  "facebook@Vinzap-Finds": 1792573267.8668787,
+  "facebook@Vijayendra-Singh": 1792573267.8668787,
+  "youtube": 1792563866.09498
  },
- "n": 57
+ "n": 58
 }
