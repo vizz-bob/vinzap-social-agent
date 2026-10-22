@@ -1,75 +1,6 @@
 {
  "items": [
   {
-   "id": "e4e4ed73",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "navratri",
-    "headline": "Heart Shape Ice Cube Tray",
-    "strip": "Navratri Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Add water",
-     "DIY & Reserve dessert",
-     "The cubes fit your small diameter"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Heart Shape Ice Cube Tray | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Heart Shape Ice Cube Tray"
-   },
-   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nHeart Shape Ice Cube Tray\n✔ Add water\n✔ DIY & Reserve dessert\n✔ The cubes fit your small diameter\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Heart Shape Ice Cube Tray | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792341975.9284973,
-     "id": "17901763959607486",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792341975.9284973,
-     "id": "4390883294575379",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792341975.9284973,
-     "id": "2383147559091436",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792341975.9284973,
-     "id": "dsaTXPlanrw",
-     "dry": false
-    }
-   },
-   "created": 1792341949.3983428,
-   "after": 0,
-   "handle": "1133-heart-shape-ice-cube-tray",
-   "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
-   "file": "e4e4ed73.mp4",
-   "thumb": "e4e4ed73_t.jpg"
-  },
-  {
    "id": "9df5a69b",
    "status": "posted",
    "kind": "image",
@@ -5635,17 +5566,87 @@
    "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-18-cm",
    "file": "8711bb2c.jpg",
    "thumb": "8711bb2c.jpg"
+  },
+  {
+   "id": "f2ba2fc3",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Oil Pourer 750ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 639,
+    "was": 0,
+    "feats": [
+     "750ml Approx. Capacity: Ample",
+     "Stainless Steel Body: Made from",
+     "Ergonomic Handle: Comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Stainless Steel Oil Pourer 750ml | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Oil Pourer 750ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Oil Pourer 750ml\n✔ 750ml Approx. Capacity: Ample\n✔ Stainless Steel Body: Made from\n✔ Ergonomic Handle: Comfortable\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Stainless Steel Oil Pourer 750ml | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792675575.5184762,
+     "id": "18229625536328022",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792675575.5184762,
+     "id": "2327406018060405",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792675575.5184762,
+     "id": "946574628191410",
+     "dry": false
+    }
+   },
+   "created": 1792675543.9271913,
+   "after": 0,
+   "handle": "supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
+   "file": "f2ba2fc3.mp4",
+   "thumb": "f2ba2fc3_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17904529164597305"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1087121030809672"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1084344777728791"
+    }
+   }
   }
  ],
- "last_post": 1792672773.8922174,
+ "last_post": 1792675575.5184762,
  "log": [
-  "22:17:33 STORY POSTED facebook@Vinzap-Finds bbd0455f",
-  "22:17:41 STORY POSTED facebook@Vijayendra-Singh bbd0455f",
-  "22:45:54 READY 6fbdd043 Plastic Lunch Box (auto-approved)",
-  "22:46:09 POSTED instagram@Vinzap-Finds 6fbdd043: 18131503111839978",
-  "22:46:13 POSTED facebook@Vinzap-Finds 6fbdd043: 1428352113685678_122110431969501659",
-  "22:46:17 POSTED facebook@Vijayendra-Singh 6fbdd043: 1317760538089559_122121172311480728",
-  "12:01:26 READY 1b19ffb2 Heart Shaped Kumkum Holder Kankavati | Home Decor (auto-approved)",
   "12:02:05 POSTED instagram@Vinzap-Finds 1b19ffb2: 17966243855986068",
   "12:02:11 POSTED facebook@Vinzap-Finds 1b19ffb2: 1453097696704186",
   "12:02:16 POSTED facebook@Vijayendra-Singh 1b19ffb2: 857206327455665",
@@ -5838,13 +5839,20 @@
   "18:09:33 READY 8711bb2c Silicone Cooking Spatula 18cm (auto-approved)",
   "18:09:46 POSTED instagram@Vinzap-Finds 8711bb2c: 18449460133193710",
   "18:09:50 POSTED facebook@Vinzap-Finds 8711bb2c: 1428352113685678_122111117955501659",
-  "18:09:53 POSTED facebook@Vijayendra-Singh 8711bb2c: 1317760538089559_122121818991480728"
+  "18:09:53 POSTED facebook@Vijayendra-Singh 8711bb2c: 1317760538089559_122121818991480728",
+  "18:56:15 READY f2ba2fc3 Stainless Steel Oil Pourer 750ml | Kitchen Organization (auto-approved)",
+  "18:56:51 POSTED instagram@Vinzap-Finds f2ba2fc3: 18229625536328022",
+  "18:56:56 POSTED facebook@Vinzap-Finds f2ba2fc3: 2327406018060405",
+  "18:57:02 POSTED facebook@Vijayendra-Singh f2ba2fc3: 946574628191410",
+  "18:57:34 STORY POSTED instagram@Vinzap-Finds f2ba2fc3",
+  "18:57:43 STORY POSTED facebook@Vinzap-Finds f2ba2fc3",
+  "18:57:53 STORY POSTED facebook@Vijayendra-Singh f2ba2fc3"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792672773.8922174,
-  "facebook@Vinzap-Finds": 1792672773.8922174,
-  "facebook@Vijayendra-Singh": 1792672773.8922174,
+  "instagram@Vinzap-Finds": 1792675575.5184762,
+  "facebook@Vinzap-Finds": 1792675575.5184762,
+  "facebook@Vijayendra-Singh": 1792675575.5184762,
   "youtube": 1792670554.0131664
  },
- "n": 86
+ "n": 87
 }
