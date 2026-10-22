@@ -13,7 +13,7 @@ env:
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - name: Write config from secret
@@ -34,6 +34,7 @@ jobs:
           pip install --quiet pillow numpy
       - name: Make and post one item
         if: steps.gate.outputs.due == 'true'
+        timeout-minutes: 10
         run: python3 run_once.py
       - name: Save state
         if: always()
@@ -41,5 +42,12 @@ jobs:
           rm -f config.json
           git config user.name "social-agent"; git config user.email "social-agent@users.noreply.github.com"
           git add state/queue.json
-          git diff --cached --quiet || { git commit -m "state $(date -u +%FT%TZ)" && git pull --rebase -q && git push; }
+          if ! git diff --cached --quiet; then
+            git commit -m "state $(date -u +%FT%TZ)"
+            for i in 1 2 3 4; do
+              if git pull --rebase -X theirs -q && git push; then break; fi
+              git rebase --abort 2>/dev/null || true
+              sleep 4
+            done
+          fi
 # registered 2026-10-18

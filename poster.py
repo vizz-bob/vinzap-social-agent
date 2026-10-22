@@ -27,6 +27,7 @@ def _public_url(cfg, image):
     except Exception: return None
 
 def instagram(cfg, video, caption, kind="reel", thumb=None):
+    waits = 24 if kind == "story" else 60
     ig, tok = cfg["instagram_user_id"], cfg["meta_access_token"]
     mt = "STORIES" if kind == "story" else "REELS"
     p = dict(media_type=mt, upload_type="resumable", access_token=tok)
@@ -38,7 +39,7 @@ def instagram(cfg, video, caption, kind="reel", thumb=None):
     cid, uri = c["id"], c.get("uri") or f"https://rupload.facebook.com/ig-api-upload/{GV}/{c['id']}"
     data = open(video, "rb").read()
     _req(uri, data, {"Authorization": "OAuth " + tok, "offset": "0", "file_size": str(len(data))}, "POST")
-    for _ in range(60):  # wait for processing
+    for _ in range(waits):  # wait for processing
         st = _get(f"https://graph.facebook.com/{GV}/{cid}", fields="status_code", access_token=tok).get("status_code")
         if st == "FINISHED": break
         if st == "ERROR": raise RuntimeError("Instagram processing error")

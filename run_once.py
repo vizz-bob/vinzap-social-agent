@@ -10,6 +10,7 @@ os.makedirs(os.path.dirname(agent.Q_FILE), exist_ok=True)
 SLACK = 420   # GitHub may start runs a few minutes late; allow 7 minutes of slack on the interval
 
 def main():
+    T0 = time.time()
     c = agent.cfg(); now = time.time(); hr = datetime.datetime.now().hour
     if not (c["start_hour"] <= hr < c["end_hour"]): print(f"hour {hr} is outside {c['start_hour']}-{c['end_hour']}, nothing to do"); return
     q = agent.load(); last = q.setdefault("last", {}); tg = poster.all_targets(c)
@@ -50,7 +51,7 @@ def main():
     agent.save(q)
     agent.tick()                              # posts the new item to every due account
     q = agent.load()
-    if kind == "reel" and c.get("stories", True):   # also post it as a Story (with sound) on Instagram + Facebook
+    if kind == "reel" and c.get("stories", True) and time.time() - T0 < 400:   # skip Stories if this run is already slow   # also post it as a Story (with sound) on Instagram + Facebook
         it = next(i for i in q["items"] if i["id"] == iid); vid = os.path.join(agent.OUT, it["file"]); it.setdefault("stories", {})
         for tkey, rec in list(it["posted"].items()):
             pl, m = tg.get(tkey, (None, None))
