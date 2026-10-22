@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "a9ce49c2",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "navratri",
-    "headline": "Electric Lunch Box",
-    "strip": "Navratri Special  |  Home & Kitchen",
-    "price": 1399,
-    "was": 0,
-    "feats": [
-     "Power: 40 W",
-     "Size: 23 x 16 x 11 cm",
-     "Removable containers"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Electric Lunch Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Lunch Box"
-   },
-   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nElectric Lunch Box\n✔ Power: 40 W\n✔ Size: 23 x 16 x 11 cm\n✔ Removable containers\n\nOnly ₹1399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
-   "title": "Electric Lunch Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792340147.4387436,
-     "id": "18219952825345343",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792340147.4387436,
-     "id": "1428352113685678_122109644745501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792340147.4387436,
-     "id": "1317760538089559_122120490249480728",
-     "dry": false
-    }
-   },
-   "created": 1792340145.8722076,
-   "after": 0,
-   "handle": "058-electric-lunch-box-1",
-   "product_url": "https://www.vinzapstore.in/products/058-electric-lunch-box-1",
-   "file": "a9ce49c2.jpg",
-   "thumb": "a9ce49c2.jpg"
-  },
-  {
    "id": "e4e4ed73",
    "status": "posted",
    "kind": "reel",
@@ -5635,14 +5573,72 @@
      "id": "3022046684853867"
     }
    }
+  },
+  {
+   "id": "8711bb2c",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Cooking Spatula 18cm",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "High-Quality Silicone: Made from",
+     "Versatile Usage: Suitable",
+     "Convenient Kitchen Aid:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Silicone Cooking Spatula 18cm | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Cooking Spatula 18cm"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Cooking Spatula 18cm\n✔ High-Quality Silicone: Made from\n✔ Versatile Usage: Suitable\n✔ Convenient Kitchen Aid:\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Silicone Cooking Spatula 18cm",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792672773.8922174,
+     "id": "18449460133193710",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792672773.8922174,
+     "id": "1428352113685678_122111117955501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792672773.8922174,
+     "id": "1317760538089559_122121818991480728",
+     "dry": false
+    }
+   },
+   "created": 1792672772.42382,
+   "after": 0,
+   "handle": "silicone-cooking-spatula-for-baking-1-pc-18-cm",
+   "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-18-cm",
+   "file": "8711bb2c.jpg",
+   "thumb": "8711bb2c.jpg"
   }
  ],
- "last_post": 1792670554.0131664,
+ "last_post": 1792672773.8922174,
  "log": [
-  "22:16:43 POSTED instagram@Vinzap-Finds bbd0455f: 18036805763884721",
-  "22:16:48 POSTED facebook@Vinzap-Finds bbd0455f: 4060991524210329",
-  "22:16:53 POSTED facebook@Vijayendra-Singh bbd0455f: 2136633167247002",
-  "22:17:24 STORY POSTED instagram@Vinzap-Finds bbd0455f",
   "22:17:33 STORY POSTED facebook@Vinzap-Finds bbd0455f",
   "22:17:41 STORY POSTED facebook@Vijayendra-Singh bbd0455f",
   "22:45:54 READY 6fbdd043 Plastic Lunch Box (auto-approved)",
@@ -5838,13 +5834,17 @@
   "17:33:20 POSTED youtube f46333b8: YYoO06eL2v8",
   "17:33:52 STORY POSTED instagram@Vinzap-Finds f46333b8",
   "17:34:02 STORY POSTED facebook@Vinzap-Finds f46333b8",
-  "17:34:12 STORY POSTED facebook@Vijayendra-Singh f46333b8"
+  "17:34:12 STORY POSTED facebook@Vijayendra-Singh f46333b8",
+  "18:09:33 READY 8711bb2c Silicone Cooking Spatula 18cm (auto-approved)",
+  "18:09:46 POSTED instagram@Vinzap-Finds 8711bb2c: 18449460133193710",
+  "18:09:50 POSTED facebook@Vinzap-Finds 8711bb2c: 1428352113685678_122111117955501659",
+  "18:09:53 POSTED facebook@Vijayendra-Singh 8711bb2c: 1317760538089559_122121818991480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792670554.0131664,
-  "facebook@Vinzap-Finds": 1792670554.0131664,
-  "facebook@Vijayendra-Singh": 1792670554.0131664,
+  "instagram@Vinzap-Finds": 1792672773.8922174,
+  "facebook@Vinzap-Finds": 1792672773.8922174,
+  "facebook@Vijayendra-Singh": 1792672773.8922174,
   "youtube": 1792670554.0131664
  },
- "n": 85
+ "n": 86
 }
