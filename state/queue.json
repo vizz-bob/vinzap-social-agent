@@ -1,70 +1,6 @@
 {
  "items": [
   {
-   "id": "a6f28b7d",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "navratri",
-    "headline": "4-in-1 Stainless Steel Compact Grater and",
-    "strip": "Navratri Special  |  Home & Kitchen",
-    "price": 289,
-    "was": 0,
-    "feats": [
-     "4-in-1 design with multiple",
-     "Made from premium food-grade",
-     "Sharp blades for effortless"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "4-in-1 Stainless Steel Compact Grater and"
-   },
-   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\n4-in-1 Stainless Steel Compact Grater and\n✔ 4-in-1 design with multiple\n✔ Made from premium food-grade\n✔ Sharp blades for effortless\n\nOnly ₹289. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials",
-   "title": "4-in-1 Stainless Steel Compact Grater and",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792338673.7238414,
-     "id": "17902788174370716",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792338673.7238414,
-     "id": "1452149980313097",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792338673.7238414,
-     "id": "1985294582163629",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792338673.7238414,
-     "id": "KMYhQAUm8MQ",
-     "dry": false
-    }
-   },
-   "created": 1792338654.486234,
-   "after": 0,
-   "handle": "supermom-premium-4-in-1-stainless-steel-compact-grater-and-slicer",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-4-in-1-stainless-steel-compact-grater-and-slicer",
-   "file": "a6f28b7d.mp4",
-   "thumb": "a6f28b7d_t.jpg"
-  },
-  {
    "id": "a9ce49c2",
    "status": "posted",
    "kind": "image",
@@ -5616,18 +5552,93 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-scoop-set-clear-flour-coffee-sugar-grain-scoops-3-pc-set",
    "file": "0b1de4f1.jpg",
    "thumb": "0b1de4f1.jpg"
+  },
+  {
+   "id": "f46333b8",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Wall Mounted Disposable Paper Cup Holder",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 969,
+    "was": 0,
+    "feats": [
+     "Wall-mounted design saves space",
+     "Easy one-by-one cup dispensing",
+     "Dustproof design to keep cups"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Wall Mounted Disposable Paper Cup Holder | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Wall Mounted Disposable Paper Cup Holder"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mounted Disposable Paper Cup Holder\n✔ Wall-mounted design saves space\n✔ Easy one-by-one cup dispensing\n✔ Dustproof design to keep cups\n\nOnly ₹969. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchengadgets #kitchenorganization",
+   "title": "Wall Mounted Disposable Paper Cup Holder | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792670554.0131664,
+     "id": "17958585333018308",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792670554.0131664,
+     "id": "1431053855673635",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792670554.0131664,
+     "id": "1143088984833951",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792670554.0131664,
+     "id": "YYoO06eL2v8",
+     "dry": false
+    }
+   },
+   "created": 1792670521.9563348,
+   "after": 0,
+   "handle": "wall-mounted-disposable-paper-cup-holder-storage-dispenser-box",
+   "product_url": "https://www.vinzapstore.in/products/wall-mounted-disposable-paper-cup-holder-storage-dispenser-box",
+   "file": "f46333b8.mp4",
+   "thumb": "f46333b8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18132790951668644"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1511325101019370"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "3022046684853867"
+    }
+   }
   }
  ],
- "last_post": 1792668653.9378452,
+ "last_post": 1792670554.0131664,
  "log": [
-  "21:17:34 STORY POSTED instagram@Vinzap-Finds 6be0bc1f",
-  "21:17:43 STORY POSTED facebook@Vinzap-Finds 6be0bc1f",
-  "21:17:51 STORY POSTED facebook@Vijayendra-Singh 6be0bc1f",
-  "21:45:50 READY de8f3b42 Tortoise Shape Kankavati Kumkum Holder (auto-approved)",
-  "21:46:02 POSTED instagram@Vinzap-Finds de8f3b42: 18134441179676128",
-  "21:46:05 POSTED facebook@Vinzap-Finds de8f3b42: 1428352113685678_122110418169501659",
-  "21:46:09 POSTED facebook@Vijayendra-Singh de8f3b42: 1317760538089559_122121160521480728",
-  "22:16:12 READY bbd0455f Bottle Cleaning Brush | Kitchen Gadgets (auto-approved)",
   "22:16:43 POSTED instagram@Vinzap-Finds bbd0455f: 18036805763884721",
   "22:16:48 POSTED facebook@Vinzap-Finds bbd0455f: 4060991524210329",
   "22:16:53 POSTED facebook@Vijayendra-Singh bbd0455f: 2136633167247002",
@@ -5819,13 +5830,21 @@
   "17:00:53 READY 0b1de4f1 Plastic Scoop Set (auto-approved)",
   "17:01:07 POSTED instagram@Vinzap-Finds 0b1de4f1: 18131138935804667",
   "17:01:11 POSTED facebook@Vinzap-Finds 0b1de4f1: 1428352113685678_122111098251501659",
-  "17:01:15 POSTED facebook@Vijayendra-Singh 0b1de4f1: 1317760538089559_122121796437480728"
+  "17:01:15 POSTED facebook@Vijayendra-Singh 0b1de4f1: 1317760538089559_122121796437480728",
+  "17:32:33 READY f46333b8 Wall Mounted Disposable Paper Cup Holder | Kitchen Gadgets (auto-approved)",
+  "17:33:05 POSTED instagram@Vinzap-Finds f46333b8: 17958585333018308",
+  "17:33:10 POSTED facebook@Vinzap-Finds f46333b8: 1431053855673635",
+  "17:33:15 POSTED facebook@Vijayendra-Singh f46333b8: 1143088984833951",
+  "17:33:20 POSTED youtube f46333b8: YYoO06eL2v8",
+  "17:33:52 STORY POSTED instagram@Vinzap-Finds f46333b8",
+  "17:34:02 STORY POSTED facebook@Vinzap-Finds f46333b8",
+  "17:34:12 STORY POSTED facebook@Vijayendra-Singh f46333b8"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792668653.9378452,
-  "facebook@Vinzap-Finds": 1792668653.9378452,
-  "facebook@Vijayendra-Singh": 1792668653.9378452,
-  "youtube": 1792661480.9820411
+  "instagram@Vinzap-Finds": 1792670554.0131664,
+  "facebook@Vinzap-Finds": 1792670554.0131664,
+  "facebook@Vijayendra-Singh": 1792670554.0131664,
+  "youtube": 1792670554.0131664
  },
- "n": 84
+ "n": 85
 }
