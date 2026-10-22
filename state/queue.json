@@ -5506,14 +5506,72 @@
      "id": "1805218930372740"
     }
    }
+  },
+  {
+   "id": "b32ab546",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Cute Cartoon Double Layer Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1999,
+    "was": 0,
+    "feats": [
+     "Double layer for separate food",
+     "Cartoon-themed look",
+     "Side locks and a carry handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Cute Cartoon Double Layer Lunch Box | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Cute Cartoon Double Layer Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCute Cartoon Double Layer Lunch Box\n✔ Double layer for separate food\n✔ Cartoon-themed look\n✔ Side locks and a carry handle\n\nOnly ₹1999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
+   "title": "Cute Cartoon Double Layer Lunch Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792659812.4475975,
+     "id": "17965612286981275",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792659812.4475975,
+     "id": "1428352113685678_122111050245501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792659812.4475975,
+     "id": "1317760538089559_122121757971480728",
+     "dry": false
+    }
+   },
+   "created": 1792659810.0948386,
+   "after": 0,
+   "handle": "cute-cartoon-double-layer-lunch-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/cute-cartoon-double-layer-lunch-box-1-pc",
+   "file": "b32ab546.jpg",
+   "thumb": "b32ab546.jpg"
   }
  ],
- "last_post": 1792657889.8008282,
+ "last_post": 1792659812.4475975,
  "log": [
-  "19:01:55 READY f44c2027 Stainless Steel Potato Masher 17cm | Cooking (auto-approved)",
-  "19:02:34 POSTED instagram@Vinzap-Finds f44c2027: 18210495517364560",
-  "19:02:39 POSTED facebook@Vinzap-Finds f44c2027: 1448701284995210",
-  "19:02:43 POSTED facebook@Vijayendra-Singh f44c2027: 29173168802280845",
   "19:03:15 STORY POSTED instagram@Vinzap-Finds f44c2027",
   "19:03:24 STORY POSTED facebook@Vinzap-Finds f44c2027",
   "19:03:33 STORY POSTED facebook@Vijayendra-Singh f44c2027",
@@ -5709,13 +5767,17 @@
   "14:02:14 POSTED facebook@Vijayendra-Singh fa099a62: 1677839927403616",
   "14:02:54 STORY POSTED instagram@Vinzap-Finds fa099a62",
   "14:03:07 STORY POSTED facebook@Vinzap-Finds fa099a62",
-  "14:03:22 STORY POSTED facebook@Vijayendra-Singh fa099a62"
+  "14:03:22 STORY POSTED facebook@Vijayendra-Singh fa099a62",
+  "14:33:32 READY b32ab546 Cute Cartoon Double Layer Lunch Box (auto-approved)",
+  "14:33:44 POSTED instagram@Vinzap-Finds b32ab546: 17965612286981275",
+  "14:33:48 POSTED facebook@Vinzap-Finds b32ab546: 1428352113685678_122111050245501659",
+  "14:33:53 POSTED facebook@Vijayendra-Singh b32ab546: 1317760538089559_122121757971480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792657889.8008282,
-  "facebook@Vinzap-Finds": 1792657889.8008282,
-  "facebook@Vijayendra-Singh": 1792657889.8008282,
-  "youtube": 1792650677.7261498
+  "instagram@Vinzap-Finds": 1792659812.4475975,
+  "facebook@Vinzap-Finds": 1792659812.4475975,
+  "facebook@Vijayendra-Singh": 1792659812.4475975,
+  "youtube": 1792650257.7261498
  },
- "n": 79
+ "n": 80
 }
