@@ -5367,14 +5367,72 @@
      "id": "1556823606128474"
     }
    }
+  },
+  {
+   "id": "73cd4aec",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "400ml Office Coffee Mug",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Lid keeps a drink warm through",
+     "Handle lets you lift and set it",
+     "400 ML holds a proper working mug"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "400ml Office Coffee Mug | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "400ml Office Coffee Mug"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n400ml Office Coffee Mug\n✔ Lid keeps a drink warm through\n✔ Handle lets you lift and set it\n✔ 400 ML holds a proper working mug\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#kitchengadgets #kitchenorganization",
+   "title": "400ml Office Coffee Mug",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792656059.6114523,
+     "id": "18449291194125911",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792656059.6114523,
+     "id": "1428352113685678_122111030091501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792656059.6114523,
+     "id": "1317760538089559_122121744039480728",
+     "dry": false
+    }
+   },
+   "created": 1792656057.11885,
+   "after": 0,
+   "handle": "apex-office-mug-400-ml-with-handle-and-lid-steel-rim-coffee-mug-1-pcapex-office-mug-400-ml-with-handle-and-lid-steel-rim-coffee-mug-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-office-mug-400-ml-with-handle-and-lid-steel-rim-coffee-mug-1-pcapex-office-mug-400-ml-with-handle-and-lid-steel-rim-coffee-mug-1-pc",
+   "file": "73cd4aec.jpg",
+   "thumb": "73cd4aec.jpg"
   }
  ],
- "last_post": 1792654429.7500331,
+ "last_post": 1792656059.6114523,
  "log": [
-  "18:02:09 POSTED instagram@Vinzap-Finds 597b0c42: 18096283772383097",
-  "18:02:14 POSTED facebook@Vinzap-Finds 597b0c42: 1287799776809992",
-  "18:02:18 POSTED facebook@Vijayendra-Singh 597b0c42: 1106911852036859",
-  "18:02:27 POSTED youtube 597b0c42: B_fE6ZIX_dY",
   "18:02:57 STORY POSTED instagram@Vinzap-Finds 597b0c42",
   "18:03:09 STORY POSTED facebook@Vinzap-Finds 597b0c42",
   "18:03:18 STORY POSTED facebook@Vijayendra-Singh 597b0c42",
@@ -5570,13 +5628,17 @@
   "13:04:49 POSTED facebook@Vijayendra-Singh 6746d99c: 2123334115210540",
   "13:05:28 STORY POSTED instagram@Vinzap-Finds 6746d99c",
   "13:05:43 STORY POSTED facebook@Vinzap-Finds 6746d99c",
-  "13:05:56 STORY POSTED facebook@Vijayendra-Singh 6746d99c"
+  "13:05:56 STORY POSTED facebook@Vijayendra-Singh 6746d99c",
+  "13:30:59 READY 73cd4aec 400ml Office Coffee Mug (auto-approved)",
+  "13:31:16 POSTED instagram@Vinzap-Finds 73cd4aec: 18449291194125911",
+  "13:31:19 POSTED facebook@Vinzap-Finds 73cd4aec: 1428352113685678_122111030091501659",
+  "13:31:23 POSTED facebook@Vijayendra-Singh 73cd4aec: 1317760538089559_122121744039480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792654429.7500331,
-  "facebook@Vinzap-Finds": 1792654429.7500331,
-  "facebook@Vijayendra-Singh": 1792654429.7500331,
+  "instagram@Vinzap-Finds": 1792656059.6114523,
+  "facebook@Vinzap-Finds": 1792656059.6114523,
+  "facebook@Vijayendra-Singh": 1792656059.6114523,
   "youtube": 1792650677.7261498
  },
- "n": 77
+ "n": 78
 }
