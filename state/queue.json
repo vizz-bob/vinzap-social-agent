@@ -5145,18 +5145,93 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-protein-tumbler-with-secure-flip-lid-400ml-approx",
    "file": "1cd2b8b2.jpg",
    "thumb": "1cd2b8b2.jpg"
+  },
+  {
+   "id": "ae49bb71",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Fruit and Veg Slicing Combo of 3",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "3 in 1 Watermelon Slicer Knife",
+     "Multipurpose Fruit Slicer with 7",
+     "Multipurpose Peeler with Brush"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Fruit and Veg Slicing Combo of 3 | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fruit and Veg Slicing Combo of 3"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFruit and Veg Slicing Combo of 3\n✔ 3 in 1 Watermelon Slicer Knife\n✔ Multipurpose Fruit Slicer with 7\n✔ Multipurpose Peeler with Brush\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#trendingshorts #kitchengadgets",
+   "title": "Fruit and Veg Slicing Combo of 3 | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792650677.7261498,
+     "id": "18122295043940025",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792650677.7261498,
+     "id": "1166421642715048",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792650677.7261498,
+     "id": "1095916476554005",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792650677.7261498,
+     "id": "wEj5oXI4fzY",
+     "dry": false
+    }
+   },
+   "created": 1792650647.315258,
+   "after": 0,
+   "handle": "fruit-veg-slicing-combo-of-3",
+   "product_url": "https://www.vinzapstore.in/products/fruit-veg-slicing-combo-of-3",
+   "file": "ae49bb71.mp4",
+   "thumb": "ae49bb71_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18109851683611343"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2372333933572476"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1613876920505929"
+    }
+   }
   }
  ],
- "last_post": 1792602077.618707,
+ "last_post": 1792650677.7261498,
  "log": [
-  "16:02:39 STORY POSTED instagram@Vinzap-Finds 93d09d47",
-  "16:02:47 STORY POSTED facebook@Vinzap-Finds 93d09d47",
-  "16:02:54 STORY POSTED facebook@Vijayendra-Singh 93d09d47",
-  "16:27:22 READY 857f4141 Extra Large Leakproof Water Bottle 1700ml (auto-approved)",
-  "16:27:34 POSTED instagram@Vinzap-Finds 857f4141: 18442932862177622",
-  "16:27:39 POSTED facebook@Vinzap-Finds 857f4141: 1428352113685678_122110319805501659",
-  "16:27:43 POSTED facebook@Vijayendra-Singh 857f4141: 1317760538089559_122121063471480728",
-  "17:01:09 READY 90086db0 Leak Proof Plastic Water Bottle 900ml | Diwali (auto-approved)",
   "17:01:44 POSTED instagram@Vinzap-Finds 90086db0: 18138368056619646",
   "17:01:48 POSTED facebook@Vinzap-Finds 90086db0: 1111151484857317",
   "17:01:52 POSTED facebook@Vijayendra-Singh 90086db0: 2283011182241944",
@@ -5348,13 +5423,21 @@
   "22:31:17 READY 1cd2b8b2 Protein Shaker Tumbler 400ml (auto-approved)",
   "22:31:31 POSTED instagram@Vinzap-Finds 1cd2b8b2: 18123912509490303",
   "22:31:35 POSTED facebook@Vinzap-Finds 1cd2b8b2: 1428352113685678_122110812327501659",
-  "22:31:39 POSTED facebook@Vijayendra-Singh 1cd2b8b2: 1317760538089559_122121560547480728"
+  "22:31:39 POSTED facebook@Vijayendra-Singh 1cd2b8b2: 1317760538089559_122121560547480728",
+  "12:01:17 READY ae49bb71 Fruit and Veg Slicing Combo of 3 | Trending Shorts (auto-approved)",
+  "12:01:54 POSTED instagram@Vinzap-Finds ae49bb71: 18122295043940025",
+  "12:01:59 POSTED facebook@Vinzap-Finds ae49bb71: 1166421642715048",
+  "12:02:03 POSTED facebook@Vijayendra-Singh ae49bb71: 1095916476554005",
+  "12:02:09 POSTED youtube ae49bb71: wEj5oXI4fzY",
+  "12:02:41 STORY POSTED instagram@Vinzap-Finds ae49bb71",
+  "12:02:50 STORY POSTED facebook@Vinzap-Finds ae49bb71",
+  "12:02:58 STORY POSTED facebook@Vijayendra-Singh ae49bb71"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792602077.618707,
-  "facebook@Vinzap-Finds": 1792602077.618707,
-  "facebook@Vijayendra-Singh": 1792602077.618707,
-  "youtube": 1792596692.7817664
+  "instagram@Vinzap-Finds": 1792650677.7261498,
+  "facebook@Vinzap-Finds": 1792650677.7261498,
+  "facebook@Vijayendra-Singh": 1792650677.7261498,
+  "youtube": 1792650677.7261498
  },
- "n": 74
+ "n": 75
 }
