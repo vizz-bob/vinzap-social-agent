@@ -34,7 +34,7 @@ jobs:
           pip install --quiet pillow numpy
       - name: Make and post one item
         if: steps.gate.outputs.due == 'true'
-        timeout-minutes: 10
+        timeout-minutes: 15
         run: python3 run_once.py
       - name: Save state
         if: always()
