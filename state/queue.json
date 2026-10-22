@@ -5228,14 +5228,72 @@
      "id": "1613876920505929"
     }
    }
+  },
+  {
+   "id": "a5f6e777",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Vacuum Insulated Water",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1499,
+    "was": 0,
+    "feats": [
+     "Double wall vacuum insulation",
+     "1000 ML large capacity ensures",
+     "Premium stainless steel"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Stainless Steel Vacuum Insulated Water | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Vacuum Insulated Water"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vacuum Insulated Water\n✔ Double wall vacuum insulation\n✔ 1000 ML large capacity ensures\n✔ Premium stainless steel\n\nOnly ₹1499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
+   "title": "Stainless Steel Vacuum Insulated Water",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792652464.104523,
+     "id": "17947103841357266",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792652464.104523,
+     "id": "1428352113685678_122111012937501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792652464.104523,
+     "id": "1317760538089559_122121732039480728",
+     "dry": false
+    }
+   },
+   "created": 1792652462.004653,
+   "after": 0,
+   "handle": "stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
+   "file": "a5f6e777.jpg",
+   "thumb": "a5f6e777.jpg"
   }
  ],
- "last_post": 1792650677.7261498,
+ "last_post": 1792652464.104523,
  "log": [
-  "17:01:44 POSTED instagram@Vinzap-Finds 90086db0: 18138368056619646",
-  "17:01:48 POSTED facebook@Vinzap-Finds 90086db0: 1111151484857317",
-  "17:01:52 POSTED facebook@Vijayendra-Singh 90086db0: 2283011182241944",
-  "17:02:25 STORY POSTED instagram@Vinzap-Finds 90086db0",
   "17:02:33 STORY POSTED facebook@Vinzap-Finds 90086db0",
   "17:02:42 STORY POSTED facebook@Vijayendra-Singh 90086db0",
   "17:31:06 READY 5a774963 Smiley Design Plastic Soap Case (auto-approved)",
@@ -5431,13 +5489,17 @@
   "12:02:09 POSTED youtube ae49bb71: wEj5oXI4fzY",
   "12:02:41 STORY POSTED instagram@Vinzap-Finds ae49bb71",
   "12:02:50 STORY POSTED facebook@Vinzap-Finds ae49bb71",
-  "12:02:58 STORY POSTED facebook@Vijayendra-Singh ae49bb71"
+  "12:02:58 STORY POSTED facebook@Vijayendra-Singh ae49bb71",
+  "12:31:04 READY a5f6e777 Stainless Steel Vacuum Insulated Water (auto-approved)",
+  "12:31:15 POSTED instagram@Vinzap-Finds a5f6e777: 17947103841357266",
+  "12:31:18 POSTED facebook@Vinzap-Finds a5f6e777: 1428352113685678_122111012937501659",
+  "12:31:22 POSTED facebook@Vijayendra-Singh a5f6e777: 1317760538089559_122121732039480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792650677.7261498,
-  "facebook@Vinzap-Finds": 1792650677.7261498,
-  "facebook@Vijayendra-Singh": 1792650677.7261498,
+  "instagram@Vinzap-Finds": 1792652464.104523,
+  "facebook@Vinzap-Finds": 1792652464.104523,
+  "facebook@Vijayendra-Singh": 1792652464.104523,
   "youtube": 1792650677.7261498
  },
- "n": 75
+ "n": 76
 }
