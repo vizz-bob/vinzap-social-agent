@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "b3f88e44",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "navratri",
-    "headline": "Apex Power-X Hand-Pull Vegetable Chopper",
-    "strip": "Navratri Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "500ML Capacity: Perfect",
-     "Triple Stainless Steel Blades:",
-     "Patented Pull-Cord Mechanism:"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Apex Power-X Hand-Pull Vegetable Chopper | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Power-X Hand-Pull Vegetable Chopper"
-   },
-   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nApex Power-X Hand-Pull Vegetable Chopper\n✔ 500ML Capacity: Perfect\n✔ Triple Stainless Steel Blades:\n✔ Patented Pull-Cord Mechanism:\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Apex Power-X Hand-Pull Vegetable Chopper | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792427479.247098,
-     "id": "17907589224573498",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792427479.247098,
-     "id": "2170569050222276",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792427479.247098,
-     "id": "1636191911567747",
-     "dry": false
-    }
-   },
-   "created": 1792427447.374531,
-   "after": 0,
-   "handle": "apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
-   "product_url": "https://www.vinzapstore.in/products/apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
-   "file": "b3f88e44.mp4",
-   "thumb": "b3f88e44_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17980330023136947"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1663344025298924"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1486996650018354"
-    }
-   }
-  },
-  {
    "id": "4e1d2b6c",
    "status": "posted",
    "kind": "image",
@@ -5641,17 +5564,86 @@
    "product_url": "https://www.vinzapstore.in/products/white-enamel-mugs",
    "file": "a365637f.jpg",
    "thumb": "a365637f.jpg"
+  },
+  {
+   "id": "ae1c9159",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Leak Proof Sports Water Bottle 400ml BPA",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "6955 outdoor sport water bottle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Leak Proof Sports Water Bottle 400ml BPA | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Leak Proof Sports Water Bottle 400ml BPA"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLeak Proof Sports Water Bottle 400ml BPA\n✔ 6955 outdoor sport water bottle\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
+   "title": "Leak Proof Sports Water Bottle 400ml BPA | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792767982.8422408,
+     "id": "18052947215810280",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792767982.8422408,
+     "id": "1841166690416915",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792767982.8422408,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu-fA0BA4ocODzg2_rIBtQC_s"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792767982.8422408,
+     "id": "pBF1qMP0pUM",
+     "dry": false
+    }
+   },
+   "created": 1792767956.9154096,
+   "after": 0,
+   "handle": "6955-outdoor-sport-water-bottle-400ml-leak-proof-bpa-free-for-travel-cold-and-hot-water-glass-water-bottle-with-daily-water-intake-for-gym-and-children-moq-100-pc",
+   "product_url": "https://www.vinzapstore.in/products/6955-outdoor-sport-water-bottle-400ml-leak-proof-bpa-free-for-travel-cold-and-hot-water-glass-water-bottle-with-daily-water-intake-for-gym-and-children-moq-100-pc",
+   "file": "ae1c9159.mp4",
+   "thumb": "ae1c9159_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18146324644583258"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1713543727006992"
+    }
+   }
   }
  ],
- "last_post": 1792765276.6995056,
+ "last_post": 1792767982.8422408,
  "log": [
-  "22:02:39 STORY POSTED facebook@Vinzap-Finds f6d59a8d",
-  "22:02:50 STORY POSTED facebook@Vijayendra-Singh f6d59a8d",
-  "22:31:17 READY 1cd2b8b2 Protein Shaker Tumbler 400ml (auto-approved)",
-  "22:31:31 POSTED instagram@Vinzap-Finds 1cd2b8b2: 18123912509490303",
-  "22:31:35 POSTED facebook@Vinzap-Finds 1cd2b8b2: 1428352113685678_122110812327501659",
-  "22:31:39 POSTED facebook@Vijayendra-Singh 1cd2b8b2: 1317760538089559_122121560547480728",
-  "12:01:17 READY ae49bb71 Fruit and Veg Slicing Combo of 3 | Trending Shorts (auto-approved)",
   "12:01:54 POSTED instagram@Vinzap-Finds ae49bb71: 18122295043940025",
   "12:01:59 POSTED facebook@Vinzap-Finds ae49bb71: 1166421642715048",
   "12:02:03 POSTED facebook@Vijayendra-Singh ae49bb71: 1095916476554005",
@@ -5844,13 +5836,20 @@
   "19:51:16 READY a365637f White Enamel Mug Custom Printed (auto-approved)",
   "19:51:29 POSTED instagram@Vinzap-Finds a365637f: 17907058377662806",
   "19:51:32 POSTED facebook@Vinzap-Finds a365637f: 1428352113685678_122111518935501659",
-  "19:51:35 POSTED facebook@Vijayendra-Singh a365637f: 1317760538089559_122122166145480728"
+  "19:51:35 POSTED facebook@Vijayendra-Singh a365637f: 1317760538089559_122122166145480728",
+  "20:36:22 READY ae1c9159 Leak Proof Sports Water Bottle 400ml BPA | Trending Shorts (auto-approved)",
+  "20:37:01 POSTED instagram@Vinzap-Finds ae1c9159: 18052947215810280",
+  "20:37:06 POSTED facebook@Vinzap-Finds ae1c9159: 1841166690416915",
+  "20:37:07 FAILED post facebook@Vijayendra-Singh ae1c9159: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu-fA0BA4ocODzg2_rIBtQC_s_GV9MzvrMXS5S5fSFjNBuMUA1l0MK8dxtkLUFXul6jg9Qj3zg3mWx3qK3JMXsj2nJI0s_r3DKa5MHkU-jQg6WxHb_4hiTfGa-O7tWCBxUyMuk3wRXd4oTDvhFI2TGUguzrovvv99Ap_27nzssKQbeNGy2Hvx5ZxyMWBffYJuiFXG6fuR6qx-kE3aj0-oExxVFVtodADHQDwqksirde7BEA8M6W4z07Y7NtdYXKEtrFATrMfhfdSJdDd2aFqFrxG6v_rP5ngXo7MYMBZR0lUfzASyJW8tUU0vBffQOHnAQ\",\"help_cente",
+  "20:37:12 POSTED youtube ae1c9159: pBF1qMP0pUM",
+  "20:37:42 STORY POSTED instagram@Vinzap-Finds ae1c9159",
+  "20:37:50 STORY POSTED facebook@Vinzap-Finds ae1c9159"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792765276.6995056,
-  "facebook@Vinzap-Finds": 1792765276.6995056,
-  "facebook@Vijayendra-Singh": 1792765276.6995056,
-  "youtube": 1792758673.409134
+  "instagram@Vinzap-Finds": 1792767982.8422408,
+  "facebook@Vinzap-Finds": 1792767982.8422408,
+  "facebook@Vijayendra-Singh": 1792767982.8422408,
+  "youtube": 1792767982.8422408
  },
- "n": 108
+ "n": 109
 }
