@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "bfa6f204",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "navratri",
-    "headline": "Wooden Mouse Rat Trap",
-    "strip": "Navratri Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "EASY MOUSE TRAP: Classic easy",
-     "PREMIUM AND REUSABLE: Made from",
-     "EASY TO SET MOUSE TRAP: With just"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Wooden Mouse Rat Trap | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wooden Mouse Rat Trap"
-   },
-   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nWooden Mouse Rat Trap\n✔ EASY MOUSE TRAP: Classic easy\n✔ PREMIUM AND REUSABLE: Made from\n✔ EASY TO SET MOUSE TRAP: With just\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Wooden Mouse Rat Trap",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792425655.3914497,
-     "id": "17982869904106887",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792425655.3914497,
-     "id": "1428352113685678_122110043853501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792425655.3914497,
-     "id": "1317760538089559_122120811555480728",
-     "dry": false
-    }
-   },
-   "created": 1792425652.5606205,
-   "after": 0,
-   "handle": "wooden-mouse-rat-traps-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/wooden-mouse-rat-traps-1-pc",
-   "file": "bfa6f204.jpg",
-   "thumb": "bfa6f204.jpg"
-  },
-  {
    "id": "b3f88e44",
    "status": "scheduled",
    "kind": "reel",
@@ -5641,14 +5579,72 @@
      "id": "1098578689756312"
     }
    }
+  },
+  {
+   "id": "a365637f",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "White Enamel Mug Custom Printed",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 450,
+    "was": 0,
+    "feats": [
+     "Material: enamel-coated stainless",
+     "Capacity: 11 oz",
+     "Silver rim"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "White Enamel Mug Custom Printed | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "White Enamel Mug Custom Printed"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWhite Enamel Mug Custom Printed\n✔ Material: enamel-coated stainless\n✔ Capacity: 11 oz\n✔ Silver rim\n\nOnly ₹450. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #mug #giftideas #festivegifts\n#homedecorideas #diwali",
+   "title": "White Enamel Mug Custom Printed",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792765276.6995056,
+     "id": "17907058377662806",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792765276.6995056,
+     "id": "1428352113685678_122111518935501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792765276.6995056,
+     "id": "1317760538089559_122122166145480728",
+     "dry": false
+    }
+   },
+   "created": 1792765275.446464,
+   "after": 0,
+   "handle": "white-enamel-mugs",
+   "product_url": "https://www.vinzapstore.in/products/white-enamel-mugs",
+   "file": "a365637f.jpg",
+   "thumb": "a365637f.jpg"
   }
  ],
- "last_post": 1792762282.7615275,
+ "last_post": 1792765276.6995056,
  "log": [
-  "22:01:48 POSTED instagram@Vinzap-Finds f6d59a8d: 17992602816047859",
-  "22:01:52 POSTED facebook@Vinzap-Finds f6d59a8d: 2258628421381837",
-  "22:01:55 POSTED facebook@Vijayendra-Singh f6d59a8d: 1408252621296121",
-  "22:02:29 STORY POSTED instagram@Vinzap-Finds f6d59a8d",
   "22:02:39 STORY POSTED facebook@Vinzap-Finds f6d59a8d",
   "22:02:50 STORY POSTED facebook@Vijayendra-Singh f6d59a8d",
   "22:31:17 READY 1cd2b8b2 Protein Shaker Tumbler 400ml (auto-approved)",
@@ -5844,13 +5840,17 @@
   "19:02:08 POSTED facebook@Vijayendra-Singh 17a8af5d: 39333772782934160",
   "19:02:40 STORY POSTED instagram@Vinzap-Finds 17a8af5d",
   "19:02:49 STORY POSTED facebook@Vinzap-Finds 17a8af5d",
-  "19:02:56 STORY POSTED facebook@Vijayendra-Singh 17a8af5d"
+  "19:02:56 STORY POSTED facebook@Vijayendra-Singh 17a8af5d",
+  "19:51:16 READY a365637f White Enamel Mug Custom Printed (auto-approved)",
+  "19:51:29 POSTED instagram@Vinzap-Finds a365637f: 17907058377662806",
+  "19:51:32 POSTED facebook@Vinzap-Finds a365637f: 1428352113685678_122111518935501659",
+  "19:51:35 POSTED facebook@Vijayendra-Singh a365637f: 1317760538089559_122122166145480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792762282.7615275,
-  "facebook@Vinzap-Finds": 1792762282.7615275,
-  "facebook@Vijayendra-Singh": 1792762282.7615275,
+  "instagram@Vinzap-Finds": 1792765276.6995056,
+  "facebook@Vinzap-Finds": 1792765276.6995056,
+  "facebook@Vijayendra-Singh": 1792765276.6995056,
   "youtube": 1792758673.409134
  },
- "n": 107
+ "n": 108
 }
