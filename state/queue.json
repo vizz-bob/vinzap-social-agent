@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "1d54dc01",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Dish Brush Set",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "9-piece set",
-     "3 interchangeable brush heads",
-     "Long handle with an angled head"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Dish Brush Set | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Dish Brush Set"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nDish Brush Set\n✔ 9-piece set\n✔ 3 interchangeable brush heads\n✔ Long handle with an angled head\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#cooking #homedecor",
-   "title": "Dish Brush Set | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792481468.1701217,
-     "id": "18088231640315484",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792481468.1701217,
-     "id": "1433972353127071",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792481468.1701217,
-     "id": "1125603000002303",
-     "dry": false
-    }
-   },
-   "created": 1792481449.4500022,
-   "after": 0,
-   "handle": "dish-brush-set-with-handle-replacement-heads-drain-tray-in-kitchen-9-pcs-set",
-   "product_url": "https://www.vinzapstore.in/products/dish-brush-set-with-handle-replacement-heads-drain-tray-in-kitchen-9-pcs-set",
-   "file": "1d54dc01.mp4",
-   "thumb": "1d54dc01_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18144938440590463"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1446941694072852"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1986694062004523"
-    }
-   }
-  },
-  {
    "id": "f6878adf",
    "status": "posted",
    "kind": "image",
@@ -5624,16 +5547,82 @@
    "product_url": "https://www.vinzapstore.in/products/transparent-glass-serving-tray-11-inch-rectangular-basketweave-platter-1-pc",
    "file": "d25d48a7.jpg",
    "thumb": "d25d48a7.jpg"
+  },
+  {
+   "id": "147d66d2",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Electric Glass Kettle 2 Litre",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 4999,
+    "was": 0,
+    "feats": [
+     "Large 2 litre capacity",
+     "Transparent glass body lets you",
+     "Stainless steel heating plate"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Electric Glass Kettle 2 Litre | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Glass Kettle 2 Litre"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Glass Kettle 2 Litre\n✔ Large 2 litre capacity\n✔ Transparent glass body lets you\n✔ Stainless steel heating plate\n\nOnly ₹4999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Electric Glass Kettle 2 Litre | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792774880.7654648,
+     "id": "18108759470251785",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792774880.7654648,
+     "id": "1820485369151762",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792774880.7654648,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AethTTan2cs2NIPz575qDLSc8G"
+    }
+   },
+   "created": 1792774861.7843273,
+   "after": 0,
+   "handle": "suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
+   "file": "147d66d2.mp4",
+   "thumb": "147d66d2_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18228746623330592"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2589052371579692"
+    }
+   }
   }
  ],
- "last_post": 1792773059.500613,
+ "last_post": 1792774880.7654648,
  "log": [
-  "13:04:43 POSTED facebook@Vinzap-Finds 6746d99c: 1120612520414451",
-  "13:04:49 POSTED facebook@Vijayendra-Singh 6746d99c: 2123334115210540",
-  "13:05:28 STORY POSTED instagram@Vinzap-Finds 6746d99c",
-  "13:05:43 STORY POSTED facebook@Vinzap-Finds 6746d99c",
-  "13:05:56 STORY POSTED facebook@Vijayendra-Singh 6746d99c",
-  "13:30:59 READY 73cd4aec 400ml Office Coffee Mug (auto-approved)",
   "13:31:16 POSTED instagram@Vinzap-Finds 73cd4aec: 18449291194125911",
   "13:31:19 POSTED facebook@Vinzap-Finds 73cd4aec: 1428352113685678_122111030091501659",
   "13:31:23 POSTED facebook@Vijayendra-Singh 73cd4aec: 1317760538089559_122121744039480728",
@@ -5827,13 +5816,19 @@
   "22:00:59 READY d25d48a7 Glass Serving Tray 11 Inch Rectangular (auto-approved)",
   "22:01:08 POSTED instagram@Vinzap-Finds d25d48a7: 18340132840276866",
   "22:01:11 POSTED facebook@Vinzap-Finds d25d48a7: 1428352113685678_122111554479501659",
-  "22:01:14 POSTED facebook@Vijayendra-Singh d25d48a7: 1317760538089559_122122229961480728"
+  "22:01:14 POSTED facebook@Vijayendra-Singh d25d48a7: 1317760538089559_122122229961480728",
+  "22:31:20 READY 147d66d2 Electric Glass Kettle 2 Litre | Trending Shorts (auto-approved)",
+  "22:32:05 POSTED instagram@Vinzap-Finds 147d66d2: 18108759470251785",
+  "22:32:10 POSTED facebook@Vinzap-Finds 147d66d2: 1820485369151762",
+  "22:32:11 FAILED post facebook@Vijayendra-Singh 147d66d2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AethTTan2cs2NIPz575qDLSc8GyppseWXvQVrD5JYPy2Gj3WLI-nBKfVXBdoHL-VFirzCY5SV9hd9rScmLvswKFc13TanXo24TOSJeooHiGZ8WkVenk5cpaTZyF03ESdkvHjMytPE-_aYqbS8eKKGQKW8IcOFiVDAUP-ZxKJ_6WmEuRaP0M9gCU2zaqjq6SWRvLNuhBQ9jpzJzeaBFI9FFBpUhxHPKYbvuoP-G8bXYCtt-rR8BStDtdA_hTTw7aY6DYdDHhEBn_8_kCa6eFEOJKE1poXBsnkhUw382Y6ujF0bZ1AYw-obCUg_GqkWwHuXIY\",\"help_cente",
+  "22:32:55 STORY POSTED instagram@Vinzap-Finds 147d66d2",
+  "22:33:03 STORY POSTED facebook@Vinzap-Finds 147d66d2"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792773059.500613,
-  "facebook@Vinzap-Finds": 1792773059.500613,
-  "facebook@Vijayendra-Singh": 1792773059.500613,
+  "instagram@Vinzap-Finds": 1792774880.7654648,
+  "facebook@Vinzap-Finds": 1792774880.7654648,
+  "facebook@Vijayendra-Singh": 1792774880.7654648,
   "youtube": 1792767982.8422408
  },
- "n": 112
+ "n": 113
 }
