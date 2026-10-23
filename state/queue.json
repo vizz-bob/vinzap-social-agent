@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "105ae1ac",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "5-Layer Rotating Spice Rack & Seasoning Box",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 699,
-    "was": 0,
-    "feats": [
-     "Five stacked layers hold five",
-     "Each layer rotates out separately",
-     "Transparent containers let you"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "5-Layer Rotating Spice Rack & Seasoning Box | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "5-Layer Rotating Spice Rack & Seasoning Box"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\n5-Layer Rotating Spice Rack & Seasoning Box\n✔ Five stacked layers hold five\n✔ Each layer rotates out separately\n✔ Transparent containers let you\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "5-Layer Rotating Spice Rack & Seasoning Box | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792477882.321322,
-     "id": "18110504636184561",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792477882.321322,
-     "id": "3709913282501123",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792477882.321322,
-     "id": "1038772979235077",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792477882.321322,
-     "id": "CLTL_l4-2es",
-     "dry": false
-    }
-   },
-   "created": 1792477850.761962,
-   "after": 0,
-   "handle": "plastic-rotating-seasoning-box-5-layer-wall-mounted-spice-rack-1-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-rotating-seasoning-box-5-layer-wall-mounted-spice-rack-1-set",
-   "file": "105ae1ac.mp4",
-   "thumb": "105ae1ac_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18199053916383827"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1750107776292056"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1580290036759465"
-    }
-   }
-  },
-  {
    "id": "38838cca",
    "status": "posted",
    "kind": "image",
@@ -5640,15 +5557,77 @@
    "product_url": "https://www.vinzapstore.in/products/long-handle-silicone-bottle-cleaning-brush-32-cm-1-pc-1",
    "file": "5ce5feaf.jpg",
    "thumb": "5ce5feaf.jpg"
+  },
+  {
+   "id": "fae57d72",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Transparent Plastic Cup",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Transparent body lets you see",
+     "Comfortable side handle",
+     "Anti-slip grip band around"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Transparent Plastic Cup | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Transparent Plastic Cup"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Plastic Cup\n✔ Transparent body lets you see\n✔ Comfortable side handle\n✔ Anti-slip grip band around\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#diwali #trendingshorts",
+   "title": "Transparent Plastic Cup | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": false,
+     "ts": 1792771283.2434442,
+     "error": "HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792771283.2434442,
+     "id": "1138680568671220",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792771283.2434442,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesxHkiz6e9QqiIh9fJxx4bMlC"
+    }
+   },
+   "created": 1792771260.7331984,
+   "after": 0,
+   "handle": "transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
+   "file": "fae57d72.mp4",
+   "thumb": "fae57d72_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1641115950946244"
+    }
+   }
   }
  ],
- "last_post": 1792769455.3450742,
+ "last_post": 1792771283.2434442,
  "log": [
-  "12:02:41 STORY POSTED instagram@Vinzap-Finds ae49bb71",
-  "12:02:50 STORY POSTED facebook@Vinzap-Finds ae49bb71",
-  "12:02:58 STORY POSTED facebook@Vijayendra-Singh ae49bb71",
-  "12:31:04 READY a5f6e777 Stainless Steel Vacuum Insulated Water (auto-approved)",
-  "12:31:15 POSTED instagram@Vinzap-Finds a5f6e777: 17947103841357266",
   "12:31:18 POSTED facebook@Vinzap-Finds a5f6e777: 1428352113685678_122111012937501659",
   "12:31:22 POSTED facebook@Vijayendra-Singh a5f6e777: 1317760538089559_122121732039480728",
   "13:03:49 READY 6746d99c Supermom Stainless Steel Carrot Grater | Kitchen Organization (auto-approved)",
@@ -5843,13 +5822,18 @@
   "21:00:55 READY 5ce5feaf Long Handle Silicone Bottle Cleaning Brush (auto-approved)",
   "21:01:10 POSTED instagram@Vinzap-Finds 5ce5feaf: 18116537434832707",
   "21:01:13 POSTED facebook@Vinzap-Finds 5ce5feaf: 1428352113685678_122111535411501659",
-  "21:01:17 POSTED facebook@Vijayendra-Singh 5ce5feaf: 1317760538089559_122122188549480728"
+  "21:01:17 POSTED facebook@Vijayendra-Singh 5ce5feaf: 1317760538089559_122122188549480728",
+  "21:31:23 READY fae57d72 Transparent Plastic Cup | Diwali (auto-approved)",
+  "21:32:00 FAILED post instagram@Vinzap-Finds fae57d72: HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
+  "21:32:07 POSTED facebook@Vinzap-Finds fae57d72: 1138680568671220",
+  "21:32:09 FAILED post facebook@Vijayendra-Singh fae57d72: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesxHkiz6e9QqiIh9fJxx4bMlC48Gg3wp8lfbmVa-2oPG81gQ_Z4riMloUWtuBeLv6d2qFlBW5AosCRG3U7XW_5tnnMkhcCWaoWyee4tRiPasbRvaMjEtXzM3q6jDhPQ_FiKBtOQIbkeoJxOEO-3NiF8Q6Rcj1G0q2Sn1sAYqCLm5znckeO7-Pbc5-ipGT5SNt6je8mCJ3kdTKnYYrrjahmOx7_f4bfS7fUsNpqdtsm8ffs871o2mgzeIVezLV4dPessnJeY3ZLAINDvD_KY3XUVjfySRToF3T8R0Unc97Xmcf71Uyfh7m8DMCj4yb_FSgtF\",\"help_cent",
+  "21:32:22 STORY POSTED facebook@Vinzap-Finds fae57d72"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792769455.3450742,
-  "facebook@Vinzap-Finds": 1792769455.3450742,
-  "facebook@Vijayendra-Singh": 1792769455.3450742,
+  "instagram@Vinzap-Finds": 1792771283.2434442,
+  "facebook@Vinzap-Finds": 1792771283.2434442,
+  "facebook@Vijayendra-Singh": 1792771283.2434442,
   "youtube": 1792767982.8422408
  },
- "n": 110
+ "n": 111
 }
