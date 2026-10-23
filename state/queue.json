@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "9dd4119e",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "navratri",
-    "headline": "Food Grade Cling Wrap Bags,  300x300mm",
-    "strip": "Navratri Special  |  Home & Kitchen",
-    "price": 639,
-    "was": 0,
-    "feats": [
-     "Strong and stretchable wrap",
-     "Transparent design for easy",
-     "Helps retain freshness"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Food Grade Cling Wrap Bags,  300x300mm | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Food Grade Cling Wrap Bags,  300x300mm"
-   },
-   "caption": "नवरात्रि की हार्दिक शुभकामनाएं 🙏\n\nFood Grade Cling Wrap Bags,  300x300mm\n✔ Strong and stretchable wrap\n✔ Transparent design for easy\n✔ Helps retain freshness\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#navratri #navratri2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
-   "title": "Food Grade Cling Wrap Bags,  300x300mm | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792413094.791144,
-     "id": "17937770937399951",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792413094.791144,
-     "id": "2874371029616489",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792413094.791144,
-     "id": "2247237619391866",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792413094.791144,
-     "id": "5TTad5678Dg",
-     "dry": false
-    }
-   },
-   "created": 1792413063.382907,
-   "after": 0,
-   "handle": "food-grade-cling-wrap-roll-30-bag-300x300-mm",
-   "product_url": "https://www.vinzapstore.in/products/food-grade-cling-wrap-roll-30-bag-300x300-mm",
-   "file": "9dd4119e.mp4",
-   "thumb": "9dd4119e_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17969895279174490"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2164090377510097"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2166976417243789"
-    }
-   }
-  },
-  {
    "id": "8f8c5439",
    "status": "posted",
    "kind": "image",
@@ -5648,17 +5565,87 @@
    "product_url": "https://www.vinzapstore.in/products/collapsible-food-storage-container-set-airtight-foldable-lunch-box-4-pc-set",
    "file": "485e44ee.jpg",
    "thumb": "485e44ee.jpg"
+  },
+  {
+   "id": "f04b7e0c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Manual Garlic Press Crusher",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Efficient garlic crushing",
+     "Ergonomic handle for comfortable",
+     "Manual press mechanism"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Manual Garlic Press Crusher | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Garlic Press Crusher"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Garlic Press Crusher\n✔ Efficient garlic crushing\n✔ Ergonomic handle for comfortable\n✔ Manual press mechanism\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Manual Garlic Press Crusher | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792751469.6620812,
+     "id": "18166914619491062",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792751469.6620812,
+     "id": "1131178612703680",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792751469.6620812,
+     "id": "1644237204381486",
+     "dry": false
+    }
+   },
+   "created": 1792751443.976486,
+   "after": 0,
+   "handle": "manual-garlic-press-crusher-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/manual-garlic-press-crusher-tool-1-pc",
+   "file": "f04b7e0c.mp4",
+   "thumb": "f04b7e0c_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18024261191715505"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4511803299084341"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1578881870221053"
+    }
+   }
   }
  ],
- "last_post": 1792749669.0469055,
+ "last_post": 1792751469.6620812,
  "log": [
-  "18:02:51 STORY POSTED facebook@Vinzap-Finds b67af718",
-  "18:03:00 STORY POSTED facebook@Vijayendra-Singh b67af718",
-  "18:31:11 READY 692a285f LED Dual Flow Faucet Adapter (auto-approved)",
-  "18:31:22 POSTED instagram@Vinzap-Finds 692a285f: 18024136733871347",
-  "18:31:27 POSTED facebook@Vinzap-Finds 692a285f: 1428352113685678_122110727271501659",
-  "18:31:30 POSTED facebook@Vijayendra-Singh 692a285f: 1317760538089559_122121493209480728",
-  "19:01:15 READY 9cc093fc Supermom Creamy Dessert Bowl Set of 6 | Kitchen Organization (auto-approved)",
   "19:01:51 POSTED instagram@Vinzap-Finds 9cc093fc: 18096909092443491",
   "19:01:57 POSTED facebook@Vinzap-Finds 9cc093fc: 2003851273632397",
   "19:02:03 POSTED facebook@Vijayendra-Singh 9cc093fc: 1734211891005391",
@@ -5851,13 +5838,20 @@
   "15:31:09 READY 485e44ee Collapsible Food Storage Container Set (auto-approved)",
   "15:31:22 POSTED instagram@Vinzap-Finds 485e44ee: 18100447172568768",
   "15:31:25 POSTED facebook@Vinzap-Finds 485e44ee: 1428352113685678_122111434821501659",
-  "15:31:27 POSTED facebook@Vijayendra-Singh 485e44ee: 1317760538089559_122122102965480728"
+  "15:31:27 POSTED facebook@Vijayendra-Singh 485e44ee: 1317760538089559_122122102965480728",
+  "16:01:09 READY f04b7e0c Manual Garlic Press Crusher | Diwali (auto-approved)",
+  "16:01:45 POSTED instagram@Vinzap-Finds f04b7e0c: 18166914619491062",
+  "16:01:51 POSTED facebook@Vinzap-Finds f04b7e0c: 1131178612703680",
+  "16:01:57 POSTED facebook@Vijayendra-Singh f04b7e0c: 1644237204381486",
+  "16:02:28 STORY POSTED instagram@Vinzap-Finds f04b7e0c",
+  "16:02:38 STORY POSTED facebook@Vinzap-Finds f04b7e0c",
+  "16:02:47 STORY POSTED facebook@Vijayendra-Singh f04b7e0c"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792749669.0469055,
-  "facebook@Vinzap-Finds": 1792749669.0469055,
-  "facebook@Vijayendra-Singh": 1792749669.0469055,
+  "instagram@Vinzap-Finds": 1792751469.6620812,
+  "facebook@Vinzap-Finds": 1792751469.6620812,
+  "facebook@Vijayendra-Singh": 1792751469.6620812,
   "youtube": 1792747875.9659722
  },
- "n": 100
+ "n": 101
 }
