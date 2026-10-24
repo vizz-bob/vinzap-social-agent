@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "90086db0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Leak Proof Plastic Water Bottle 900ml",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 279,
-    "was": 0,
-    "feats": [
-     "900 ML large capacity water bottle",
-     "Durable plastic construction",
-     "Leak proof flip top lid"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Leak Proof Plastic Water Bottle 900ml | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Leak Proof Plastic Water Bottle 900ml"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nLeak Proof Plastic Water Bottle 900ml\n✔ 900 ML large capacity water bottle\n✔ Durable plastic construction\n✔ Leak proof flip top lid\n\nOnly ₹279. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
-   "title": "Leak Proof Plastic Water Bottle 900ml | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792495869.515522,
-     "id": "18138368056619646",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792495869.515522,
-     "id": "1111151484857317",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792495869.515522,
-     "id": "2283011182241944",
-     "dry": false
-    }
-   },
-   "created": 1792495849.8443098,
-   "after": 0,
-   "handle": "premium-900-ml-leak-proof-plastic-water-bottle",
-   "product_url": "https://www.vinzapstore.in/products/premium-900-ml-leak-proof-plastic-water-bottle",
-   "file": "90086db0.mp4",
-   "thumb": "90086db0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17884469400625910"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1679182043799699"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "3362243400651190"
-    }
-   }
-  },
-  {
    "id": "5a774963",
    "status": "posted",
    "kind": "image",
@@ -5602,17 +5525,86 @@
    "product_url": "https://www.vinzapstore.in/products/350-ml-frosted-glass-water-bottle-lucky-day-print-for-office-travel-1-pc",
    "file": "f6be6910.jpg",
    "thumb": "f6be6910.jpg"
+  },
+  {
+   "id": "fdf6a432",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Large Stainless Steel Chopping Board",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 469,
+    "was": 0,
+    "feats": [
+     "Large Stainless Steel Chopping"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Large Stainless Steel Chopping Board | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Large Stainless Steel Chopping Board"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLarge Stainless Steel Chopping Board\n✔ Large Stainless Steel Chopping\n\nOnly ₹469. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Large Stainless Steel Chopping Board | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792836075.5375214,
+     "id": "17961580257236648",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792836075.5375214,
+     "id": "29457826033823715",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792836075.5375214,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesj87IUi-qcsjzyMWBLInivm-"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792836075.5375214,
+     "id": "N8Tbng32whk",
+     "dry": false
+    }
+   },
+   "created": 1792836054.1971922,
+   "after": 0,
+   "handle": "large-stainless-steel-chopping-cutting-board-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/large-stainless-steel-chopping-cutting-board-1-pc",
+   "file": "fdf6a432.mp4",
+   "thumb": "fdf6a432_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18113150882595928"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1151843604046753"
+    }
+   }
   }
  ],
- "last_post": 1792834251.9287772,
+ "last_post": 1792836075.5375214,
  "log": [
-  "17:01:11 POSTED facebook@Vinzap-Finds 0b1de4f1: 1428352113685678_122111098251501659",
-  "17:01:15 POSTED facebook@Vijayendra-Singh 0b1de4f1: 1317760538089559_122121796437480728",
-  "17:32:33 READY f46333b8 Wall Mounted Disposable Paper Cup Holder | Kitchen Gadgets (auto-approved)",
-  "17:33:05 POSTED instagram@Vinzap-Finds f46333b8: 17958585333018308",
-  "17:33:10 POSTED facebook@Vinzap-Finds f46333b8: 1431053855673635",
-  "17:33:15 POSTED facebook@Vijayendra-Singh f46333b8: 1143088984833951",
-  "17:33:20 POSTED youtube f46333b8: YYoO06eL2v8",
   "17:33:52 STORY POSTED instagram@Vinzap-Finds f46333b8",
   "17:34:02 STORY POSTED facebook@Vinzap-Finds f46333b8",
   "17:34:12 STORY POSTED facebook@Vijayendra-Singh f46333b8",
@@ -5805,13 +5797,20 @@
   "15:00:51 READY f6be6910 Frosted Glass Water Bottle 350ml (auto-approved)",
   "15:01:05 POSTED instagram@Vinzap-Finds f6be6910: 17976812582936403",
   "15:01:08 POSTED facebook@Vinzap-Finds f6be6910: 1428352113685678_122111814081501659",
-  "15:01:12 POSTED facebook@Vijayendra-Singh f6be6910: 1317760538089559_122122459479480728"
+  "15:01:12 POSTED facebook@Vijayendra-Singh f6be6910: 1317760538089559_122122459479480728",
+  "15:31:15 READY fdf6a432 Large Stainless Steel Chopping Board | Kitchen Gadgets (auto-approved)",
+  "15:31:51 POSTED instagram@Vinzap-Finds fdf6a432: 17961580257236648",
+  "15:31:56 POSTED facebook@Vinzap-Finds fdf6a432: 29457826033823715",
+  "15:31:57 FAILED post facebook@Vijayendra-Singh fdf6a432: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesj87IUi-qcsjzyMWBLInivm-ul7sLcyFf1MspAqDn9ME-MofnYrQb0Q2Rz634Pd8-nli4a0yWLeByZ3kYTAFGLlW7EJhwURmCASJ0ser-lU8tKHMoHkur3DLHmMrUhMGxA2v3X4TGuzVY7PtvX9b4eV48-SY8yMGyLQGbi_jsOWZ_6BvDzdRzmU1D6OFQsI807IleN7vUudP_N7N5OWhnj5gy3U2E5tzY9PhiemSy6ktRcAW-nCqUcAtiZaX7SAh72oFp0kYL3L5KWdh2utd7-HbIIN6_QfyRe-Bsadf_fHs6wFhaMCcNNgf4SqsxTDWuT\",\"help_cent",
+  "15:32:01 POSTED youtube fdf6a432: N8Tbng32whk",
+  "15:32:34 STORY POSTED instagram@Vinzap-Finds fdf6a432",
+  "15:32:43 STORY POSTED facebook@Vinzap-Finds fdf6a432"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792834251.9287772,
-  "facebook@Vinzap-Finds": 1792834251.9287772,
-  "facebook@Vijayendra-Singh": 1792834251.9287772,
-  "youtube": 1792824856.5063434
+  "instagram@Vinzap-Finds": 1792836075.5375214,
+  "facebook@Vinzap-Finds": 1792836075.5375214,
+  "facebook@Vijayendra-Singh": 1792836075.5375214,
+  "youtube": 1792836075.5375214
  },
- "n": 120
+ "n": 121
 }
