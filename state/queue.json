@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "93d09d47",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Snap Sink Dispenser Clear Pump Lotion Bottle",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Clear body",
-     "Refillable and reusable pump",
-     "Works for soap"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Snap Sink Dispenser Clear Pump Lotion Bottle"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nSnap Sink Dispenser Clear Pump Lotion Bottle\n✔ Clear body\n✔ Refillable and reusable pump\n✔ Works for soap\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
-   "title": "Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792492277.7444725,
-     "id": "18131031479500443",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792492277.7444725,
-     "id": "2313645359411621",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792492277.7444725,
-     "id": "1170181825340226",
-     "dry": false
-    }
-   },
-   "created": 1792492252.3159907,
-   "after": 0,
-   "handle": "snap-sink-dispenser-plastic-clear-empty-pump-lotion-bottles-1-set",
-   "product_url": "https://www.vinzapstore.in/products/snap-sink-dispenser-plastic-clear-empty-pump-lotion-bottles-1-set",
-   "file": "93d09d47.mp4",
-   "thumb": "93d09d47_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17954998677036464"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1319954120163771"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "4339898739656123"
-    }
-   }
-  },
-  {
    "id": "857f4141",
    "status": "posted",
    "kind": "image",
@@ -5607,16 +5530,82 @@
    "product_url": "https://www.vinzapstore.in/products/apex-manual-citrus-juicer",
    "file": "7345fc44.jpg",
    "thumb": "7345fc44.jpg"
+  },
+  {
+   "id": "a80e993b",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Transparent Plastic Water Dipper Scoop",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Roomy water scooping bowl",
+     "Comfortable long handle grip",
+     "Shaped spout for neat pouring"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Transparent Plastic Water Dipper Scoop | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Transparent Plastic Water Dipper Scoop"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Plastic Water Dipper Scoop\n✔ Roomy water scooping bowl\n✔ Comfortable long handle grip\n✔ Shaped spout for neat pouring\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas #bathroomaccessories\n#homedecorideas #diwali",
+   "title": "Transparent Plastic Water Dipper Scoop | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792832474.3508236,
+     "id": "17917541898524110",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792832474.3508236,
+     "id": "29577517011841512",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792832474.3508236,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuetfiaoQf-mIuaU2BdQ2aLp"
+    }
+   },
+   "created": 1792832453.0667973,
+   "after": 0,
+   "handle": "transparent-plastic-water-dipper-scoop-with-handle-for-bathroom-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-water-dipper-scoop-with-handle-for-bathroom-1-pc",
+   "file": "a80e993b.mp4",
+   "thumb": "a80e993b_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18119335835471592"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4330037020641667"
+    }
+   }
   }
  ],
- "last_post": 1792830649.7988296,
+ "last_post": 1792832474.3508236,
  "log": [
-  "15:38:46 POSTED facebook@Vijayendra-Singh 10e1e13b: 1317760538089559_122121771753480728",
-  "16:29:07 READY f0cc67a5 Manual Citrus Lemon Orange Squeezer | Kitchen Gadgets (auto-approved)",
-  "16:29:46 POSTED instagram@Vinzap-Finds f0cc67a5: 18029955473856670",
-  "16:29:51 POSTED facebook@Vinzap-Finds f0cc67a5: 1116446564176087",
-  "16:29:56 POSTED facebook@Vijayendra-Singh f0cc67a5: 1143824131658432",
-  "16:30:29 STORY POSTED instagram@Vinzap-Finds f0cc67a5",
   "16:30:38 STORY POSTED facebook@Vinzap-Finds f0cc67a5",
   "16:30:47 STORY POSTED facebook@Vijayendra-Singh f0cc67a5",
   "17:00:53 READY 0b1de4f1 Plastic Scoop Set (auto-approved)",
@@ -5810,13 +5799,19 @@
   "14:00:49 READY 7345fc44 Apex Manual Citrus Juicer (auto-approved)",
   "14:01:01 POSTED instagram@Vinzap-Finds 7345fc44: 18194155738396303",
   "14:01:04 POSTED facebook@Vinzap-Finds 7345fc44: 1428352113685678_122111798397501659",
-  "14:01:08 POSTED facebook@Vijayendra-Singh 7345fc44: 1317760538089559_122122444755480728"
+  "14:01:08 POSTED facebook@Vijayendra-Singh 7345fc44: 1317760538089559_122122444755480728",
+  "14:31:14 READY a80e993b Transparent Plastic Water Dipper Scoop | Home Decor Ideas (auto-approved)",
+  "14:31:50 POSTED instagram@Vinzap-Finds a80e993b: 17917541898524110",
+  "14:31:56 POSTED facebook@Vinzap-Finds a80e993b: 29577517011841512",
+  "14:31:56 FAILED post facebook@Vijayendra-Singh a80e993b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuetfiaoQf-mIuaU2BdQ2aLpiI-SZ3LF_-ugk8lipkKmCuRzPC0dLFfGfwPCbxoDqiVS_GsHsc1lJIq4-NzJ0NnQ2TPCdkp4d_dehB2PyV-OqnZCDY_3VcG-v4T-9ZyufbXDmeRaXzGT7uzUDVsFAk33OQPDxIRET8RY9H9_po1gUz2IDXGJKCzaWJ-L8SY9lQfcJY4usteb_5_FCaUOgw-0G1UqMP4efwSm2C3MZ-1UM4WWFYvyTgmRIv6vj16LoiSTRbA4cXbCyp_hTOpjk_UmwJIA_L4KxYpRvQqCypTbYrFQrif6AItSUFzuA5fB5W\",\"help_cent",
+  "14:32:27 STORY POSTED instagram@Vinzap-Finds a80e993b",
+  "14:32:36 STORY POSTED facebook@Vinzap-Finds a80e993b"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792830649.7988296,
-  "facebook@Vinzap-Finds": 1792830649.7988296,
-  "facebook@Vijayendra-Singh": 1792830649.7988296,
+  "instagram@Vinzap-Finds": 1792832474.3508236,
+  "facebook@Vinzap-Finds": 1792832474.3508236,
+  "facebook@Vijayendra-Singh": 1792832474.3508236,
   "youtube": 1792825276.5063434
  },
- "n": 118
+ "n": 119
 }
