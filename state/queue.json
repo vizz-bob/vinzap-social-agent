@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "b3e61fca",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Stainless Steel Coconut Scraper",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 579,
-    "was": 0,
-    "feats": [
-     "Stainless Steel Construction –",
-     "Vacuum Base for Stability –",
-     "Effortless Hand Operation –"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Coconut Scraper | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Coconut Scraper"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nStainless Steel Coconut Scraper\n✔ Stainless Steel Construction –\n✔ Vacuum Base for Stability –\n✔ Effortless Hand Operation –\n\nOnly ₹579. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Coconut Scraper | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792485074.7812011,
-     "id": "17984107587104150",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792485074.7812011,
-     "id": "2033679700665625",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792485074.7812011,
-     "id": "2275595163014774",
-     "dry": false
-    }
-   },
-   "created": 1792485054.937424,
-   "after": 0,
-   "handle": "supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
-   "file": "b3e61fca.mp4",
-   "thumb": "b3e61fca_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18219879973353927"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1849541836057374"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1439548828280540"
-    }
-   }
-  },
-  {
    "id": "a9286b7f",
    "status": "posted",
    "kind": "image",
@@ -5617,17 +5540,88 @@
    "product_url": "https://www.vinzapstore.in/products/503-silicone-moisturizing-feet-socks-gel-1-pair",
    "file": "83dc8dba.jpg",
    "thumb": "83dc8dba.jpg"
+  },
+  {
+   "id": "efd6b17a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Ice Cube Maker Cup",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Flexible silicone cup makes many",
+     "Simply squeeze the sides to pop",
+     "Space-saving cylinder shape fits"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Silicone Ice Cube Maker Cup | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Maker Cup"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Maker Cup\n✔ Flexible silicone cup makes many\n✔ Simply squeeze the sides to pop\n✔ Space-saving cylinder shape fits\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Silicone Ice Cube Maker Cup | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792825276.5063434,
+     "id": "18129175132872319",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792825276.5063434,
+     "id": "1585925849449706",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792825276.5063434,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNScLz-04916NJZSAE8hq5HT"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792825276.5063434,
+     "id": "Ax8brOGTtfg",
+     "dry": false
+    }
+   },
+   "created": 1792825250.4042358,
+   "after": 0,
+   "handle": "silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
+   "file": "efd6b17a.mp4",
+   "thumb": "efd6b17a_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18144573730658302"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2707795496392549"
+    }
+   }
   }
  ],
- "last_post": 1792823456.3698356,
+ "last_post": 1792825276.5063434,
  "log": [
-  "14:02:04 POSTED instagram@Vinzap-Finds fa099a62: 17910197928487531",
-  "14:02:10 POSTED facebook@Vinzap-Finds fa099a62: 2240341479856470",
-  "14:02:14 POSTED facebook@Vijayendra-Singh fa099a62: 1677839927403616",
-  "14:02:54 STORY POSTED instagram@Vinzap-Finds fa099a62",
-  "14:03:07 STORY POSTED facebook@Vinzap-Finds fa099a62",
-  "14:03:22 STORY POSTED facebook@Vijayendra-Singh fa099a62",
-  "14:33:32 READY b32ab546 Cute Cartoon Double Layer Lunch Box (auto-approved)",
   "14:33:44 POSTED instagram@Vinzap-Finds b32ab546: 17965612286981275",
   "14:33:48 POSTED facebook@Vinzap-Finds b32ab546: 1428352113685678_122111050245501659",
   "14:33:53 POSTED facebook@Vijayendra-Singh b32ab546: 1317760538089559_122121757971480728",
@@ -5820,13 +5814,20 @@
   "12:00:56 READY 83dc8dba Silicone Moisturizing Feet Socks Gel, 1 Pair (auto-approved)",
   "12:01:05 POSTED instagram@Vinzap-Finds 83dc8dba: 17978704734135097",
   "12:01:08 POSTED facebook@Vinzap-Finds 83dc8dba: 1428352113685678_122111767563501659",
-  "12:01:12 POSTED facebook@Vijayendra-Singh 83dc8dba: 1317760538089559_122122422093480728"
+  "12:01:12 POSTED facebook@Vijayendra-Singh 83dc8dba: 1317760538089559_122122422093480728",
+  "12:31:16 READY efd6b17a Silicone Ice Cube Maker Cup | Cooking (auto-approved)",
+  "12:31:49 POSTED instagram@Vinzap-Finds efd6b17a: 18129175132872319",
+  "12:31:54 POSTED facebook@Vinzap-Finds efd6b17a: 1585925849449706",
+  "12:31:55 FAILED post facebook@Vijayendra-Singh efd6b17a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNScLz-04916NJZSAE8hq5HTJYgeftL18C-m4_IgbumPd8KFtiYYHbnKDdvpChCEPvgbv1SP1rynyBM0kFmLiFnRiIZ02BvV6rphxxDcUpcUgWqzk6gvszrGYAOwrgtYpTbtuV6yjMgh6MBBDToHEDb_kjdOpc86eC_z7-YYm4ERMVsOUk0OsC8ApVgOw97WCtwRF83ceKU6USltafhTY0GsPSY8jQndxgzpzNe7YGM3kCuYHRbSh2Ku0GisPHX5JOIf0k9BnLOrwUTq_GprMlDgbNiDU8KgeXCZCmtYSVpdrv1nUXZbPY6h214ZzfQl0z\",\"help_cent",
+  "12:31:58 POSTED youtube efd6b17a: Ax8brOGTtfg",
+  "12:32:30 STORY POSTED instagram@Vinzap-Finds efd6b17a",
+  "12:32:40 STORY POSTED facebook@Vinzap-Finds efd6b17a"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792823456.3698356,
-  "facebook@Vinzap-Finds": 1792823456.3698356,
-  "facebook@Vijayendra-Singh": 1792823456.3698356,
-  "youtube": 1792767562.8422408
+  "instagram@Vinzap-Finds": 1792825276.5063434,
+  "facebook@Vinzap-Finds": 1792825276.5063434,
+  "facebook@Vijayendra-Singh": 1792825276.5063434,
+  "youtube": 1792825276.5063434
  },
- "n": 114
+ "n": 115
 }
