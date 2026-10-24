@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "3127f7fd",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Stainless Steel Ice Cream Scoop",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Trigger release lever pushes out",
-     "Sturdy stainless steel build is",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Ice Cream Scoop | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Ice Cream Scoop"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nStainless Steel Ice Cream Scoop\n✔ Trigger release lever pushes out\n✔ Sturdy stainless steel build is\n✔ Comfortable handle gives a firm\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Ice Cream Scoop",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792501264.2488122,
-     "id": "18155018212527143",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792501264.2488122,
-     "id": "1428352113685678_122110359633501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792501264.2488122,
-     "id": "1317760538089559_122121103155480728",
-     "dry": false
-    }
-   },
-   "created": 1792501261.706513,
-   "after": 0,
-   "handle": "stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
-   "file": "3127f7fd.jpg",
-   "thumb": "3127f7fd.jpg"
-  },
-  {
    "id": "f44c2027",
    "status": "scheduled",
    "kind": "reel",
@@ -5590,14 +5528,72 @@
      "id": "1665785204996464"
     }
    }
+  },
+  {
+   "id": "c80b3378",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Panda Design Kids Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Cute Panda design that appeals",
+     "Comes with a fork and spoon",
+     "Multiple compartments to store"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Panda Design Kids Lunch Box | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Panda Design Kids Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPanda Design Kids Lunch Box\n✔ Cute Panda design that appeals\n✔ Comes with a fork and spoon\n✔ Multiple compartments to store\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
+   "title": "Panda Design Kids Lunch Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792841448.9024312,
+     "id": "18116478506277322",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792841448.9024312,
+     "id": "1428352113685678_122111845509501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792841448.9024312,
+     "id": "1317760538089559_122122486287480728",
+     "dry": false
+    }
+   },
+   "created": 1792841446.4780931,
+   "after": 0,
+   "handle": "panda-design-kids-lunch-box-with-separate-compartments-1set",
+   "product_url": "https://www.vinzapstore.in/products/panda-design-kids-lunch-box-with-separate-compartments-1set",
+   "file": "c80b3378.jpg",
+   "thumb": "c80b3378.jpg"
   }
  ],
- "last_post": 1792839733.390008,
+ "last_post": 1792841448.9024312,
  "log": [
-  "18:57:02 POSTED facebook@Vijayendra-Singh f2ba2fc3: 946574628191410",
-  "18:57:34 STORY POSTED instagram@Vinzap-Finds f2ba2fc3",
-  "18:57:43 STORY POSTED facebook@Vinzap-Finds f2ba2fc3",
-  "18:57:53 STORY POSTED facebook@Vijayendra-Singh f2ba2fc3",
   "19:41:10 READY 96738b82 Silicone Cooking Spatula 19cm (auto-approved)",
   "19:41:23 POSTED instagram@Vinzap-Finds 96738b82: 18019619768736406",
   "19:41:27 POSTED facebook@Vinzap-Finds 96738b82: 1428352113685678_122111143221501659",
@@ -5793,13 +5789,17 @@
   "16:32:45 POSTED facebook@Vinzap-Finds 825bde2f: 1217536110780538",
   "16:32:46 FAILED post facebook@Vijayendra-Singh 825bde2f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesLOEXyPsT2Rv6GN6pt_MmiRIo5UY4s4o4j22fcKKlWO2HYbNhKxmejpvsgkFW54PfsXnHZqUUN6WjwUzFqzNooHlgk9eQhHPYZDdBYGfQ3Zdu5JD7OLXYwqrK_ojf-gYr5NC2FWqNGja-eWLkotI3BLJrGVM9Im0RzCOthuu3C3wbe5fvCHzKyREl-xgOXI_w7PKmbINtX0ZKISGk2PxNYrVANWxtNAq4iGFZhTXd0PzG2e269vhxD5tvT-sgRngI75X6At4ouFTks30Mr5gffXMZVIxpsGWFTdLZY70PWs4dP4mYauWnrqIiHh2nwmV6Q\",\"help_cent",
   "16:33:18 STORY POSTED instagram@Vinzap-Finds 825bde2f",
-  "16:33:27 STORY POSTED facebook@Vinzap-Finds 825bde2f"
+  "16:33:27 STORY POSTED facebook@Vinzap-Finds 825bde2f",
+  "17:00:48 READY c80b3378 Panda Design Kids Lunch Box (auto-approved)",
+  "17:01:00 POSTED instagram@Vinzap-Finds c80b3378: 18116478506277322",
+  "17:01:04 POSTED facebook@Vinzap-Finds c80b3378: 1428352113685678_122111845509501659",
+  "17:01:08 POSTED facebook@Vijayendra-Singh c80b3378: 1317760538089559_122122486287480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792839733.390008,
-  "facebook@Vinzap-Finds": 1792839733.390008,
-  "facebook@Vijayendra-Singh": 1792839733.390008,
+  "instagram@Vinzap-Finds": 1792841448.9024312,
+  "facebook@Vinzap-Finds": 1792841448.9024312,
+  "facebook@Vijayendra-Singh": 1792841448.9024312,
   "youtube": 1792836075.5375214
  },
- "n": 123
+ "n": 124
 }
