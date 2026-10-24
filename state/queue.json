@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "8a4e6f32",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Ice Cube Tray",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "14-grid design for making",
-     "Comes with a lid to keep ice",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Ice Cube Tray | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Cube Tray"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Ice Cube Tray | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792488688.5086439,
-     "id": "18129623173829998",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792488688.5086439,
-     "id": "28848662681460439",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792488688.5086439,
-     "id": "1162458346710077",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792488688.5086439,
-     "id": "VYVMEdMTx2c",
-     "dry": false
-    }
-   },
-   "created": 1792488658.3586466,
-   "after": 0,
-   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
-   "file": "8a4e6f32.mp4",
-   "thumb": "8a4e6f32_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18090790022679495"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2493089267881794"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2612611545876393"
-    }
-   }
-  },
-  {
    "id": "d3908d88",
    "status": "posted",
    "kind": "image",
@@ -5618,16 +5535,82 @@
    "product_url": "https://www.vinzapstore.in/products/manual-rotary-drum-grater-and-slicer-stainless-steel-3-drum-vegetable-cutter-1-set",
    "file": "2053c035.jpg",
    "thumb": "2053c035.jpg"
+  },
+  {
+   "id": "d549266d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Portable Plastic Kitchen Dustbin Hanging",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 609,
+    "was": 0,
+    "feats": [
+     "Compact portable dustbin",
+     "Hanging design suitable",
+     "Lid helps keep waste covered"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Portable Plastic Kitchen Dustbin Hanging | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Portable Plastic Kitchen Dustbin Hanging"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Plastic Kitchen Dustbin Hanging\n✔ Compact portable dustbin\n✔ Hanging design suitable\n✔ Lid helps keep waste covered\n\nOnly ₹609. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Portable Plastic Kitchen Dustbin Hanging | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792828875.0018063,
+     "id": "17909071101562018",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792828875.0018063,
+     "id": "1634766378303804",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792828875.0018063,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetaC6aGwwitWl6hgRthVIv5cS"
+    }
+   },
+   "created": 1792828853.857422,
+   "after": 0,
+   "handle": "portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
+   "product_url": "https://www.vinzapstore.in/products/portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
+   "file": "d549266d.mp4",
+   "thumb": "d549266d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17995799511069672"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2197466057861390"
+    }
+   }
   }
  ],
- "last_post": 1792827071.93518,
+ "last_post": 1792828875.0018063,
  "log": [
-  "15:02:02 POSTED instagram@Vinzap-Finds cb875cb0: 18130461892823675",
-  "15:02:07 POSTED facebook@Vinzap-Finds cb875cb0: 1154842103736715",
-  "15:02:12 POSTED facebook@Vijayendra-Singh cb875cb0: 1658390155884017",
-  "15:02:17 POSTED youtube cb875cb0: xLARsmvuenY",
-  "15:02:53 STORY POSTED instagram@Vinzap-Finds cb875cb0",
-  "15:03:05 STORY POSTED facebook@Vinzap-Finds cb875cb0",
   "15:03:16 STORY POSTED facebook@Vijayendra-Singh cb875cb0",
   "15:38:18 READY 10e1e13b Wall Mount WiFi Router Holder Box Organizer (auto-approved)",
   "15:38:36 POSTED instagram@Vinzap-Finds 10e1e13b: 18099844610409509",
@@ -5821,13 +5804,19 @@
   "13:01:11 READY 2053c035 Manual Rotary Drum Grater and Slicer, 3 (auto-approved)",
   "13:01:26 POSTED instagram@Vinzap-Finds 2053c035: 18052045646604964",
   "13:01:31 POSTED facebook@Vinzap-Finds 2053c035: 1428352113685678_122111781675501659",
-  "13:01:35 POSTED facebook@Vijayendra-Singh 2053c035: 1317760538089559_122122433397480728"
+  "13:01:35 POSTED facebook@Vijayendra-Singh 2053c035: 1317760538089559_122122433397480728",
+  "13:31:14 READY d549266d Portable Plastic Kitchen Dustbin Hanging | Diwali (auto-approved)",
+  "13:31:44 POSTED instagram@Vinzap-Finds d549266d: 17909071101562018",
+  "13:31:48 POSTED facebook@Vinzap-Finds d549266d: 1634766378303804",
+  "13:31:49 FAILED post facebook@Vijayendra-Singh d549266d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetaC6aGwwitWl6hgRthVIv5cStV55nPLs4RGqBFivp5tgBVBTm52ae1qzLWrhEuWuc7jfWTQkPRNGGWkj5_cEzbTYkYUY17FfVE4V8gvWZh2s3O06iIv8wlrZ7ocUMWeoGCBRE9AKT9fSjegRQJgDCpBpYR4tKTE_QaqL2pF6Lj94gPdMPaiEJZYdwMFSEEaCohJJbIX638B6NknOGxu57jFD6MlfT9RiI9DlGUI8QsnwDnlnK3PBJY0c-09HLVx4R8MAwc60CEE0ynEgxFqD5WyLX8BalWCfGQILAnHX5iroS1kDiFIGN3O4RkHh9hpcw\",\"help_cente",
+  "13:32:19 STORY POSTED instagram@Vinzap-Finds d549266d",
+  "13:32:28 STORY POSTED facebook@Vinzap-Finds d549266d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792827071.93518,
-  "facebook@Vinzap-Finds": 1792827071.93518,
-  "facebook@Vijayendra-Singh": 1792827071.93518,
+  "instagram@Vinzap-Finds": 1792828875.0018063,
+  "facebook@Vinzap-Finds": 1792828875.0018063,
+  "facebook@Vijayendra-Singh": 1792828875.0018063,
   "youtube": 1792825276.5063434
  },
- "n": 116
+ "n": 117
 }
