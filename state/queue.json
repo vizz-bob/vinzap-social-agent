@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "3814f4d1",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Clear Plastic Gloves Medium Pack",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "100 disposable gloves per pack",
-     "size for a comfortable fit",
-     "Transparent design for easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Disposable Clear Plastic Gloves Medium Pack | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Clear Plastic Gloves Medium Pack"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Clear Plastic Gloves Medium Pack\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Disposable Clear Plastic Gloves Medium Pack | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792567868.3710463,
-     "id": "18120114376947313",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792567868.3710463,
-     "id": "874549369014375",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792567868.3710463,
-     "id": "1866674857821567",
-     "dry": false
-    }
-   },
-   "created": 1792567849.7220974,
-   "after": 0,
-   "handle": "disposable-clear-plastic-gloves-100-pc-medium-1",
-   "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-medium-1",
-   "file": "3814f4d1.mp4",
-   "thumb": "3814f4d1_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17898255192408021"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1590336019041062"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1964638111244646"
-    }
-   }
-  },
-  {
    "id": "154237e5",
    "status": "posted",
    "kind": "image",
@@ -5561,16 +5484,82 @@
    "product_url": "https://www.vinzapstore.in/products/3-layer-multipurpose-storage-trolley-with-wheels",
    "file": "8f9a5218.jpg",
    "thumb": "8f9a5218.jpg"
+  },
+  {
+   "id": "fc2e1f57",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Coconut Scraper",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 579,
+    "was": 0,
+    "feats": [
+     "Stainless Steel Construction –",
+     "Vacuum Base for Stability –",
+     "Effortless Hand Operation –"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Coconut Scraper | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Coconut Scraper"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Coconut Scraper\n✔ Stainless Steel Construction –\n✔ Vacuum Base for Stability –\n✔ Effortless Hand Operation –\n\nOnly ₹579. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Coconut Scraper | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792861293.5207036,
+     "id": "18120443705002028",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792861293.5207036,
+     "id": "2079374202783476",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792861293.5207036,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetIacCqfQA0cJFCheCUwZw_Hi"
+    }
+   },
+   "created": 1792861269.2485998,
+   "after": 0,
+   "handle": "supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
+   "file": "fc2e1f57.mp4",
+   "thumb": "fc2e1f57_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18016639886973267"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4699736666973804"
+    }
+   }
   }
  ],
- "last_post": 1792859471.978469,
+ "last_post": 1792861293.5207036,
  "log": [
-  "14:01:51 POSTED facebook@Vinzap-Finds 96ec42a0: 1642128484287799",
-  "14:01:55 POSTED facebook@Vijayendra-Singh 96ec42a0: 1441476054658338",
-  "14:02:28 STORY POSTED instagram@Vinzap-Finds 96ec42a0",
-  "14:02:38 STORY POSTED facebook@Vinzap-Finds 96ec42a0",
-  "14:02:48 STORY POSTED facebook@Vijayendra-Singh 96ec42a0",
-  "14:30:55 READY 3cf40186 Reusable Plastic Dessert Knife Set of 24 (auto-approved)",
   "14:31:13 POSTED instagram@Vinzap-Finds 3cf40186: 18149585128616415",
   "14:31:18 POSTED facebook@Vinzap-Finds 3cf40186: 1428352113685678_122111411835501659",
   "14:31:21 POSTED facebook@Vijayendra-Singh 3cf40186: 1317760538089559_122122087851480728",
@@ -5764,13 +5753,19 @@
   "22:01:11 READY 8f9a5218 3 Layer Multipurpose Storage Trolley (auto-approved)",
   "22:01:26 POSTED instagram@Vinzap-Finds 8f9a5218: 18050757311816687",
   "22:01:33 POSTED facebook@Vinzap-Finds 8f9a5218: 1428352113685678_122111941647501659",
-  "22:01:37 POSTED facebook@Vijayendra-Singh 8f9a5218: 1317760538089559_122122558845480728"
+  "22:01:37 POSTED facebook@Vijayendra-Singh 8f9a5218: 1317760538089559_122122558845480728",
+  "22:31:33 READY fc2e1f57 Stainless Steel Coconut Scraper | Home Decor (auto-approved)",
+  "22:32:05 POSTED instagram@Vinzap-Finds fc2e1f57: 18120443705002028",
+  "22:32:11 POSTED facebook@Vinzap-Finds fc2e1f57: 2079374202783476",
+  "22:32:12 FAILED post facebook@Vijayendra-Singh fc2e1f57: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetIacCqfQA0cJFCheCUwZw_HiBdZueVvWjTb-NfEF6SpKJY5FyX1v-9q4KArI9QXiDZlHoxf2hjWexvrpbubsIVnrDmvT89DQE5KM94V_hBW5Gqa-KE_qRurT2Zdt11nH0qXme9i0wosiWQzD7StWdC0gcVmeDUeWMLN4C8h20HBWWzFVR0-YoR5FEZhQdNQgAfaeG7M-Cmjk25-HiMhOLISHXBOfuxmlOa4c3sNRa2PU3WfJhadwhJONhpm_nvNzHQ7MYCo0YsAuOl_MyxleD1o2rivwY9LBb_O5mm8qrHH9kLCfDAOqX5QHg5yy-tpEU\",\"help_cente",
+  "22:32:41 STORY POSTED instagram@Vinzap-Finds fc2e1f57",
+  "22:32:50 STORY POSTED facebook@Vinzap-Finds fc2e1f57"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792859471.978469,
-  "facebook@Vinzap-Finds": 1792859471.978469,
-  "facebook@Vijayendra-Singh": 1792859471.978469,
+  "instagram@Vinzap-Finds": 1792861293.5207036,
+  "facebook@Vinzap-Finds": 1792861293.5207036,
+  "facebook@Vijayendra-Singh": 1792861293.5207036,
   "youtube": 1792857710.8207042
  },
- "n": 134
+ "n": 135
 }
