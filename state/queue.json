@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "597b0c42",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Supermom Spring Masher Stainless Steel",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 419,
-    "was": 0,
-    "feats": [
-     "Strong stainless steel spring",
-     "Ergonomic handle with non-slip",
-     "Ideal for potatoes"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Supermom Spring Masher Stainless Steel | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Spring Masher Stainless Steel"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nSupermom Spring Masher Stainless Steel\n✔ Strong stainless steel spring\n✔ Ergonomic handle with non-slip\n✔ Ideal for potatoes\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Supermom Spring Masher Stainless Steel | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792499494.088243,
-     "id": "18096283772383097",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792499494.088243,
-     "id": "1287799776809992",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792499494.088243,
-     "id": "1106911852036859",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792499494.088243,
-     "id": "B_fE6ZIX_dY",
-     "dry": false
-    }
-   },
-   "created": 1792499463.4357278,
-   "after": 0,
-   "handle": "supermom-spring-omasher-heavy-duty-stainless-steel-vegetable-potato-masher",
-   "product_url": "https://www.vinzapstore.in/products/supermom-spring-omasher-heavy-duty-stainless-steel-vegetable-potato-masher",
-   "file": "597b0c42.mp4",
-   "thumb": "597b0c42_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17954948553038984"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1128501493408500"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1079688538201865"
-    }
-   }
-  },
-  {
    "id": "3127f7fd",
    "status": "posted",
    "kind": "image",
@@ -5601,16 +5518,82 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
    "file": "3a23bb4d.jpg",
    "thumb": "3a23bb4d.jpg"
+  },
+  {
+   "id": "825bde2f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "2-in-1 Kitchen Bag Clip & Measuring Scoop",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Two tools in one",
+     "Spring loaded jaws grip packets",
+     "Rounded scoop cup lifts"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2-in-1 Kitchen Bag Clip & Measuring Scoop"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Kitchen Bag Clip & Measuring Scoop\n✔ Two tools in one\n✔ Spring loaded jaws grip packets\n✔ Rounded scoop cup lifts\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792839733.390008,
+     "id": "18147298369576970",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792839733.390008,
+     "id": "1217536110780538",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792839733.390008,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesLOEXyPsT2Rv6GN6pt_MmiRI"
+    }
+   },
+   "created": 1792839706.0036545,
+   "after": 0,
+   "handle": "multipurpose-plastic-kitchen-clamp-2-in-1-measuring-scoop-bag-clip-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-kitchen-clamp-2-in-1-measuring-scoop-bag-clip-1-pc",
+   "file": "825bde2f.mp4",
+   "thumb": "825bde2f_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17971825539161645"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1665785204996464"
+    }
+   }
   }
  ],
- "last_post": 1792837844.063475,
+ "last_post": 1792839733.390008,
  "log": [
-  "18:09:46 POSTED instagram@Vinzap-Finds 8711bb2c: 18449460133193710",
-  "18:09:50 POSTED facebook@Vinzap-Finds 8711bb2c: 1428352113685678_122111117955501659",
-  "18:09:53 POSTED facebook@Vijayendra-Singh 8711bb2c: 1317760538089559_122121818991480728",
-  "18:56:15 READY f2ba2fc3 Stainless Steel Oil Pourer 750ml | Kitchen Organization (auto-approved)",
-  "18:56:51 POSTED instagram@Vinzap-Finds f2ba2fc3: 18229625536328022",
-  "18:56:56 POSTED facebook@Vinzap-Finds f2ba2fc3: 2327406018060405",
   "18:57:02 POSTED facebook@Vijayendra-Singh f2ba2fc3: 946574628191410",
   "18:57:34 STORY POSTED instagram@Vinzap-Finds f2ba2fc3",
   "18:57:43 STORY POSTED facebook@Vinzap-Finds f2ba2fc3",
@@ -5804,13 +5787,19 @@
   "16:00:44 READY 3a23bb4d Stainless Steel House Shape Cookie Cutter (auto-approved)",
   "16:00:57 POSTED instagram@Vinzap-Finds 3a23bb4d: 18132268933689599",
   "16:01:01 POSTED facebook@Vinzap-Finds 3a23bb4d: 1428352113685678_122111830221501659",
-  "16:01:06 POSTED facebook@Vijayendra-Singh 3a23bb4d: 1317760538089559_122122472871480728"
+  "16:01:06 POSTED facebook@Vijayendra-Singh 3a23bb4d: 1317760538089559_122122472871480728",
+  "16:32:13 READY 825bde2f 2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets (auto-approved)",
+  "16:32:39 POSTED instagram@Vinzap-Finds 825bde2f: 18147298369576970",
+  "16:32:45 POSTED facebook@Vinzap-Finds 825bde2f: 1217536110780538",
+  "16:32:46 FAILED post facebook@Vijayendra-Singh 825bde2f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesLOEXyPsT2Rv6GN6pt_MmiRIo5UY4s4o4j22fcKKlWO2HYbNhKxmejpvsgkFW54PfsXnHZqUUN6WjwUzFqzNooHlgk9eQhHPYZDdBYGfQ3Zdu5JD7OLXYwqrK_ojf-gYr5NC2FWqNGja-eWLkotI3BLJrGVM9Im0RzCOthuu3C3wbe5fvCHzKyREl-xgOXI_w7PKmbINtX0ZKISGk2PxNYrVANWxtNAq4iGFZhTXd0PzG2e269vhxD5tvT-sgRngI75X6At4ouFTks30Mr5gffXMZVIxpsGWFTdLZY70PWs4dP4mYauWnrqIiHh2nwmV6Q\",\"help_cent",
+  "16:33:18 STORY POSTED instagram@Vinzap-Finds 825bde2f",
+  "16:33:27 STORY POSTED facebook@Vinzap-Finds 825bde2f"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792837844.063475,
-  "facebook@Vinzap-Finds": 1792837844.063475,
-  "facebook@Vijayendra-Singh": 1792837844.063475,
+  "instagram@Vinzap-Finds": 1792839733.390008,
+  "facebook@Vinzap-Finds": 1792839733.390008,
+  "facebook@Vijayendra-Singh": 1792839733.390008,
   "youtube": 1792836075.5375214
  },
- "n": 122
+ "n": 123
 }
