@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "f44c2027",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Stainless Steel Potato Masher 17cm",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Premium food-grade stainless",
-     "Wide mashing plate",
-     "Ergonomic handle with anti-slip"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Stainless Steel Potato Masher 17cm | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Potato Masher 17cm"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nStainless Steel Potato Masher 17cm\n✔ Premium food-grade stainless\n✔ Wide mashing plate\n✔ Ergonomic handle with anti-slip\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Stainless Steel Potato Masher 17cm | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792503115.6319287,
-     "id": "18210495517364560",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792503115.6319287,
-     "id": "1448701284995210",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792503115.6319287,
-     "id": "29173168802280845",
-     "dry": false
-    }
-   },
-   "created": 1792503090.5269449,
-   "after": 0,
-   "handle": "stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
-   "file": "f44c2027.mp4",
-   "thumb": "f44c2027_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18637882312044745"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1142452684979096"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1495322279324526"
-    }
-   }
-  },
-  {
    "id": "8b1b7552",
    "status": "posted",
    "kind": "image",
@@ -5590,16 +5513,80 @@
    "product_url": "https://www.vinzapstore.in/products/panda-design-kids-lunch-box-with-separate-compartments-1set",
    "file": "c80b3378.jpg",
    "thumb": "c80b3378.jpg"
+  },
+  {
+   "id": "73b0c50d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Pav Bhaji Masher",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 109,
+    "was": 0,
+    "feats": [
+     "0064A Paubhaji Masher used in all"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Pav Bhaji Masher | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Pav Bhaji Masher"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPav Bhaji Masher\n✔ 0064A Paubhaji Masher used in all\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Pav Bhaji Masher | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792843282.550439,
+     "id": "17914234611285516",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792843282.550439,
+     "id": "1697380242018770",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792843282.550439,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6ujRjVf33ZIZ-1X7FRzmyQ"
+    }
+   },
+   "created": 1792843256.9440994,
+   "after": 0,
+   "handle": "0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
+   "product_url": "https://www.vinzapstore.in/products/0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
+   "file": "73b0c50d.mp4",
+   "thumb": "73b0c50d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18077992037485606"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1069274336151364"
+    }
+   }
   }
  ],
- "last_post": 1792841448.9024312,
+ "last_post": 1792843282.550439,
  "log": [
-  "19:41:10 READY 96738b82 Silicone Cooking Spatula 19cm (auto-approved)",
-  "19:41:23 POSTED instagram@Vinzap-Finds 96738b82: 18019619768736406",
-  "19:41:27 POSTED facebook@Vinzap-Finds 96738b82: 1428352113685678_122111143221501659",
-  "19:41:31 POSTED facebook@Vijayendra-Singh 96738b82: 1317760538089559_122121845913480728",
-  "20:33:44 READY bd0eb1b2 Apex Pyramid Ringo Plastic Glass 300ml | Kitchen Organization (auto-approved)",
-  "20:34:23 POSTED instagram@Vinzap-Finds bd0eb1b2: 17962906431226598",
   "20:34:29 POSTED facebook@Vinzap-Finds bd0eb1b2: 2364566060996961",
   "20:34:34 POSTED facebook@Vijayendra-Singh bd0eb1b2: 1512094720689098",
   "20:34:39 POSTED youtube bd0eb1b2: lNXKItzjkO8",
@@ -5793,13 +5780,19 @@
   "17:00:48 READY c80b3378 Panda Design Kids Lunch Box (auto-approved)",
   "17:01:00 POSTED instagram@Vinzap-Finds c80b3378: 18116478506277322",
   "17:01:04 POSTED facebook@Vinzap-Finds c80b3378: 1428352113685678_122111845509501659",
-  "17:01:08 POSTED facebook@Vijayendra-Singh c80b3378: 1317760538089559_122122486287480728"
+  "17:01:08 POSTED facebook@Vijayendra-Singh c80b3378: 1317760538089559_122122486287480728",
+  "17:31:22 READY 73b0c50d Pav Bhaji Masher | Home Decor (auto-approved)",
+  "17:32:00 POSTED instagram@Vinzap-Finds 73b0c50d: 17914234611285516",
+  "17:32:04 POSTED facebook@Vinzap-Finds 73b0c50d: 1697380242018770",
+  "17:32:05 FAILED post facebook@Vijayendra-Singh 73b0c50d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6ujRjVf33ZIZ-1X7FRzmyQwoBE0dGQRSmvg_BhflfKmsS4pe-dr42TooO_nWJ2ne_DzejI0n94yPwvyCvG8W0gdgLEOoLPfPPfWAw1IREtDNdEyOwLdCPMJjo_sWWDglcpYjdRKLTjiiKs-nU7ZOL_FSvUcw8cJ2XT2Qda388n096OkSQn2sjvW8PNocSyCeKh8LrouRqwuRGrbkNn8PNr27L09wlgOmLve0ZPqTWw7qhodn9Lt9jSnkTGsXYue60nJCWV6tlhJ8xqZyBbztStVpFzxFVEs3_1zVenlUykgfi4DBrvPSOSxTtKmhqRY\",\"help_cente",
+  "17:32:39 STORY POSTED instagram@Vinzap-Finds 73b0c50d",
+  "17:32:49 STORY POSTED facebook@Vinzap-Finds 73b0c50d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792841448.9024312,
-  "facebook@Vinzap-Finds": 1792841448.9024312,
-  "facebook@Vijayendra-Singh": 1792841448.9024312,
+  "instagram@Vinzap-Finds": 1792843282.550439,
+  "facebook@Vinzap-Finds": 1792843282.550439,
+  "facebook@Vijayendra-Singh": 1792843282.550439,
   "youtube": 1792836075.5375214
  },
- "n": 124
+ "n": 125
 }
