@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "6be0bc1f",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Insulated Tiffin Lunch Box Keeps Food Warm",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 3599,
-    "was": 0,
-    "feats": [
-     "Multiple food containers plus",
-     "Leak-resistant lids",
-     "Stackable containers pack"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Insulated Tiffin Lunch Box Keeps Food Warm | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Insulated Tiffin Lunch Box Keeps Food Warm"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nInsulated Tiffin Lunch Box Keeps Food Warm\n✔ Multiple food containers plus\n✔ Leak-resistant lids\n✔ Stackable containers pack\n\nOnly ₹3599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
-   "title": "Insulated Tiffin Lunch Box Keeps Food Warm | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792511173.4494705,
-     "id": "17975016393149785",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792511173.4494705,
-     "id": "1435771102090176",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792511173.4494705,
-     "id": "1753563942423933",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792511173.4494705,
-     "id": "bK-5zrmUVnQ",
-     "dry": false
-    }
-   },
-   "created": 1792511146.735547,
-   "after": 0,
-   "handle": "insulated-tiffin-lunch-box-keeps-food-warm-cool",
-   "product_url": "https://www.vinzapstore.in/products/insulated-tiffin-lunch-box-keeps-food-warm-cool",
-   "file": "6be0bc1f.mp4",
-   "thumb": "6be0bc1f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18120053941982005"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "28607873558868910"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1402173134967330"
-    }
-   }
-  },
-  {
    "id": "de8f3b42",
    "status": "posted",
    "kind": "image",
@@ -5582,16 +5499,82 @@
    "product_url": "https://www.vinzapstore.in/products/combination-knife-sharpening-stone-silicon-carbide-whetstone-b-grade-1-pc-1",
    "file": "be079f85.jpg",
    "thumb": "be079f85.jpg"
+  },
+  {
+   "id": "78841181",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Ice Cube Tray 24 Cavity Multicolour",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 291,
+    "was": 0,
+    "feats": [
+     "The trays are made of lightweight",
+     "Easy to use",
+     "Convenient storage"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Tray 24 Cavity Multicolour"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Tray 24 Cavity Multicolour\n✔ The trays are made of lightweight\n✔ Easy to use\n✔ Convenient storage\n\nOnly ₹291. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792850463.7816637,
+     "id": "18139511833628967",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792850463.7816637,
+     "id": "2660958464366316",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792850463.7816637,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetclmmpjbdKWrXtbc1WFhGfBd"
+    }
+   },
+   "created": 1792850449.2908683,
+   "after": 0,
+   "handle": "1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "product_url": "https://www.vinzapstore.in/products/1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "file": "78841181.mp4",
+   "thumb": "78841181_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18014817173974124"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1089147217285228"
+    }
+   }
   }
  ],
- "last_post": 1792848648.2736154,
+ "last_post": 1792850463.7816637,
  "log": [
-  "22:11:03 STORY POSTED facebook@Vinzap-Finds 7487b98d",
-  "22:11:12 STORY POSTED facebook@Vijayendra-Singh 7487b98d",
-  "22:47:34 READY 2f17c593 Electric Oven 12 Litre 600W Mini OTG (auto-approved)",
-  "22:47:46 POSTED instagram@Vinzap-Finds 2f17c593: 18110883185241742",
-  "22:47:49 POSTED facebook@Vinzap-Finds 2f17c593: 1428352113685678_122111191995501659",
-  "22:47:53 POSTED facebook@Vijayendra-Singh 2f17c593: 1317760538089559_122121906099480728",
   "12:01:30 READY 0f26b586 Car Shape Kids Lunch Box | Cooking (auto-approved)",
   "12:02:14 POSTED instagram@Vinzap-Finds 0f26b586: 18400717735201635",
   "12:02:18 POSTED facebook@Vinzap-Finds 0f26b586: 1425006886435057",
@@ -5785,13 +5768,19 @@
   "19:00:48 READY be079f85 Knife Sharpening Stone Silicon Carbide (auto-approved)",
   "19:01:03 POSTED instagram@Vinzap-Finds be079f85: 18120177280760058",
   "19:01:06 POSTED facebook@Vinzap-Finds be079f85: 1428352113685678_122111891781501659",
-  "19:01:09 POSTED facebook@Vijayendra-Singh be079f85: 1317760538089559_122122510557480728"
+  "19:01:09 POSTED facebook@Vijayendra-Singh be079f85: 1317760538089559_122122510557480728",
+  "19:31:03 READY 78841181 Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets (auto-approved)",
+  "19:31:42 POSTED instagram@Vinzap-Finds 78841181: 18139511833628967",
+  "19:31:47 POSTED facebook@Vinzap-Finds 78841181: 2660958464366316",
+  "19:31:49 FAILED post facebook@Vijayendra-Singh 78841181: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetclmmpjbdKWrXtbc1WFhGfBd8RULCkXVu4qkSIYEjJoryLMlwmvtofF_qeCvrAJbmRtNdtyblL08fd-SkqjpM2A6jhn1aXn2xNTBKQzukCRx53qee0hiRY7ddEnry9FnJ_wJb7yX785nj9kE40HnRplXbf-i0DJqhHjWqPCJ0b9EIogHgVG0dUFEF4dRptIFQh9nJt3GnODjeZkI6-piDNbGByfzYdkPavZGAuP8mJrOqDHrSh8qTHoECmplTu8XPKsFPm_GI-QAc2hGLxkbKA5_rA3VcslnYGG-d57hEtSMH8zLBhkQ5CYASDVLYfHY2q\",\"help_cent",
+  "19:32:24 STORY POSTED instagram@Vinzap-Finds 78841181",
+  "19:32:34 STORY POSTED facebook@Vinzap-Finds 78841181"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792848648.2736154,
-  "facebook@Vinzap-Finds": 1792848648.2736154,
-  "facebook@Vijayendra-Singh": 1792848648.2736154,
+  "instagram@Vinzap-Finds": 1792850463.7816637,
+  "facebook@Vinzap-Finds": 1792850463.7816637,
+  "facebook@Vijayendra-Singh": 1792850463.7816637,
   "youtube": 1792846882.9933357
  },
- "n": 128
+ "n": 129
 }
