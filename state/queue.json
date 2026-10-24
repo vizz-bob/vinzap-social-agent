@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "1b19ffb2",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Heart Shaped Kumkum Holder Kankavati",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Heart-shaped decorative kankavati",
-     "Twin compartments for kumkum",
-     "Two extra lidded boxes for storage"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Heart Shaped Kumkum Holder Kankavati | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Heart Shaped Kumkum Holder Kankavati"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nHeart Shaped Kumkum Holder Kankavati\n✔ Heart-shaped decorative kankavati\n✔ Twin compartments for kumkum\n✔ Two extra lidded boxes for storage\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Heart Shaped Kumkum Holder Kankavati | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792564286.09498,
-     "id": "17966243855986068",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792564286.09498,
-     "id": "1453097696704186",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792564286.09498,
-     "id": "857206327455665",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792564286.09498,
-     "id": "VWMH6i-B-o8",
-     "dry": false
-    }
-   },
-   "created": 1792564260.2263458,
-   "after": 0,
-   "handle": "heart-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/heart-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
-   "file": "1b19ffb2.mp4",
-   "thumb": "1b19ffb2_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18105069191320568"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "916082848104277"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "4549234648648198"
-    }
-   }
-  },
-  {
    "id": "3eb44441",
    "status": "posted",
    "kind": "image",
@@ -5566,17 +5483,88 @@
    "product_url": "https://www.vinzapstore.in/products/metal-sink-drain-mesh-strainer-filter-basket-food-catcher-for-kitchen-1-pc",
    "file": "b4c585cc.jpg",
    "thumb": "b4c585cc.jpg"
+  },
+  {
+   "id": "78b1b159",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Pet Hair and Lint Remover Brush 2 in 1",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 179,
+    "was": 0,
+    "feats": [
+     "2-in-1 design",
+     "Works on clothes",
+     "Portable and easy to use"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Pet Hair and Lint Remover Brush 2 in 1 | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Pet Hair and Lint Remover Brush 2 in 1"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPet Hair and Lint Remover Brush 2 in 1\n✔ 2-in-1 design\n✔ Works on clothes\n✔ Portable and easy to use\n\nOnly ₹179. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #petlovers #petessentials\n#diwali #trendingshorts",
+   "title": "Pet Hair and Lint Remover Brush 2 in 1 | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792857710.8207042,
+     "id": "18024202088868469",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792857710.8207042,
+     "id": "4496164640712868",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792857710.8207042,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9hFJo42DFmMokvXG4H8eSx6"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792857710.8207042,
+     "id": "qo679T3khQs",
+     "dry": false
+    }
+   },
+   "created": 1792857689.0697563,
+   "after": 0,
+   "handle": "2-in-1-portable-pet-hair-and-lint-remover-brush-for-clothes-and-furniture-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/2-in-1-portable-pet-hair-and-lint-remover-brush-for-clothes-and-furniture-1-pc",
+   "file": "78b1b159.mp4",
+   "thumb": "78b1b159_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18127084102928952"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2314452689328059"
+    }
+   }
   }
  ],
- "last_post": 1792855848.5678308,
+ "last_post": 1792857710.8207042,
  "log": [
-  "13:01:56 POSTED facebook@Vinzap-Finds a1efe90f: 1534758855077924",
-  "13:02:02 POSTED facebook@Vijayendra-Singh a1efe90f: 2017682595596270",
-  "13:02:34 STORY POSTED instagram@Vinzap-Finds a1efe90f",
-  "13:02:43 STORY POSTED facebook@Vinzap-Finds a1efe90f",
-  "13:02:52 STORY POSTED facebook@Vijayendra-Singh a1efe90f",
-  "13:31:09 READY daf8724f Unbreakable Plastic Serving Bowl Set of 6 (auto-approved)",
-  "13:31:24 POSTED instagram@Vinzap-Finds daf8724f: 18120872141076107",
   "13:31:29 POSTED facebook@Vinzap-Finds daf8724f: 1428352113685678_122111395821501659",
   "13:31:33 POSTED facebook@Vijayendra-Singh daf8724f: 1317760538089559_122122075101480728",
   "14:01:08 READY 96ec42a0 Cooking Essentials Combo | Cooking (auto-approved)",
@@ -5769,13 +5757,20 @@
   "21:00:48 READY b4c585cc Metal Sink Drain Mesh Strainer Basket (auto-approved)",
   "21:00:58 POSTED instagram@Vinzap-Finds b4c585cc: 18041797847836550",
   "21:01:01 POSTED facebook@Vinzap-Finds b4c585cc: 1428352113685678_122111927193501659",
-  "21:01:05 POSTED facebook@Vijayendra-Singh b4c585cc: 1317760538089559_122122541217480728"
+  "21:01:05 POSTED facebook@Vijayendra-Singh b4c585cc: 1317760538089559_122122541217480728",
+  "21:31:50 READY 78b1b159 Pet Hair and Lint Remover Brush 2 in 1 | Diwali (auto-approved)",
+  "21:32:25 POSTED instagram@Vinzap-Finds 78b1b159: 18024202088868469",
+  "21:32:31 POSTED facebook@Vinzap-Finds 78b1b159: 4496164640712868",
+  "21:32:31 FAILED post facebook@Vijayendra-Singh 78b1b159: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9hFJo42DFmMokvXG4H8eSx62iTLDWfrQImOTEjNZ7zgermkUTpqXw4_yyvDK2KAeuy6FsERVFlki6O3YnBU5eNv3myl99QPK63UpguhsgKMPem1WJLRoVUczxBuUVLN5vtMdStjJwVtDsqOnlmhh8OwNs8dyUsUgp7CSAZ-z-0F536gY7XNjObYbiRn-Q7rvQ65mxSAiGGJBi3t-iNFlFKyA3Oyj_YcTqb2_xtuWp1sao55n_kuZTtlCMDMdOEOkfB8YTWaCp6apaeInPUvkRwGk71auiFN4nE1ZE637BVlhk-sjGmKvuhQJiHUIhTds\",\"help_cente",
+  "21:32:36 POSTED youtube 78b1b159: qo679T3khQs",
+  "21:33:10 STORY POSTED instagram@Vinzap-Finds 78b1b159",
+  "21:33:20 STORY POSTED facebook@Vinzap-Finds 78b1b159"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792855848.5678308,
-  "facebook@Vinzap-Finds": 1792855848.5678308,
-  "facebook@Vijayendra-Singh": 1792855848.5678308,
-  "youtube": 1792846462.9933357
+  "instagram@Vinzap-Finds": 1792857710.8207042,
+  "facebook@Vinzap-Finds": 1792857710.8207042,
+  "facebook@Vijayendra-Singh": 1792857710.8207042,
+  "youtube": 1792857710.8207042
  },
- "n": 132
+ "n": 133
 }
