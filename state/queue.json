@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "bbd0455f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Bottle Cleaning Brush",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Connects to standard plastic",
-     "Durable and firm nylon bristles",
-     "Built-in scraper helps remove"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Bottle Cleaning Brush | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Bottle Cleaning Brush"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nBottle Cleaning Brush\n✔ Connects to standard plastic\n✔ Durable and firm nylon bristles\n✔ Built-in scraper helps remove\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Bottle Cleaning Brush | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792514772.1247485,
-     "id": "18036805763884721",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792514772.1247485,
-     "id": "4060991524210329",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792514772.1247485,
-     "id": "2136633167247002",
-     "dry": false
-    }
-   },
-   "created": 1792514742.0412169,
-   "after": 0,
-   "handle": "multipurpose-bottle-connectable-cleaning-brush-with-built-in-scraper-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-bottle-connectable-cleaning-brush-with-built-in-scraper-1-pc",
-   "file": "bbd0455f.mp4",
-   "thumb": "bbd0455f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18016687928748164"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1470689831831621"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1678841620260155"
-    }
-   }
-  },
-  {
    "id": "6fbdd043",
    "status": "posted",
    "kind": "image",
@@ -5571,16 +5494,82 @@
    "product_url": "https://www.vinzapstore.in/products/small-stainless-steel-dough-scraper-cutter-15-x-12-cm-with-scale-1-pc",
    "file": "7958b08a.jpg",
    "thumb": "7958b08a.jpg"
+  },
+  {
+   "id": "72ef3ab6",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Kids Stainless Steel Cutlery Set 3 in 1",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Complete 3-in-1 set – fork",
+     "Smooth stainless steel heads that",
+     "Comfortable easy-grip handles"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Kids Stainless Steel Cutlery Set 3 in 1 | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kids Stainless Steel Cutlery Set 3 in 1"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKids Stainless Steel Cutlery Set 3 in 1\n✔ Complete 3-in-1 set – fork\n✔ Smooth stainless steel heads that\n✔ Comfortable easy-grip handles\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Kids Stainless Steel Cutlery Set 3 in 1 | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792854076.4599488,
+     "id": "17973821229157655",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792854076.4599488,
+     "id": "1879422043469238",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792854076.4599488,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes5XFjXZ_cXxXcPZEzzcMQs2b"
+    }
+   },
+   "created": 1792854050.38509,
+   "after": 0,
+   "handle": "kids-stainless-steel-cutlery-set-3-in-1-fork-knife-spoon-with-case-3-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/kids-stainless-steel-cutlery-set-3-in-1-fork-knife-spoon-with-case-3-pc-set",
+   "file": "72ef3ab6.mp4",
+   "thumb": "72ef3ab6_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18074226761488077"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1099481982699216"
+    }
+   }
   }
  ],
- "last_post": 1792852271.089791,
+ "last_post": 1792854076.4599488,
  "log": [
-  "12:02:26 POSTED youtube 0f26b586: h4CuEHl-ziQ",
-  "12:03:07 STORY POSTED instagram@Vinzap-Finds 0f26b586",
-  "12:03:19 STORY POSTED facebook@Vinzap-Finds 0f26b586",
-  "12:03:31 STORY POSTED facebook@Vijayendra-Singh 0f26b586",
-  "12:30:57 READY 72935baf Kitchen Dishwashing Glove (auto-approved)",
-  "12:31:09 POSTED instagram@Vinzap-Finds 72935baf: 17909770032576249",
   "12:31:13 POSTED facebook@Vinzap-Finds 72935baf: 1428352113685678_122111378187501659",
   "12:31:18 POSTED facebook@Vijayendra-Singh 72935baf: 1317760538089559_122122065045480728",
   "13:01:06 READY a1efe90f Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets (auto-approved)",
@@ -5774,13 +5763,19 @@
   "20:01:11 READY 7958b08a Stainless Steel Dough Scraper Cutter Small (auto-approved)",
   "20:01:25 POSTED instagram@Vinzap-Finds 7958b08a: 17966369132983057",
   "20:01:30 POSTED facebook@Vinzap-Finds 7958b08a: 1428352113685678_122111905281501659",
-  "20:01:35 POSTED facebook@Vijayendra-Singh 7958b08a: 1317760538089559_122122528605480728"
+  "20:01:35 POSTED facebook@Vijayendra-Singh 7958b08a: 1317760538089559_122122528605480728",
+  "20:31:16 READY 72ef3ab6 Kids Stainless Steel Cutlery Set 3 in 1 | Trending Shorts (auto-approved)",
+  "20:32:00 POSTED instagram@Vinzap-Finds 72ef3ab6: 17973821229157655",
+  "20:32:03 POSTED facebook@Vinzap-Finds 72ef3ab6: 1879422043469238",
+  "20:32:04 FAILED post facebook@Vijayendra-Singh 72ef3ab6: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes5XFjXZ_cXxXcPZEzzcMQs2btlToghIuDTuZUwU_7rUjKbgdsuJ1OvgxhbKejydzi4Vwic7F3F-16mbxJUOudYLiIRlqJWa6rB0B9-3KAfZsH54J1uGF4b7nOIvqtkvXvjRmpY8jL7DQrxT9yI1TRuNC3Te2FM8hl_WjkNtEIsegFEQJH99IP03EYw_A2oTDxDHBciUQHYGqjYpE4hl2sXcMCOy1bKEY3V2d22R5WmQNiGGzckEXWv1T1SfU2F1-DEkrdYYATtbQLSlPyjuLqTaKghNlPN9Zkh4qy2pPM3temuFw-VVCcBGkcwLAZkcsPh\",\"help_cent",
+  "20:32:45 STORY POSTED instagram@Vinzap-Finds 72ef3ab6",
+  "20:32:57 STORY POSTED facebook@Vinzap-Finds 72ef3ab6"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792852271.089791,
-  "facebook@Vinzap-Finds": 1792852271.089791,
-  "facebook@Vijayendra-Singh": 1792852271.089791,
+  "instagram@Vinzap-Finds": 1792854076.4599488,
+  "facebook@Vinzap-Finds": 1792854076.4599488,
+  "facebook@Vijayendra-Singh": 1792854076.4599488,
   "youtube": 1792846882.9933357
  },
- "n": 130
+ "n": 131
 }
