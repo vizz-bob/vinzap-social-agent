@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "c46aa39c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "dussehra",
-    "headline": "Glass Oil Dispenser Bottle 400ml",
-    "strip": "Dussehra Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "400ml capacity glass bottle ideal",
-     "Innovative anti-drip flip-top lid",
-     "Clear transparent glass body"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Glass Oil Dispenser Bottle 400ml | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Glass Oil Dispenser Bottle 400ml"
-   },
-   "caption": "दशहरा की हार्दिक शुभकामनाएं 🏹\n\nGlass Oil Dispenser Bottle 400ml\n✔ 400ml capacity glass bottle ideal\n✔ Innovative anti-drip flip-top lid\n✔ Clear transparent glass body\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#dussehra #vijayadashami #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
-   "title": "Glass Oil Dispenser Bottle 400ml | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792507579.1134994,
-     "id": "18022136498938483",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792507579.1134994,
-     "id": "929205536739811",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792507579.1134994,
-     "id": "1055660004146100",
-     "dry": false
-    }
-   },
-   "created": 1792507547.279044,
-   "after": 0,
-   "handle": "400-ml-glass-oil-dispenser-bottle-with-drip-free-lid-for-kitchen-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/400-ml-glass-oil-dispenser-bottle-with-drip-free-lid-for-kitchen-1-pc",
-   "file": "c46aa39c.mp4",
-   "thumb": "c46aa39c_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18133187377676249"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2456213735206376"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1009126965531120"
-    }
-   }
-  },
-  {
    "id": "74d4b83e",
    "status": "posted",
    "kind": "image",
@@ -5583,17 +5506,88 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-ice-candy-popsicle-maker-8-mold-1-set",
    "file": "bc0bbe11.jpg",
    "thumb": "bc0bbe11.jpg"
+  },
+  {
+   "id": "67fe05f6",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "2-in-1 Egg Slicer and Wedger, Stainless",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Two cutting stations slice eggs",
+     "Sharp stainless steel wires cut",
+     "Slotted cups hold the egg firmly"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2-in-1 Egg Slicer and Wedger, Stainless"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Egg Slicer and Wedger, Stainless\n✔ Two cutting stations slice eggs\n✔ Sharp stainless steel wires cut\n✔ Slotted cups hold the egg firmly\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792846882.9933357,
+     "id": "17955908955266374",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792846882.9933357,
+     "id": "1116461704477514",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792846882.9933357,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPr4bNVotWreIlcy5cigU3ae"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792846882.9933357,
+     "id": "YebOiEyhWvM",
+     "dry": false
+    }
+   },
+   "created": 1792846855.8931696,
+   "after": 0,
+   "handle": "2-in-1-egg-slicer-and-wedger-stainless-steel-wire-boiled-egg-cutter-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/2-in-1-egg-slicer-and-wedger-stainless-steel-wire-boiled-egg-cutter-1-pc",
+   "file": "67fe05f6.mp4",
+   "thumb": "67fe05f6_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18133631830747197"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1135811805483155"
+    }
+   }
   }
  ],
- "last_post": 1792845042.7646875,
+ "last_post": 1792846882.9933357,
  "log": [
-  "20:35:26 STORY POSTED facebook@Vinzap-Finds bd0eb1b2",
-  "20:35:37 STORY POSTED facebook@Vijayendra-Singh bd0eb1b2",
-  "21:26:11 READY 127e6aad White Glass Water Bottle 400ml (auto-approved)",
-  "21:26:21 POSTED instagram@Vinzap-Finds 127e6aad: 18265093999307406",
-  "21:26:25 POSTED facebook@Vinzap-Finds 127e6aad: 1428352113685678_122111171715501659",
-  "21:26:29 POSTED facebook@Vijayendra-Singh 127e6aad: 1317760538089559_122121888003480728",
-  "22:09:23 READY 7487b98d Silicone Flower Shape Trivet Hot Pot Holder | Diwali (auto-approved)",
   "22:10:06 POSTED instagram@Vinzap-Finds 7487b98d: 18122188489939579",
   "22:10:11 POSTED facebook@Vinzap-Finds 7487b98d: 1422928062677557",
   "22:10:17 POSTED facebook@Vijayendra-Singh 7487b98d: 1156981520328554",
@@ -5786,13 +5780,20 @@
   "18:00:42 READY bc0bbe11 Ice Candy Popsicle Maker 8 Mould Set (auto-approved)",
   "18:00:50 POSTED instagram@Vinzap-Finds bc0bbe11: 18227371651330905",
   "18:00:53 POSTED facebook@Vinzap-Finds bc0bbe11: 1428352113685678_122111860371501659",
-  "18:00:56 POSTED facebook@Vijayendra-Singh bc0bbe11: 1317760538089559_122122499457480728"
+  "18:00:56 POSTED facebook@Vijayendra-Singh bc0bbe11: 1317760538089559_122122499457480728",
+  "18:31:22 READY 67fe05f6 2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas (auto-approved)",
+  "18:31:56 POSTED instagram@Vinzap-Finds 67fe05f6: 17955908955266374",
+  "18:32:01 POSTED facebook@Vinzap-Finds 67fe05f6: 1116461704477514",
+  "18:32:02 FAILED post facebook@Vijayendra-Singh 67fe05f6: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPr4bNVotWreIlcy5cigU3aeuOOdiAjETcEz3KK04E8eXuRUtDvXHtGyiPax828GmcXCmgiH59UzCM-yKKJgL5Js15bVj6dqH69UcWX7xyeSchNnco23gIn9RWshb-i0KNMXSmObF391B79R4mdJ44i61VeWmultfItBs0156GMyVMTqggDIJ_14EGGEMvdn1ilM1pVSz-XfKjjxDkqtR-ypFf07qrSGPKCr2uf0d3k3pgf4q1wN2LhG9cUSwNXloDBH6epEL4CKiIx7gL4dOV9JL-k64vPHkE8c8zKcAsnsqj3cvGraUnXroskpqq717v\",\"help_cent",
+  "18:32:06 POSTED youtube 67fe05f6: YebOiEyhWvM",
+  "18:32:41 STORY POSTED instagram@Vinzap-Finds 67fe05f6",
+  "18:32:52 STORY POSTED facebook@Vinzap-Finds 67fe05f6"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792845042.7646875,
-  "facebook@Vinzap-Finds": 1792845042.7646875,
-  "facebook@Vijayendra-Singh": 1792845042.7646875,
-  "youtube": 1792835655.5375214
+  "instagram@Vinzap-Finds": 1792846882.9933357,
+  "facebook@Vinzap-Finds": 1792846882.9933357,
+  "facebook@Vijayendra-Singh": 1792846882.9933357,
+  "youtube": 1792846882.9933357
  },
- "n": 126
+ "n": 127
 }
