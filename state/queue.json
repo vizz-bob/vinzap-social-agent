@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "8afeb06f",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Knife Sharpener",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Rotating sharpening wheels",
-     "Peel-and-stick adhesive base",
-     "Stable one-hand operation keeps"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Knife Sharpener | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Knife Sharpener"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKnife Sharpener\n✔ Rotating sharpening wheels\n✔ Peel-and-stick adhesive base\n✔ Stable one-hand operation keeps\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Knife Sharpener | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792575075.7202992,
-     "id": "18638619637009601",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792575075.7202992,
-     "id": "4185842018378247",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792575075.7202992,
-     "id": "982571701556428",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792575075.7202992,
-     "id": "xC_G7xfdcVY",
-     "dry": false
-    }
-   },
-   "created": 1792575045.9888837,
-   "after": 0,
-   "handle": "compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
-   "file": "8afeb06f.mp4",
-   "thumb": "8afeb06f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18119695939759506"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1509764784312093"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1142455621538875"
-    }
-   }
-  },
-  {
    "id": "73f6750c",
    "status": "posted",
    "kind": "image",
@@ -5547,16 +5464,82 @@
    "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
    "file": "3fdcec67.jpg",
    "thumb": "3fdcec67.jpg"
+  },
+  {
+   "id": "8311eb0e",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Steel Kids Dinosaur Lunch Box Bento Tiffin",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1299,
+    "was": 0,
+    "feats": [
+     "Removable stainless steel tray",
+     "Fun cartoon dinosaur design makes",
+     "Includes a spoon and a small"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Steel Kids Dinosaur Lunch Box Bento Tiffin | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Steel Kids Dinosaur Lunch Box Bento Tiffin"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSteel Kids Dinosaur Lunch Box Bento Tiffin\n✔ Removable stainless steel tray\n✔ Fun cartoon dinosaur design makes\n✔ Includes a spoon and a small\n\nOnly ₹1299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#homedecorideas #diwali",
+   "title": "Steel Kids Dinosaur Lunch Box Bento Tiffin | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792913475.3650947,
+     "id": "18096766649670719",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792913475.3650947,
+     "id": "1086587257525314",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792913475.3650947,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevDWy_EAxLrMkjhanGmSpK72_"
+    }
+   },
+   "created": 1792913453.579713,
+   "after": 0,
+   "handle": "steel-kids-dinosaur-lunch-box-bento-tiffin-with-steel-tray-spoon-sauce-cup-1-set",
+   "product_url": "https://www.vinzapstore.in/products/steel-kids-dinosaur-lunch-box-bento-tiffin-with-steel-tray-spoon-sauce-cup-1-set",
+   "file": "8311eb0e.mp4",
+   "thumb": "8311eb0e_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17952676092318332"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1128702376793068"
+    }
+   }
   }
  ],
- "last_post": 1792911658.5820029,
+ "last_post": 1792913475.3650947,
  "log": [
-  "15:31:25 POSTED facebook@Vinzap-Finds 485e44ee: 1428352113685678_122111434821501659",
-  "15:31:27 POSTED facebook@Vijayendra-Singh 485e44ee: 1317760538089559_122122102965480728",
-  "16:01:09 READY f04b7e0c Manual Garlic Press Crusher | Diwali (auto-approved)",
-  "16:01:45 POSTED instagram@Vinzap-Finds f04b7e0c: 18166914619491062",
-  "16:01:51 POSTED facebook@Vinzap-Finds f04b7e0c: 1131178612703680",
-  "16:01:57 POSTED facebook@Vijayendra-Singh f04b7e0c: 1644237204381486",
   "16:02:28 STORY POSTED instagram@Vinzap-Finds f04b7e0c",
   "16:02:38 STORY POSTED facebook@Vinzap-Finds f04b7e0c",
   "16:02:47 STORY POSTED facebook@Vijayendra-Singh f04b7e0c",
@@ -5750,13 +5733,19 @@
   "12:30:58 READY 3fdcec67 Green Tea Strainer (auto-approved)",
   "12:31:08 POSTED instagram@Vinzap-Finds 3fdcec67: 18013295501766613",
   "12:31:11 POSTED facebook@Vinzap-Finds 3fdcec67: 1428352113685678_122112127689501659",
-  "12:31:15 POSTED facebook@Vijayendra-Singh 3fdcec67: 1317760538089559_122122736469480728"
+  "12:31:15 POSTED facebook@Vijayendra-Singh 3fdcec67: 1317760538089559_122122736469480728",
+  "13:01:15 READY 8311eb0e Steel Kids Dinosaur Lunch Box Bento Tiffin | Home Decor Ideas (auto-approved)",
+  "13:01:56 POSTED instagram@Vinzap-Finds 8311eb0e: 18096766649670719",
+  "13:02:00 POSTED facebook@Vinzap-Finds 8311eb0e: 1086587257525314",
+  "13:02:01 FAILED post facebook@Vijayendra-Singh 8311eb0e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevDWy_EAxLrMkjhanGmSpK72_7_HEGrJbJKkd-uqP8nodLHY2d5c5mxXWVLW3ixyv0LsFMrc-E4uMHnHlZf-FOI5fwFMvpvNAELBRYA8AC-OZK5QGEKnM8oTjnNvIKVkQ2cRnSBOpYU_9fRf20lHAapCehRtGypVBdVQEUDxmtuFFoNHz0b6jbhjUeONLiH63UBS8zvIMOHG8KCMAigbq7WuaJ0j2esWQU3Vn5eDK5rlrW9N0ABTq2BH2Lp3euV-jQcgcB2IIzpZpFQ6cPFHGiDoXATzTnE2G6ImN9cK24u9WBC8W5Ciq7Mn3QiYLnzrtC4\",\"help_cent",
+  "13:02:37 STORY POSTED instagram@Vinzap-Finds 8311eb0e",
+  "13:02:50 STORY POSTED facebook@Vinzap-Finds 8311eb0e"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792911658.5820029,
-  "facebook@Vinzap-Finds": 1792911658.5820029,
-  "facebook@Vijayendra-Singh": 1792911658.5820029,
+  "instagram@Vinzap-Finds": 1792913475.3650947,
+  "facebook@Vinzap-Finds": 1792913475.3650947,
+  "facebook@Vijayendra-Singh": 1792913475.3650947,
   "youtube": 1792909869.0879767
  },
- "n": 138
+ "n": 139
 }
