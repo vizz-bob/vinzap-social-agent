@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "b67af718",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Supermom Floral Serving Tray Set of 3",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1699,
-    "was": 0,
-    "feats": [
-     "Beautiful floral printed design",
-     "Multipurpose tray set suitable",
-     "Side handles for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Supermom Floral Serving Tray Set of 3 | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Floral Serving Tray Set of 3"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Floral Serving Tray Set of 3\n✔ Beautiful floral printed design\n✔ Multipurpose tray set suitable\n✔ Side handles for comfortable\n\nOnly ₹1699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Supermom Floral Serving Tray Set of 3 | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792585879.4431295,
-     "id": "18111311330588027",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792585879.4431295,
-     "id": "1849613059805512",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792585879.4431295,
-     "id": "1664473018466898",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792585879.4431295,
-     "id": "c-R5H5cYEJA",
-     "dry": false
-    }
-   },
-   "created": 1792585848.3761191,
-   "after": 0,
-   "handle": "supermom-floral-printed-multipurpose-serving-tray-set-3-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/supermom-floral-printed-multipurpose-serving-tray-set-3-pc-set",
-   "file": "b67af718.mp4",
-   "thumb": "b67af718_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18096283055647486"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1113260057756652"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1784340909466398"
-    }
-   }
-  },
-  {
    "id": "692a285f",
    "status": "posted",
    "kind": "image",
@@ -5532,16 +5449,82 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-spring-omasher-heavy-duty-stainless-steel-vegetable-potato-masher",
    "file": "930ca079.jpg",
    "thumb": "930ca079.jpg"
+  },
+  {
+   "id": "3c8ea193",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 159,
+    "was": 0,
+    "feats": [
+     "The mini silicone mold allows you",
+     "Easy to use",
+     "Freezing"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Silicone Ice Cube Tray | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Tray\n✔ The mini silicone mold allows you\n✔ Easy to use\n✔ Freezing\n\nOnly ₹159. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Silicone Ice Cube Tray | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792924280.9507372,
+     "id": "18128079385893398",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792924280.9507372,
+     "id": "2096247690977624",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792924280.9507372,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesfKCdSlM68GaKp5Q_RsxtP9w"
+    }
+   },
+   "created": 1792924254.919158,
+   "after": 0,
+   "handle": "silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-5",
+   "product_url": "https://www.vinzapstore.in/products/silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-5",
+   "file": "3c8ea193.mp4",
+   "thumb": "3c8ea193_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18130835566698080"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1748535846243918"
+    }
+   }
   }
  ],
- "last_post": 1792922449.7223032,
+ "last_post": 1792924280.9507372,
  "log": [
-  "18:03:00 STORY POSTED facebook@Vijayendra-Singh daa4f750",
-  "18:31:04 READY 534ddd6c Apex Mocktail Mug Glass Set of 2, 400ml (auto-approved)",
-  "18:31:17 POSTED instagram@Vinzap-Finds 534ddd6c: 18020694656924264",
-  "18:31:21 POSTED facebook@Vinzap-Finds 534ddd6c: 1428352113685678_122111490213501659",
-  "18:31:25 POSTED facebook@Vijayendra-Singh 534ddd6c: 1317760538089559_122122149729480728",
-  "19:01:22 READY 17a8af5d Stainless Steel Chopping Board | Home Decor Ideas (auto-approved)",
   "19:02:01 POSTED instagram@Vinzap-Finds 17a8af5d: 18114232379129744",
   "19:02:05 POSTED facebook@Vinzap-Finds 17a8af5d: 1925031908465854",
   "19:02:08 POSTED facebook@Vijayendra-Singh 17a8af5d: 39333772782934160",
@@ -5735,13 +5718,19 @@
   "15:30:49 READY 930ca079 Supermom Spring Masher Stainless Steel (auto-approved)",
   "15:31:02 POSTED instagram@Vinzap-Finds 930ca079: 17974031172160004",
   "15:31:06 POSTED facebook@Vinzap-Finds 930ca079: 1428352113685678_122112175431501659",
-  "15:31:10 POSTED facebook@Vijayendra-Singh 930ca079: 1317760538089559_122122799025480728"
+  "15:31:10 POSTED facebook@Vijayendra-Singh 930ca079: 1317760538089559_122122799025480728",
+  "16:01:20 READY 3c8ea193 Silicone Ice Cube Tray | Cooking (auto-approved)",
+  "16:01:55 POSTED instagram@Vinzap-Finds 3c8ea193: 18128079385893398",
+  "16:02:00 POSTED facebook@Vinzap-Finds 3c8ea193: 2096247690977624",
+  "16:02:01 FAILED post facebook@Vijayendra-Singh 3c8ea193: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesfKCdSlM68GaKp5Q_RsxtP9wAkst_rgmtHRl4Yyb9oOvjnvk8tPAlmLZs7py1SHSP2AhkP92UOOAlFWisoZSvka-11PSQHIPuNH7DxF8PIGfZe0dlwCs1EVobW0kYQL6IwnTPcBtKoNyA9_4T8N0lBH0TvNZvG3GRWpLFjmqHyFDgODsfUedB8nXrrE7FvSuiqNeNZgbOuX2InBi8L3R-lKAVmO9bOUraCrkocsPB65Cg10CcXB6hrrG-X1vcyoYW-IerH7VBn-EnM0xLGXBpCieU5wMjq8VVZBgM2xSME4PGdGQoZm6BusWpFgkyYD4I\",\"help_cente",
+  "16:02:32 STORY POSTED instagram@Vinzap-Finds 3c8ea193",
+  "16:02:43 STORY POSTED facebook@Vinzap-Finds 3c8ea193"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792922449.7223032,
-  "facebook@Vinzap-Finds": 1792922449.7223032,
-  "facebook@Vijayendra-Singh": 1792922449.7223032,
+  "instagram@Vinzap-Finds": 1792924280.9507372,
+  "facebook@Vinzap-Finds": 1792924280.9507372,
+  "facebook@Vijayendra-Singh": 1792924280.9507372,
   "youtube": 1792920683.0944185
  },
- "n": 144
+ "n": 145
 }
