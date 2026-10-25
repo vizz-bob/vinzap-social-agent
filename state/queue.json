@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "ae49bb71",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Fruit and Veg Slicing Combo of 3",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "3 in 1 Watermelon Slicer Knife",
-     "Multipurpose Fruit Slicer with 7",
-     "Multipurpose Peeler with Brush"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Fruit and Veg Slicing Combo of 3 | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fruit and Veg Slicing Combo of 3"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFruit and Veg Slicing Combo of 3\n✔ 3 in 1 Watermelon Slicer Knife\n✔ Multipurpose Fruit Slicer with 7\n✔ Multipurpose Peeler with Brush\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#trendingshorts #kitchengadgets",
-   "title": "Fruit and Veg Slicing Combo of 3 | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792650677.7261498,
-     "id": "18122295043940025",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792650677.7261498,
-     "id": "1166421642715048",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792650677.7261498,
-     "id": "1095916476554005",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792650677.7261498,
-     "id": "wEj5oXI4fzY",
-     "dry": false
-    }
-   },
-   "created": 1792650647.315258,
-   "after": 0,
-   "handle": "fruit-veg-slicing-combo-of-3",
-   "product_url": "https://www.vinzapstore.in/products/fruit-veg-slicing-combo-of-3",
-   "file": "ae49bb71.mp4",
-   "thumb": "ae49bb71_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18109851683611343"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2372333933572476"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1613876920505929"
-    }
-   }
-  },
-  {
    "id": "a5f6e777",
    "status": "posted",
    "kind": "image",
@@ -5501,17 +5418,88 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-double-wall-vacuum-insulated-drink-water-white-500-ml-approx",
    "file": "984c38f0.jpg",
    "thumb": "984c38f0.jpg"
+  },
+  {
+   "id": "6e0e8faa",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Reusable Plastic Champagne Flutes Wine",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "Set of 6 reusable champagne",
+     "Made from durable",
+     "Elegant stemmed design looks"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Reusable Plastic Champagne Flutes Wine | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Plastic Champagne Flutes Wine"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Plastic Champagne Flutes Wine\n✔ Set of 6 reusable champagne\n✔ Made from durable\n✔ Elegant stemmed design looks\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Reusable Plastic Champagne Flutes Wine | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792942275.961005,
+     "id": "18129545884873325",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792942275.961005,
+     "id": "2005917763406662",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792942275.961005,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpvEl-5HcUqHVjZlF4fbem7A"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792942275.961005,
+     "id": "283nxElTqOY",
+     "dry": false
+    }
+   },
+   "created": 1792942250.036049,
+   "after": 0,
+   "handle": "reusable-plastic-champagne-flutes-wine-glasses-set-assorted-colours-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/reusable-plastic-champagne-flutes-wine-glasses-set-assorted-colours-6-pc-set",
+   "file": "6e0e8faa.mp4",
+   "thumb": "6e0e8faa_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18021809063731621"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1541522751334820"
+    }
+   }
   }
  ],
- "last_post": 1792940466.9121141,
+ "last_post": 1792942275.961005,
  "log": [
-  "12:32:30 STORY POSTED instagram@Vinzap-Finds efd6b17a",
-  "12:32:40 STORY POSTED facebook@Vinzap-Finds efd6b17a",
-  "13:01:11 READY 2053c035 Manual Rotary Drum Grater and Slicer, 3 (auto-approved)",
-  "13:01:26 POSTED instagram@Vinzap-Finds 2053c035: 18052045646604964",
-  "13:01:31 POSTED facebook@Vinzap-Finds 2053c035: 1428352113685678_122111781675501659",
-  "13:01:35 POSTED facebook@Vijayendra-Singh 2053c035: 1317760538089559_122122433397480728",
-  "13:31:14 READY d549266d Portable Plastic Kitchen Dustbin Hanging | Diwali (auto-approved)",
   "13:31:44 POSTED instagram@Vinzap-Finds d549266d: 17909071101562018",
   "13:31:48 POSTED facebook@Vinzap-Finds d549266d: 1634766378303804",
   "13:31:49 FAILED post facebook@Vijayendra-Singh d549266d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetaC6aGwwitWl6hgRthVIv5cStV55nPLs4RGqBFivp5tgBVBTm52ae1qzLWrhEuWuc7jfWTQkPRNGGWkj5_cEzbTYkYUY17FfVE4V8gvWZh2s3O06iIv8wlrZ7ocUMWeoGCBRE9AKT9fSjegRQJgDCpBpYR4tKTE_QaqL2pF6Lj94gPdMPaiEJZYdwMFSEEaCohJJbIX638B6NknOGxu57jFD6MlfT9RiI9DlGUI8QsnwDnlnK3PBJY0c-09HLVx4R8MAwc60CEE0ynEgxFqD5WyLX8BalWCfGQILAnHX5iroS1kDiFIGN3O4RkHh9hpcw\",\"help_cente",
@@ -5704,13 +5692,20 @@
   "20:31:06 READY 984c38f0 Stainless Steel Double Wall Vacuum Water (auto-approved)",
   "20:31:20 POSTED instagram@Vinzap-Finds 984c38f0: 18356905771175276",
   "20:31:24 POSTED facebook@Vinzap-Finds 984c38f0: 1428352113685678_122112279579501659",
-  "20:31:27 POSTED facebook@Vijayendra-Singh 984c38f0: 1317760538089559_122122867005480728"
+  "20:31:27 POSTED facebook@Vijayendra-Singh 984c38f0: 1317760538089559_122122867005480728",
+  "21:01:15 READY 6e0e8faa Reusable Plastic Champagne Flutes Wine | Trending Shorts (auto-approved)",
+  "21:01:53 POSTED instagram@Vinzap-Finds 6e0e8faa: 18129545884873325",
+  "21:01:59 POSTED facebook@Vinzap-Finds 6e0e8faa: 2005917763406662",
+  "21:02:01 FAILED post facebook@Vijayendra-Singh 6e0e8faa: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpvEl-5HcUqHVjZlF4fbem7AVa9D8977c4cum-LQ4a9xb-OE7FnTfym0ORNkCzVMy7vpgbBeg2l9Cu1720lwERzMls_VsIt93NasZUWVA1gMJS2TR7btlhjuisPq0yuN3csqLaUi9zOhUjfwjcV3J0jVtY5-cOLaC5dsBiQI8sV_yEHpq78mv3MrYNu7H8KZSYDPLU4MGnmqQOoE-cCN7f2Qj7k0RxTaHCkP7KNlcIigTaBCggIuQ7OiFwUUCdvVDVxZXiF86q8L91IdrSCbONmP7NWsaTATujEPwVHLEvPRLHYzYy-7wpfcZHF77FqumO\",\"help_cent",
+  "21:02:06 POSTED youtube 6e0e8faa: 283nxElTqOY",
+  "21:02:39 STORY POSTED instagram@Vinzap-Finds 6e0e8faa",
+  "21:02:49 STORY POSTED facebook@Vinzap-Finds 6e0e8faa"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792940466.9121141,
-  "facebook@Vinzap-Finds": 1792940466.9121141,
-  "facebook@Vijayendra-Singh": 1792940466.9121141,
-  "youtube": 1792931050.2630978
+  "instagram@Vinzap-Finds": 1792942275.961005,
+  "facebook@Vinzap-Finds": 1792942275.961005,
+  "facebook@Vijayendra-Singh": 1792942275.961005,
+  "youtube": 1792942275.961005
  },
- "n": 154
+ "n": 155
 }
