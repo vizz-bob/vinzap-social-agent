@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "a5f6e777",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Vacuum Insulated Water",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1499,
-    "was": 0,
-    "feats": [
-     "Double wall vacuum insulation",
-     "1000 ML large capacity ensures",
-     "Premium stainless steel"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Stainless Steel Vacuum Insulated Water | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Vacuum Insulated Water"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vacuum Insulated Water\n✔ Double wall vacuum insulation\n✔ 1000 ML large capacity ensures\n✔ Premium stainless steel\n\nOnly ₹1499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
-   "title": "Stainless Steel Vacuum Insulated Water",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792652464.104523,
-     "id": "17947103841357266",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792652464.104523,
-     "id": "1428352113685678_122111012937501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792652464.104523,
-     "id": "1317760538089559_122121732039480728",
-     "dry": false
-    }
-   },
-   "created": 1792652462.004653,
-   "after": 0,
-   "handle": "stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
-   "file": "a5f6e777.jpg",
-   "thumb": "a5f6e777.jpg"
-  },
-  {
    "id": "6746d99c",
    "status": "scheduled",
    "kind": "reel",
@@ -5496,14 +5434,72 @@
      "id": "1541522751334820"
     }
    }
+  },
+  {
+   "id": "77e50208",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Power-X Hand-Pull Vegetable Chopper",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "500ML Capacity: Perfect",
+     "Triple Stainless Steel Blades:",
+     "Patented Pull-Cord Mechanism:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Apex Power-X Hand-Pull Vegetable Chopper | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Power-X Hand-Pull Vegetable Chopper"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Power-X Hand-Pull Vegetable Chopper\n✔ 500ML Capacity: Perfect\n✔ Triple Stainless Steel Blades:\n✔ Patented Pull-Cord Mechanism:\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Apex Power-X Hand-Pull Vegetable Chopper",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792944057.820195,
+     "id": "18104601365340874",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792944057.820195,
+     "id": "1428352113685678_122112296877501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792944057.820195,
+     "id": "1317760538089559_122122882263480728",
+     "dry": false
+    }
+   },
+   "created": 1792944055.4417682,
+   "after": 0,
+   "handle": "apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
+   "product_url": "https://www.vinzapstore.in/products/apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
+   "file": "77e50208.jpg",
+   "thumb": "77e50208.jpg"
   }
  ],
- "last_post": 1792942275.961005,
+ "last_post": 1792944057.820195,
  "log": [
-  "13:31:44 POSTED instagram@Vinzap-Finds d549266d: 17909071101562018",
-  "13:31:48 POSTED facebook@Vinzap-Finds d549266d: 1634766378303804",
-  "13:31:49 FAILED post facebook@Vijayendra-Singh d549266d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetaC6aGwwitWl6hgRthVIv5cStV55nPLs4RGqBFivp5tgBVBTm52ae1qzLWrhEuWuc7jfWTQkPRNGGWkj5_cEzbTYkYUY17FfVE4V8gvWZh2s3O06iIv8wlrZ7ocUMWeoGCBRE9AKT9fSjegRQJgDCpBpYR4tKTE_QaqL2pF6Lj94gPdMPaiEJZYdwMFSEEaCohJJbIX638B6NknOGxu57jFD6MlfT9RiI9DlGUI8QsnwDnlnK3PBJY0c-09HLVx4R8MAwc60CEE0ynEgxFqD5WyLX8BalWCfGQILAnHX5iroS1kDiFIGN3O4RkHh9hpcw\",\"help_cente",
-  "13:32:19 STORY POSTED instagram@Vinzap-Finds d549266d",
   "13:32:28 STORY POSTED facebook@Vinzap-Finds d549266d",
   "14:00:49 READY 7345fc44 Apex Manual Citrus Juicer (auto-approved)",
   "14:01:01 POSTED instagram@Vinzap-Finds 7345fc44: 18194155738396303",
@@ -5699,13 +5695,17 @@
   "21:02:01 FAILED post facebook@Vijayendra-Singh 6e0e8faa: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpvEl-5HcUqHVjZlF4fbem7AVa9D8977c4cum-LQ4a9xb-OE7FnTfym0ORNkCzVMy7vpgbBeg2l9Cu1720lwERzMls_VsIt93NasZUWVA1gMJS2TR7btlhjuisPq0yuN3csqLaUi9zOhUjfwjcV3J0jVtY5-cOLaC5dsBiQI8sV_yEHpq78mv3MrYNu7H8KZSYDPLU4MGnmqQOoE-cCN7f2Qj7k0RxTaHCkP7KNlcIigTaBCggIuQ7OiFwUUCdvVDVxZXiF86q8L91IdrSCbONmP7NWsaTATujEPwVHLEvPRLHYzYy-7wpfcZHF77FqumO\",\"help_cent",
   "21:02:06 POSTED youtube 6e0e8faa: 283nxElTqOY",
   "21:02:39 STORY POSTED instagram@Vinzap-Finds 6e0e8faa",
-  "21:02:49 STORY POSTED facebook@Vinzap-Finds 6e0e8faa"
+  "21:02:49 STORY POSTED facebook@Vinzap-Finds 6e0e8faa",
+  "21:30:57 READY 77e50208 Apex Power-X Hand-Pull Vegetable Chopper (auto-approved)",
+  "21:31:13 POSTED instagram@Vinzap-Finds 77e50208: 18104601365340874",
+  "21:31:17 POSTED facebook@Vinzap-Finds 77e50208: 1428352113685678_122112296877501659",
+  "21:31:21 POSTED facebook@Vijayendra-Singh 77e50208: 1317760538089559_122122882263480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792942275.961005,
-  "facebook@Vinzap-Finds": 1792942275.961005,
-  "facebook@Vijayendra-Singh": 1792942275.961005,
+  "instagram@Vinzap-Finds": 1792944057.820195,
+  "facebook@Vinzap-Finds": 1792944057.820195,
+  "facebook@Vijayendra-Singh": 1792944057.820195,
   "youtube": 1792942275.961005
  },
- "n": 155
+ "n": 156
 }
