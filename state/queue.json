@@ -1,81 +1,6 @@
 {
  "items": [
   {
-   "id": "f6d59a8d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Lollipop Candy Maker Machine, Red",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Lollipop Candy Maker and Lollipop"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Lollipop Candy Maker Machine, Red | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Lollipop Candy Maker Machine, Red"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLollipop Candy Maker Machine, Red\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Lollipop Candy Maker Machine, Red | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792600269.2948956,
-     "id": "17992602816047859",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792600269.2948956,
-     "id": "2258628421381837",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792600269.2948956,
-     "id": "1408252621296121",
-     "dry": false
-    }
-   },
-   "created": 1792600249.3773334,
-   "after": 0,
-   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-red",
-   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-red",
-   "file": "f6d59a8d.mp4",
-   "thumb": "f6d59a8d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18105073619367348"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1857921785655559"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1055361630853173"
-    }
-   }
-  },
-  {
    "id": "1cd2b8b2",
    "status": "posted",
    "kind": "image",
@@ -5504,16 +5429,82 @@
    "product_url": "https://www.vinzapstore.in/products/ketchup-dispenser-mustard-bottle-gun-1-pc",
    "file": "4a74d0e6.jpg",
    "thumb": "4a74d0e6.jpg"
+  },
+  {
+   "id": "62e05c4b",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "5-in-1 Stainless Steel Grater and Slicer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "5-in-1 multifunctional grater",
+     "High-quality food-grade stainless",
+     "Sharp blades for smooth"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "5-in-1 Stainless Steel Grater and Slicer | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "5-in-1 Stainless Steel Grater and Slicer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n5-in-1 Stainless Steel Grater and Slicer\n✔ 5-in-1 multifunctional grater\n✔ High-quality food-grade stainless\n✔ Sharp blades for smooth\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "5-in-1 Stainless Steel Grater and Slicer | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792938668.0546846,
+     "id": "18094874702184016",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792938668.0546846,
+     "id": "1661594102029609",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792938668.0546846,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuT4BrF1midimKwFcHKfsDiaC"
+    }
+   },
+   "created": 1792938642.140386,
+   "after": 0,
+   "handle": "supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
+   "file": "62e05c4b.mp4",
+   "thumb": "62e05c4b_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17992798626082087"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2458467684678836"
+    }
+   }
   }
  ],
- "last_post": 1792936851.8392656,
+ "last_post": 1792938668.0546846,
  "log": [
-  "22:33:03 STORY POSTED facebook@Vinzap-Finds 147d66d2",
-  "12:00:56 READY 83dc8dba Silicone Moisturizing Feet Socks Gel, 1 Pair (auto-approved)",
-  "12:01:05 POSTED instagram@Vinzap-Finds 83dc8dba: 17978704734135097",
-  "12:01:08 POSTED facebook@Vinzap-Finds 83dc8dba: 1428352113685678_122111767563501659",
-  "12:01:12 POSTED facebook@Vijayendra-Singh 83dc8dba: 1317760538089559_122122422093480728",
-  "12:31:16 READY efd6b17a Silicone Ice Cube Maker Cup | Cooking (auto-approved)",
   "12:31:49 POSTED instagram@Vinzap-Finds efd6b17a: 18129175132872319",
   "12:31:54 POSTED facebook@Vinzap-Finds efd6b17a: 1585925849449706",
   "12:31:55 FAILED post facebook@Vijayendra-Singh efd6b17a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNScLz-04916NJZSAE8hq5HTJYgeftL18C-m4_IgbumPd8KFtiYYHbnKDdvpChCEPvgbv1SP1rynyBM0kFmLiFnRiIZ02BvV6rphxxDcUpcUgWqzk6gvszrGYAOwrgtYpTbtuV6yjMgh6MBBDToHEDb_kjdOpc86eC_z7-YYm4ERMVsOUk0OsC8ApVgOw97WCtwRF83ceKU6USltafhTY0GsPSY8jQndxgzpzNe7YGM3kCuYHRbSh2Ku0GisPHX5JOIf0k9BnLOrwUTq_GprMlDgbNiDU8KgeXCZCmtYSVpdrv1nUXZbPY6h214ZzfQl0z\",\"help_cent",
@@ -5707,13 +5698,19 @@
   "19:30:51 READY 4a74d0e6 Ketchup and Mustard Dispenser Bottle Gun (auto-approved)",
   "19:31:01 POSTED instagram@Vinzap-Finds 4a74d0e6: 18124463281938804",
   "19:31:04 POSTED facebook@Vinzap-Finds 4a74d0e6: 1428352113685678_122112254145501659",
-  "19:31:07 POSTED facebook@Vijayendra-Singh 4a74d0e6: 1317760538089559_122122854489480728"
+  "19:31:07 POSTED facebook@Vijayendra-Singh 4a74d0e6: 1317760538089559_122122854489480728",
+  "20:01:08 READY 62e05c4b 5-in-1 Stainless Steel Grater and Slicer | Home Decor (auto-approved)",
+  "20:01:40 POSTED instagram@Vinzap-Finds 62e05c4b: 18094874702184016",
+  "20:01:46 POSTED facebook@Vinzap-Finds 62e05c4b: 1661594102029609",
+  "20:01:47 FAILED post facebook@Vijayendra-Singh 62e05c4b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuT4BrF1midimKwFcHKfsDiaC0nqQOKbaL3WzsqA_LpWRZOjOyoWAoatRBeBvziWVuQHaU7BvlIiOC6NznS9__tnrQOd0YR_sLAvYu7risb17Kb8_gdxUSVX6Mb-EjfJpaCinKQ8Lu4Bb24iBRBtfDr4yt_P1FK1auSqGsHxvQr-8TFLWo43uQDElpK_3H05vGpL019MqcyZGb2a0bJxwkDN2-TwRAy-eMdf8nAqjlfEl4V-G6iwZGLp0juwcADVlgMxsKBVBA2CPZnTDxf1kW0YfFnSAMyU1p4QEIA2_OuXAg3BDEV4iuNyooNzN9OwSk\",\"help_cente",
+  "20:02:25 STORY POSTED instagram@Vinzap-Finds 62e05c4b",
+  "20:02:40 STORY POSTED facebook@Vinzap-Finds 62e05c4b"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792936851.8392656,
-  "facebook@Vinzap-Finds": 1792936851.8392656,
-  "facebook@Vijayendra-Singh": 1792936851.8392656,
+  "instagram@Vinzap-Finds": 1792938668.0546846,
+  "facebook@Vinzap-Finds": 1792938668.0546846,
+  "facebook@Vijayendra-Singh": 1792938668.0546846,
   "youtube": 1792931470.2630978
  },
- "n": 152
+ "n": 153
 }
