@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "12201eb1",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Premium Round Tea Cup Set of 6",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 419,
-    "was": 0,
-    "feats": [
-     "Set of 6 matching tea cups",
-     "Elegant round design enhances",
-     "Comfortable handle for easy grip"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Premium Round Tea Cup Set of 6 | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Premium Round Tea Cup Set of 6"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Round Tea Cup Set of 6\n✔ Set of 6 matching tea cups\n✔ Elegant round design enhances\n✔ Comfortable handle for easy grip\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Premium Round Tea Cup Set of 6",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792591265.820519,
-     "id": "18434030095183718",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792591265.820519,
-     "id": "1428352113685678_122110746195501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792591265.820519,
-     "id": "1317760538089559_122121522291480728",
-     "dry": false
-    }
-   },
-   "created": 1792591262.9347425,
-   "after": 0,
-   "handle": "premium-round-tea-cup-set-6-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/premium-round-tea-cup-set-6-pc-set",
-   "file": "12201eb1.jpg",
-   "thumb": "12201eb1.jpg"
-  },
-  {
    "id": "ba1382ef",
    "status": "scheduled",
    "kind": "reel",
@@ -5514,14 +5452,72 @@
      "id": "1118674207539341"
     }
    }
+  },
+  {
+   "id": "b0604c18",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Wooden Spoon 160mm Set of 30",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Eco-Friendly Birchwood: Renewable",
+     "Smooth & Splinter-Free: Polished",
+     "Full-Size Control (160 mm):"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Wooden Spoon 160mm Set of 30 | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Wooden Spoon 160mm Set of 30"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWooden Spoon 160mm Set of 30\n✔ Eco-Friendly Birchwood: Renewable\n✔ Smooth & Splinter-Free: Polished\n✔ Full-Size Control (160 mm):\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Wooden Spoon 160mm Set of 30",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792929652.0781965,
+     "id": "18179974042435633",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792929652.0781965,
+     "id": "1428352113685678_122112211731501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792929652.0781965,
+     "id": "1317760538089559_122122823073480728",
+     "dry": false
+    }
+   },
+   "created": 1792929649.9677272,
+   "after": 0,
+   "handle": "160mm-wooden-spoon-30-pcs-pack",
+   "product_url": "https://www.vinzapstore.in/products/160mm-wooden-spoon-30-pcs-pack",
+   "file": "b0604c18.jpg",
+   "thumb": "b0604c18.jpg"
   }
  ],
- "last_post": 1792927879.4755218,
+ "last_post": 1792929652.0781965,
  "log": [
-  "20:36:22 READY ae1c9159 Leak Proof Sports Water Bottle 400ml BPA | Trending Shorts (auto-approved)",
-  "20:37:01 POSTED instagram@Vinzap-Finds ae1c9159: 18052947215810280",
-  "20:37:06 POSTED facebook@Vinzap-Finds ae1c9159: 1841166690416915",
-  "20:37:07 FAILED post facebook@Vijayendra-Singh ae1c9159: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu-fA0BA4ocODzg2_rIBtQC_s_GV9MzvrMXS5S5fSFjNBuMUA1l0MK8dxtkLUFXul6jg9Qj3zg3mWx3qK3JMXsj2nJI0s_r3DKa5MHkU-jQg6WxHb_4hiTfGa-O7tWCBxUyMuk3wRXd4oTDvhFI2TGUguzrovvv99Ap_27nzssKQbeNGy2Hvx5ZxyMWBffYJuiFXG6fuR6qx-kE3aj0-oExxVFVtodADHQDwqksirde7BEA8M6W4z07Y7NtdYXKEtrFATrMfhfdSJdDd2aFqFrxG6v_rP5ngXo7MYMBZR0lUfzASyJW8tUU0vBffQOHnAQ\",\"help_cente",
   "20:37:12 POSTED youtube ae1c9159: pBF1qMP0pUM",
   "20:37:42 STORY POSTED instagram@Vinzap-Finds ae1c9159",
   "20:37:50 STORY POSTED facebook@Vinzap-Finds ae1c9159",
@@ -5717,13 +5713,17 @@
   "17:02:00 POSTED facebook@Vinzap-Finds 60ca7710: 1630515508513362",
   "17:02:03 FAILED post facebook@Vijayendra-Singh 60ca7710: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetcfBfe5vfmZupNJM2xMOAkeNgsbbdC93nfVVwCcJO2gQmcsJ_T-jNR2Ojtkwm93yOmwYOvdek2KQRAfcZXMWihCAvEQsA4Fy-KwUPBkPiiLNl4LB3d6THTzcijR4g_XFzTpFsIO6IFFQJei0NLxohur8K7IkFmYUlKFI22WZ3RDZIVS3PSMeJeMOwn0rRu9vRlplecDJtLFyK204rjfTAOMeMOcgg8Xdlav4R6l0Bf-aSjcu4PnKJfgVqVrrJsxT_fz_FXfsta-AXC86YdgGVBLNz02LFEpyW5_Ak-89jgVJIhkKfVz2O4hgljqPp0MPDd\",\"help_cent",
   "17:02:36 STORY POSTED instagram@Vinzap-Finds 60ca7710",
-  "17:02:46 STORY POSTED facebook@Vinzap-Finds 60ca7710"
+  "17:02:46 STORY POSTED facebook@Vinzap-Finds 60ca7710",
+  "17:30:52 READY b0604c18 Wooden Spoon 160mm Set of 30 (auto-approved)",
+  "17:31:04 POSTED instagram@Vinzap-Finds b0604c18: 18179974042435633",
+  "17:31:06 POSTED facebook@Vinzap-Finds b0604c18: 1428352113685678_122112211731501659",
+  "17:31:10 POSTED facebook@Vijayendra-Singh b0604c18: 1317760538089559_122122823073480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792927879.4755218,
-  "facebook@Vinzap-Finds": 1792927879.4755218,
-  "facebook@Vijayendra-Singh": 1792927879.4755218,
-  "youtube": 1792920683.0944185
+  "instagram@Vinzap-Finds": 1792929652.0781965,
+  "facebook@Vinzap-Finds": 1792929652.0781965,
+  "facebook@Vijayendra-Singh": 1792929652.0781965,
+  "youtube": 1792920263.0944185
  },
- "n": 147
+ "n": 148
 }
