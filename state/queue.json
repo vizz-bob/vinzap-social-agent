@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "080caf3c",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Slant Lid Kitchen Storage Jar Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 239,
-    "was": 0,
-    "feats": [
-     "Modern Slanted Lid Design : Each",
-     "Airtight Seal : Keeps contents",
-     "Premium Quality Materials : Body"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Slant Lid Kitchen Storage Jar Set | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Slant Lid Kitchen Storage Jar Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSlant Lid Kitchen Storage Jar Set\n✔ Modern Slanted Lid Design : Each\n✔ Airtight Seal : Keeps contents\n✔ Premium Quality Materials : Body\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
-   "title": "Slant Lid Kitchen Storage Jar Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792594871.1882646,
-     "id": "18130563127888866",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792594871.1882646,
-     "id": "1428352113685678_122110762557501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792594871.1882646,
-     "id": "1317760538089559_122121535323480728",
-     "dry": false
-    }
-   },
-   "created": 1792594869.1214333,
-   "after": 0,
-   "handle": "apex-slant-lid-kitchen-storage-jar-set-2-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-slant-lid-kitchen-storage-jar-set-2-pc",
-   "file": "080caf3c.jpg",
-   "thumb": "080caf3c.jpg"
-  },
-  {
    "id": "dfe9c31b",
    "status": "posted",
    "kind": "reel",
@@ -5515,14 +5453,72 @@
      "id": "1823253779015981"
     }
    }
+  },
+  {
+   "id": "d0804ca3",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "2-in-1 Oil Dispenser Bottle",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Glass bottle",
+     "Silicone brush in the cap",
+     "Roughly 7 x 7 x 19 cm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "2-in-1 Oil Dispenser Bottle | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2-in-1 Oil Dispenser Bottle"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Oil Dispenser Bottle\n✔ Glass bottle\n✔ Silicone brush in the cap\n✔ Roughly 7 x 7 x 19 cm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
+   "title": "2-in-1 Oil Dispenser Bottle",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792933249.4946182,
+     "id": "17999376269828887",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792933249.4946182,
+     "id": "1428352113685678_122112230391501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792933249.4946182,
+     "id": "1317760538089559_122122836459480728",
+     "dry": false
+    }
+   },
+   "created": 1792933247.3210995,
+   "after": 0,
+   "handle": "2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
+   "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
+   "file": "d0804ca3.jpg",
+   "thumb": "d0804ca3.jpg"
   }
  ],
- "last_post": 1792931470.2630978,
+ "last_post": 1792933249.4946182,
  "log": [
-  "21:31:23 READY fae57d72 Transparent Plastic Cup | Diwali (auto-approved)",
-  "21:32:00 FAILED post instagram@Vinzap-Finds fae57d72: HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
-  "21:32:07 POSTED facebook@Vinzap-Finds fae57d72: 1138680568671220",
-  "21:32:09 FAILED post facebook@Vijayendra-Singh fae57d72: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesxHkiz6e9QqiIh9fJxx4bMlC48Gg3wp8lfbmVa-2oPG81gQ_Z4riMloUWtuBeLv6d2qFlBW5AosCRG3U7XW_5tnnMkhcCWaoWyee4tRiPasbRvaMjEtXzM3q6jDhPQ_FiKBtOQIbkeoJxOEO-3NiF8Q6Rcj1G0q2Sn1sAYqCLm5znckeO7-Pbc5-ipGT5SNt6je8mCJ3kdTKnYYrrjahmOx7_f4bfS7fUsNpqdtsm8ffs871o2mgzeIVezLV4dPessnJeY3ZLAINDvD_KY3XUVjfySRToF3T8R0Unc97Xmcf71Uyfh7m8DMCj4yb_FSgtF\",\"help_cent",
   "21:32:22 STORY POSTED facebook@Vinzap-Finds fae57d72",
   "22:00:59 READY d25d48a7 Glass Serving Tray 11 Inch Rectangular (auto-approved)",
   "22:01:08 POSTED instagram@Vinzap-Finds d25d48a7: 18340132840276866",
@@ -5718,13 +5714,17 @@
   "18:01:47 FAILED post facebook@Vijayendra-Singh 9f4b77b5: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesKxx635tsA8EUCk0rYpCpOYlOB7xSZxvkbch1gI9WaMSUKiOJkSBY4_1h1s-08MkoLCuOpwAz1HGHDyZyEJ_jBjnu5b4TLh2sDbb3gpjC5q_yw6KUowcEdqxOlWw2i80Hy0bFzMnvQZkIMFoZv3Lsyl1_B6i1GftbNR5aOVX0kqaMkVxeH4sin3kMtgvRdEYzuUl4jdqjr-mnzwyBhnVtXtHwUsQCH0qle2ek_kaB3oZbqnMnFzMK1VhU0Tvmg10j4Yg_SeKiqR79gRKkUjrJlJ-XR7PBxjz2elgatiybtTEC41k7C5TxzX5dcxNnv51w\",\"help_cente",
   "18:01:51 POSTED youtube 9f4b77b5: 0WtI3Zz_2wo",
   "18:02:21 STORY POSTED instagram@Vinzap-Finds 9f4b77b5",
-  "18:02:29 STORY POSTED facebook@Vinzap-Finds 9f4b77b5"
+  "18:02:29 STORY POSTED facebook@Vinzap-Finds 9f4b77b5",
+  "18:30:49 READY d0804ca3 2-in-1 Oil Dispenser Bottle (auto-approved)",
+  "18:30:58 POSTED instagram@Vinzap-Finds d0804ca3: 17999376269828887",
+  "18:31:01 POSTED facebook@Vinzap-Finds d0804ca3: 1428352113685678_122112230391501659",
+  "18:31:04 POSTED facebook@Vijayendra-Singh d0804ca3: 1317760538089559_122122836459480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792931470.2630978,
-  "facebook@Vinzap-Finds": 1792931470.2630978,
-  "facebook@Vijayendra-Singh": 1792931470.2630978,
+  "instagram@Vinzap-Finds": 1792933249.4946182,
+  "facebook@Vinzap-Finds": 1792933249.4946182,
+  "facebook@Vijayendra-Singh": 1792933249.4946182,
   "youtube": 1792931470.2630978
  },
- "n": 149
+ "n": 150
 }
