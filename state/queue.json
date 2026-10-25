@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "b17469ae",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Seekh Kebab Maker Mould Plastic Meat Skewer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Makes perfectly shaped seekh",
-     "Simple press and slide design",
-     "Works with meat"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Seekh Kebab Maker Mould Plastic Meat Skewer | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Seekh Kebab Maker Mould Plastic Meat Skewer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSeekh Kebab Maker Mould Plastic Meat Skewer\n✔ Makes perfectly shaped seekh\n✔ Simple press and slide design\n✔ Works with meat\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Seekh Kebab Maker Mould Plastic Meat Skewer | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792571481.7374773,
-     "id": "18117546505802450",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792571481.7374773,
-     "id": "1785259789890593",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792571481.7374773,
-     "id": "2133784337227713",
-     "dry": false
-    }
-   },
-   "created": 1792571450.163061,
-   "after": 0,
-   "handle": "plastic-meat-skewer-kebab-maker-seekh-kebab-mould-bbq-making-tool-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/plastic-meat-skewer-kebab-maker-seekh-kebab-mould-bbq-making-tool-1-pc",
-   "file": "b17469ae.mp4",
-   "thumb": "b17469ae_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18212902354363321"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1655484152826008"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1587470375942187"
-    }
-   }
-  },
-  {
    "id": "12a70d0e",
    "status": "posted",
    "kind": "image",
@@ -5544,17 +5467,88 @@
    "product_url": "https://www.vinzapstore.in/products/portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
    "file": "1bd6b06c.jpg",
    "thumb": "1bd6b06c.jpg"
+  },
+  {
+   "id": "7a36953f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Garlic Ginger Grater Plate",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Stainless steel teeth",
+     "Dish shape to neatly collect",
+     "Suitable for grating vegetables"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Garlic Ginger Grater Plate | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Garlic Ginger Grater Plate"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGarlic Ginger Grater Plate\n✔ Stainless steel teeth\n✔ Dish shape to neatly collect\n✔ Suitable for grating vegetables\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Garlic Ginger Grater Plate | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792909869.0879767,
+     "id": "17951214630301873",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792909869.0879767,
+     "id": "1003017379488888",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792909869.0879767,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetTj45Do8hSgFaujCdpORsIzR"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792909869.0879767,
+     "id": "P4DrVNRVqEk",
+     "dry": false
+    }
+   },
+   "created": 1792909843.2888165,
+   "after": 0,
+   "handle": "garlic-ginger-grater-plate-quick-mess-free-food-prep-tool",
+   "product_url": "https://www.vinzapstore.in/products/garlic-ginger-grater-plate-quick-mess-free-food-prep-tool",
+   "file": "7a36953f.mp4",
+   "thumb": "7a36953f_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18194631031402208"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1689020746151562"
+    }
+   }
   }
  ],
- "last_post": 1792862867.5698361,
+ "last_post": 1792909869.0879767,
  "log": [
-  "14:31:21 POSTED facebook@Vijayendra-Singh 3cf40186: 1317760538089559_122122087851480728",
-  "15:01:15 READY 5cd19e54 Handheld Vegetable & Fruit Peeler | Cooking (auto-approved)",
-  "15:01:50 POSTED instagram@Vinzap-Finds 5cd19e54: 18104887958625507",
-  "15:01:56 POSTED facebook@Vinzap-Finds 5cd19e54: 2073097306743356",
-  "15:01:58 POSTED facebook@Vijayendra-Singh 5cd19e54: 1655444392641662",
-  "15:02:02 POSTED youtube 5cd19e54: 4Ee3dgLA1L4",
-  "15:02:35 STORY POSTED instagram@Vinzap-Finds 5cd19e54",
   "15:02:42 STORY POSTED facebook@Vinzap-Finds 5cd19e54",
   "15:02:51 STORY POSTED facebook@Vijayendra-Singh 5cd19e54",
   "15:31:09 READY 485e44ee Collapsible Food Storage Container Set (auto-approved)",
@@ -5747,13 +5741,20 @@
   "22:32:41 STORY POSTED instagram@Vinzap-Finds fc2e1f57",
   "22:32:50 STORY POSTED facebook@Vinzap-Finds fc2e1f57",
   "22:57:47 READY 1bd6b06c Portable Electric Kettle 600ml Travel Water (auto-approved)",
-  "22:57:51 POSTED facebook@Vijayendra-Singh 1bd6b06c: 1317760538089559_122122571469480728"
+  "22:57:51 POSTED facebook@Vijayendra-Singh 1bd6b06c: 1317760538089559_122122571469480728",
+  "12:01:09 READY 7a36953f Garlic Ginger Grater Plate | Kitchen Gadgets (auto-approved)",
+  "12:01:49 POSTED instagram@Vinzap-Finds 7a36953f: 17951214630301873",
+  "12:01:54 POSTED facebook@Vinzap-Finds 7a36953f: 1003017379488888",
+  "12:01:56 FAILED post facebook@Vijayendra-Singh 7a36953f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetTj45Do8hSgFaujCdpORsIzR_EU2ffPkt6aVVd1tRcCltgScyix_uv-VMd7LGUZpSafSWmSktwYH1aK3ppEOTYQQBbVZM9neY8fOkDs8xqHLzNZ1BkQqD2gq9Fy_sbGQwlv4A90C8XNKPQQuwmuY3A7Adg0zOQHLJqTGOai7vGQ8gh9NFey1rPO6Ao4rgflqoGXpckRMf0iC0Hl0PZeVQSwbErNDxl9S1PpgMuJ09Qm6glrRQQpjPg-fblB9G0JW81xVNZwt7Hp1S0VHH4qPqnch1snJk_8Dt083CYCproOX-6NIffehX9IH3CE4PB_6M9\",\"help_cent",
+  "12:02:00 POSTED youtube 7a36953f: P4DrVNRVqEk",
+  "12:02:37 STORY POSTED instagram@Vinzap-Finds 7a36953f",
+  "12:02:49 STORY POSTED facebook@Vinzap-Finds 7a36953f"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792861293.5207036,
-  "facebook@Vinzap-Finds": 1792861293.5207036,
-  "facebook@Vijayendra-Singh": 1792862867.5698361,
-  "youtube": 1792857710.8207042
+  "instagram@Vinzap-Finds": 1792909869.0879767,
+  "facebook@Vinzap-Finds": 1792909869.0879767,
+  "facebook@Vijayendra-Singh": 1792909869.0879767,
+  "youtube": 1792909869.0879767
  },
- "n": 136
+ "n": 137
 }
