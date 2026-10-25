@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "be7cf00f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Soft Facial Tissue Paper Napkins Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "50 pcs value pack – convenient",
-     "Made from high-quality pulp paper",
-     "Highly absorbent – ideal"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Soft Facial Tissue Paper Napkins Set | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Soft Facial Tissue Paper Napkins Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSoft Facial Tissue Paper Napkins Set\n✔ 50 pcs value pack – convenient\n✔ Made from high-quality pulp paper\n✔ Highly absorbent – ideal\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Soft Facial Tissue Paper Napkins Set | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792582278.4644828,
-     "id": "18131984204508502",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792582278.4644828,
-     "id": "28925493280422881",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792582278.4644828,
-     "id": "1685816786312099",
-     "dry": false
-    }
-   },
-   "created": 1792582253.1568797,
-   "after": 0,
-   "handle": "soft-facial-tissue-paper-napkins-set-50-pcs-set",
-   "product_url": "https://www.vinzapstore.in/products/soft-facial-tissue-paper-napkins-set-50-pcs-set",
-   "file": "be7cf00f.mp4",
-   "thumb": "be7cf00f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18029727326915495"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "29703914305878076"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2141332083133288"
-    }
-   }
-  },
-  {
    "id": "d23a266f",
    "status": "posted",
    "kind": "image",
@@ -5531,17 +5454,88 @@
    "product_url": "https://www.vinzapstore.in/products/apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
    "file": "5fe99fbc.jpg",
    "thumb": "5fe99fbc.jpg"
+  },
+  {
+   "id": "40c063dd",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "USB Rechargeable Electric Water Dispenser",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 699,
+    "was": 0,
+    "feats": [
+     "Automatic electric pump",
+     "Includes remote control",
+     "USB rechargeable built-in battery"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "USB Rechargeable Electric Water Dispenser | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "USB Rechargeable Electric Water Dispenser"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUSB Rechargeable Electric Water Dispenser\n✔ Automatic electric pump\n✔ Includes remote control\n✔ USB rechargeable built-in battery\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
+   "title": "USB Rechargeable Electric Water Dispenser | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792920683.0944185,
+     "id": "18150452725512818",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792920683.0944185,
+     "id": "1661172032263519",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792920683.0944185,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpU64AC_a-aw1TK_9dZ4MNgv"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1792920683.0944185,
+     "id": "ItfHTvJy_Y8",
+     "dry": false
+    }
+   },
+   "created": 1792920656.2485056,
+   "after": 0,
+   "handle": "usb-rechargeable-electric-water-dispenser-pump-with-remote-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/usb-rechargeable-electric-water-dispenser-pump-with-remote-1-pc",
+   "file": "40c063dd.mp4",
+   "thumb": "40c063dd_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18155502310535891"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1660231918831683"
+    }
+   }
   }
  ],
- "last_post": 1792918863.3261364,
+ "last_post": 1792920683.0944185,
  "log": [
-  "17:31:03 READY 503ffe2b Dual Sided Microfiber Cleaning Towel (auto-approved)",
-  "17:31:16 POSTED instagram@Vinzap-Finds 503ffe2b: 17872143762643501",
-  "17:31:21 POSTED facebook@Vinzap-Finds 503ffe2b: 1428352113685678_122111464881501659",
-  "17:31:25 POSTED facebook@Vijayendra-Singh 503ffe2b: 1317760538089559_122122132197480728",
-  "18:01:13 READY daa4f750 Fish Scaler Scraper | Trending Shorts (auto-approved)",
-  "18:01:53 POSTED instagram@Vinzap-Finds daa4f750: 17960351820255176",
-  "18:01:58 POSTED facebook@Vinzap-Finds daa4f750: 1815620673015846",
   "18:02:03 POSTED facebook@Vijayendra-Singh daa4f750: 1875883337156178",
   "18:02:10 POSTED youtube daa4f750: 5GgHGlR2xGQ",
   "18:02:43 STORY POSTED instagram@Vinzap-Finds daa4f750",
@@ -5734,13 +5728,20 @@
   "14:31:03 READY 5fe99fbc Apex Flexi Stainless Steel Lunch Box (auto-approved)",
   "14:31:19 POSTED instagram@Vinzap-Finds 5fe99fbc: 18130066015860856",
   "14:31:23 POSTED facebook@Vinzap-Finds 5fe99fbc: 1428352113685678_122112157917501659",
-  "14:31:27 POSTED facebook@Vijayendra-Singh 5fe99fbc: 1317760538089559_122122774785480728"
+  "14:31:27 POSTED facebook@Vijayendra-Singh 5fe99fbc: 1317760538089559_122122774785480728",
+  "15:01:23 READY 40c063dd USB Rechargeable Electric Water Dispenser | Trending Shorts (auto-approved)",
+  "15:01:56 POSTED instagram@Vinzap-Finds 40c063dd: 18150452725512818",
+  "15:02:02 POSTED facebook@Vinzap-Finds 40c063dd: 1661172032263519",
+  "15:02:03 FAILED post facebook@Vijayendra-Singh 40c063dd: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpU64AC_a-aw1TK_9dZ4MNgvxZ6nsp8YDu-LdglmBCP-Mp8XT4-GhQQu5jHWkQsn0nghvQ7Qalad0V1L5CbqcbGbWXHPAl5siSQG10oTB36WUQjBCw8o4mQidcvrEN4Dbtf6oRug4DsmHYDgzNiHHJeoXV_j6KieJhBYuWDcWybp7kv-oyAinYrcoVRyi2X5YT8JxQfF1-cLyjJDAbxNSPqPvjmOaBCquWbyAr_LQ2KLQCRYzbGfSNtr6euCv98dD7v27JNJxOPWXG5JASDSdPdMCl9jlUdekWqndGvhOpbtz_4OpxVv1ATWFe5ULrBVE\",\"help_cente",
+  "15:02:07 POSTED youtube 40c063dd: ItfHTvJy_Y8",
+  "15:02:41 STORY POSTED instagram@Vinzap-Finds 40c063dd",
+  "15:02:50 STORY POSTED facebook@Vinzap-Finds 40c063dd"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792918863.3261364,
-  "facebook@Vinzap-Finds": 1792918863.3261364,
-  "facebook@Vijayendra-Singh": 1792918863.3261364,
-  "youtube": 1792909449.0879767
+  "instagram@Vinzap-Finds": 1792920683.0944185,
+  "facebook@Vinzap-Finds": 1792920683.0944185,
+  "facebook@Vijayendra-Singh": 1792920683.0944185,
+  "youtube": 1792920683.0944185
  },
- "n": 142
+ "n": 143
 }
