@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "379fc1bc",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3-in-1 Cleaning Brush",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Combines a scrub brush",
-     "Refillable bottle releases soap",
-     "Stiff bristles scrub away tough"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "3-in-1 Cleaning Brush | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3-in-1 Cleaning Brush"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3-in-1 Cleaning Brush\n✔ Combines a scrub brush\n✔ Refillable bottle releases soap\n✔ Stiff bristles scrub away tough\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
-   "title": "3-in-1 Cleaning Brush | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792578686.4624789,
-     "id": "18077042165443631",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792578686.4624789,
-     "id": "1653906446074910",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792578686.4624789,
-     "id": "886068751166377",
-     "dry": false
-    }
-   },
-   "created": 1792578654.4118192,
-   "after": 0,
-   "handle": "3-in-1-multi-purpose-cleaning-brush-with-soap-dispenser-sponge-scrubber-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/3-in-1-multi-purpose-cleaning-brush-with-soap-dispenser-sponge-scrubber-1-pc",
-   "file": "379fc1bc.mp4",
-   "thumb": "379fc1bc_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18131331625692893"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2352096612212311"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1576798090918481"
-    }
-   }
-  },
-  {
    "id": "76884a7e",
    "status": "posted",
    "kind": "image",
@@ -5536,16 +5459,82 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-meat-skewer-kebab-maker-seekh-kebab-mould-bbq-making-tool-1-pc",
    "file": "a8e0eaf2.jpg",
    "thumb": "a8e0eaf2.jpg"
+  },
+  {
+   "id": "cf1afa65",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Clear Plastic Gloves Large",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "100 disposable gloves per pack",
+     "size for a comfortable fit",
+     "Transparent design for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Disposable Clear Plastic Gloves Large | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Clear Plastic Gloves Large"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Clear Plastic Gloves Large\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Disposable Clear Plastic Gloves Large | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792917079.5143204,
+     "id": "18128744530851986",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792917079.5143204,
+     "id": "1443818797714134",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792917079.5143204,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevQSL4H5erbkCx6f8wU_fViHH"
+    }
+   },
+   "created": 1792917058.1673603,
+   "after": 0,
+   "handle": "disposable-clear-plastic-gloves-100-pc-large-1",
+   "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-large-1",
+   "file": "cf1afa65.mp4",
+   "thumb": "cf1afa65_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17917742571527175"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "989514167524709"
+    }
+   }
   }
  ],
- "last_post": 1792915247.9833665,
+ "last_post": 1792917079.5143204,
  "log": [
-  "16:31:26 POSTED instagram@Vinzap-Finds 9d34f2d9: 18197821384390313",
-  "16:31:29 POSTED facebook@Vinzap-Finds 9d34f2d9: 1428352113685678_122111450061501659",
-  "16:31:33 POSTED facebook@Vijayendra-Singh 9d34f2d9: 1317760538089559_122122114659480728",
-  "17:01:09 READY a28d275a Snack Caddy Tray | Trending Shorts (auto-approved)",
-  "17:01:43 POSTED instagram@Vinzap-Finds a28d275a: 18110781461227672",
-  "17:01:47 POSTED facebook@Vinzap-Finds a28d275a: 1287093761163524",
   "17:01:51 POSTED facebook@Vijayendra-Singh a28d275a: 3908652659290143",
   "17:02:23 STORY POSTED instagram@Vinzap-Finds a28d275a",
   "17:02:32 STORY POSTED facebook@Vinzap-Finds a28d275a",
@@ -5739,13 +5728,19 @@
   "13:30:47 READY a8e0eaf2 Seekh Kebab Maker Mould Plastic Meat Skewer (auto-approved)",
   "13:31:01 POSTED instagram@Vinzap-Finds a8e0eaf2: 18434161990183786",
   "13:31:05 POSTED facebook@Vinzap-Finds a8e0eaf2: 1428352113685678_122112142425501659",
-  "13:31:11 POSTED facebook@Vijayendra-Singh a8e0eaf2: 1317760538089559_122122754613480728"
+  "13:31:11 POSTED facebook@Vijayendra-Singh a8e0eaf2: 1317760538089559_122122754613480728",
+  "14:01:19 READY cf1afa65 Disposable Clear Plastic Gloves Large | Kitchen Gadgets (auto-approved)",
+  "14:01:57 POSTED instagram@Vinzap-Finds cf1afa65: 18128744530851986",
+  "14:02:03 POSTED facebook@Vinzap-Finds cf1afa65: 1443818797714134",
+  "14:02:04 FAILED post facebook@Vijayendra-Singh cf1afa65: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevQSL4H5erbkCx6f8wU_fViHHI5WoCamKXMDr5_xVipC4sxR3nTOEzBpyOynij7hWvuQ_8TKQZWRz5zJ63iqvH5kJXz3I94asGpa2H4jyUTbudYB4P1WTuztdxKm99nV_wABhc2Z-OPLyT1heAWUfv_8LP6RO_iDSCI51Uk7Z_i62nZaKuvFp7tNvJS4lwniYfCUvaAzesQCjdvqKknqhtcjSRgExU4NFyJizeLVW8vTbMxwi3Bt1HDG9PiFwY07_EeolSEj0qyCGudzZMkbFLjSoNUeTgO65nPT6SBDTlLhNODYHuzIGxNepX1ZE4Pcd4\",\"help_cente",
+  "14:02:35 STORY POSTED instagram@Vinzap-Finds cf1afa65",
+  "14:02:45 STORY POSTED facebook@Vinzap-Finds cf1afa65"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792915247.9833665,
-  "facebook@Vinzap-Finds": 1792915247.9833665,
-  "facebook@Vijayendra-Singh": 1792915247.9833665,
+  "instagram@Vinzap-Finds": 1792917079.5143204,
+  "facebook@Vinzap-Finds": 1792917079.5143204,
+  "facebook@Vijayendra-Singh": 1792917079.5143204,
   "youtube": 1792909869.0879767
  },
- "n": 140
+ "n": 141
 }
