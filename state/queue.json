@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "1cd2b8b2",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Protein Shaker Tumbler 400ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Leakproof flip lid design",
-     "Ideal for mixing protein shakes",
-     "Easy to carry and travel-friendly"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Protein Shaker Tumbler 400ml | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Protein Shaker Tumbler 400ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nProtein Shaker Tumbler 400ml\n✔ Leakproof flip lid design\n✔ Ideal for mixing protein shakes\n✔ Easy to carry and travel-friendly\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#kitchenorganization #cooking",
-   "title": "Protein Shaker Tumbler 400ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792602077.618707,
-     "id": "18123912509490303",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792602077.618707,
-     "id": "1428352113685678_122110812327501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792602077.618707,
-     "id": "1317760538089559_122121560547480728",
-     "dry": false
-    }
-   },
-   "created": 1792602075.1776495,
-   "after": 0,
-   "handle": "multipurpose-protein-tumbler-with-secure-flip-lid-400ml-approx",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-protein-tumbler-with-secure-flip-lid-400ml-approx",
-   "file": "1cd2b8b2.jpg",
-   "thumb": "1cd2b8b2.jpg"
-  },
-  {
    "id": "ae49bb71",
    "status": "posted",
    "kind": "reel",
@@ -5501,14 +5439,72 @@
      "id": "2458467684678836"
     }
    }
+  },
+  {
+   "id": "984c38f0",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Double Wall Vacuum Water",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 569,
+    "was": 0,
+    "feats": [
+     "Capacity: approx. 500 ml",
+     "Double-wall vacuum insulation",
+     "18/8 stainless steel body"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Double Wall Vacuum Water | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Double Wall Vacuum Water"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Double Wall Vacuum Water\n✔ Capacity: approx. 500 ml\n✔ Double-wall vacuum insulation\n✔ 18/8 stainless steel body\n\nOnly ₹569. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Double Wall Vacuum Water",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792940466.9121141,
+     "id": "18356905771175276",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792940466.9121141,
+     "id": "1428352113685678_122112279579501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792940466.9121141,
+     "id": "1317760538089559_122122867005480728",
+     "dry": false
+    }
+   },
+   "created": 1792940464.7062285,
+   "after": 0,
+   "handle": "stainless-steel-double-wall-vacuum-insulated-drink-water-white-500-ml-approx",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-double-wall-vacuum-insulated-drink-water-white-500-ml-approx",
+   "file": "984c38f0.jpg",
+   "thumb": "984c38f0.jpg"
   }
  ],
- "last_post": 1792938668.0546846,
+ "last_post": 1792940466.9121141,
  "log": [
-  "12:31:49 POSTED instagram@Vinzap-Finds efd6b17a: 18129175132872319",
-  "12:31:54 POSTED facebook@Vinzap-Finds efd6b17a: 1585925849449706",
-  "12:31:55 FAILED post facebook@Vijayendra-Singh efd6b17a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNScLz-04916NJZSAE8hq5HTJYgeftL18C-m4_IgbumPd8KFtiYYHbnKDdvpChCEPvgbv1SP1rynyBM0kFmLiFnRiIZ02BvV6rphxxDcUpcUgWqzk6gvszrGYAOwrgtYpTbtuV6yjMgh6MBBDToHEDb_kjdOpc86eC_z7-YYm4ERMVsOUk0OsC8ApVgOw97WCtwRF83ceKU6USltafhTY0GsPSY8jQndxgzpzNe7YGM3kCuYHRbSh2Ku0GisPHX5JOIf0k9BnLOrwUTq_GprMlDgbNiDU8KgeXCZCmtYSVpdrv1nUXZbPY6h214ZzfQl0z\",\"help_cent",
-  "12:31:58 POSTED youtube efd6b17a: Ax8brOGTtfg",
   "12:32:30 STORY POSTED instagram@Vinzap-Finds efd6b17a",
   "12:32:40 STORY POSTED facebook@Vinzap-Finds efd6b17a",
   "13:01:11 READY 2053c035 Manual Rotary Drum Grater and Slicer, 3 (auto-approved)",
@@ -5704,13 +5700,17 @@
   "20:01:46 POSTED facebook@Vinzap-Finds 62e05c4b: 1661594102029609",
   "20:01:47 FAILED post facebook@Vijayendra-Singh 62e05c4b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuT4BrF1midimKwFcHKfsDiaC0nqQOKbaL3WzsqA_LpWRZOjOyoWAoatRBeBvziWVuQHaU7BvlIiOC6NznS9__tnrQOd0YR_sLAvYu7risb17Kb8_gdxUSVX6Mb-EjfJpaCinKQ8Lu4Bb24iBRBtfDr4yt_P1FK1auSqGsHxvQr-8TFLWo43uQDElpK_3H05vGpL019MqcyZGb2a0bJxwkDN2-TwRAy-eMdf8nAqjlfEl4V-G6iwZGLp0juwcADVlgMxsKBVBA2CPZnTDxf1kW0YfFnSAMyU1p4QEIA2_OuXAg3BDEV4iuNyooNzN9OwSk\",\"help_cente",
   "20:02:25 STORY POSTED instagram@Vinzap-Finds 62e05c4b",
-  "20:02:40 STORY POSTED facebook@Vinzap-Finds 62e05c4b"
+  "20:02:40 STORY POSTED facebook@Vinzap-Finds 62e05c4b",
+  "20:31:06 READY 984c38f0 Stainless Steel Double Wall Vacuum Water (auto-approved)",
+  "20:31:20 POSTED instagram@Vinzap-Finds 984c38f0: 18356905771175276",
+  "20:31:24 POSTED facebook@Vinzap-Finds 984c38f0: 1428352113685678_122112279579501659",
+  "20:31:27 POSTED facebook@Vijayendra-Singh 984c38f0: 1317760538089559_122122867005480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792938668.0546846,
-  "facebook@Vinzap-Finds": 1792938668.0546846,
-  "facebook@Vijayendra-Singh": 1792938668.0546846,
-  "youtube": 1792931470.2630978
+  "instagram@Vinzap-Finds": 1792940466.9121141,
+  "facebook@Vinzap-Finds": 1792940466.9121141,
+  "facebook@Vijayendra-Singh": 1792940466.9121141,
+  "youtube": 1792931050.2630978
  },
- "n": 153
+ "n": 154
 }
