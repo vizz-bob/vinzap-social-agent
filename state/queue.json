@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "6746d99c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Supermom Stainless Steel Carrot Grater",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 349,
-    "was": 0,
-    "feats": [
-     "Stainless steel",
-     "Fine grating surface for carrot",
-     "Ergonomic handle for a steady grip"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Supermom Stainless Steel Carrot Grater | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Stainless Steel Carrot Grater"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Stainless Steel Carrot Grater\n✔ Stainless steel\n✔ Fine grating surface for carrot\n✔ Ergonomic handle for a steady grip\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Supermom Stainless Steel Carrot Grater | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792654429.7500331,
-     "id": "18116754581043996",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792654429.7500331,
-     "id": "1120612520414451",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792654429.7500331,
-     "id": "2123334115210540",
-     "dry": false
-    }
-   },
-   "created": 1792654398.9349637,
-   "after": 0,
-   "handle": "supermom-supermom-stainless-steel-carrot-grater-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-supermom-stainless-steel-carrot-grater-1-pc",
-   "file": "6746d99c.mp4",
-   "thumb": "6746d99c_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18150451168544651"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1675395474104946"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1556823606128474"
-    }
-   }
-  },
-  {
    "id": "73cd4aec",
    "status": "posted",
    "kind": "image",
@@ -5496,16 +5419,82 @@
    "product_url": "https://www.vinzapstore.in/products/apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
    "file": "77e50208.jpg",
    "thumb": "77e50208.jpg"
+  },
+  {
+   "id": "4f907868",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Supermom Floral Serving Tray Set of 3",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1699,
+    "was": 0,
+    "feats": [
+     "Beautiful floral printed design",
+     "Multipurpose tray set suitable",
+     "Side handles for comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Supermom Floral Serving Tray Set of 3 | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Supermom Floral Serving Tray Set of 3"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Floral Serving Tray Set of 3\n✔ Beautiful floral printed design\n✔ Multipurpose tray set suitable\n✔ Side handles for comfortable\n\nOnly ₹1699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Supermom Floral Serving Tray Set of 3 | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792945869.452582,
+     "id": "18108244187245508",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792945869.452582,
+     "id": "1121052890678792",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792945869.452582,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesH5EG4vUNB-Lk3J55pEeBKS4"
+    }
+   },
+   "created": 1792945842.250639,
+   "after": 0,
+   "handle": "supermom-floral-printed-multipurpose-serving-tray-set-3-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/supermom-floral-printed-multipurpose-serving-tray-set-3-pc-set",
+   "file": "4f907868.mp4",
+   "thumb": "4f907868_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18102181784410639"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1543182490831235"
+    }
+   }
   }
  ],
- "last_post": 1792944057.820195,
+ "last_post": 1792945869.452582,
  "log": [
-  "13:32:28 STORY POSTED facebook@Vinzap-Finds d549266d",
-  "14:00:49 READY 7345fc44 Apex Manual Citrus Juicer (auto-approved)",
-  "14:01:01 POSTED instagram@Vinzap-Finds 7345fc44: 18194155738396303",
-  "14:01:04 POSTED facebook@Vinzap-Finds 7345fc44: 1428352113685678_122111798397501659",
-  "14:01:08 POSTED facebook@Vijayendra-Singh 7345fc44: 1317760538089559_122122444755480728",
-  "14:31:14 READY a80e993b Transparent Plastic Water Dipper Scoop | Home Decor Ideas (auto-approved)",
   "14:31:50 POSTED instagram@Vinzap-Finds a80e993b: 17917541898524110",
   "14:31:56 POSTED facebook@Vinzap-Finds a80e993b: 29577517011841512",
   "14:31:56 FAILED post facebook@Vijayendra-Singh a80e993b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuetfiaoQf-mIuaU2BdQ2aLpiI-SZ3LF_-ugk8lipkKmCuRzPC0dLFfGfwPCbxoDqiVS_GsHsc1lJIq4-NzJ0NnQ2TPCdkp4d_dehB2PyV-OqnZCDY_3VcG-v4T-9ZyufbXDmeRaXzGT7uzUDVsFAk33OQPDxIRET8RY9H9_po1gUz2IDXGJKCzaWJ-L8SY9lQfcJY4usteb_5_FCaUOgw-0G1UqMP4efwSm2C3MZ-1UM4WWFYvyTgmRIv6vj16LoiSTRbA4cXbCyp_hTOpjk_UmwJIA_L4KxYpRvQqCypTbYrFQrif6AItSUFzuA5fB5W\",\"help_cent",
@@ -5699,13 +5688,19 @@
   "21:30:57 READY 77e50208 Apex Power-X Hand-Pull Vegetable Chopper (auto-approved)",
   "21:31:13 POSTED instagram@Vinzap-Finds 77e50208: 18104601365340874",
   "21:31:17 POSTED facebook@Vinzap-Finds 77e50208: 1428352113685678_122112296877501659",
-  "21:31:21 POSTED facebook@Vijayendra-Singh 77e50208: 1317760538089559_122122882263480728"
+  "21:31:21 POSTED facebook@Vijayendra-Singh 77e50208: 1317760538089559_122122882263480728",
+  "22:01:09 READY 4f907868 Supermom Floral Serving Tray Set of 3 | Diwali (auto-approved)",
+  "22:01:43 POSTED instagram@Vinzap-Finds 4f907868: 18108244187245508",
+  "22:01:48 POSTED facebook@Vinzap-Finds 4f907868: 1121052890678792",
+  "22:01:48 FAILED post facebook@Vijayendra-Singh 4f907868: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesH5EG4vUNB-Lk3J55pEeBKS4zQeRK4_j-3p5WXDAGdPmsVJGj_xDLcrOjYDAvlsEoykwwARhAoXg8ZLGKFdCCcDkfZ-KPMnmQ_UyUMka-wwpmnJeqM5lnQLxMUlVUmPJCWrTr6rabdrxzTZ6G6hh796i9PRlibVFpM6v3GkkEkfEFlFuhjVJ03I0BryQFRQWB6OEGUo3KOao0wwNFzqeBw6QZjGydg3ON8AIzRPaeGh6w-KZnWuDCccwIpHPbyqFoVi5HFLhar4R6a9e6Bibj1V-wG7ZXFLJ37S0uhJcGWh5RacZaMKpA725RxCtNp4C7I\",\"help_cent",
+  "22:02:20 STORY POSTED instagram@Vinzap-Finds 4f907868",
+  "22:02:30 STORY POSTED facebook@Vinzap-Finds 4f907868"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792944057.820195,
-  "facebook@Vinzap-Finds": 1792944057.820195,
-  "facebook@Vijayendra-Singh": 1792944057.820195,
+  "instagram@Vinzap-Finds": 1792945869.452582,
+  "facebook@Vinzap-Finds": 1792945869.452582,
+  "facebook@Vijayendra-Singh": 1792945869.452582,
   "youtube": 1792942275.961005
  },
- "n": 156
+ "n": 157
 }
