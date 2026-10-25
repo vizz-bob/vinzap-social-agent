@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "dfe9c31b",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Manual Hand Crank Ice Crusher and Snow",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 999,
-    "was": 0,
-    "feats": [
-     "Manual hand crank mechanism",
-     "Converts ice cubes into fine snow",
-     "No electricity required"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Manual Hand Crank Ice Crusher and Snow | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Manual Hand Crank Ice Crusher and Snow"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Hand Crank Ice Crusher and Snow\n✔ Manual hand crank mechanism\n✔ Converts ice cubes into fine snow\n✔ No electricity required\n\nOnly ₹999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Manual Hand Crank Ice Crusher and Snow | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792596692.7817664,
-     "id": "18125856439810184",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792596692.7817664,
-     "id": "1014528595025625",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792596692.7817664,
-     "id": "2021162275265206",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792596692.7817664,
-     "id": "eGpZt_POVAM",
-     "dry": false
-    }
-   },
-   "created": 1792596661.5815792,
-   "after": 0,
-   "handle": "manual-hand-crank-ice-crusher-snow-maker-machine-1-set-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/manual-hand-crank-ice-crusher-snow-maker-machine-1-set-mix-color",
-   "file": "dfe9c31b.mp4",
-   "thumb": "dfe9c31b_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18100760939374093"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "28719493501044933"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "3175428345973829"
-    }
-   }
-  },
-  {
    "id": "0ba79829",
    "status": "posted",
    "kind": "image",
@@ -5515,16 +5432,82 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
    "file": "d0804ca3.jpg",
    "thumb": "d0804ca3.jpg"
+  },
+  {
+   "id": "d0a046a0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Dinner Spoon",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Stainless steel dinner spoon",
+     "Decorative scalloped handle design",
+     "Rust-resistant and durable build"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Stainless Steel Dinner Spoon | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Dinner Spoon"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Dinner Spoon\n✔ Stainless steel dinner spoon\n✔ Decorative scalloped handle design\n✔ Rust-resistant and durable build\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Stainless Steel Dinner Spoon | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792935076.1546803,
+     "id": "18011924883003917",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792935076.1546803,
+     "id": "1096356823016609",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792935076.1546803,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevicHYHe-JJN-uUCx-LZ0Gyh_"
+    }
+   },
+   "created": 1792935050.90979,
+   "after": 0,
+   "handle": "stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
+   "file": "d0a046a0.mp4",
+   "thumb": "d0a046a0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17991592719024739"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1131508146055292"
+    }
+   }
   }
  ],
- "last_post": 1792933249.4946182,
+ "last_post": 1792935076.1546803,
  "log": [
-  "21:32:22 STORY POSTED facebook@Vinzap-Finds fae57d72",
-  "22:00:59 READY d25d48a7 Glass Serving Tray 11 Inch Rectangular (auto-approved)",
-  "22:01:08 POSTED instagram@Vinzap-Finds d25d48a7: 18340132840276866",
-  "22:01:11 POSTED facebook@Vinzap-Finds d25d48a7: 1428352113685678_122111554479501659",
-  "22:01:14 POSTED facebook@Vijayendra-Singh d25d48a7: 1317760538089559_122122229961480728",
-  "22:31:20 READY 147d66d2 Electric Glass Kettle 2 Litre | Trending Shorts (auto-approved)",
   "22:32:05 POSTED instagram@Vinzap-Finds 147d66d2: 18108759470251785",
   "22:32:10 POSTED facebook@Vinzap-Finds 147d66d2: 1820485369151762",
   "22:32:11 FAILED post facebook@Vijayendra-Singh 147d66d2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AethTTan2cs2NIPz575qDLSc8GyppseWXvQVrD5JYPy2Gj3WLI-nBKfVXBdoHL-VFirzCY5SV9hd9rScmLvswKFc13TanXo24TOSJeooHiGZ8WkVenk5cpaTZyF03ESdkvHjMytPE-_aYqbS8eKKGQKW8IcOFiVDAUP-ZxKJ_6WmEuRaP0M9gCU2zaqjq6SWRvLNuhBQ9jpzJzeaBFI9FFBpUhxHPKYbvuoP-G8bXYCtt-rR8BStDtdA_hTTw7aY6DYdDHhEBn_8_kCa6eFEOJKE1poXBsnkhUw382Y6ujF0bZ1AYw-obCUg_GqkWwHuXIY\",\"help_cente",
@@ -5718,13 +5701,19 @@
   "18:30:49 READY d0804ca3 2-in-1 Oil Dispenser Bottle (auto-approved)",
   "18:30:58 POSTED instagram@Vinzap-Finds d0804ca3: 17999376269828887",
   "18:31:01 POSTED facebook@Vinzap-Finds d0804ca3: 1428352113685678_122112230391501659",
-  "18:31:04 POSTED facebook@Vijayendra-Singh d0804ca3: 1317760538089559_122122836459480728"
+  "18:31:04 POSTED facebook@Vijayendra-Singh d0804ca3: 1317760538089559_122122836459480728",
+  "19:01:16 READY d0a046a0 Stainless Steel Dinner Spoon | Home Decor Ideas (auto-approved)",
+  "19:01:52 POSTED instagram@Vinzap-Finds d0a046a0: 18011924883003917",
+  "19:01:58 POSTED facebook@Vinzap-Finds d0a046a0: 1096356823016609",
+  "19:02:00 FAILED post facebook@Vijayendra-Singh d0a046a0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevicHYHe-JJN-uUCx-LZ0Gyh_ITLMgi1Na3XwRL5Lxtic13wM9stBSOFFzwTLHu9CVeD6TVpw7jOzSxV-GxHFJKhxxQFln-KA0C4t3ggwAYZ1m3Zak5AbI0NYiYjjotuI0q924YUWqW3z_-7_qhUv4jLU_tJW4PkFR_U2xXCE7D7ZUX6gIrhJ2yBfF4x-0I3EI7mbDQ3kq8qd1DBZaLWm6PM3vY-CZX4bNoTLeiLpC5X0RNtE9Mc0vCRonl0Rmt61aGDcnuoP_vvD_6DMiELMVVJ6PCV1GJp8jtJJvGQMBVMLO4Qt3D3JxwSTtZLUtkLv5O\",\"help_cent",
+  "19:02:33 STORY POSTED instagram@Vinzap-Finds d0a046a0",
+  "19:02:42 STORY POSTED facebook@Vinzap-Finds d0a046a0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792933249.4946182,
-  "facebook@Vinzap-Finds": 1792933249.4946182,
-  "facebook@Vijayendra-Singh": 1792933249.4946182,
+  "instagram@Vinzap-Finds": 1792935076.1546803,
+  "facebook@Vinzap-Finds": 1792935076.1546803,
+  "facebook@Vijayendra-Singh": 1792935076.1546803,
   "youtube": 1792931470.2630978
  },
- "n": 150
+ "n": 151
 }
