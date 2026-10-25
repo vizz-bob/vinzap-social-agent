@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "0ba79829",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Supermom Multipurpose Triangular Kitchen",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "Multipurpose: vegetables",
-     "Evenly spaced drainage holes",
-     "Handle for a firm grip when"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Supermom Multipurpose Triangular Kitchen | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Multipurpose Triangular Kitchen"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Multipurpose Triangular Kitchen\n✔ Multipurpose: vegetables\n✔ Evenly spaced drainage holes\n✔ Handle for a firm grip when\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Supermom Multipurpose Triangular Kitchen",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792598308.5562139,
-     "id": "17907328248570582",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792598308.5562139,
-     "id": "1428352113685678_122110776981501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792598308.5562139,
-     "id": "1317760538089559_122121547917480728",
-     "dry": false
-    }
-   },
-   "created": 1792598306.0477014,
-   "after": 0,
-   "handle": "supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
-   "file": "0ba79829.jpg",
-   "thumb": "0ba79829.jpg"
-  },
-  {
    "id": "f6d59a8d",
    "status": "scheduled",
    "kind": "reel",
@@ -5504,14 +5442,72 @@
      "id": "1131508146055292"
     }
    }
+  },
+  {
+   "id": "4a74d0e6",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ketchup and Mustard Dispenser Bottle Gun",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 549,
+    "was": 0,
+    "feats": [
+     "This novel spice gun is easy",
+     "Function: Used as a dispenser",
+     "Flexible: It is very flexible"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Ketchup and Mustard Dispenser Bottle Gun | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ketchup and Mustard Dispenser Bottle Gun"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKetchup and Mustard Dispenser Bottle Gun\n✔ This novel spice gun is easy\n✔ Function: Used as a dispenser\n✔ Flexible: It is very flexible\n\nOnly ₹549. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
+   "title": "Ketchup and Mustard Dispenser Bottle Gun",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792936851.8392656,
+     "id": "18124463281938804",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792936851.8392656,
+     "id": "1428352113685678_122112254145501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1792936851.8392656,
+     "id": "1317760538089559_122122854489480728",
+     "dry": false
+    }
+   },
+   "created": 1792936849.1841643,
+   "after": 0,
+   "handle": "ketchup-dispenser-mustard-bottle-gun-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/ketchup-dispenser-mustard-bottle-gun-1-pc",
+   "file": "4a74d0e6.jpg",
+   "thumb": "4a74d0e6.jpg"
   }
  ],
- "last_post": 1792935076.1546803,
+ "last_post": 1792936851.8392656,
  "log": [
-  "22:32:05 POSTED instagram@Vinzap-Finds 147d66d2: 18108759470251785",
-  "22:32:10 POSTED facebook@Vinzap-Finds 147d66d2: 1820485369151762",
-  "22:32:11 FAILED post facebook@Vijayendra-Singh 147d66d2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AethTTan2cs2NIPz575qDLSc8GyppseWXvQVrD5JYPy2Gj3WLI-nBKfVXBdoHL-VFirzCY5SV9hd9rScmLvswKFc13TanXo24TOSJeooHiGZ8WkVenk5cpaTZyF03ESdkvHjMytPE-_aYqbS8eKKGQKW8IcOFiVDAUP-ZxKJ_6WmEuRaP0M9gCU2zaqjq6SWRvLNuhBQ9jpzJzeaBFI9FFBpUhxHPKYbvuoP-G8bXYCtt-rR8BStDtdA_hTTw7aY6DYdDHhEBn_8_kCa6eFEOJKE1poXBsnkhUw382Y6ujF0bZ1AYw-obCUg_GqkWwHuXIY\",\"help_cente",
-  "22:32:55 STORY POSTED instagram@Vinzap-Finds 147d66d2",
   "22:33:03 STORY POSTED facebook@Vinzap-Finds 147d66d2",
   "12:00:56 READY 83dc8dba Silicone Moisturizing Feet Socks Gel, 1 Pair (auto-approved)",
   "12:01:05 POSTED instagram@Vinzap-Finds 83dc8dba: 17978704734135097",
@@ -5707,13 +5703,17 @@
   "19:01:58 POSTED facebook@Vinzap-Finds d0a046a0: 1096356823016609",
   "19:02:00 FAILED post facebook@Vijayendra-Singh d0a046a0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevicHYHe-JJN-uUCx-LZ0Gyh_ITLMgi1Na3XwRL5Lxtic13wM9stBSOFFzwTLHu9CVeD6TVpw7jOzSxV-GxHFJKhxxQFln-KA0C4t3ggwAYZ1m3Zak5AbI0NYiYjjotuI0q924YUWqW3z_-7_qhUv4jLU_tJW4PkFR_U2xXCE7D7ZUX6gIrhJ2yBfF4x-0I3EI7mbDQ3kq8qd1DBZaLWm6PM3vY-CZX4bNoTLeiLpC5X0RNtE9Mc0vCRonl0Rmt61aGDcnuoP_vvD_6DMiELMVVJ6PCV1GJp8jtJJvGQMBVMLO4Qt3D3JxwSTtZLUtkLv5O\",\"help_cent",
   "19:02:33 STORY POSTED instagram@Vinzap-Finds d0a046a0",
-  "19:02:42 STORY POSTED facebook@Vinzap-Finds d0a046a0"
+  "19:02:42 STORY POSTED facebook@Vinzap-Finds d0a046a0",
+  "19:30:51 READY 4a74d0e6 Ketchup and Mustard Dispenser Bottle Gun (auto-approved)",
+  "19:31:01 POSTED instagram@Vinzap-Finds 4a74d0e6: 18124463281938804",
+  "19:31:04 POSTED facebook@Vinzap-Finds 4a74d0e6: 1428352113685678_122112254145501659",
+  "19:31:07 POSTED facebook@Vijayendra-Singh 4a74d0e6: 1317760538089559_122122854489480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792935076.1546803,
-  "facebook@Vinzap-Finds": 1792935076.1546803,
-  "facebook@Vijayendra-Singh": 1792935076.1546803,
+  "instagram@Vinzap-Finds": 1792936851.8392656,
+  "facebook@Vinzap-Finds": 1792936851.8392656,
+  "facebook@Vijayendra-Singh": 1792936851.8392656,
   "youtube": 1792931470.2630978
  },
- "n": 151
+ "n": 152
 }
