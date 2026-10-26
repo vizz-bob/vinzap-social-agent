@@ -1,82 +1,6 @@
 {
  "items": [
   {
-   "id": "96ec42a0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Cooking Essentials Combo",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Glass Oil Sprayer Bottle",
-     "Manual Egg Beater for Eggs"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Cooking Essentials Combo | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Cooking Essentials Combo"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCooking Essentials Combo\n✔ Glass Oil Sprayer Bottle\n✔ Manual Egg Beater for Eggs\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#cooking #homedecor",
-   "title": "Cooking Essentials Combo | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792744268.3504977,
-     "id": "18079900151455160",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792744268.3504977,
-     "id": "1642128484287799",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792744268.3504977,
-     "id": "1441476054658338",
-     "dry": false
-    }
-   },
-   "created": 1792744244.123326,
-   "after": 0,
-   "handle": "cooking-essentials-combo-oil-sprayer-egg-beater",
-   "product_url": "https://www.vinzapstore.in/products/cooking-essentials-combo-oil-sprayer-egg-beater",
-   "file": "96ec42a0.mp4",
-   "thumb": "96ec42a0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18116818472006867"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1639901251166354"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1879244230178423"
-    }
-   }
-  },
-  {
    "id": "3cf40186",
    "status": "posted",
    "kind": "image",
@@ -5448,16 +5372,82 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-round-storage-basket-with-dual-handles-for-home-and-office-use-1-pc",
    "file": "b4c30f74.jpg",
    "thumb": "b4c30f74.jpg"
+  },
+  {
+   "id": "b1eba901",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Potato Masher 17cm",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Premium food-grade stainless",
+     "Wide mashing plate",
+     "Ergonomic handle with anti-slip"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Stainless Steel Potato Masher 17cm | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Potato Masher 17cm"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Potato Masher 17cm\n✔ Premium food-grade stainless\n✔ Wide mashing plate\n✔ Ergonomic handle with anti-slip\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Stainless Steel Potato Masher 17cm | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793034077.8569322,
+     "id": "17931768330419960",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793034077.8569322,
+     "id": "1875985353562831",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793034077.8569322,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu_nFKs3S6R7101Hc_e5oMKsA"
+    }
+   },
+   "created": 1793034060.871385,
+   "after": 0,
+   "handle": "stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
+   "file": "b1eba901.mp4",
+   "thumb": "b1eba901_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18108009212580697"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1777966889922539"
+    }
+   }
   }
  ],
- "last_post": 1793032251.64433,
+ "last_post": 1793034077.8569322,
  "log": [
-  "12:31:08 POSTED instagram@Vinzap-Finds 3fdcec67: 18013295501766613",
-  "12:31:11 POSTED facebook@Vinzap-Finds 3fdcec67: 1428352113685678_122112127689501659",
-  "12:31:15 POSTED facebook@Vijayendra-Singh 3fdcec67: 1317760538089559_122122736469480728",
-  "13:01:15 READY 8311eb0e Steel Kids Dinosaur Lunch Box Bento Tiffin | Home Decor Ideas (auto-approved)",
-  "13:01:56 POSTED instagram@Vinzap-Finds 8311eb0e: 18096766649670719",
-  "13:02:00 POSTED facebook@Vinzap-Finds 8311eb0e: 1086587257525314",
   "13:02:01 FAILED post facebook@Vijayendra-Singh 8311eb0e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevDWy_EAxLrMkjhanGmSpK72_7_HEGrJbJKkd-uqP8nodLHY2d5c5mxXWVLW3ixyv0LsFMrc-E4uMHnHlZf-FOI5fwFMvpvNAELBRYA8AC-OZK5QGEKnM8oTjnNvIKVkQ2cRnSBOpYU_9fRf20lHAapCehRtGypVBdVQEUDxmtuFFoNHz0b6jbhjUeONLiH63UBS8zvIMOHG8KCMAigbq7WuaJ0j2esWQU3Vn5eDK5rlrW9N0ABTq2BH2Lp3euV-jQcgcB2IIzpZpFQ6cPFHGiDoXATzTnE2G6ImN9cK24u9WBC8W5Ciq7Mn3QiYLnzrtC4\",\"help_cent",
   "13:02:37 STORY POSTED instagram@Vinzap-Finds 8311eb0e",
   "13:02:50 STORY POSTED facebook@Vinzap-Finds 8311eb0e",
@@ -5651,13 +5641,19 @@
   "22:00:51 READY b4c30f74 Round Plastic Storage Basket (auto-approved)",
   "22:01:07 POSTED instagram@Vinzap-Finds b4c30f74: 18097560104548557",
   "22:01:11 POSTED facebook@Vinzap-Finds b4c30f74: 1428352113685678_122112670905501659",
-  "22:01:15 POSTED facebook@Vijayendra-Singh b4c30f74: 1317760538089559_122123208075480728"
+  "22:01:15 POSTED facebook@Vijayendra-Singh b4c30f74: 1317760538089559_122123208075480728",
+  "22:31:17 READY b1eba901 Stainless Steel Potato Masher 17cm | Cooking (auto-approved)",
+  "22:31:52 POSTED instagram@Vinzap-Finds b1eba901: 17931768330419960",
+  "22:31:56 POSTED facebook@Vinzap-Finds b1eba901: 1875985353562831",
+  "22:31:57 FAILED post facebook@Vijayendra-Singh b1eba901: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu_nFKs3S6R7101Hc_e5oMKsAoX7iPGPhiba34_u4AyDtkSa25hdRlOdpQPd5urwhISka1ovYm1P8lu0Q3e8RAim4HndrSegw4tHuZQnx8xsun0R1FsUuZ3vd7rfMIs0xhuS8V_NQ-e3ZowztaDzalWc4Vf9zr2cSIvDB6vcBal4vSrJKn3-b0aXn2_DnR-89LtnMiMtqHQ3Vv7OMR5HkvO7XOhi8jkRKGcJKjYEnLM_Rxq0keDZDFLuDrxQpoSDX0ichppDFqHGu389WPAallpD9IHG4_1-1NN61ccXY-zPSYSaer1HmjvTy2E951Qu0j1\",\"help_cent",
+  "22:32:25 STORY POSTED instagram@Vinzap-Finds b1eba901",
+  "22:32:33 STORY POSTED facebook@Vinzap-Finds b1eba901"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793032251.64433,
-  "facebook@Vinzap-Finds": 1793032251.64433,
-  "facebook@Vijayendra-Singh": 1793032251.64433,
+  "instagram@Vinzap-Finds": 1793034077.8569322,
+  "facebook@Vinzap-Finds": 1793034077.8569322,
+  "facebook@Vijayendra-Singh": 1793034077.8569322,
   "youtube": 1793030469.8839269
  },
- "n": 176
+ "n": 177
 }
