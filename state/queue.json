@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "f0cc67a5",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Manual Citrus Lemon Orange Squeezer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Manual hand-press operation — no",
-     "Ridged dome reamer efficiently",
-     "Built-in strainer filters seeds"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Manual Citrus Lemon Orange Squeezer | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Manual Citrus Lemon Orange Squeezer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Citrus Lemon Orange Squeezer\n✔ Manual hand-press operation — no\n✔ Ridged dome reamer efficiently\n✔ Built-in strainer filters seeds\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Manual Citrus Lemon Orange Squeezer | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792666747.1699104,
-     "id": "18029955473856670",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792666747.1699104,
-     "id": "1116446564176087",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792666747.1699104,
-     "id": "1143824131658432",
-     "dry": false
-    }
-   },
-   "created": 1792666716.2024949,
-   "after": 0,
-   "handle": "plastic-mini-manual-citrus-lemon-orange-squeezer-with-cup-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/plastic-mini-manual-citrus-lemon-orange-squeezer-with-cup-1-pc",
-   "file": "f0cc67a5.mp4",
-   "thumb": "f0cc67a5_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18124559941862613"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2067695567292494"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1765644427842291"
-    }
-   }
-  },
-  {
    "id": "0b1de4f1",
    "status": "posted",
    "kind": "image",
@@ -5481,17 +5404,88 @@
    "product_url": "https://www.vinzapstore.in/products/apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
    "file": "5ec4e841.jpg",
    "thumb": "5ec4e841.jpg"
+  },
+  {
+   "id": "de327591",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Orbit Adjustable Pop-Up Toaster 1200W",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 3299,
+    "was": 0,
+    "feats": [
+     "1200 W power",
+     "Stainless steel finish",
+     "Adjustable browning control"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Orbit Adjustable Pop-Up Toaster 1200W | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Orbit Adjustable Pop-Up Toaster 1200W"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOrbit Adjustable Pop-Up Toaster 1200W\n✔ 1200 W power\n✔ Stainless steel finish\n✔ Adjustable browning control\n\nOnly ₹3299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Orbit Adjustable Pop-Up Toaster 1200W | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793005915.8301857,
+     "id": "18451551589127690",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793005915.8301857,
+     "id": "1605589707339638",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793005915.8301857,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeugjFFAEyQFfvov4a94VNTsDQ"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793005915.8301857,
+     "id": "iTRVjvRCKzI",
+     "dry": false
+    }
+   },
+   "created": 1793005893.7448082,
+   "after": 0,
+   "handle": "orbit-adjustable-pop-up-toaster-1200w",
+   "product_url": "https://www.vinzapstore.in/products/orbit-adjustable-pop-up-toaster-1200w",
+   "file": "de327591.mp4",
+   "thumb": "de327591_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17998117161041940"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1630638635196173"
+    }
+   }
   }
  ],
- "last_post": 1793001669.100357,
+ "last_post": 1793005915.8301857,
  "log": [
-  "16:33:27 STORY POSTED facebook@Vinzap-Finds 825bde2f",
-  "17:00:48 READY c80b3378 Panda Design Kids Lunch Box (auto-approved)",
-  "17:01:00 POSTED instagram@Vinzap-Finds c80b3378: 18116478506277322",
-  "17:01:04 POSTED facebook@Vinzap-Finds c80b3378: 1428352113685678_122111845509501659",
-  "17:01:08 POSTED facebook@Vijayendra-Singh c80b3378: 1317760538089559_122122486287480728",
-  "17:31:22 READY 73b0c50d Pav Bhaji Masher | Home Decor (auto-approved)",
-  "17:32:00 POSTED instagram@Vinzap-Finds 73b0c50d: 17914234611285516",
   "17:32:04 POSTED facebook@Vinzap-Finds 73b0c50d: 1697380242018770",
   "17:32:05 FAILED post facebook@Vijayendra-Singh 73b0c50d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6ujRjVf33ZIZ-1X7FRzmyQwoBE0dGQRSmvg_BhflfKmsS4pe-dr42TooO_nWJ2ne_DzejI0n94yPwvyCvG8W0gdgLEOoLPfPPfWAw1IREtDNdEyOwLdCPMJjo_sWWDglcpYjdRKLTjiiKs-nU7ZOL_FSvUcw8cJ2XT2Qda388n096OkSQn2sjvW8PNocSyCeKh8LrouRqwuRGrbkNn8PNr27L09wlgOmLve0ZPqTWw7qhodn9Lt9jSnkTGsXYue60nJCWV6tlhJ8xqZyBbztStVpFzxFVEs3_1zVenlUykgfi4DBrvPSOSxTtKmhqRY\",\"help_cente",
   "17:32:39 STORY POSTED instagram@Vinzap-Finds 73b0c50d",
@@ -5684,13 +5678,20 @@
   "13:31:09 READY 5ec4e841 Apex Ovel Manual Chilli and Dry Fruit (auto-approved)",
   "13:31:17 POSTED instagram@Vinzap-Finds 5ec4e841: 18037087952893599",
   "13:31:21 POSTED facebook@Vinzap-Finds 5ec4e841: 1428352113685678_122112529899501659",
-  "13:31:25 POSTED facebook@Vijayendra-Singh 5ec4e841: 1317760538089559_122123050479480728"
+  "13:31:25 POSTED facebook@Vijayendra-Singh 5ec4e841: 1317760538089559_122123050479480728",
+  "14:41:55 READY de327591 Orbit Adjustable Pop-Up Toaster 1200W | Kitchen Gadgets (auto-approved)",
+  "14:42:31 POSTED instagram@Vinzap-Finds de327591: 18451551589127690",
+  "14:42:35 POSTED facebook@Vinzap-Finds de327591: 1605589707339638",
+  "14:42:36 FAILED post facebook@Vijayendra-Singh de327591: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeugjFFAEyQFfvov4a94VNTsDQnBASyS7BheaEiHDNyAWrAJFv1r1zx3MNnCAOmB3kKxpE3G8qtY7CAsDOxQGCGvQd3XSPodjLx05e-UhTURZo4KJMsfX5aoKxVi7o7HDkMvpWIyz6_cfLYndJ53Y9U-bOzdtRkbba2vYRm23PvnB_gNOrqKpXtctJesr24FjovLl1cs4qKn8w3E3FwbqrP_ReiypJbcGHwjRJzlPmmSyPGGtmZkXhzqr7GOFDggnWGndiQrce7vk-72q-3QtR2e-wZmewskjUqBXMPQf1pjWnJTXHUBDkbs_XCs_4r-etWA\",\"help_cent",
+  "14:42:41 POSTED youtube de327591: iTRVjvRCKzI",
+  "14:43:11 STORY POSTED instagram@Vinzap-Finds de327591",
+  "14:43:19 STORY POSTED facebook@Vinzap-Finds de327591"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793001669.100357,
-  "facebook@Vinzap-Finds": 1793001669.100357,
-  "facebook@Vijayendra-Singh": 1793001669.100357,
-  "youtube": 1792996270.5193753
+  "instagram@Vinzap-Finds": 1793005915.8301857,
+  "facebook@Vinzap-Finds": 1793005915.8301857,
+  "facebook@Vijayendra-Singh": 1793005915.8301857,
+  "youtube": 1793005915.8301857
  },
- "n": 162
+ "n": 163
 }
