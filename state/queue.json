@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "7487b98d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Flower Shape Trivet Hot Pot Holder",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Size: 16 x 15 cm",
-     "Heat-resistant",
-     "Looped petal shape lets steam"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Silicone Flower Shape Trivet Hot Pot Holder | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Flower Shape Trivet Hot Pot Holder"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Flower Shape Trivet Hot Pot Holder\n✔ Size: 16 x 15 cm\n✔ Heat-resistant\n✔ Looped petal shape lets steam\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Silicone Flower Shape Trivet Hot Pot Holder | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792687163.8896492,
-     "id": "18122188489939579",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792687163.8896492,
-     "id": "1422928062677557",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792687163.8896492,
-     "id": "1156981520328554",
-     "dry": false
-    }
-   },
-   "created": 1792687137.8472538,
-   "after": 0,
-   "handle": "silicone-flower-shape-hot-pot-holder-trivet-mat-16x15-cm-for-kitchen-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/silicone-flower-shape-hot-pot-holder-trivet-mat-16x15-cm-for-kitchen-1-pc",
-   "file": "7487b98d.mp4",
-   "thumb": "7487b98d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18372502045300615"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4462186407381954"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "955127383911441"
-    }
-   }
-  },
-  {
    "id": "2f17c593",
    "status": "posted",
    "kind": "image",
@@ -5463,16 +5386,82 @@
    "product_url": "https://www.vinzapstore.in/products/electric-pepper-grinder-usb-rechargeable-one-touch-operation",
    "file": "277df4d1.jpg",
    "thumb": "277df4d1.jpg"
+  },
+  {
+   "id": "caf58626",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "14-grid design for making",
+     "Comes with a lid to keep ice",
+     "Easy release design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Ice Cube Tray | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Ice Cube Tray | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793022368.9824557,
+     "id": "18164597659493637",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793022368.9824557,
+     "id": "1595274195144765",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793022368.9824557,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevoMVmz_CGyjtWfkEoMTmpvdZ"
+    }
+   },
+   "created": 1793022342.5415943,
+   "after": 0,
+   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
+   "file": "caf58626.mp4",
+   "thumb": "caf58626_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17947274976358369"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1624496926094064"
+    }
+   }
   }
  ],
- "last_post": 1793020562.3133,
+ "last_post": 1793022368.9824557,
  "log": [
-  "21:00:48 READY b4c585cc Metal Sink Drain Mesh Strainer Basket (auto-approved)",
-  "21:00:58 POSTED instagram@Vinzap-Finds b4c585cc: 18041797847836550",
-  "21:01:01 POSTED facebook@Vinzap-Finds b4c585cc: 1428352113685678_122111927193501659",
-  "21:01:05 POSTED facebook@Vijayendra-Singh b4c585cc: 1317760538089559_122122541217480728",
-  "21:31:50 READY 78b1b159 Pet Hair and Lint Remover Brush 2 in 1 | Diwali (auto-approved)",
-  "21:32:25 POSTED instagram@Vinzap-Finds 78b1b159: 18024202088868469",
   "21:32:31 POSTED facebook@Vinzap-Finds 78b1b159: 4496164640712868",
   "21:32:31 FAILED post facebook@Vijayendra-Singh 78b1b159: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9hFJo42DFmMokvXG4H8eSx62iTLDWfrQImOTEjNZ7zgermkUTpqXw4_yyvDK2KAeuy6FsERVFlki6O3YnBU5eNv3myl99QPK63UpguhsgKMPem1WJLRoVUczxBuUVLN5vtMdStjJwVtDsqOnlmhh8OwNs8dyUsUgp7CSAZ-z-0F536gY7XNjObYbiRn-Q7rvQ65mxSAiGGJBi3t-iNFlFKyA3Oyj_YcTqb2_xtuWp1sao55n_kuZTtlCMDMdOEOkfB8YTWaCp6apaeInPUvkRwGk71auiFN4nE1ZE637BVlhk-sjGmKvuhQJiHUIhTds\",\"help_cente",
   "21:32:36 POSTED youtube 78b1b159: qo679T3khQs",
@@ -5666,13 +5655,19 @@
   "18:46:02 READY 277df4d1 Electric Pepper Grinder, USB Rechargeable (auto-approved)",
   "18:46:17 POSTED instagram@Vinzap-Finds 277df4d1: 17943204051385377",
   "18:46:22 POSTED facebook@Vinzap-Finds 277df4d1: 1428352113685678_122112610983501659",
-  "18:46:28 POSTED facebook@Vijayendra-Singh 277df4d1: 1317760538089559_122123137575480728"
+  "18:46:28 POSTED facebook@Vijayendra-Singh 277df4d1: 1317760538089559_122123137575480728",
+  "19:16:08 READY caf58626 Ice Cube Tray | Kitchen Organization (auto-approved)",
+  "19:16:41 POSTED instagram@Vinzap-Finds caf58626: 18164597659493637",
+  "19:16:47 POSTED facebook@Vinzap-Finds caf58626: 1595274195144765",
+  "19:16:48 FAILED post facebook@Vijayendra-Singh caf58626: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevoMVmz_CGyjtWfkEoMTmpvdZCOz9yNAqUT41hZ-ewHWH5YOzG1iAAweE5zkH1Wu-3fzWPLmXU6HsImzPv-kVD0a4_Jyk1mmWDLoFTn5OPhZek3FQcOV_RnlDuJyBi2ZPB381D1_UvlyBihHJSUJxikaJ5glQaHx_VUFQbPNA_BxnEJgcUD0u315EpYGLgg38u2VEpSNJMoZQQ-Ro3LX1s8R8Qrr_viBAkKuRCzsf7sQh1aUlT1w6e2g6YHiAyPwYUOf-ib9uyDNVuEKP-nnVdShhxjIbfe6UuiiZZqn6i3sNjQAQxy34LdrjWWphQNClfz\",\"help_cent",
+  "19:17:19 STORY POSTED instagram@Vinzap-Finds caf58626",
+  "19:17:29 STORY POSTED facebook@Vinzap-Finds caf58626"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793020562.3133,
-  "facebook@Vinzap-Finds": 1793020562.3133,
-  "facebook@Vijayendra-Singh": 1793020562.3133,
+  "instagram@Vinzap-Finds": 1793022368.9824557,
+  "facebook@Vinzap-Finds": 1793022368.9824557,
+  "facebook@Vijayendra-Singh": 1793022368.9824557,
   "youtube": 1793019089.266691
  },
- "n": 170
+ "n": 171
 }
