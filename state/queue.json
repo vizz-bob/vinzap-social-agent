@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "cb875cb0",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Pyramid Unbreakable Plastic Glass 300ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 539,
-    "was": 0,
-    "feats": [
-     "Premium Pyramid Design:",
-     "Unbreakable Material: Made from",
-     "Crystal Clear Finish: Looks like"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Apex Pyramid Unbreakable Plastic Glass 300ml | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Pyramid Unbreakable Plastic Glass 300ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Pyramid Unbreakable Plastic Glass 300ml\n✔ Premium Pyramid Design:\n✔ Unbreakable Material: Made from\n✔ Crystal Clear Finish: Looks like\n\nOnly ₹539. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Apex Pyramid Unbreakable Plastic Glass 300ml | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792661480.9820411,
-     "id": "18130461892823675",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792661480.9820411,
-     "id": "1154842103736715",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792661480.9820411,
-     "id": "1658390155884017",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792661480.9820411,
-     "id": "xLARsmvuenY",
-     "dry": false
-    }
-   },
-   "created": 1792661449.7032113,
-   "after": 0,
-   "handle": "apex-pyramid-design-unbreakable-plastic-glass-300-ml",
-   "product_url": "https://www.vinzapstore.in/products/apex-pyramid-design-unbreakable-plastic-glass-300-ml",
-   "file": "cb875cb0.mp4",
-   "thumb": "cb875cb0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18105158642370909"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1142407724875291"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2255693032031820"
-    }
-   }
-  },
-  {
    "id": "10e1e13b",
    "status": "posted",
    "kind": "image",
@@ -5492,16 +5409,82 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-multi-connecting-stackable-storage-container-set-4-pc",
    "file": "17600148.jpg",
    "thumb": "17600148.jpg"
+  },
+  {
+   "id": "abbb661a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Egg Steamer Rack, Folding",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 269,
+    "was": 0,
+    "feats": [
+     "Sturdy stainless steel rack",
+     "Folding legs adjust between two",
+     "Fold height about 3.2 cm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Egg Steamer Rack, Folding"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Egg Steamer Rack, Folding\n✔ Sturdy stainless steel rack\n✔ Folding legs adjust between two\n✔ Fold height about 3.2 cm\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792999878.7912593,
+     "id": "17954480919315338",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1792999878.7912593,
+     "id": "986323220541366",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1792999878.7912593,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4EdVBkZhmQMKwlrPunfFTKA"
+    }
+   },
+   "created": 1792999851.5917687,
+   "after": 0,
+   "handle": "stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
+   "file": "abbb661a.mp4",
+   "thumb": "abbb661a_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18078933008417958"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4614512605503896"
+    }
+   }
   }
  ],
- "last_post": 1792998072.421603,
+ "last_post": 1792999878.7912593,
  "log": [
-  "15:32:43 STORY POSTED facebook@Vinzap-Finds fdf6a432",
-  "16:00:44 READY 3a23bb4d Stainless Steel House Shape Cookie Cutter (auto-approved)",
-  "16:00:57 POSTED instagram@Vinzap-Finds 3a23bb4d: 18132268933689599",
-  "16:01:01 POSTED facebook@Vinzap-Finds 3a23bb4d: 1428352113685678_122111830221501659",
-  "16:01:06 POSTED facebook@Vijayendra-Singh 3a23bb4d: 1317760538089559_122122472871480728",
-  "16:32:13 READY 825bde2f 2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets (auto-approved)",
   "16:32:39 POSTED instagram@Vinzap-Finds 825bde2f: 18147298369576970",
   "16:32:45 POSTED facebook@Vinzap-Finds 825bde2f: 1217536110780538",
   "16:32:46 FAILED post facebook@Vijayendra-Singh 825bde2f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesLOEXyPsT2Rv6GN6pt_MmiRIo5UY4s4o4j22fcKKlWO2HYbNhKxmejpvsgkFW54PfsXnHZqUUN6WjwUzFqzNooHlgk9eQhHPYZDdBYGfQ3Zdu5JD7OLXYwqrK_ojf-gYr5NC2FWqNGja-eWLkotI3BLJrGVM9Im0RzCOthuu3C3wbe5fvCHzKyREl-xgOXI_w7PKmbINtX0ZKISGk2PxNYrVANWxtNAq4iGFZhTXd0PzG2e269vhxD5tvT-sgRngI75X6At4ouFTks30Mr5gffXMZVIxpsGWFTdLZY70PWs4dP4mYauWnrqIiHh2nwmV6Q\",\"help_cent",
@@ -5695,13 +5678,19 @@
   "12:31:12 READY 17600148 Stackable Storage Container Set (auto-approved)",
   "12:31:24 POSTED instagram@Vinzap-Finds 17600148: 18101803262375384",
   "12:31:27 POSTED facebook@Vinzap-Finds 17600148: 1428352113685678_122112515625501659",
-  "12:31:30 POSTED facebook@Vijayendra-Singh 17600148: 1317760538089559_122123041323480728"
+  "12:31:30 POSTED facebook@Vijayendra-Singh 17600148: 1317760538089559_122123041323480728",
+  "13:01:18 READY abbb661a Stainless Steel Egg Steamer Rack, Folding | Home Decor (auto-approved)",
+  "13:01:46 POSTED instagram@Vinzap-Finds abbb661a: 17954480919315338",
+  "13:01:50 POSTED facebook@Vinzap-Finds abbb661a: 986323220541366",
+  "13:01:51 FAILED post facebook@Vijayendra-Singh abbb661a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4EdVBkZhmQMKwlrPunfFTKA1JkVYcNtr4RplH0qypoZELDpzmfX759vGACbm8BhJQVF4vawgQyISAbW-rqPFBdEnhmGo1UCKSjpcAUSXHM9glihTeZidc3XYYYTJF8vfRXRXRkRqeqOnmXMUTQzGN6LCoatT5ad-lLMJ02ojPKEVDNbSa4NVJ0MX5es8P5zelAiTgQlmCURTkKnQruXmS146OpP16qIdGOlWf-LkUf2K9SxrD1f3Iz4vTRlMKiHVX6dOO3J29OWQuNmk9kiw1YFVfIs-MH9ka2sa_3Nhht1RRhsJ160MvOemkW3MH-vZP\",\"help_cent",
+  "13:02:22 STORY POSTED instagram@Vinzap-Finds abbb661a",
+  "13:02:31 STORY POSTED facebook@Vinzap-Finds abbb661a"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792998072.421603,
-  "facebook@Vinzap-Finds": 1792998072.421603,
-  "facebook@Vijayendra-Singh": 1792998072.421603,
+  "instagram@Vinzap-Finds": 1792999878.7912593,
+  "facebook@Vinzap-Finds": 1792999878.7912593,
+  "facebook@Vijayendra-Singh": 1792999878.7912593,
   "youtube": 1792996270.5193753
  },
- "n": 160
+ "n": 161
 }
