@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "f46333b8",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Wall Mounted Disposable Paper Cup Holder",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 969,
-    "was": 0,
-    "feats": [
-     "Wall-mounted design saves space",
-     "Easy one-by-one cup dispensing",
-     "Dustproof design to keep cups"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Wall Mounted Disposable Paper Cup Holder | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wall Mounted Disposable Paper Cup Holder"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mounted Disposable Paper Cup Holder\n✔ Wall-mounted design saves space\n✔ Easy one-by-one cup dispensing\n✔ Dustproof design to keep cups\n\nOnly ₹969. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchengadgets #kitchenorganization",
-   "title": "Wall Mounted Disposable Paper Cup Holder | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792670554.0131664,
-     "id": "17958585333018308",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792670554.0131664,
-     "id": "1431053855673635",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792670554.0131664,
-     "id": "1143088984833951",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792670554.0131664,
-     "id": "YYoO06eL2v8",
-     "dry": false
-    }
-   },
-   "created": 1792670521.9563348,
-   "after": 0,
-   "handle": "wall-mounted-disposable-paper-cup-holder-storage-dispenser-box",
-   "product_url": "https://www.vinzapstore.in/products/wall-mounted-disposable-paper-cup-holder-storage-dispenser-box",
-   "file": "f46333b8.mp4",
-   "thumb": "f46333b8_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18132790951668644"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1511325101019370"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "3022046684853867"
-    }
-   }
-  },
-  {
    "id": "8711bb2c",
    "status": "posted",
    "kind": "image",
@@ -5482,16 +5399,82 @@
    "product_url": "https://www.vinzapstore.in/products/konvex-duo-grater-with-container-and-lid-1-pc",
    "file": "58b9b324.jpg",
    "thumb": "58b9b324.jpg"
+  },
+  {
+   "id": "e04873af",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Gas Stove Burner Stand, Stainless Steel Wok",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 269,
+    "was": 0,
+    "feats": [
+     "Gives a stable base for small pots",
+     "Holds round-bottom and small",
+     "Concentrates flame and heat"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Gas Stove Burner Stand, Stainless Steel Wok | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Gas Stove Burner Stand, Stainless Steel Wok"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGas Stove Burner Stand, Stainless Steel Wok\n✔ Gives a stable base for small pots\n✔ Holds round-bottom and small\n✔ Concentrates flame and heat\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Gas Stove Burner Stand, Stainless Steel Wok | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793009759.4220679,
+     "id": "18183967630427662",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793009759.4220679,
+     "id": "2347677505987281",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793009759.4220679,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesofoNHp5qdM5mvCLwlC-BPq2"
+    }
+   },
+   "created": 1793009742.0897698,
+   "after": 0,
+   "handle": "gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
+   "file": "e04873af.mp4",
+   "thumb": "e04873af_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18071517182602580"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1865034181578395"
+    }
+   }
   }
  ],
- "last_post": 1793007962.7574122,
+ "last_post": 1793009759.4220679,
  "log": [
-  "18:00:42 READY bc0bbe11 Ice Candy Popsicle Maker 8 Mould Set (auto-approved)",
-  "18:00:50 POSTED instagram@Vinzap-Finds bc0bbe11: 18227371651330905",
-  "18:00:53 POSTED facebook@Vinzap-Finds bc0bbe11: 1428352113685678_122111860371501659",
-  "18:00:56 POSTED facebook@Vijayendra-Singh bc0bbe11: 1317760538089559_122122499457480728",
-  "18:31:22 READY 67fe05f6 2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas (auto-approved)",
-  "18:31:56 POSTED instagram@Vinzap-Finds 67fe05f6: 17955908955266374",
   "18:32:01 POSTED facebook@Vinzap-Finds 67fe05f6: 1116461704477514",
   "18:32:02 FAILED post facebook@Vijayendra-Singh 67fe05f6: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPr4bNVotWreIlcy5cigU3aeuOOdiAjETcEz3KK04E8eXuRUtDvXHtGyiPax828GmcXCmgiH59UzCM-yKKJgL5Js15bVj6dqH69UcWX7xyeSchNnco23gIn9RWshb-i0KNMXSmObF391B79R4mdJ44i61VeWmultfItBs0156GMyVMTqggDIJ_14EGGEMvdn1ilM1pVSz-XfKjjxDkqtR-ypFf07qrSGPKCr2uf0d3k3pgf4q1wN2LhG9cUSwNXloDBH6epEL4CKiIx7gL4dOV9JL-k64vPHkE8c8zKcAsnsqj3cvGraUnXroskpqq717v\",\"help_cent",
   "18:32:06 POSTED youtube 67fe05f6: YebOiEyhWvM",
@@ -5685,13 +5668,19 @@
   "15:16:02 READY 58b9b324 Konvex Duo Grater (auto-approved)",
   "15:16:14 POSTED instagram@Vinzap-Finds 58b9b324: 17997776669834755",
   "15:16:17 POSTED facebook@Vinzap-Finds 58b9b324: 1428352113685678_122112554451501659",
-  "15:16:21 POSTED facebook@Vijayendra-Singh 58b9b324: 1317760538089559_122123069505480728"
+  "15:16:21 POSTED facebook@Vijayendra-Singh 58b9b324: 1317760538089559_122123069505480728",
+  "15:45:59 READY e04873af Gas Stove Burner Stand, Stainless Steel Wok | Cooking (auto-approved)",
+  "15:46:40 POSTED instagram@Vinzap-Finds e04873af: 18183967630427662",
+  "15:46:45 POSTED facebook@Vinzap-Finds e04873af: 2347677505987281",
+  "15:46:46 FAILED post facebook@Vijayendra-Singh e04873af: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesofoNHp5qdM5mvCLwlC-BPq2591UETWRyD-KbS6XtbiPVTNucuyL6X8QCe58sWNUa9BIX0RETT6raQjmGkwBSf-U-zypkXwhX88VuL7OfrPkhM6kfyI_YXXECCbRBmqH-IsgsrweRg7u_rtlJta2iddp39TEDGCEmcHj84eZCjc_pAjOnlEhtVZ7S_e6EEUtZpUvA1URaldFnwhVSOjNMmT0fmpAfVAOx0NA4LGN3B-p6Fxm8FRijw-mYSyngLJaC1ue9qBVqlMf3VpifdZ92J0tHjPNkXC_NNdlOj7H4k0WVIhnI1bZ5fz6W4sFUo33k\",\"help_cente",
+  "15:47:21 STORY POSTED instagram@Vinzap-Finds e04873af",
+  "15:47:34 STORY POSTED facebook@Vinzap-Finds e04873af"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793007962.7574122,
-  "facebook@Vinzap-Finds": 1793007962.7574122,
-  "facebook@Vijayendra-Singh": 1793007962.7574122,
+  "instagram@Vinzap-Finds": 1793009759.4220679,
+  "facebook@Vinzap-Finds": 1793009759.4220679,
+  "facebook@Vijayendra-Singh": 1793009759.4220679,
   "youtube": 1793005915.8301857
  },
- "n": 164
+ "n": 165
 }
