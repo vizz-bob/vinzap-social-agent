@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "0f26b586",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Car Shape Kids Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Cute car shape with rolling wheels",
-     "Complete set with spoon and fork",
-     "Transparent inner tray included"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Car Shape Kids Lunch Box | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Car Shape Kids Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCar Shape Kids Lunch Box\n✔ Cute car shape with rolling wheels\n✔ Complete set with spoon and fork\n✔ Transparent inner tray included\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#cooking #homedecor",
-   "title": "Car Shape Kids Lunch Box | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792737090.4221926,
-     "id": "18400717735201635",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792737090.4221926,
-     "id": "1425006886435057",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792737090.4221926,
-     "id": "1105437952293890",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792737090.4221926,
-     "id": "h4CuEHl-ziQ",
-     "dry": false
-    }
-   },
-   "created": 1792737063.8677902,
-   "after": 0,
-   "handle": "car-shape-kids-lunch-box-with-wheels-spoon-and-fork-for-school-tiffin-1-set",
-   "product_url": "https://www.vinzapstore.in/products/car-shape-kids-lunch-box-with-wheels-spoon-and-fork-for-school-tiffin-1-set",
-   "file": "0f26b586.mp4",
-   "thumb": "0f26b586_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18341515273285350"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1428700151989296"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1465372695493912"
-    }
-   }
-  },
-  {
    "id": "72935baf",
    "status": "posted",
    "kind": "image",
@@ -5458,16 +5375,82 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-medium-1",
    "file": "65fe4226.jpg",
    "thumb": "65fe4226.jpg"
+  },
+  {
+   "id": "73a059d4",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3 in 1 Kids Cutlery Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "3 in 1 set includes a spoon",
+     "Durable stainless steel heads are",
+     "Cute cartoon print handles make"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "3 in 1 Kids Cutlery Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3 in 1 Kids Cutlery Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 in 1 Kids Cutlery Set\n✔ 3 in 1 set includes a spoon\n✔ Durable stainless steel heads are\n✔ Cute cartoon print handles make\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "3 in 1 Kids Cutlery Set | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793027197.5279279,
+     "id": "18094234220678535",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793027197.5279279,
+     "id": "1140406001754622",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793027197.5279279,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevpMin_PL9JulgTKwaKBc-bSC"
+    }
+   },
+   "created": 1793027175.918036,
+   "after": 0,
+   "handle": "3-in-1-kids-cutlery-set-with-case-spoon-fork-knife-for-children-1-set",
+   "product_url": "https://www.vinzapstore.in/products/3-in-1-kids-cutlery-set-with-case-spoon-fork-knife-for-children-1-set",
+   "file": "73a059d4.mp4",
+   "thumb": "73a059d4_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18142922191610789"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1530319902237614"
+    }
+   }
   }
  ],
- "last_post": 1793024129.4465091,
+ "last_post": 1793027197.5279279,
  "log": [
-  "21:33:20 STORY POSTED facebook@Vinzap-Finds 78b1b159",
-  "22:01:11 READY 8f9a5218 3 Layer Multipurpose Storage Trolley (auto-approved)",
-  "22:01:26 POSTED instagram@Vinzap-Finds 8f9a5218: 18050757311816687",
-  "22:01:33 POSTED facebook@Vinzap-Finds 8f9a5218: 1428352113685678_122111941647501659",
-  "22:01:37 POSTED facebook@Vijayendra-Singh 8f9a5218: 1317760538089559_122122558845480728",
-  "22:31:33 READY fc2e1f57 Stainless Steel Coconut Scraper | Home Decor (auto-approved)",
   "22:32:05 POSTED instagram@Vinzap-Finds fc2e1f57: 18120443705002028",
   "22:32:11 POSTED facebook@Vinzap-Finds fc2e1f57: 2079374202783476",
   "22:32:12 FAILED post facebook@Vijayendra-Singh fc2e1f57: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetIacCqfQA0cJFCheCUwZw_HiBdZueVvWjTb-NfEF6SpKJY5FyX1v-9q4KArI9QXiDZlHoxf2hjWexvrpbubsIVnrDmvT89DQE5KM94V_hBW5Gqa-KE_qRurT2Zdt11nH0qXme9i0wosiWQzD7StWdC0gcVmeDUeWMLN4C8h20HBWWzFVR0-YoR5FEZhQdNQgAfaeG7M-Cmjk25-HiMhOLISHXBOfuxmlOa4c3sNRa2PU3WfJhadwhJONhpm_nvNzHQ7MYCo0YsAuOl_MyxleD1o2rivwY9LBb_O5mm8qrHH9kLCfDAOqX5QHg5yy-tpEU\",\"help_cente",
@@ -5661,13 +5644,19 @@
   "19:45:29 READY 65fe4226 Disposable Clear Plastic Gloves Medium Pack (auto-approved)",
   "19:45:42 POSTED instagram@Vinzap-Finds 65fe4226: 18058927808569004",
   "19:45:46 POSTED facebook@Vinzap-Finds 65fe4226: 1428352113685678_122112626823501659",
-  "19:45:48 POSTED facebook@Vijayendra-Singh 65fe4226: 1317760538089559_122123165157480728"
+  "19:45:48 POSTED facebook@Vijayendra-Singh 65fe4226: 1317760538089559_122123165157480728",
+  "20:36:37 READY 73a059d4 3 in 1 Kids Cutlery Set | Diwali (auto-approved)",
+  "20:37:08 POSTED instagram@Vinzap-Finds 73a059d4: 18094234220678535",
+  "20:37:12 POSTED facebook@Vinzap-Finds 73a059d4: 1140406001754622",
+  "20:37:13 FAILED post facebook@Vijayendra-Singh 73a059d4: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevpMin_PL9JulgTKwaKBc-bSCduuJWEBEM7vDhZTcg5iYw8_7TSQkoOI6enfUBIBiZF0gyjMYtboGIykadn4znzA3dUX_ooVUrBXz4B23mV2hjhICR7VACZfzY6t8RhbqzZnQlcjkJbMToOCBo7gZtwZO9UHQiDJUM5iNA-uB8PCmcXV2aer8D-j3bxUyqR05TnnIRDewZHwPBIyC8azq2Yte3-NtDb-tbA7k8myxhJEo4ZujhCbsomRWpbHCRht29oCQ7Pt3gX030_cu97-mDm60XpeRWvmhMvWKCjmylN25CwqH96YaNW3IFinDGyHbfV\",\"help_cent",
+  "20:37:43 STORY POSTED instagram@Vinzap-Finds 73a059d4",
+  "20:37:51 STORY POSTED facebook@Vinzap-Finds 73a059d4"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793024129.4465091,
-  "facebook@Vinzap-Finds": 1793024129.4465091,
-  "facebook@Vijayendra-Singh": 1793024129.4465091,
+  "instagram@Vinzap-Finds": 1793027197.5279279,
+  "facebook@Vinzap-Finds": 1793027197.5279279,
+  "facebook@Vijayendra-Singh": 1793027197.5279279,
   "youtube": 1793019089.266691
  },
- "n": 172
+ "n": 173
 }
