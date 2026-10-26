@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "72935baf",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kitchen Dishwashing Glove",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Reusable design supports repeated",
-     "Mitten-style construction",
-     "Textured exterior supports secure"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Kitchen Dishwashing Glove | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kitchen Dishwashing Glove"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Dishwashing Glove\n✔ Reusable design supports repeated\n✔ Mitten-style construction\n✔ Textured exterior supports secure\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Kitchen Dishwashing Glove",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792738857.2299051,
-     "id": "17909770032576249",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792738857.2299051,
-     "id": "1428352113685678_122111378187501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792738857.2299051,
-     "id": "1317760538089559_122122065045480728",
-     "dry": false
-    }
-   },
-   "created": 1792738854.7327218,
-   "after": 0,
-   "handle": "kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
-   "file": "72935baf.jpg",
-   "thumb": "72935baf.jpg"
-  },
-  {
    "id": "a1efe90f",
    "status": "scheduled",
    "kind": "reel",
@@ -5447,14 +5385,72 @@
      "id": "1530319902237614"
     }
    }
+  },
+  {
+   "id": "c16716ae",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Kitchen Prep Combo of 3",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Small Meatball Maker and Cake",
+     "Foldable Rotating Wall Mounted",
+     "Plastic Round Puri Cutter"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Kitchen Prep Combo of 3 | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kitchen Prep Combo of 3"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Prep Combo of 3\n✔ Small Meatball Maker and Cake\n✔ Foldable Rotating Wall Mounted\n✔ Plastic Round Puri Cutter\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#homedecorideas #diwali",
+   "title": "Kitchen Prep Combo of 3",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793028652.5338683,
+     "id": "17938615431127696",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793028652.5338683,
+     "id": "1428352113685678_122112655695501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793028652.5338683,
+     "id": "1317760538089559_122123183379480728",
+     "dry": false
+    }
+   },
+   "created": 1793028650.076986,
+   "after": 0,
+   "handle": "kitchen-prep-combo-of-3",
+   "product_url": "https://www.vinzapstore.in/products/kitchen-prep-combo-of-3",
+   "file": "c16716ae.jpg",
+   "thumb": "c16716ae.jpg"
   }
  ],
- "last_post": 1793027197.5279279,
+ "last_post": 1793028652.5338683,
  "log": [
-  "22:32:05 POSTED instagram@Vinzap-Finds fc2e1f57: 18120443705002028",
-  "22:32:11 POSTED facebook@Vinzap-Finds fc2e1f57: 2079374202783476",
-  "22:32:12 FAILED post facebook@Vijayendra-Singh fc2e1f57: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetIacCqfQA0cJFCheCUwZw_HiBdZueVvWjTb-NfEF6SpKJY5FyX1v-9q4KArI9QXiDZlHoxf2hjWexvrpbubsIVnrDmvT89DQE5KM94V_hBW5Gqa-KE_qRurT2Zdt11nH0qXme9i0wosiWQzD7StWdC0gcVmeDUeWMLN4C8h20HBWWzFVR0-YoR5FEZhQdNQgAfaeG7M-Cmjk25-HiMhOLISHXBOfuxmlOa4c3sNRa2PU3WfJhadwhJONhpm_nvNzHQ7MYCo0YsAuOl_MyxleD1o2rivwY9LBb_O5mm8qrHH9kLCfDAOqX5QHg5yy-tpEU\",\"help_cente",
-  "22:32:41 STORY POSTED instagram@Vinzap-Finds fc2e1f57",
   "22:32:50 STORY POSTED facebook@Vinzap-Finds fc2e1f57",
   "22:57:47 READY 1bd6b06c Portable Electric Kettle 600ml Travel Water (auto-approved)",
   "22:57:51 POSTED facebook@Vijayendra-Singh 1bd6b06c: 1317760538089559_122122571469480728",
@@ -5650,13 +5646,17 @@
   "20:37:12 POSTED facebook@Vinzap-Finds 73a059d4: 1140406001754622",
   "20:37:13 FAILED post facebook@Vijayendra-Singh 73a059d4: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevpMin_PL9JulgTKwaKBc-bSCduuJWEBEM7vDhZTcg5iYw8_7TSQkoOI6enfUBIBiZF0gyjMYtboGIykadn4znzA3dUX_ooVUrBXz4B23mV2hjhICR7VACZfzY6t8RhbqzZnQlcjkJbMToOCBo7gZtwZO9UHQiDJUM5iNA-uB8PCmcXV2aer8D-j3bxUyqR05TnnIRDewZHwPBIyC8azq2Yte3-NtDb-tbA7k8myxhJEo4ZujhCbsomRWpbHCRht29oCQ7Pt3gX030_cu97-mDm60XpeRWvmhMvWKCjmylN25CwqH96YaNW3IFinDGyHbfV\",\"help_cent",
   "20:37:43 STORY POSTED instagram@Vinzap-Finds 73a059d4",
-  "20:37:51 STORY POSTED facebook@Vinzap-Finds 73a059d4"
+  "20:37:51 STORY POSTED facebook@Vinzap-Finds 73a059d4",
+  "21:00:52 READY c16716ae Kitchen Prep Combo of 3 (auto-approved)",
+  "21:01:04 POSTED instagram@Vinzap-Finds c16716ae: 17938615431127696",
+  "21:01:06 POSTED facebook@Vinzap-Finds c16716ae: 1428352113685678_122112655695501659",
+  "21:01:10 POSTED facebook@Vijayendra-Singh c16716ae: 1317760538089559_122123183379480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793027197.5279279,
-  "facebook@Vinzap-Finds": 1793027197.5279279,
-  "facebook@Vijayendra-Singh": 1793027197.5279279,
-  "youtube": 1793019089.266691
+  "instagram@Vinzap-Finds": 1793028652.5338683,
+  "facebook@Vinzap-Finds": 1793028652.5338683,
+  "facebook@Vijayendra-Singh": 1793028652.5338683,
+  "youtube": 1793018669.266691
  },
- "n": 173
+ "n": 174
 }
