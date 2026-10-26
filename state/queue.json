@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "127e6aad",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "White Glass Water Bottle 400ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Premium glass bottle design",
-     "400 ML capacity ideal for travel",
-     "Leakproof lid helps prevent"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "White Glass Water Bottle 400ml | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "White Glass Water Bottle 400ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWhite Glass Water Bottle 400ml\n✔ Premium glass bottle design\n✔ 400 ML capacity ideal for travel\n✔ Leakproof lid helps prevent\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
-   "title": "White Glass Water Bottle 400ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792684571.3028052,
-     "id": "18265093999307406",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792684571.3028052,
-     "id": "1428352113685678_122111171715501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792684571.3028052,
-     "id": "1317760538089559_122121888003480728",
-     "dry": false
-    }
-   },
-   "created": 1792684569.1737552,
-   "after": 0,
-   "handle": "premium-white-glass-water-bottle-1-pc-400-ml",
-   "product_url": "https://www.vinzapstore.in/products/premium-white-glass-water-bottle-1-pc-400-ml",
-   "file": "127e6aad.jpg",
-   "thumb": "127e6aad.jpg"
-  },
-  {
    "id": "7487b98d",
    "status": "scheduled",
    "kind": "reel",
@@ -5463,14 +5401,72 @@
      "id": "1838204370632450"
     }
    }
+  },
+  {
+   "id": "277df4d1",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Electric Pepper Grinder, USB Rechargeable",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1299,
+    "was": 0,
+    "feats": [
+     "One-touch electric grinding",
+     "USB rechargeable with no",
+     "Grinds pepper"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Electric Pepper Grinder, USB Rechargeable | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Pepper Grinder, USB Rechargeable"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Pepper Grinder, USB Rechargeable\n✔ One-touch electric grinding\n✔ USB rechargeable with no\n✔ Grinds pepper\n\nOnly ₹1299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Electric Pepper Grinder, USB Rechargeable",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793020562.3133,
+     "id": "17943204051385377",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793020562.3133,
+     "id": "1428352113685678_122112610983501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793020562.3133,
+     "id": "1317760538089559_122123137575480728",
+     "dry": false
+    }
+   },
+   "created": 1793020559.7211232,
+   "after": 0,
+   "handle": "electric-pepper-grinder-usb-rechargeable-one-touch-operation",
+   "product_url": "https://www.vinzapstore.in/products/electric-pepper-grinder-usb-rechargeable-one-touch-operation",
+   "file": "277df4d1.jpg",
+   "thumb": "277df4d1.jpg"
   }
  ],
- "last_post": 1793019089.266691,
+ "last_post": 1793020562.3133,
  "log": [
-  "20:32:03 POSTED facebook@Vinzap-Finds 72ef3ab6: 1879422043469238",
-  "20:32:04 FAILED post facebook@Vijayendra-Singh 72ef3ab6: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes5XFjXZ_cXxXcPZEzzcMQs2btlToghIuDTuZUwU_7rUjKbgdsuJ1OvgxhbKejydzi4Vwic7F3F-16mbxJUOudYLiIRlqJWa6rB0B9-3KAfZsH54J1uGF4b7nOIvqtkvXvjRmpY8jL7DQrxT9yI1TRuNC3Te2FM8hl_WjkNtEIsegFEQJH99IP03EYw_A2oTDxDHBciUQHYGqjYpE4hl2sXcMCOy1bKEY3V2d22R5WmQNiGGzckEXWv1T1SfU2F1-DEkrdYYATtbQLSlPyjuLqTaKghNlPN9Zkh4qy2pPM3temuFw-VVCcBGkcwLAZkcsPh\",\"help_cent",
-  "20:32:45 STORY POSTED instagram@Vinzap-Finds 72ef3ab6",
-  "20:32:57 STORY POSTED facebook@Vinzap-Finds 72ef3ab6",
   "21:00:48 READY b4c585cc Metal Sink Drain Mesh Strainer Basket (auto-approved)",
   "21:00:58 POSTED instagram@Vinzap-Finds b4c585cc: 18041797847836550",
   "21:01:01 POSTED facebook@Vinzap-Finds b4c585cc: 1428352113685678_122111927193501659",
@@ -5666,13 +5662,17 @@
   "18:22:20 FAILED post facebook@Vijayendra-Singh 94441ddb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGUyuiVKJaVMq_GwvVPVMG2B42-kdIaNL5w9k1qNq2og6FhRpelo-C6GKMAqmv4Ht01IlJC7lR4Htu2kYAfjAFoqcRLOENrx2uo90EwoTHqTaHZdIBDk3VG6UW2-tV3exV91gzfyNkE0xyGXuo0LtA0V7imcyIQkx6obj-9_wyq82vk9osA-feUibTSTq4tZwO3PPhkeF4qzK3319qAntKgLTDQBN3jJ1tKBZq7JcxBdFyc_qfdVJzIuwJjLloiPZk35mPAB9GwOeFfBA-77XLKCMlGX0SnUToZOM6Byv1p0offB7JrKDufbGuqBfuO59J\",\"help_cent",
   "18:22:30 POSTED youtube 94441ddb: on1EHwue7VM",
   "18:23:03 STORY POSTED instagram@Vinzap-Finds 94441ddb",
-  "18:23:16 STORY POSTED facebook@Vinzap-Finds 94441ddb"
+  "18:23:16 STORY POSTED facebook@Vinzap-Finds 94441ddb",
+  "18:46:02 READY 277df4d1 Electric Pepper Grinder, USB Rechargeable (auto-approved)",
+  "18:46:17 POSTED instagram@Vinzap-Finds 277df4d1: 17943204051385377",
+  "18:46:22 POSTED facebook@Vinzap-Finds 277df4d1: 1428352113685678_122112610983501659",
+  "18:46:28 POSTED facebook@Vijayendra-Singh 277df4d1: 1317760538089559_122123137575480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793019089.266691,
-  "facebook@Vinzap-Finds": 1793019089.266691,
-  "facebook@Vijayendra-Singh": 1793019089.266691,
+  "instagram@Vinzap-Finds": 1793020562.3133,
+  "facebook@Vinzap-Finds": 1793020562.3133,
+  "facebook@Vijayendra-Singh": 1793020562.3133,
   "youtube": 1793019089.266691
  },
- "n": 169
+ "n": 170
 }
