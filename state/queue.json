@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "8711bb2c",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Cooking Spatula 18cm",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "High-Quality Silicone: Made from",
-     "Versatile Usage: Suitable",
-     "Convenient Kitchen Aid:"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Silicone Cooking Spatula 18cm | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Cooking Spatula 18cm"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Cooking Spatula 18cm\n✔ High-Quality Silicone: Made from\n✔ Versatile Usage: Suitable\n✔ Convenient Kitchen Aid:\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Silicone Cooking Spatula 18cm",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792672773.8922174,
-     "id": "18449460133193710",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792672773.8922174,
-     "id": "1428352113685678_122111117955501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792672773.8922174,
-     "id": "1317760538089559_122121818991480728",
-     "dry": false
-    }
-   },
-   "created": 1792672772.42382,
-   "after": 0,
-   "handle": "silicone-cooking-spatula-for-baking-1-pc-18-cm",
-   "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-18-cm",
-   "file": "8711bb2c.jpg",
-   "thumb": "8711bb2c.jpg"
-  },
-  {
    "id": "f2ba2fc3",
    "status": "scheduled",
    "kind": "reel",
@@ -5471,14 +5409,72 @@
      "id": "1865034181578395"
     }
    }
+  },
+  {
+   "id": "b854d694",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Measuring Cups and Spoons Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Complete measuring cups",
+     "Clear markings for accurate",
+     "Measures both dry and liquid"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Plastic Measuring Cups and Spoons Set | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Measuring Cups and Spoons Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Measuring Cups and Spoons Set\n✔ Complete measuring cups\n✔ Clear markings for accurate\n✔ Measures both dry and liquid\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Plastic Measuring Cups and Spoons Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793011558.3491483,
+     "id": "17920838406242629",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793011558.3491483,
+     "id": "1428352113685678_122112569505501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793011558.3491483,
+     "id": "1317760538089559_122123087553480728",
+     "dry": false
+    }
+   },
+   "created": 1793011555.1031094,
+   "after": 0,
+   "handle": "plastic-measuring-cups-and-spoons-set-for-kitchen-baking-cooking-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-measuring-cups-and-spoons-set-for-kitchen-baking-cooking-1-set",
+   "file": "b854d694.jpg",
+   "thumb": "b854d694.jpg"
   }
  ],
- "last_post": 1793009759.4220679,
+ "last_post": 1793011558.3491483,
  "log": [
-  "18:32:01 POSTED facebook@Vinzap-Finds 67fe05f6: 1116461704477514",
-  "18:32:02 FAILED post facebook@Vijayendra-Singh 67fe05f6: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPr4bNVotWreIlcy5cigU3aeuOOdiAjETcEz3KK04E8eXuRUtDvXHtGyiPax828GmcXCmgiH59UzCM-yKKJgL5Js15bVj6dqH69UcWX7xyeSchNnco23gIn9RWshb-i0KNMXSmObF391B79R4mdJ44i61VeWmultfItBs0156GMyVMTqggDIJ_14EGGEMvdn1ilM1pVSz-XfKjjxDkqtR-ypFf07qrSGPKCr2uf0d3k3pgf4q1wN2LhG9cUSwNXloDBH6epEL4CKiIx7gL4dOV9JL-k64vPHkE8c8zKcAsnsqj3cvGraUnXroskpqq717v\",\"help_cent",
-  "18:32:06 POSTED youtube 67fe05f6: YebOiEyhWvM",
-  "18:32:41 STORY POSTED instagram@Vinzap-Finds 67fe05f6",
   "18:32:52 STORY POSTED facebook@Vinzap-Finds 67fe05f6",
   "19:00:48 READY be079f85 Knife Sharpening Stone Silicon Carbide (auto-approved)",
   "19:01:03 POSTED instagram@Vinzap-Finds be079f85: 18120177280760058",
@@ -5674,13 +5670,17 @@
   "15:46:45 POSTED facebook@Vinzap-Finds e04873af: 2347677505987281",
   "15:46:46 FAILED post facebook@Vijayendra-Singh e04873af: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesofoNHp5qdM5mvCLwlC-BPq2591UETWRyD-KbS6XtbiPVTNucuyL6X8QCe58sWNUa9BIX0RETT6raQjmGkwBSf-U-zypkXwhX88VuL7OfrPkhM6kfyI_YXXECCbRBmqH-IsgsrweRg7u_rtlJta2iddp39TEDGCEmcHj84eZCjc_pAjOnlEhtVZ7S_e6EEUtZpUvA1URaldFnwhVSOjNMmT0fmpAfVAOx0NA4LGN3B-p6Fxm8FRijw-mYSyngLJaC1ue9qBVqlMf3VpifdZ92J0tHjPNkXC_NNdlOj7H4k0WVIhnI1bZ5fz6W4sFUo33k\",\"help_cente",
   "15:47:21 STORY POSTED instagram@Vinzap-Finds e04873af",
-  "15:47:34 STORY POSTED facebook@Vinzap-Finds e04873af"
+  "15:47:34 STORY POSTED facebook@Vinzap-Finds e04873af",
+  "16:15:58 READY b854d694 Plastic Measuring Cups and Spoons Set (auto-approved)",
+  "16:16:13 POSTED instagram@Vinzap-Finds b854d694: 17920838406242629",
+  "16:16:17 POSTED facebook@Vinzap-Finds b854d694: 1428352113685678_122112569505501659",
+  "16:16:21 POSTED facebook@Vijayendra-Singh b854d694: 1317760538089559_122123087553480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793009759.4220679,
-  "facebook@Vinzap-Finds": 1793009759.4220679,
-  "facebook@Vijayendra-Singh": 1793009759.4220679,
+  "instagram@Vinzap-Finds": 1793011558.3491483,
+  "facebook@Vinzap-Finds": 1793011558.3491483,
+  "facebook@Vijayendra-Singh": 1793011558.3491483,
   "youtube": 1793005915.8301857
  },
- "n": 165
+ "n": 166
 }
