@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "10e1e13b",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Wall Mount WiFi Router Holder Box Organizer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Neatly hides router and cables",
-     "Sturdy durable plastic body",
-     "Wall mountable design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Wall Mount WiFi Router Holder Box Organizer | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wall Mount WiFi Router Holder Box Organizer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mount WiFi Router Holder Box Organizer\n✔ Neatly hides router and cables\n✔ Sturdy durable plastic body\n✔ Wall mountable design\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Wall Mount WiFi Router Holder Box Organizer",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792663698.4535813,
-     "id": "18099844610409509",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792663698.4535813,
-     "id": "1428352113685678_122111071413501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792663698.4535813,
-     "id": "1317760538089559_122121771753480728",
-     "dry": false
-    }
-   },
-   "created": 1792663696.264361,
-   "after": 0,
-   "handle": "wall-mount-wifi-router-holder-storage-box-organizer-rack-with-screws-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/wall-mount-wifi-router-holder-storage-box-organizer-rack-with-screws-1-pc",
-   "file": "10e1e13b.jpg",
-   "thumb": "10e1e13b.jpg"
-  },
-  {
    "id": "f0cc67a5",
    "status": "scheduled",
    "kind": "reel",
@@ -5481,14 +5419,72 @@
      "id": "4614512605503896"
     }
    }
+  },
+  {
+   "id": "5ec4e841",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Ovel Manual Chilli and Dry Fruit",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 329,
+    "was": 0,
+    "feats": [
+     "High-Performance Stainless Steel",
+     "Durable Virgin Plastic Body:",
+     "Manual Hand Crank Design:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Ovel Manual Chilli and Dry Fruit"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Ovel Manual Chilli and Dry Fruit\n✔ High-Performance Stainless Steel\n✔ Durable Virgin Plastic Body:\n✔ Manual Hand Crank Design:\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Apex Ovel Manual Chilli and Dry Fruit",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793001669.100357,
+     "id": "18037087952893599",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793001669.100357,
+     "id": "1428352113685678_122112529899501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793001669.100357,
+     "id": "1317760538089559_122123050479480728",
+     "dry": false
+    }
+   },
+   "created": 1793001666.7047343,
+   "after": 0,
+   "handle": "apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
+   "product_url": "https://www.vinzapstore.in/products/apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
+   "file": "5ec4e841.jpg",
+   "thumb": "5ec4e841.jpg"
   }
  ],
- "last_post": 1792999878.7912593,
+ "last_post": 1793001669.100357,
  "log": [
-  "16:32:39 POSTED instagram@Vinzap-Finds 825bde2f: 18147298369576970",
-  "16:32:45 POSTED facebook@Vinzap-Finds 825bde2f: 1217536110780538",
-  "16:32:46 FAILED post facebook@Vijayendra-Singh 825bde2f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesLOEXyPsT2Rv6GN6pt_MmiRIo5UY4s4o4j22fcKKlWO2HYbNhKxmejpvsgkFW54PfsXnHZqUUN6WjwUzFqzNooHlgk9eQhHPYZDdBYGfQ3Zdu5JD7OLXYwqrK_ojf-gYr5NC2FWqNGja-eWLkotI3BLJrGVM9Im0RzCOthuu3C3wbe5fvCHzKyREl-xgOXI_w7PKmbINtX0ZKISGk2PxNYrVANWxtNAq4iGFZhTXd0PzG2e269vhxD5tvT-sgRngI75X6At4ouFTks30Mr5gffXMZVIxpsGWFTdLZY70PWs4dP4mYauWnrqIiHh2nwmV6Q\",\"help_cent",
-  "16:33:18 STORY POSTED instagram@Vinzap-Finds 825bde2f",
   "16:33:27 STORY POSTED facebook@Vinzap-Finds 825bde2f",
   "17:00:48 READY c80b3378 Panda Design Kids Lunch Box (auto-approved)",
   "17:01:00 POSTED instagram@Vinzap-Finds c80b3378: 18116478506277322",
@@ -5684,13 +5680,17 @@
   "13:01:50 POSTED facebook@Vinzap-Finds abbb661a: 986323220541366",
   "13:01:51 FAILED post facebook@Vijayendra-Singh abbb661a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4EdVBkZhmQMKwlrPunfFTKA1JkVYcNtr4RplH0qypoZELDpzmfX759vGACbm8BhJQVF4vawgQyISAbW-rqPFBdEnhmGo1UCKSjpcAUSXHM9glihTeZidc3XYYYTJF8vfRXRXRkRqeqOnmXMUTQzGN6LCoatT5ad-lLMJ02ojPKEVDNbSa4NVJ0MX5es8P5zelAiTgQlmCURTkKnQruXmS146OpP16qIdGOlWf-LkUf2K9SxrD1f3Iz4vTRlMKiHVX6dOO3J29OWQuNmk9kiw1YFVfIs-MH9ka2sa_3Nhht1RRhsJ160MvOemkW3MH-vZP\",\"help_cent",
   "13:02:22 STORY POSTED instagram@Vinzap-Finds abbb661a",
-  "13:02:31 STORY POSTED facebook@Vinzap-Finds abbb661a"
+  "13:02:31 STORY POSTED facebook@Vinzap-Finds abbb661a",
+  "13:31:09 READY 5ec4e841 Apex Ovel Manual Chilli and Dry Fruit (auto-approved)",
+  "13:31:17 POSTED instagram@Vinzap-Finds 5ec4e841: 18037087952893599",
+  "13:31:21 POSTED facebook@Vinzap-Finds 5ec4e841: 1428352113685678_122112529899501659",
+  "13:31:25 POSTED facebook@Vijayendra-Singh 5ec4e841: 1317760538089559_122123050479480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1792999878.7912593,
-  "facebook@Vinzap-Finds": 1792999878.7912593,
-  "facebook@Vijayendra-Singh": 1792999878.7912593,
+  "instagram@Vinzap-Finds": 1793001669.100357,
+  "facebook@Vinzap-Finds": 1793001669.100357,
+  "facebook@Vijayendra-Singh": 1793001669.100357,
   "youtube": 1792996270.5193753
  },
- "n": 161
+ "n": 162
 }
