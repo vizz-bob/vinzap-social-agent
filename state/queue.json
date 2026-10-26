@@ -1,66 +1,6 @@
 {
  "items": [
   {
-   "id": "96738b82",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Cooking Spatula 19cm",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Silicone Spatula for Baking, 1 PC"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Silicone Cooking Spatula 19cm | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Cooking Spatula 19cm"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Cooking Spatula 19cm\n✔ Silicone Spatula for Baking, 1 PC\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Silicone Cooking Spatula 19cm",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792678270.2464087,
-     "id": "18019619768736406",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792678270.2464087,
-     "id": "1428352113685678_122111143221501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792678270.2464087,
-     "id": "1317760538089559_122121845913480728",
-     "dry": false
-    }
-   },
-   "created": 1792678268.1012297,
-   "after": 0,
-   "handle": "silicone-cooking-spatula-for-baking-1-pc-19-cm",
-   "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-19-cm",
-   "file": "96738b82.jpg",
-   "thumb": "96738b82.jpg"
-  },
-  {
    "id": "bd0eb1b2",
    "status": "posted",
    "kind": "reel",
@@ -5466,14 +5406,72 @@
      "id": "1462518545825030"
     }
    }
+  },
+  {
+   "id": "6fdcd509",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Hot Pot Gripper Clamp Pan",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Strong stainless steel gripping",
+     "Heat-resistant anti-slip handle",
+     "Multi-purpose design suitable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Hot Pot Gripper Clamp Pan"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Hot Pot Gripper Clamp Pan\n✔ Strong stainless steel gripping\n✔ Heat-resistant anti-slip handle\n✔ Multi-purpose design suitable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Stainless Steel Hot Pot Gripper Clamp Pan",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793016100.1684616,
+     "id": "18087523034307412",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793016100.1684616,
+     "id": "1428352113685678_122112589983501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793016100.1684616,
+     "id": "1317760538089559_122123110815480728",
+     "dry": false
+    }
+   },
+   "created": 1793016097.7387316,
+   "after": 0,
+   "handle": "multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
+   "file": "6fdcd509.jpg",
+   "thumb": "6fdcd509.jpg"
   }
  ],
- "last_post": 1793013374.3915854,
+ "last_post": 1793016100.1684616,
  "log": [
-  "19:31:42 POSTED instagram@Vinzap-Finds 78841181: 18139511833628967",
-  "19:31:47 POSTED facebook@Vinzap-Finds 78841181: 2660958464366316",
-  "19:31:49 FAILED post facebook@Vijayendra-Singh 78841181: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetclmmpjbdKWrXtbc1WFhGfBd8RULCkXVu4qkSIYEjJoryLMlwmvtofF_qeCvrAJbmRtNdtyblL08fd-SkqjpM2A6jhn1aXn2xNTBKQzukCRx53qee0hiRY7ddEnry9FnJ_wJb7yX785nj9kE40HnRplXbf-i0DJqhHjWqPCJ0b9EIogHgVG0dUFEF4dRptIFQh9nJt3GnODjeZkI6-piDNbGByfzYdkPavZGAuP8mJrOqDHrSh8qTHoECmplTu8XPKsFPm_GI-QAc2hGLxkbKA5_rA3VcslnYGG-d57hEtSMH8zLBhkQ5CYASDVLYfHY2q\",\"help_cent",
-  "19:32:24 STORY POSTED instagram@Vinzap-Finds 78841181",
   "19:32:34 STORY POSTED facebook@Vinzap-Finds 78841181",
   "20:01:11 READY 7958b08a Stainless Steel Dough Scraper Cutter Small (auto-approved)",
   "20:01:25 POSTED instagram@Vinzap-Finds 7958b08a: 17966369132983057",
@@ -5669,13 +5667,17 @@
   "16:46:54 POSTED facebook@Vinzap-Finds e1ae6691: 1162161246167501",
   "16:46:56 FAILED post facebook@Vijayendra-Singh e1ae6691: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetci-VddbGhyMn6FVW04gwimT4Zu_bQ2t3hpOZdj1JrhyyjIUCd7F_5rBKB4NbcM9mQ2M3GkzBPzAGwRqUglu3m-i3-QGbYKrSmlkhbr_gszrrirnS491-9rFKIr6yQe88xkFFUIDquXBBxoIJXvbhc7Um9AxWbjt1_ouGJYUi02ZURu7xRIzlK1qUK0fWxVZhNvF5HHOHx03AO3JS2qOeYYCkZk-QPFchNI8exnxle92A8v2jRRYlvn0YD9RUcqhUmDjvRCTXIT6TzaI1XvQ2mBDb2TfAeG0Qwp9tceQ8bEHp16U-8ncoNWqme7nvbI9A\",\"help_cente",
   "16:47:27 STORY POSTED instagram@Vinzap-Finds e1ae6691",
-  "16:47:37 STORY POSTED facebook@Vinzap-Finds e1ae6691"
+  "16:47:37 STORY POSTED facebook@Vinzap-Finds e1ae6691",
+  "17:31:40 READY 6fdcd509 Stainless Steel Hot Pot Gripper Clamp Pan (auto-approved)",
+  "17:31:54 POSTED instagram@Vinzap-Finds 6fdcd509: 18087523034307412",
+  "17:31:57 POSTED facebook@Vinzap-Finds 6fdcd509: 1428352113685678_122112589983501659",
+  "17:32:02 POSTED facebook@Vijayendra-Singh 6fdcd509: 1317760538089559_122123110815480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793013374.3915854,
-  "facebook@Vinzap-Finds": 1793013374.3915854,
-  "facebook@Vijayendra-Singh": 1793013374.3915854,
-  "youtube": 1793005915.8301857
+  "instagram@Vinzap-Finds": 1793016100.1684616,
+  "facebook@Vinzap-Finds": 1793016100.1684616,
+  "facebook@Vijayendra-Singh": 1793016100.1684616,
+  "youtube": 1793005495.8301857
  },
- "n": 167
+ "n": 168
 }
