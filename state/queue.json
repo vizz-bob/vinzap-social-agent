@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "0b1de4f1",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Scoop Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Set of 3 scoops in small",
-     "Clear",
-     "Made from lightweight"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Plastic Scoop Set | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Scoop Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Scoop Set\n✔ Set of 3 scoops in small\n✔ Clear\n✔ Made from lightweight\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Plastic Scoop Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792668653.9378452,
-     "id": "18131138935804667",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792668653.9378452,
-     "id": "1428352113685678_122111098251501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792668653.9378452,
-     "id": "1317760538089559_122121796437480728",
-     "dry": false
-    }
-   },
-   "created": 1792668651.4185019,
-   "after": 0,
-   "handle": "multipurpose-plastic-scoop-set-clear-flour-coffee-sugar-grain-scoops-3-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-scoop-set-clear-flour-coffee-sugar-grain-scoops-3-pc-set",
-   "file": "0b1de4f1.jpg",
-   "thumb": "0b1de4f1.jpg"
-  },
-  {
    "id": "f46333b8",
    "status": "posted",
    "kind": "reel",
@@ -5482,14 +5420,72 @@
      "id": "1630638635196173"
     }
    }
+  },
+  {
+   "id": "58b9b324",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Konvex Duo Grater",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 309,
+    "was": 0,
+    "feats": [
+     "Duo grating surface suitable",
+     "Built-in container collects",
+     "Lid allows easy storage of grated"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Konvex Duo Grater | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Konvex Duo Grater"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKonvex Duo Grater\n✔ Duo grating surface suitable\n✔ Built-in container collects\n✔ Lid allows easy storage of grated\n\nOnly ₹309. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Konvex Duo Grater",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793007962.7574122,
+     "id": "17997776669834755",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793007962.7574122,
+     "id": "1428352113685678_122112554451501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793007962.7574122,
+     "id": "1317760538089559_122123069505480728",
+     "dry": false
+    }
+   },
+   "created": 1793007959.9187715,
+   "after": 0,
+   "handle": "konvex-duo-grater-with-container-and-lid-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/konvex-duo-grater-with-container-and-lid-1-pc",
+   "file": "58b9b324.jpg",
+   "thumb": "58b9b324.jpg"
   }
  ],
- "last_post": 1793005915.8301857,
+ "last_post": 1793007962.7574122,
  "log": [
-  "17:32:04 POSTED facebook@Vinzap-Finds 73b0c50d: 1697380242018770",
-  "17:32:05 FAILED post facebook@Vijayendra-Singh 73b0c50d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6ujRjVf33ZIZ-1X7FRzmyQwoBE0dGQRSmvg_BhflfKmsS4pe-dr42TooO_nWJ2ne_DzejI0n94yPwvyCvG8W0gdgLEOoLPfPPfWAw1IREtDNdEyOwLdCPMJjo_sWWDglcpYjdRKLTjiiKs-nU7ZOL_FSvUcw8cJ2XT2Qda388n096OkSQn2sjvW8PNocSyCeKh8LrouRqwuRGrbkNn8PNr27L09wlgOmLve0ZPqTWw7qhodn9Lt9jSnkTGsXYue60nJCWV6tlhJ8xqZyBbztStVpFzxFVEs3_1zVenlUykgfi4DBrvPSOSxTtKmhqRY\",\"help_cente",
-  "17:32:39 STORY POSTED instagram@Vinzap-Finds 73b0c50d",
-  "17:32:49 STORY POSTED facebook@Vinzap-Finds 73b0c50d",
   "18:00:42 READY bc0bbe11 Ice Candy Popsicle Maker 8 Mould Set (auto-approved)",
   "18:00:50 POSTED instagram@Vinzap-Finds bc0bbe11: 18227371651330905",
   "18:00:53 POSTED facebook@Vinzap-Finds bc0bbe11: 1428352113685678_122111860371501659",
@@ -5685,13 +5681,17 @@
   "14:42:36 FAILED post facebook@Vijayendra-Singh de327591: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeugjFFAEyQFfvov4a94VNTsDQnBASyS7BheaEiHDNyAWrAJFv1r1zx3MNnCAOmB3kKxpE3G8qtY7CAsDOxQGCGvQd3XSPodjLx05e-UhTURZo4KJMsfX5aoKxVi7o7HDkMvpWIyz6_cfLYndJ53Y9U-bOzdtRkbba2vYRm23PvnB_gNOrqKpXtctJesr24FjovLl1cs4qKn8w3E3FwbqrP_ReiypJbcGHwjRJzlPmmSyPGGtmZkXhzqr7GOFDggnWGndiQrce7vk-72q-3QtR2e-wZmewskjUqBXMPQf1pjWnJTXHUBDkbs_XCs_4r-etWA\",\"help_cent",
   "14:42:41 POSTED youtube de327591: iTRVjvRCKzI",
   "14:43:11 STORY POSTED instagram@Vinzap-Finds de327591",
-  "14:43:19 STORY POSTED facebook@Vinzap-Finds de327591"
+  "14:43:19 STORY POSTED facebook@Vinzap-Finds de327591",
+  "15:16:02 READY 58b9b324 Konvex Duo Grater (auto-approved)",
+  "15:16:14 POSTED instagram@Vinzap-Finds 58b9b324: 17997776669834755",
+  "15:16:17 POSTED facebook@Vinzap-Finds 58b9b324: 1428352113685678_122112554451501659",
+  "15:16:21 POSTED facebook@Vijayendra-Singh 58b9b324: 1317760538089559_122123069505480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793005915.8301857,
-  "facebook@Vinzap-Finds": 1793005915.8301857,
-  "facebook@Vijayendra-Singh": 1793005915.8301857,
+  "instagram@Vinzap-Finds": 1793007962.7574122,
+  "facebook@Vinzap-Finds": 1793007962.7574122,
+  "facebook@Vijayendra-Singh": 1793007962.7574122,
   "youtube": 1793005915.8301857
  },
- "n": 163
+ "n": 164
 }
