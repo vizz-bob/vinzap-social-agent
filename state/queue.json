@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "bd0eb1b2",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Pyramid Ringo Plastic Glass 300ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 539,
-    "was": 0,
-    "feats": [
-     "Approx. 300ml Capacity Ideal",
-     "Crystal-Clear Plastic Body Sleek",
-     "Break-Resistant & Durable Built"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Apex Pyramid Ringo Plastic Glass 300ml | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Pyramid Ringo Plastic Glass 300ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Pyramid Ringo Plastic Glass 300ml\n✔ Approx. 300ml Capacity Ideal\n✔ Crystal-Clear Plastic Body Sleek\n✔ Break-Resistant & Durable Built\n\nOnly ₹539. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Apex Pyramid Ringo Plastic Glass 300ml | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792681424.9589355,
-     "id": "17962906431226598",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792681424.9589355,
-     "id": "2364566060996961",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792681424.9589355,
-     "id": "1512094720689098",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792681424.9589355,
-     "id": "lNXKItzjkO8",
-     "dry": false
-    }
-   },
-   "created": 1792681394.1469038,
-   "after": 0,
-   "handle": "apex-pyramid-ringo-plastic-glass-300ml-approx-durable-crystal-clear-tumbler",
-   "product_url": "https://www.vinzapstore.in/products/apex-pyramid-ringo-plastic-glass-300ml-approx-durable-crystal-clear-tumbler",
-   "file": "bd0eb1b2.mp4",
-   "thumb": "bd0eb1b2_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18124315397297285"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1106575328933198"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1436584221907870"
-    }
-   }
-  },
-  {
    "id": "127e6aad",
    "status": "posted",
    "kind": "image",
@@ -5468,17 +5385,88 @@
    "product_url": "https://www.vinzapstore.in/products/square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
    "file": "d86ef8c9.jpg",
    "thumb": "d86ef8c9.jpg"
+  },
+  {
+   "id": "94441ddb",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Aroma Diffuser Humidifier 200ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "200ml ultrasonic aroma diffuser",
+     "Wood grain stylish round design",
+     "Cool mist essential oil diffuser"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Aroma Diffuser Humidifier 200ml | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Aroma Diffuser Humidifier 200ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nAroma Diffuser Humidifier 200ml\n✔ 200ml ultrasonic aroma diffuser\n✔ Wood grain stylish round design\n✔ Cool mist essential oil diffuser\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Aroma Diffuser Humidifier 200ml | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793019089.266691,
+     "id": "18097789334437097",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793019089.266691,
+     "id": "1432060228911423",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793019089.266691,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGUyuiVKJaVMq_GwvVPVMG2B"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793019089.266691,
+     "id": "on1EHwue7VM",
+     "dry": false
+    }
+   },
+   "created": 1793019063.1136942,
+   "after": 0,
+   "handle": "ultrasonic-aroma-diffuser-humidifier-200ml-with-led-light-for-home-office-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/ultrasonic-aroma-diffuser-humidifier-200ml-with-led-light-for-home-office-1-pc",
+   "file": "94441ddb.mp4",
+   "thumb": "94441ddb_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18148200115566016"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1838204370632450"
+    }
+   }
   }
  ],
- "last_post": 1793016166.0233717,
+ "last_post": 1793019089.266691,
  "log": [
-  "19:32:34 STORY POSTED facebook@Vinzap-Finds 78841181",
-  "20:01:11 READY 7958b08a Stainless Steel Dough Scraper Cutter Small (auto-approved)",
-  "20:01:25 POSTED instagram@Vinzap-Finds 7958b08a: 17966369132983057",
-  "20:01:30 POSTED facebook@Vinzap-Finds 7958b08a: 1428352113685678_122111905281501659",
-  "20:01:35 POSTED facebook@Vijayendra-Singh 7958b08a: 1317760538089559_122122528605480728",
-  "20:31:16 READY 72ef3ab6 Kids Stainless Steel Cutlery Set 3 in 1 | Trending Shorts (auto-approved)",
-  "20:32:00 POSTED instagram@Vinzap-Finds 72ef3ab6: 17973821229157655",
   "20:32:03 POSTED facebook@Vinzap-Finds 72ef3ab6: 1879422043469238",
   "20:32:04 FAILED post facebook@Vijayendra-Singh 72ef3ab6: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes5XFjXZ_cXxXcPZEzzcMQs2btlToghIuDTuZUwU_7rUjKbgdsuJ1OvgxhbKejydzi4Vwic7F3F-16mbxJUOudYLiIRlqJWa6rB0B9-3KAfZsH54J1uGF4b7nOIvqtkvXvjRmpY8jL7DQrxT9yI1TRuNC3Te2FM8hl_WjkNtEIsegFEQJH99IP03EYw_A2oTDxDHBciUQHYGqjYpE4hl2sXcMCOy1bKEY3V2d22R5WmQNiGGzckEXWv1T1SfU2F1-DEkrdYYATtbQLSlPyjuLqTaKghNlPN9Zkh4qy2pPM3temuFw-VVCcBGkcwLAZkcsPh\",\"help_cent",
   "20:32:45 STORY POSTED instagram@Vinzap-Finds 72ef3ab6",
@@ -5671,13 +5659,20 @@
   "17:32:46 READY d86ef8c9 Square Ice Cube Mould Set of 4 (auto-approved)",
   "17:33:00 POSTED instagram@Vinzap-Finds d86ef8c9: 17944335171091678",
   "17:33:03 POSTED facebook@Vinzap-Finds d86ef8c9: 1428352113685678_122112590547501659",
-  "17:33:06 POSTED facebook@Vijayendra-Singh d86ef8c9: 1317760538089559_122123111319480728"
+  "17:33:06 POSTED facebook@Vijayendra-Singh d86ef8c9: 1317760538089559_122123111319480728",
+  "18:21:29 READY 94441ddb Aroma Diffuser Humidifier 200ml | Kitchen Organization (auto-approved)",
+  "18:22:09 POSTED instagram@Vinzap-Finds 94441ddb: 18097789334437097",
+  "18:22:17 POSTED facebook@Vinzap-Finds 94441ddb: 1432060228911423",
+  "18:22:20 FAILED post facebook@Vijayendra-Singh 94441ddb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGUyuiVKJaVMq_GwvVPVMG2B42-kdIaNL5w9k1qNq2og6FhRpelo-C6GKMAqmv4Ht01IlJC7lR4Htu2kYAfjAFoqcRLOENrx2uo90EwoTHqTaHZdIBDk3VG6UW2-tV3exV91gzfyNkE0xyGXuo0LtA0V7imcyIQkx6obj-9_wyq82vk9osA-feUibTSTq4tZwO3PPhkeF4qzK3319qAntKgLTDQBN3jJ1tKBZq7JcxBdFyc_qfdVJzIuwJjLloiPZk35mPAB9GwOeFfBA-77XLKCMlGX0SnUToZOM6Byv1p0offB7JrKDufbGuqBfuO59J\",\"help_cent",
+  "18:22:30 POSTED youtube 94441ddb: on1EHwue7VM",
+  "18:23:03 STORY POSTED instagram@Vinzap-Finds 94441ddb",
+  "18:23:16 STORY POSTED facebook@Vinzap-Finds 94441ddb"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793016166.0233717,
-  "facebook@Vinzap-Finds": 1793016166.0233717,
-  "facebook@Vijayendra-Singh": 1793016166.0233717,
-  "youtube": 1793005495.8301857
+  "instagram@Vinzap-Finds": 1793019089.266691,
+  "facebook@Vinzap-Finds": 1793019089.266691,
+  "facebook@Vijayendra-Singh": 1793019089.266691,
+  "youtube": 1793019089.266691
  },
- "n": 168
+ "n": 169
 }
