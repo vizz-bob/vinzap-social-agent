@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "2f17c593",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Electric Oven 12 Litre 600W Mini OTG",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 5999,
-    "was": 0,
-    "feats": [
-     "Compact 12 litre capacity",
-     "600W heating for baking",
-     "Adjustable temperature control"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Oven 12 Litre 600W Mini OTG"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Oven 12 Litre 600W Mini OTG\n✔ Compact 12 litre capacity\n✔ 600W heating for baking\n✔ Adjustable temperature control\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Electric Oven 12 Litre 600W Mini OTG",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792689454.9121928,
-     "id": "18110883185241742",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792689454.9121928,
-     "id": "1428352113685678_122111191995501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792689454.9121928,
-     "id": "1317760538089559_122121906099480728",
-     "dry": false
-    }
-   },
-   "created": 1792689452.1154497,
-   "after": 0,
-   "handle": "electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
-   "file": "2f17c593.jpg",
-   "thumb": "2f17c593.jpg"
-  },
-  {
    "id": "0f26b586",
    "status": "posted",
    "kind": "reel",
@@ -5458,14 +5396,72 @@
      "id": "1624496926094064"
     }
    }
+  },
+  {
+   "id": "65fe4226",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Clear Plastic Gloves Medium Pack",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "100 disposable gloves per pack",
+     "size for a comfortable fit",
+     "Transparent design for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Disposable Clear Plastic Gloves Medium Pack | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Clear Plastic Gloves Medium Pack"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Clear Plastic Gloves Medium Pack\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Disposable Clear Plastic Gloves Medium Pack",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793024129.4465091,
+     "id": "18058927808569004",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793024129.4465091,
+     "id": "1428352113685678_122112626823501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793024129.4465091,
+     "id": "1317760538089559_122123165157480728",
+     "dry": false
+    }
+   },
+   "created": 1793024126.3797822,
+   "after": 0,
+   "handle": "disposable-clear-plastic-gloves-100-pc-medium-1",
+   "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-medium-1",
+   "file": "65fe4226.jpg",
+   "thumb": "65fe4226.jpg"
   }
  ],
- "last_post": 1793022368.9824557,
+ "last_post": 1793024129.4465091,
  "log": [
-  "21:32:31 POSTED facebook@Vinzap-Finds 78b1b159: 4496164640712868",
-  "21:32:31 FAILED post facebook@Vijayendra-Singh 78b1b159: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9hFJo42DFmMokvXG4H8eSx62iTLDWfrQImOTEjNZ7zgermkUTpqXw4_yyvDK2KAeuy6FsERVFlki6O3YnBU5eNv3myl99QPK63UpguhsgKMPem1WJLRoVUczxBuUVLN5vtMdStjJwVtDsqOnlmhh8OwNs8dyUsUgp7CSAZ-z-0F536gY7XNjObYbiRn-Q7rvQ65mxSAiGGJBi3t-iNFlFKyA3Oyj_YcTqb2_xtuWp1sao55n_kuZTtlCMDMdOEOkfB8YTWaCp6apaeInPUvkRwGk71auiFN4nE1ZE637BVlhk-sjGmKvuhQJiHUIhTds\",\"help_cente",
-  "21:32:36 POSTED youtube 78b1b159: qo679T3khQs",
-  "21:33:10 STORY POSTED instagram@Vinzap-Finds 78b1b159",
   "21:33:20 STORY POSTED facebook@Vinzap-Finds 78b1b159",
   "22:01:11 READY 8f9a5218 3 Layer Multipurpose Storage Trolley (auto-approved)",
   "22:01:26 POSTED instagram@Vinzap-Finds 8f9a5218: 18050757311816687",
@@ -5661,13 +5657,17 @@
   "19:16:47 POSTED facebook@Vinzap-Finds caf58626: 1595274195144765",
   "19:16:48 FAILED post facebook@Vijayendra-Singh caf58626: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevoMVmz_CGyjtWfkEoMTmpvdZCOz9yNAqUT41hZ-ewHWH5YOzG1iAAweE5zkH1Wu-3fzWPLmXU6HsImzPv-kVD0a4_Jyk1mmWDLoFTn5OPhZek3FQcOV_RnlDuJyBi2ZPB381D1_UvlyBihHJSUJxikaJ5glQaHx_VUFQbPNA_BxnEJgcUD0u315EpYGLgg38u2VEpSNJMoZQQ-Ro3LX1s8R8Qrr_viBAkKuRCzsf7sQh1aUlT1w6e2g6YHiAyPwYUOf-ib9uyDNVuEKP-nnVdShhxjIbfe6UuiiZZqn6i3sNjQAQxy34LdrjWWphQNClfz\",\"help_cent",
   "19:17:19 STORY POSTED instagram@Vinzap-Finds caf58626",
-  "19:17:29 STORY POSTED facebook@Vinzap-Finds caf58626"
+  "19:17:29 STORY POSTED facebook@Vinzap-Finds caf58626",
+  "19:45:29 READY 65fe4226 Disposable Clear Plastic Gloves Medium Pack (auto-approved)",
+  "19:45:42 POSTED instagram@Vinzap-Finds 65fe4226: 18058927808569004",
+  "19:45:46 POSTED facebook@Vinzap-Finds 65fe4226: 1428352113685678_122112626823501659",
+  "19:45:48 POSTED facebook@Vijayendra-Singh 65fe4226: 1317760538089559_122123165157480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793022368.9824557,
-  "facebook@Vinzap-Finds": 1793022368.9824557,
-  "facebook@Vijayendra-Singh": 1793022368.9824557,
+  "instagram@Vinzap-Finds": 1793024129.4465091,
+  "facebook@Vinzap-Finds": 1793024129.4465091,
+  "facebook@Vijayendra-Singh": 1793024129.4465091,
   "youtube": 1793019089.266691
  },
- "n": 171
+ "n": 172
 }
