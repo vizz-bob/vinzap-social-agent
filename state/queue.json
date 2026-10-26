@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "a1efe90f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Transparent Stand-Up Zipper Pouch Jar Shape",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 239,
-    "was": 0,
-    "feats": [
-     "Large jar bags",
-     "Medium jar bags",
-     "Small jar bags"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Transparent Stand-Up Zipper Pouch Jar Shape"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Stand-Up Zipper Pouch Jar Shape\n✔ Large jar bags\n✔ Medium jar bags\n✔ Small jar bags\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchengadgets #kitchenorganization",
-   "title": "Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792740666.4581804,
-     "id": "18115206152144207",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792740666.4581804,
-     "id": "1534758855077924",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792740666.4581804,
-     "id": "2017682595596270",
-     "dry": false
-    }
-   },
-   "created": 1792740644.5103378,
-   "after": 0,
-   "handle": "0855-plastics-transparent-jar-shaped-stand-up-pouch-with-zipper",
-   "product_url": "https://www.vinzapstore.in/products/0855-plastics-transparent-jar-shaped-stand-up-pouch-with-zipper",
-   "file": "a1efe90f.mp4",
-   "thumb": "a1efe90f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18439751551177928"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1870947274020724"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "959103496822200"
-    }
-   }
-  },
-  {
    "id": "daf8724f",
    "status": "posted",
    "kind": "image",
@@ -5447,17 +5370,88 @@
    "product_url": "https://www.vinzapstore.in/products/kitchen-prep-combo-of-3",
    "file": "c16716ae.jpg",
    "thumb": "c16716ae.jpg"
+  },
+  {
+   "id": "b2b777b1",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel 2-in-1 Cutting and Chopping",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1699,
+    "was": 0,
+    "feats": [
+     "2 in 1 design works as both",
+     "Built-in razor-sharp stainless",
+     "Durable stainless steel surface"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel 2-in-1 Cutting and Chopping | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel 2-in-1 Cutting and Chopping"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel 2-in-1 Cutting and Chopping\n✔ 2 in 1 design works as both\n✔ Built-in razor-sharp stainless\n✔ Durable stainless steel surface\n\nOnly ₹1699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Stainless Steel 2-in-1 Cutting and Chopping | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793030469.8839269,
+     "id": "18113883107601026",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793030469.8839269,
+     "id": "1636331467960531",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793030469.8839269,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeubjLKtP6kadgHFEsye8bn2An"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793030469.8839269,
+     "id": "aFN9anwevPc",
+     "dry": false
+    }
+   },
+   "created": 1793030453.4852936,
+   "after": 0,
+   "handle": "stainless-steel-2-in-1-cutting-and-chopping-board-with-knife-for-kitchen-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-2-in-1-cutting-and-chopping-board-with-knife-for-kitchen-1-pc",
+   "file": "b2b777b1.mp4",
+   "thumb": "b2b777b1_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18145823323604683"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1130278743086108"
+    }
+   }
   }
  ],
- "last_post": 1793028652.5338683,
+ "last_post": 1793030469.8839269,
  "log": [
-  "22:32:50 STORY POSTED facebook@Vinzap-Finds fc2e1f57",
-  "22:57:47 READY 1bd6b06c Portable Electric Kettle 600ml Travel Water (auto-approved)",
-  "22:57:51 POSTED facebook@Vijayendra-Singh 1bd6b06c: 1317760538089559_122122571469480728",
-  "12:01:09 READY 7a36953f Garlic Ginger Grater Plate | Kitchen Gadgets (auto-approved)",
-  "12:01:49 POSTED instagram@Vinzap-Finds 7a36953f: 17951214630301873",
-  "12:01:54 POSTED facebook@Vinzap-Finds 7a36953f: 1003017379488888",
-  "12:01:56 FAILED post facebook@Vijayendra-Singh 7a36953f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetTj45Do8hSgFaujCdpORsIzR_EU2ffPkt6aVVd1tRcCltgScyix_uv-VMd7LGUZpSafSWmSktwYH1aK3ppEOTYQQBbVZM9neY8fOkDs8xqHLzNZ1BkQqD2gq9Fy_sbGQwlv4A90C8XNKPQQuwmuY3A7Adg0zOQHLJqTGOai7vGQ8gh9NFey1rPO6Ao4rgflqoGXpckRMf0iC0Hl0PZeVQSwbErNDxl9S1PpgMuJ09Qm6glrRQQpjPg-fblB9G0JW81xVNZwt7Hp1S0VHH4qPqnch1snJk_8Dt083CYCproOX-6NIffehX9IH3CE4PB_6M9\",\"help_cent",
   "12:02:00 POSTED youtube 7a36953f: P4DrVNRVqEk",
   "12:02:37 STORY POSTED instagram@Vinzap-Finds 7a36953f",
   "12:02:49 STORY POSTED facebook@Vinzap-Finds 7a36953f",
@@ -5650,13 +5644,20 @@
   "21:00:52 READY c16716ae Kitchen Prep Combo of 3 (auto-approved)",
   "21:01:04 POSTED instagram@Vinzap-Finds c16716ae: 17938615431127696",
   "21:01:06 POSTED facebook@Vinzap-Finds c16716ae: 1428352113685678_122112655695501659",
-  "21:01:10 POSTED facebook@Vijayendra-Singh c16716ae: 1317760538089559_122123183379480728"
+  "21:01:10 POSTED facebook@Vijayendra-Singh c16716ae: 1317760538089559_122123183379480728",
+  "21:31:09 READY b2b777b1 Stainless Steel 2-in-1 Cutting and Chopping | Kitchen Gadgets (auto-approved)",
+  "21:31:49 POSTED instagram@Vinzap-Finds b2b777b1: 18113883107601026",
+  "21:31:55 POSTED facebook@Vinzap-Finds b2b777b1: 1636331467960531",
+  "21:31:57 FAILED post facebook@Vijayendra-Singh b2b777b1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeubjLKtP6kadgHFEsye8bn2An-rI_t4AG8_dWpG5q6KtYTb6e65WJ-wmgdfVW5gP7GHzBY40eqddZEZTm-AnIj9VZXGz8R2fqgvgjPy0b_PFDjg9ITOBysJ52-1oRp4RD9WFwRMHIn9Cw5h4_Tdl6vz3obM3z3ohnPw6lc2au5T9JG5CDom9n6tmyDzBYgmgOz58SlhJt0GJVoIfCtbr22yoA3XZpQokcKd6rkZzo7mdmtCDdgxcvpDCfK09Z8ltpqB61dfG3VGjvVoaVGS24KYUw_9US2SAkaMeu-ESRysfyE2H9NxS7Xoqkym_1ffBL6O\",\"help_cent",
+  "21:32:01 POSTED youtube b2b777b1: aFN9anwevPc",
+  "21:32:34 STORY POSTED instagram@Vinzap-Finds b2b777b1",
+  "21:32:43 STORY POSTED facebook@Vinzap-Finds b2b777b1"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793028652.5338683,
-  "facebook@Vinzap-Finds": 1793028652.5338683,
-  "facebook@Vijayendra-Singh": 1793028652.5338683,
-  "youtube": 1793018669.266691
+  "instagram@Vinzap-Finds": 1793030469.8839269,
+  "facebook@Vinzap-Finds": 1793030469.8839269,
+  "facebook@Vijayendra-Singh": 1793030469.8839269,
+  "youtube": 1793030469.8839269
  },
- "n": 174
+ "n": 175
 }
