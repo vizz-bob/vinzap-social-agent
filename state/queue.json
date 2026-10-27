@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "efd6b17a",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Ice Cube Maker Cup",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Flexible silicone cup makes many",
-     "Simply squeeze the sides to pop",
-     "Space-saving cylinder shape fits"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Silicone Ice Cube Maker Cup | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Ice Cube Maker Cup"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Maker Cup\n✔ Flexible silicone cup makes many\n✔ Simply squeeze the sides to pop\n✔ Space-saving cylinder shape fits\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Silicone Ice Cube Maker Cup | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792825276.5063434,
-     "id": "18129175132872319",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792825276.5063434,
-     "id": "1585925849449706",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792825276.5063434,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNScLz-04916NJZSAE8hq5HT"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792825276.5063434,
-     "id": "Ax8brOGTtfg",
-     "dry": false
-    }
-   },
-   "created": 1792825250.4042358,
-   "after": 0,
-   "handle": "silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
-   "file": "efd6b17a.mp4",
-   "thumb": "efd6b17a_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18144573730658302"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2707795496392549"
-    }
-   }
-  },
-  {
    "id": "2053c035",
    "status": "posted",
    "kind": "image",
@@ -5426,17 +5348,87 @@
    "product_url": "https://www.vinzapstore.in/products/apex-pyramid-design-unbreakable-plastic-glass-300-ml",
    "file": "96c5f31b.jpg",
    "thumb": "96c5f31b.jpg"
+  },
+  {
+   "id": "8bd59d39",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Kitchen Platform and Glass Wiper",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Multipurpose wiper suitable",
+     "High-quality rubber blade",
+     "Ergonomic handle for a firm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Kitchen Platform and Glass Wiper | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kitchen Platform and Glass Wiper"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Platform and Glass Wiper\n✔ Multipurpose wiper suitable\n✔ High-quality rubber blade\n✔ Ergonomic handle for a firm\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecorideas #diwali",
+   "title": "Kitchen Platform and Glass Wiper | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793116890.250024,
+     "id": "18118807979327073",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793116890.250024,
+     "id": "1637346507896065",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793116890.250024,
+     "id": "1423320846674333",
+     "dry": false
+    }
+   },
+   "created": 1793116857.6119187,
+   "after": 0,
+   "handle": "supermom-premium-kitchen-platform-and-glass-wiper-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-kitchen-platform-and-glass-wiper-1-pc",
+   "file": "8bd59d39.mp4",
+   "thumb": "8bd59d39_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18115165277165687"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1607669857021268"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2059531108769922"
+    }
+   }
   }
  ],
- "last_post": 1793115063.2871904,
+ "last_post": 1793116890.250024,
  "log": [
-  "21:31:13 POSTED instagram@Vinzap-Finds 77e50208: 18104601365340874",
-  "21:31:17 POSTED facebook@Vinzap-Finds 77e50208: 1428352113685678_122112296877501659",
-  "21:31:21 POSTED facebook@Vijayendra-Singh 77e50208: 1317760538089559_122122882263480728",
-  "22:01:09 READY 4f907868 Supermom Floral Serving Tray Set of 3 | Diwali (auto-approved)",
-  "22:01:43 POSTED instagram@Vinzap-Finds 4f907868: 18108244187245508",
-  "22:01:48 POSTED facebook@Vinzap-Finds 4f907868: 1121052890678792",
-  "22:01:48 FAILED post facebook@Vijayendra-Singh 4f907868: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesH5EG4vUNB-Lk3J55pEeBKS4zQeRK4_j-3p5WXDAGdPmsVJGj_xDLcrOjYDAvlsEoykwwARhAoXg8ZLGKFdCCcDkfZ-KPMnmQ_UyUMka-wwpmnJeqM5lnQLxMUlVUmPJCWrTr6rabdrxzTZ6G6hh796i9PRlibVFpM6v3GkkEkfEFlFuhjVJ03I0BryQFRQWB6OEGUo3KOao0wwNFzqeBw6QZjGydg3ON8AIzRPaeGh6w-KZnWuDCccwIpHPbyqFoVi5HFLhar4R6a9e6Bibj1V-wG7ZXFLJ37S0uhJcGWh5RacZaMKpA725RxCtNp4C7I\",\"help_cent",
   "22:02:20 STORY POSTED instagram@Vinzap-Finds 4f907868",
   "22:02:30 STORY POSTED facebook@Vinzap-Finds 4f907868",
   "22:31:03 READY 4139ee93 Stainless Steel Dough Scraper Cutter Large (auto-approved)",
@@ -5629,13 +5621,20 @@
   "21:01:03 READY 96c5f31b Apex Pyramid Unbreakable Plastic Glass 300ml (auto-approved)",
   "21:01:15 POSTED instagram@Vinzap-Finds 96c5f31b: 17962517690999187",
   "21:01:21 POSTED facebook@Vinzap-Finds 96c5f31b: 1428352113685678_122113000761501659",
-  "21:01:26 POSTED facebook@Vijayendra-Singh 96c5f31b: 1317760538089559_122123591973480728"
+  "21:01:26 POSTED facebook@Vijayendra-Singh 96c5f31b: 1317760538089559_122123591973480728",
+  "21:31:30 READY 8bd59d39 Kitchen Platform and Glass Wiper | Home Decor Ideas (auto-approved)",
+  "21:32:04 POSTED instagram@Vinzap-Finds 8bd59d39: 18118807979327073",
+  "21:32:07 POSTED facebook@Vinzap-Finds 8bd59d39: 1637346507896065",
+  "21:32:11 POSTED facebook@Vijayendra-Singh 8bd59d39: 1423320846674333",
+  "21:32:42 STORY POSTED instagram@Vinzap-Finds 8bd59d39",
+  "21:32:52 STORY POSTED facebook@Vinzap-Finds 8bd59d39",
+  "21:33:00 STORY POSTED facebook@Vijayendra-Singh 8bd59d39"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793115063.2871904,
-  "facebook@Vinzap-Finds": 1793115063.2871904,
-  "facebook@Vijayendra-Singh": 1793115063.2871904,
+  "instagram@Vinzap-Finds": 1793116890.250024,
+  "facebook@Vinzap-Finds": 1793116890.250024,
+  "facebook@Vijayendra-Singh": 1793116890.250024,
   "youtube": 1793108768.156222
  },
- "n": 194
+ "n": 195
 }
