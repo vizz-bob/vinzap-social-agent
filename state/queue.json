@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "5ce5feaf",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Long Handle Silicone Bottle Cleaning Brush",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 59,
-    "was": 0,
-    "feats": [
-     "Long 32 cm handle for deep",
-     "Soft silicone bristles for gentle",
-     "Flexible head to reach corners"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Long Handle Silicone Bottle Cleaning Brush | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Long Handle Silicone Bottle Cleaning Brush"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLong Handle Silicone Bottle Cleaning Brush\n✔ Long 32 cm handle for deep\n✔ Soft silicone bristles for gentle\n✔ Flexible head to reach corners\n\nOnly ₹59. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bottle #homeessentials\n#cooking #homedecor",
-   "title": "Long Handle Silicone Bottle Cleaning Brush",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792769455.3450742,
-     "id": "18116537434832707",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792769455.3450742,
-     "id": "1428352113685678_122111535411501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792769455.3450742,
-     "id": "1317760538089559_122122188549480728",
-     "dry": false
-    }
-   },
-   "created": 1792769452.6228602,
-   "after": 0,
-   "handle": "long-handle-silicone-bottle-cleaning-brush-32-cm-1-pc-1",
-   "product_url": "https://www.vinzapstore.in/products/long-handle-silicone-bottle-cleaning-brush-32-cm-1-pc-1",
-   "file": "5ce5feaf.jpg",
-   "thumb": "5ce5feaf.jpg"
-  },
-  {
    "id": "fae57d72",
    "status": "scheduled",
    "kind": "reel",
@@ -5416,14 +5354,70 @@
      "id": "1569051658242506"
     }
    }
+  },
+  {
+   "id": "11a2b137",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Fresca Stainless Steel Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 879,
+    "was": 0,
+    "feats": [
+     "Fresca Stainless Steel 3"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Fresca Stainless Steel Lunch Box | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fresca Stainless Steel Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFresca Stainless Steel Lunch Box\n✔ Fresca Stainless Steel 3\n\nOnly ₹879. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchengadgets #kitchenorganization",
+   "title": "Fresca Stainless Steel Lunch Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793107274.5438254,
+     "id": "18117585371046753",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793107274.5438254,
+     "id": "1428352113685678_122112961713501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793107274.5438254,
+     "id": "1317760538089559_122123550309480728",
+     "dry": false
+    }
+   },
+   "created": 1793107271.667825,
+   "after": 0,
+   "handle": "fresca-stainless-steel-3-compartment-lunch-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/fresca-stainless-steel-3-compartment-lunch-box-1-pc",
+   "file": "11a2b137.jpg",
+   "thumb": "11a2b137.jpg"
   }
  ],
- "last_post": 1793104260.586323,
+ "last_post": 1793107274.5438254,
  "log": [
-  "19:02:00 FAILED post facebook@Vijayendra-Singh d0a046a0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevicHYHe-JJN-uUCx-LZ0Gyh_ITLMgi1Na3XwRL5Lxtic13wM9stBSOFFzwTLHu9CVeD6TVpw7jOzSxV-GxHFJKhxxQFln-KA0C4t3ggwAYZ1m3Zak5AbI0NYiYjjotuI0q924YUWqW3z_-7_qhUv4jLU_tJW4PkFR_U2xXCE7D7ZUX6gIrhJ2yBfF4x-0I3EI7mbDQ3kq8qd1DBZaLWm6PM3vY-CZX4bNoTLeiLpC5X0RNtE9Mc0vCRonl0Rmt61aGDcnuoP_vvD_6DMiELMVVJ6PCV1GJp8jtJJvGQMBVMLO4Qt3D3JxwSTtZLUtkLv5O\",\"help_cent",
-  "19:02:33 STORY POSTED instagram@Vinzap-Finds d0a046a0",
-  "19:02:42 STORY POSTED facebook@Vinzap-Finds d0a046a0",
-  "19:30:51 READY 4a74d0e6 Ketchup and Mustard Dispenser Bottle Gun (auto-approved)",
   "19:31:01 POSTED instagram@Vinzap-Finds 4a74d0e6: 18124463281938804",
   "19:31:04 POSTED facebook@Vinzap-Finds 4a74d0e6: 1428352113685678_122112254145501659",
   "19:31:07 POSTED facebook@Vijayendra-Singh 4a74d0e6: 1317760538089559_122122854489480728",
@@ -5619,13 +5613,17 @@
   "18:01:38 POSTED facebook@Vinzap-Finds 72617307: 2200637173851050",
   "18:01:40 FAILED post facebook@Vijayendra-Singh 72617307: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeti2vTRnpn99gb5owsry5e1i2ja7aM8CxgYuecsTOE2MS_CBnAyHd9q5DMcOsJg8i3re0WBEPJLDq3--bKRBwwKdefZz1_9rDCC5COSqwNgr4up6qXQIA2mKNBN5Iw1Cgc_4LesVfJIRbdH7l4h577YYlF9QfXT9j_yGAjRjxJVOnfCH-G9XEJs_pivNoeLrj8CgMUBIyGvu5YxXrLoTFjSHiCEzJK2_60dFxulkA5K-fd_cUmHk1_CJz8DT4YaaKveHN5s2mEH3hjCdueNKBM2HZXCkjx9gQDSYEuUjCzrx6ibf6hAMni_AvlOvxRuYwA\",\"help_cente",
   "18:02:13 STORY POSTED instagram@Vinzap-Finds 72617307",
-  "18:02:21 STORY POSTED facebook@Vinzap-Finds 72617307"
+  "18:02:21 STORY POSTED facebook@Vinzap-Finds 72617307",
+  "18:51:14 READY 11a2b137 Fresca Stainless Steel Lunch Box (auto-approved)",
+  "18:51:25 POSTED instagram@Vinzap-Finds 11a2b137: 18117585371046753",
+  "18:51:29 POSTED facebook@Vinzap-Finds 11a2b137: 1428352113685678_122112961713501659",
+  "18:51:32 POSTED facebook@Vijayendra-Singh 11a2b137: 1317760538089559_122123550309480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793104260.586323,
-  "facebook@Vinzap-Finds": 1793104260.586323,
-  "facebook@Vijayendra-Singh": 1793104260.586323,
-  "youtube": 1793096161.4020438
+  "instagram@Vinzap-Finds": 1793107274.5438254,
+  "facebook@Vinzap-Finds": 1793107274.5438254,
+  "facebook@Vijayendra-Singh": 1793107274.5438254,
+  "youtube": 1793095741.4020438
  },
- "n": 189
+ "n": 190
 }
