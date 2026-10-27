@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "d25d48a7",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Glass Serving Tray 11 Inch Rectangular",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "Elegant clear glass tray",
-     "Rectangular 11 inch shape holds",
-     "High-quality glassware that looks"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Glass Serving Tray 11 Inch Rectangular | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Glass Serving Tray 11 Inch Rectangular"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGlass Serving Tray 11 Inch Rectangular\n✔ Elegant clear glass tray\n✔ Rectangular 11 inch shape holds\n✔ High-quality glassware that looks\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Glass Serving Tray 11 Inch Rectangular",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792773059.500613,
-     "id": "18340132840276866",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792773059.500613,
-     "id": "1428352113685678_122111554479501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792773059.500613,
-     "id": "1317760538089559_122122229961480728",
-     "dry": false
-    }
-   },
-   "created": 1792773057.1122768,
-   "after": 0,
-   "handle": "transparent-glass-serving-tray-11-inch-rectangular-basketweave-platter-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/transparent-glass-serving-tray-11-inch-rectangular-basketweave-platter-1-pc",
-   "file": "d25d48a7.jpg",
-   "thumb": "d25d48a7.jpg"
-  },
-  {
    "id": "147d66d2",
    "status": "scheduled",
    "kind": "reel",
@@ -5425,14 +5363,71 @@
      "id": "1852162389290738"
     }
    }
+  },
+  {
+   "id": "85cadb08",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Vacuum Insulated Water",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1499,
+    "was": 0,
+    "feats": [
+     "Double wall vacuum insulation",
+     "1000 ML large capacity ensures",
+     "Premium stainless steel"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Stainless Steel Vacuum Insulated Water | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Vacuum Insulated Water"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vacuum Insulated Water\n✔ Double wall vacuum insulation\n✔ 1000 ML large capacity ensures\n✔ Premium stainless steel\n\nOnly ₹1499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
+   "title": "Stainless Steel Vacuum Insulated Water",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": false,
+     "ts": 1793110553.7354288,
+     "error": "HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"A72MRPd8ysrcuwSwrCKIorb\"}}"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793110553.7354288,
+     "id": "1428352113685678_122112982629501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793110553.7354288,
+     "id": "1317760538089559_122123565999480728",
+     "dry": false
+    }
+   },
+   "created": 1793110551.038376,
+   "after": 0,
+   "handle": "stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
+   "file": "85cadb08.jpg",
+   "thumb": "85cadb08.jpg"
   }
  ],
- "last_post": 1793108768.156222,
+ "last_post": 1793110553.7354288,
  "log": [
-  "20:02:25 STORY POSTED instagram@Vinzap-Finds 62e05c4b",
-  "20:02:40 STORY POSTED facebook@Vinzap-Finds 62e05c4b",
-  "20:31:06 READY 984c38f0 Stainless Steel Double Wall Vacuum Water (auto-approved)",
-  "20:31:20 POSTED instagram@Vinzap-Finds 984c38f0: 18356905771175276",
   "20:31:24 POSTED facebook@Vinzap-Finds 984c38f0: 1428352113685678_122112279579501659",
   "20:31:27 POSTED facebook@Vijayendra-Singh 984c38f0: 1317760538089559_122122867005480728",
   "21:01:15 READY 6e0e8faa Reusable Plastic Champagne Flutes Wine | Trending Shorts (auto-approved)",
@@ -5628,13 +5623,17 @@
   "19:16:54 FAILED post facebook@Vijayendra-Singh dcb298c7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuewMtXXgdopsF5TvPz65eshQ4KxQLC70b3xTa_XRPQ-JjY4abmmXKqViDG7RwzKn4W4VzIEvZVCvXxcvE95-8PV_cPViP-6Kdmv6e2Pt-4AqdONqIHC8NA18rfW9EZDoz2g9RjPkGkd7VqKGp6vIdIbKogu7V1Zz2EBwNxbrN_m9NSPRQygTt5SqrfpgBAnEtjFLNOgDaSsqzcXQGh7v8DuSjOClvEoHvipbEf3R8MntcMFiMAUDVGtQE6ZyQnMFl1R6Y5kudF0AVZ3rQVDDIfHhWNiILAzcxAEnHOa44VTiDKgijHo3V3OsKsZG4635g\",\"help_cente",
   "19:17:00 POSTED youtube dcb298c7: QK2mkO3uOtU",
   "19:17:38 STORY POSTED instagram@Vinzap-Finds dcb298c7",
-  "19:17:48 STORY POSTED facebook@Vinzap-Finds dcb298c7"
+  "19:17:48 STORY POSTED facebook@Vinzap-Finds dcb298c7",
+  "19:45:53 READY 85cadb08 Stainless Steel Vacuum Insulated Water (auto-approved)",
+  "19:46:32 FAILED post instagram@Vinzap-Finds 85cadb08: HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"A72MRPd8ysrcuwSwrCKIorb\"}}",
+  "19:46:36 POSTED facebook@Vinzap-Finds 85cadb08: 1428352113685678_122112982629501659",
+  "19:46:41 POSTED facebook@Vijayendra-Singh 85cadb08: 1317760538089559_122123565999480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793108768.156222,
-  "facebook@Vinzap-Finds": 1793108768.156222,
-  "facebook@Vijayendra-Singh": 1793108768.156222,
+  "instagram@Vinzap-Finds": 1793110553.7354288,
+  "facebook@Vinzap-Finds": 1793110553.7354288,
+  "facebook@Vijayendra-Singh": 1793110553.7354288,
   "youtube": 1793108768.156222
  },
- "n": 191
+ "n": 192
 }
