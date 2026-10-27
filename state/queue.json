@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "503ffe2b",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Dual Sided Microfiber Cleaning Towel",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Dual-sided design — textured",
-     "Highly absorbent microfiber",
-     "Lint-free and streak-free"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Dual Sided Microfiber Cleaning Towel | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Dual Sided Microfiber Cleaning Towel"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDual Sided Microfiber Cleaning Towel\n✔ Dual-sided design — textured\n✔ Highly absorbent microfiber\n✔ Lint-free and streak-free\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#diwali #trendingshorts",
-   "title": "Dual Sided Microfiber Cleaning Towel",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792756863.0363088,
-     "id": "17872143762643501",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792756863.0363088,
-     "id": "1428352113685678_122111464881501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792756863.0363088,
-     "id": "1317760538089559_122122132197480728",
-     "dry": false
-    }
-   },
-   "created": 1792756860.2330842,
-   "after": 0,
-   "handle": "dual-sided-microfiber-cleaning-towel-for-kitchen-countertop-gas-stove-3-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/dual-sided-microfiber-cleaning-towel-for-kitchen-countertop-gas-stove-3-pc-set",
-   "file": "503ffe2b.jpg",
-   "thumb": "503ffe2b.jpg"
-  },
-  {
    "id": "daa4f750",
    "status": "posted",
    "kind": "reel",
@@ -5430,14 +5368,72 @@
      "id": "1730842855064203"
     }
    }
+  },
+  {
+   "id": "66158d68",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Supermom Creamy Dessert Bowl Set of 6",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1099,
+    "was": 0,
+    "feats": [
+     "Set of 6 Pieces: Perfect",
+     "Unbreakable Material: Made from",
+     "Crystal-Clear Finish: Transparent"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Supermom Creamy Dessert Bowl Set of 6 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Supermom Creamy Dessert Bowl Set of 6"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Creamy Dessert Bowl Set of 6\n✔ Set of 6 Pieces: Perfect\n✔ Unbreakable Material: Made from\n✔ Crystal-Clear Finish: Transparent\n\nOnly ₹1099. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Supermom Creamy Dessert Bowl Set of 6",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793094344.273686,
+     "id": "18107223722190139",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793094344.273686,
+     "id": "1428352113685678_122112907743501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793094344.273686,
+     "id": "1317760538089559_122123486961480728",
+     "dry": false
+    }
+   },
+   "created": 1793094341.6171849,
+   "after": 0,
+   "handle": "supermom-creamy-dessert-bowl-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/supermom-creamy-dessert-bowl-6-pc-set",
+   "file": "66158d68.jpg",
+   "thumb": "66158d68.jpg"
   }
  ],
- "last_post": 1793092586.4597208,
+ "last_post": 1793094344.273686,
  "log": [
-  "16:02:01 FAILED post facebook@Vijayendra-Singh 3c8ea193: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesfKCdSlM68GaKp5Q_RsxtP9wAkst_rgmtHRl4Yyb9oOvjnvk8tPAlmLZs7py1SHSP2AhkP92UOOAlFWisoZSvka-11PSQHIPuNH7DxF8PIGfZe0dlwCs1EVobW0kYQL6IwnTPcBtKoNyA9_4T8N0lBH0TvNZvG3GRWpLFjmqHyFDgODsfUedB8nXrrE7FvSuiqNeNZgbOuX2InBi8L3R-lKAVmO9bOUraCrkocsPB65Cg10CcXB6hrrG-X1vcyoYW-IerH7VBn-EnM0xLGXBpCieU5wMjq8VVZBgM2xSME4PGdGQoZm6BusWpFgkyYD4I\",\"help_cente",
-  "16:02:32 STORY POSTED instagram@Vinzap-Finds 3c8ea193",
-  "16:02:43 STORY POSTED facebook@Vinzap-Finds 3c8ea193",
-  "16:31:04 READY 6017ea8f 1 Litre Sports Sipper Water Bottle (auto-approved)",
   "16:31:19 POSTED instagram@Vinzap-Finds 6017ea8f: 17977603476138817",
   "16:31:24 POSTED facebook@Vinzap-Finds 6017ea8f: 1428352113685678_122112192981501659",
   "16:31:29 POSTED facebook@Vijayendra-Singh 6017ea8f: 1317760538089559_122122811055480728",
@@ -5633,13 +5629,17 @@
   "14:46:59 POSTED facebook@Vinzap-Finds d9af76a8: 2898442617198709",
   "14:47:00 FAILED post facebook@Vijayendra-Singh d9af76a8: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevFsa9aPDVomTsoJr41Ajfq0vHxr2vQBoVFR0G5HutpzYtaOGxW89YbxQQNWQoG8gJc--Qij5ctd5nS8CssSvZLrQ0A6r-gYtAJGpPpsvcmxUP7tb3lpPVvyFmxRKCB7HZg4wDYSoe2PMGadBZ6JuXFG3DiRp3tzTUeRxL6LbRg9v4tfFwFAD2mmtNTH1n1O5hmmfR_S6TVm3V_BEv-oG5LOqErY4J2BqlaWLsxnJfZFncbqS8y-wL-6PmCHI7gBhWlvvQt9fIJySHbnXRqZnXyWpkgef5KU-bk-1rlz5Ub6RNP_XrOTb546T5hlLDLWYmO\",\"help_cent",
   "14:47:28 STORY POSTED instagram@Vinzap-Finds d9af76a8",
-  "14:47:37 STORY POSTED facebook@Vinzap-Finds d9af76a8"
+  "14:47:37 STORY POSTED facebook@Vinzap-Finds d9af76a8",
+  "15:15:44 READY 66158d68 Supermom Creamy Dessert Bowl Set of 6 (auto-approved)",
+  "15:15:56 POSTED instagram@Vinzap-Finds 66158d68: 18107223722190139",
+  "15:15:59 POSTED facebook@Vinzap-Finds 66158d68: 1428352113685678_122112907743501659",
+  "15:16:03 POSTED facebook@Vijayendra-Singh 66158d68: 1317760538089559_122123486961480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793092586.4597208,
-  "facebook@Vinzap-Finds": 1793092586.4597208,
-  "facebook@Vijayendra-Singh": 1793092586.4597208,
-  "youtube": 1793084478.5205662
+  "instagram@Vinzap-Finds": 1793094344.273686,
+  "facebook@Vinzap-Finds": 1793094344.273686,
+  "facebook@Vijayendra-Singh": 1793094344.273686,
+  "youtube": 1793084058.5205662
  },
- "n": 183
+ "n": 184
 }
