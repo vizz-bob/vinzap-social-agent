@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "147d66d2",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Electric Glass Kettle 2 Litre",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 4999,
-    "was": 0,
-    "feats": [
-     "Large 2 litre capacity",
-     "Transparent glass body lets you",
-     "Stainless steel heating plate"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Electric Glass Kettle 2 Litre | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Glass Kettle 2 Litre"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Glass Kettle 2 Litre\n✔ Large 2 litre capacity\n✔ Transparent glass body lets you\n✔ Stainless steel heating plate\n\nOnly ₹4999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Electric Glass Kettle 2 Litre | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792774880.7654648,
-     "id": "18108759470251785",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792774880.7654648,
-     "id": "1820485369151762",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792774880.7654648,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AethTTan2cs2NIPz575qDLSc8G"
-    }
-   },
-   "created": 1792774861.7843273,
-   "after": 0,
-   "handle": "suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
-   "file": "147d66d2.mp4",
-   "thumb": "147d66d2_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18228746623330592"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2589052371579692"
-    }
-   }
-  },
-  {
    "id": "83dc8dba",
    "status": "posted",
    "kind": "image",
@@ -5424,16 +5352,82 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
    "file": "85cadb08.jpg",
    "thumb": "85cadb08.jpg"
+  },
+  {
+   "id": "e99fc182",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Cutlery Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 999,
+    "was": 0,
+    "feats": [
+     "Complete 24 piece dining set",
+     "Includes 6 dinner spoons",
+     "Includes 6 forks"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Stainless Steel Cutlery Set | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Cutlery Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Cutlery Set\n✔ Complete 24 piece dining set\n✔ Includes 6 dinner spoons\n✔ Includes 6 forks\n\nOnly ₹999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Stainless Steel Cutlery Set | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793113034.071122,
+     "id": "18286799674294111",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793113034.071122,
+     "id": "1098229712814142",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793113034.071122,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevyrKzMBgOvXMAJ4H5V-xaEOZ"
+    }
+   },
+   "created": 1793113012.7329903,
+   "after": 0,
+   "handle": "premium-stainless-steel-kitchen-plastic-handle-cutlery-set-with-tray-24-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-kitchen-plastic-handle-cutlery-set-with-tray-24-pc-set",
+   "file": "e99fc182.mp4",
+   "thumb": "e99fc182_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17897489673416073"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2919846205015149"
+    }
+   }
   }
  ],
- "last_post": 1793110553.7354288,
+ "last_post": 1793113034.071122,
  "log": [
-  "20:31:24 POSTED facebook@Vinzap-Finds 984c38f0: 1428352113685678_122112279579501659",
-  "20:31:27 POSTED facebook@Vijayendra-Singh 984c38f0: 1317760538089559_122122867005480728",
-  "21:01:15 READY 6e0e8faa Reusable Plastic Champagne Flutes Wine | Trending Shorts (auto-approved)",
-  "21:01:53 POSTED instagram@Vinzap-Finds 6e0e8faa: 18129545884873325",
-  "21:01:59 POSTED facebook@Vinzap-Finds 6e0e8faa: 2005917763406662",
-  "21:02:01 FAILED post facebook@Vijayendra-Singh 6e0e8faa: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpvEl-5HcUqHVjZlF4fbem7AVa9D8977c4cum-LQ4a9xb-OE7FnTfym0ORNkCzVMy7vpgbBeg2l9Cu1720lwERzMls_VsIt93NasZUWVA1gMJS2TR7btlhjuisPq0yuN3csqLaUi9zOhUjfwjcV3J0jVtY5-cOLaC5dsBiQI8sV_yEHpq78mv3MrYNu7H8KZSYDPLU4MGnmqQOoE-cCN7f2Qj7k0RxTaHCkP7KNlcIigTaBCggIuQ7OiFwUUCdvVDVxZXiF86q8L91IdrSCbONmP7NWsaTATujEPwVHLEvPRLHYzYy-7wpfcZHF77FqumO\",\"help_cent",
   "21:02:06 POSTED youtube 6e0e8faa: 283nxElTqOY",
   "21:02:39 STORY POSTED instagram@Vinzap-Finds 6e0e8faa",
   "21:02:49 STORY POSTED facebook@Vinzap-Finds 6e0e8faa",
@@ -5627,13 +5621,19 @@
   "19:45:53 READY 85cadb08 Stainless Steel Vacuum Insulated Water (auto-approved)",
   "19:46:32 FAILED post instagram@Vinzap-Finds 85cadb08: HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"A72MRPd8ysrcuwSwrCKIorb\"}}",
   "19:46:36 POSTED facebook@Vinzap-Finds 85cadb08: 1428352113685678_122112982629501659",
-  "19:46:41 POSTED facebook@Vijayendra-Singh 85cadb08: 1317760538089559_122123565999480728"
+  "19:46:41 POSTED facebook@Vijayendra-Singh 85cadb08: 1317760538089559_122123565999480728",
+  "20:27:14 READY e99fc182 Stainless Steel Cutlery Set | Trending Shorts (auto-approved)",
+  "20:27:50 POSTED instagram@Vinzap-Finds e99fc182: 18286799674294111",
+  "20:27:54 POSTED facebook@Vinzap-Finds e99fc182: 1098229712814142",
+  "20:27:56 FAILED post facebook@Vijayendra-Singh e99fc182: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevyrKzMBgOvXMAJ4H5V-xaEOZGBYCvw6GzAwtZkZ3q6fGt7o4xKSDB8ZeFW0nSBCHvBeSE8xUI2KvzFzsay9vIIP9YN9gVwO1xlF31ErZ0zfbCVqEslmVz4M8y3FCmZJm8zxrePVVEOzj3R-B5CJldaFzBJ9Ih46JmQsZ-5UYCMIp42HPMQW8HwPjt2DGKWGlRS-2f8fzH57kknj27pM14X10zvmq5xmsSv1XrDtMDO4Wltw2j27yf1crGb46oAZd5ODyKZ5ZbpDEBtfDjQYiof5y6_KiWWqpb9Uo4rWG24A0gkWscMCQz0XReRvSCTRMbR\",\"help_cent",
+  "20:28:32 STORY POSTED instagram@Vinzap-Finds e99fc182",
+  "20:28:43 STORY POSTED facebook@Vinzap-Finds e99fc182"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793110553.7354288,
-  "facebook@Vinzap-Finds": 1793110553.7354288,
-  "facebook@Vijayendra-Singh": 1793110553.7354288,
+  "instagram@Vinzap-Finds": 1793113034.071122,
+  "facebook@Vinzap-Finds": 1793113034.071122,
+  "facebook@Vijayendra-Singh": 1793113034.071122,
   "youtube": 1793108768.156222
  },
- "n": 192
+ "n": 193
 }
