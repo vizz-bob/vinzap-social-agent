@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "d549266d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Portable Plastic Kitchen Dustbin Hanging",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 609,
-    "was": 0,
-    "feats": [
-     "Compact portable dustbin",
-     "Hanging design suitable",
-     "Lid helps keep waste covered"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Portable Plastic Kitchen Dustbin Hanging | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Portable Plastic Kitchen Dustbin Hanging"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Plastic Kitchen Dustbin Hanging\n✔ Compact portable dustbin\n✔ Hanging design suitable\n✔ Lid helps keep waste covered\n\nOnly ₹609. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Portable Plastic Kitchen Dustbin Hanging | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792828875.0018063,
-     "id": "17909071101562018",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792828875.0018063,
-     "id": "1634766378303804",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792828875.0018063,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetaC6aGwwitWl6hgRthVIv5cS"
-    }
-   },
-   "created": 1792828853.857422,
-   "after": 0,
-   "handle": "portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
-   "product_url": "https://www.vinzapstore.in/products/portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
-   "file": "d549266d.mp4",
-   "thumb": "d549266d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17995799511069672"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2197466057861390"
-    }
-   }
-  },
-  {
    "id": "7345fc44",
    "status": "posted",
    "kind": "image",
@@ -5425,18 +5353,93 @@
    "product_url": "https://www.vinzapstore.in/products/triveni-kankavati-kumkum-holder-with-3-compartments-for-puja-and-tilak-1-pc",
    "file": "6891ee5c.jpg",
    "thumb": "6891ee5c.jpg"
+  },
+  {
+   "id": "88035b40",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Cute Cartoon Double Layer Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1999,
+    "was": 0,
+    "feats": [
+     "Double layer for separate food",
+     "Cartoon-themed look",
+     "Side locks and a carry handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Cute Cartoon Double Layer Lunch Box | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Cute Cartoon Double Layer Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCute Cartoon Double Layer Lunch Box\n✔ Double layer for separate food\n✔ Cartoon-themed look\n✔ Side locks and a carry handle\n\nOnly ₹1999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
+   "title": "Cute Cartoon Double Layer Lunch Box | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793120483.5952241,
+     "id": "18113369378334827",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793120483.5952241,
+     "id": "1776020530119507",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793120483.5952241,
+     "id": "1087186057441992",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793120483.5952241,
+     "id": "PUXjfJ87Au4",
+     "dry": false
+    }
+   },
+   "created": 1793120456.7980428,
+   "after": 0,
+   "handle": "cute-cartoon-double-layer-lunch-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/cute-cartoon-double-layer-lunch-box-1-pc",
+   "file": "88035b40.mp4",
+   "thumb": "88035b40_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17919108474463868"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1131607499320608"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1131688469275706"
+    }
+   }
   }
  ],
- "last_post": 1793118662.9921718,
+ "last_post": 1793120483.5952241,
  "log": [
-  "22:31:19 POSTED facebook@Vinzap-Finds 4139ee93: 1428352113685678_122112314715501659",
-  "22:31:23 POSTED facebook@Vijayendra-Singh 4139ee93: 1317760538089559_122122893585480728",
-  "12:01:10 READY f375a3f3 4-Tier Plastic Storage Trolley | Kitchen Organization (auto-approved)",
-  "12:01:40 POSTED instagram@Vinzap-Finds f375a3f3: 17974277724159997",
-  "12:01:46 POSTED facebook@Vinzap-Finds f375a3f3: 1462251870300816",
-  "12:01:48 FAILED post facebook@Vijayendra-Singh f375a3f3: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesG3lPRDEeqFJKrERKOWnKWcsZyxn5pTKGmjeKgVjUUi-E7ebBX6h96BXGi3ydO3L7XgHp5QjEYce_JaMMjFp3aRorv-a2iYlz34qtLEbfxtpIhzgBijA3GkNu0Psp8vi9gIJzYsT_WvsLNqPE9Hw6ZYYowFZrfj8Ooj7OrQd4vETkSPuWpvShK86jVXo1tzxPd3ttMi3Rkp73_K4I2iMKpzxOndQjnxLG8Y4Wd-BSNfe5BP1Mtb4mMhmGvGPgc6GHE9iWlPNh3ojmZENlJTPSySAGxv8Sdp2VgGyF8L_nFDIa-7Qz1mRfCCDFozKEWyHo\",\"help_cente",
-  "12:01:54 POSTED youtube f375a3f3: CsT98DYeRns",
-  "12:02:25 STORY POSTED instagram@Vinzap-Finds f375a3f3",
   "12:02:33 STORY POSTED facebook@Vinzap-Finds f375a3f3",
   "12:31:12 READY 17600148 Stackable Storage Container Set (auto-approved)",
   "12:31:24 POSTED instagram@Vinzap-Finds 17600148: 18101803262375384",
@@ -5628,13 +5631,21 @@
   "22:01:02 READY 6891ee5c Kankavati Kumkum Holder (auto-approved)",
   "22:01:14 POSTED instagram@Vinzap-Finds 6891ee5c: 17895042429438468",
   "22:01:19 POSTED facebook@Vinzap-Finds 6891ee5c: 1428352113685678_122113014909501659",
-  "22:01:23 POSTED facebook@Vijayendra-Singh 6891ee5c: 1317760538089559_122123615445480728"
+  "22:01:23 POSTED facebook@Vijayendra-Singh 6891ee5c: 1317760538089559_122123615445480728",
+  "22:31:23 READY 88035b40 Cute Cartoon Double Layer Lunch Box | Diwali (auto-approved)",
+  "22:31:54 POSTED instagram@Vinzap-Finds 88035b40: 18113369378334827",
+  "22:31:59 POSTED facebook@Vinzap-Finds 88035b40: 1776020530119507",
+  "22:32:03 POSTED facebook@Vijayendra-Singh 88035b40: 1087186057441992",
+  "22:32:09 POSTED youtube 88035b40: PUXjfJ87Au4",
+  "22:32:39 STORY POSTED instagram@Vinzap-Finds 88035b40",
+  "22:32:48 STORY POSTED facebook@Vinzap-Finds 88035b40",
+  "22:32:56 STORY POSTED facebook@Vijayendra-Singh 88035b40"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793118662.9921718,
-  "facebook@Vinzap-Finds": 1793118662.9921718,
-  "facebook@Vijayendra-Singh": 1793118662.9921718,
-  "youtube": 1793108348.156222
+  "instagram@Vinzap-Finds": 1793120483.5952241,
+  "facebook@Vinzap-Finds": 1793120483.5952241,
+  "facebook@Vijayendra-Singh": 1793120483.5952241,
+  "youtube": 1793120483.5952241
  },
- "n": 196
+ "n": 197
 }
