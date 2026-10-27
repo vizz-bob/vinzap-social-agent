@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "fae57d72",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Transparent Plastic Cup",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Transparent body lets you see",
-     "Comfortable side handle",
-     "Anti-slip grip band around"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Transparent Plastic Cup | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Transparent Plastic Cup"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Plastic Cup\n✔ Transparent body lets you see\n✔ Comfortable side handle\n✔ Anti-slip grip band around\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#diwali #trendingshorts",
-   "title": "Transparent Plastic Cup | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": false,
-     "ts": 1792771283.2434442,
-     "error": "HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792771283.2434442,
-     "id": "1138680568671220",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792771283.2434442,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesxHkiz6e9QqiIh9fJxx4bMlC"
-    }
-   },
-   "created": 1792771260.7331984,
-   "after": 0,
-   "handle": "transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
-   "file": "fae57d72.mp4",
-   "thumb": "fae57d72_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1641115950946244"
-    }
-   }
-  },
-  {
    "id": "d25d48a7",
    "status": "posted",
    "kind": "image",
@@ -5414,17 +5347,88 @@
    "product_url": "https://www.vinzapstore.in/products/fresca-stainless-steel-3-compartment-lunch-box-1-pc",
    "file": "11a2b137.jpg",
    "thumb": "11a2b137.jpg"
+  },
+  {
+   "id": "dcb298c7",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Reusable Plastic Spoon Set of 20",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Value pack of 20 spoons provides",
+     "Reusable and durable plastic is",
+     "Bright colour adds a fun"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Reusable Plastic Spoon Set of 20 | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Plastic Spoon Set of 20"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Plastic Spoon Set of 20\n✔ Value pack of 20 spoons provides\n✔ Reusable and durable plastic is\n✔ Bright colour adds a fun\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Reusable Plastic Spoon Set of 20 | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793108768.156222,
+     "id": "18131245516700748",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793108768.156222,
+     "id": "1456005276639519",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793108768.156222,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuewMtXXgdopsF5TvPz65eshQ"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793108768.156222,
+     "id": "QK2mkO3uOtU",
+     "dry": false
+    }
+   },
+   "created": 1793108741.3264349,
+   "after": 0,
+   "handle": "plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
+   "file": "dcb298c7.mp4",
+   "thumb": "dcb298c7_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18468052474142480"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1852162389290738"
+    }
+   }
   }
  ],
- "last_post": 1793107274.5438254,
+ "last_post": 1793108768.156222,
  "log": [
-  "19:31:01 POSTED instagram@Vinzap-Finds 4a74d0e6: 18124463281938804",
-  "19:31:04 POSTED facebook@Vinzap-Finds 4a74d0e6: 1428352113685678_122112254145501659",
-  "19:31:07 POSTED facebook@Vijayendra-Singh 4a74d0e6: 1317760538089559_122122854489480728",
-  "20:01:08 READY 62e05c4b 5-in-1 Stainless Steel Grater and Slicer | Home Decor (auto-approved)",
-  "20:01:40 POSTED instagram@Vinzap-Finds 62e05c4b: 18094874702184016",
-  "20:01:46 POSTED facebook@Vinzap-Finds 62e05c4b: 1661594102029609",
-  "20:01:47 FAILED post facebook@Vijayendra-Singh 62e05c4b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuT4BrF1midimKwFcHKfsDiaC0nqQOKbaL3WzsqA_LpWRZOjOyoWAoatRBeBvziWVuQHaU7BvlIiOC6NznS9__tnrQOd0YR_sLAvYu7risb17Kb8_gdxUSVX6Mb-EjfJpaCinKQ8Lu4Bb24iBRBtfDr4yt_P1FK1auSqGsHxvQr-8TFLWo43uQDElpK_3H05vGpL019MqcyZGb2a0bJxwkDN2-TwRAy-eMdf8nAqjlfEl4V-G6iwZGLp0juwcADVlgMxsKBVBA2CPZnTDxf1kW0YfFnSAMyU1p4QEIA2_OuXAg3BDEV4iuNyooNzN9OwSk\",\"help_cente",
   "20:02:25 STORY POSTED instagram@Vinzap-Finds 62e05c4b",
   "20:02:40 STORY POSTED facebook@Vinzap-Finds 62e05c4b",
   "20:31:06 READY 984c38f0 Stainless Steel Double Wall Vacuum Water (auto-approved)",
@@ -5617,13 +5621,20 @@
   "18:51:14 READY 11a2b137 Fresca Stainless Steel Lunch Box (auto-approved)",
   "18:51:25 POSTED instagram@Vinzap-Finds 11a2b137: 18117585371046753",
   "18:51:29 POSTED facebook@Vinzap-Finds 11a2b137: 1428352113685678_122112961713501659",
-  "18:51:32 POSTED facebook@Vijayendra-Singh 11a2b137: 1317760538089559_122123550309480728"
+  "18:51:32 POSTED facebook@Vijayendra-Singh 11a2b137: 1317760538089559_122123550309480728",
+  "19:16:08 READY dcb298c7 Reusable Plastic Spoon Set of 20 | Home Decor Ideas (auto-approved)",
+  "19:16:49 POSTED instagram@Vinzap-Finds dcb298c7: 18131245516700748",
+  "19:16:53 POSTED facebook@Vinzap-Finds dcb298c7: 1456005276639519",
+  "19:16:54 FAILED post facebook@Vijayendra-Singh dcb298c7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuewMtXXgdopsF5TvPz65eshQ4KxQLC70b3xTa_XRPQ-JjY4abmmXKqViDG7RwzKn4W4VzIEvZVCvXxcvE95-8PV_cPViP-6Kdmv6e2Pt-4AqdONqIHC8NA18rfW9EZDoz2g9RjPkGkd7VqKGp6vIdIbKogu7V1Zz2EBwNxbrN_m9NSPRQygTt5SqrfpgBAnEtjFLNOgDaSsqzcXQGh7v8DuSjOClvEoHvipbEf3R8MntcMFiMAUDVGtQE6ZyQnMFl1R6Y5kudF0AVZ3rQVDDIfHhWNiILAzcxAEnHOa44VTiDKgijHo3V3OsKsZG4635g\",\"help_cente",
+  "19:17:00 POSTED youtube dcb298c7: QK2mkO3uOtU",
+  "19:17:38 STORY POSTED instagram@Vinzap-Finds dcb298c7",
+  "19:17:48 STORY POSTED facebook@Vinzap-Finds dcb298c7"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793107274.5438254,
-  "facebook@Vinzap-Finds": 1793107274.5438254,
-  "facebook@Vijayendra-Singh": 1793107274.5438254,
-  "youtube": 1793095741.4020438
+  "instagram@Vinzap-Finds": 1793108768.156222,
+  "facebook@Vinzap-Finds": 1793108768.156222,
+  "facebook@Vijayendra-Singh": 1793108768.156222,
+  "youtube": 1793108768.156222
  },
- "n": 190
+ "n": 191
 }
