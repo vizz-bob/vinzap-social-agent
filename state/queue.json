@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "daa4f750",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Fish Scaler Scraper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Sharp serrated scraper removes",
-     "Attached lid acts as a scale",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Fish Scaler Scraper | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fish Scaler Scraper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFish Scaler Scraper\n✔ Sharp serrated scraper removes\n✔ Attached lid acts as a scale\n✔ Comfortable handle gives a firm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#trendingshorts #kitchengadgets",
-   "title": "Fish Scaler Scraper | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792758673.409134,
-     "id": "17960351820255176",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792758673.409134,
-     "id": "1815620673015846",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792758673.409134,
-     "id": "1875883337156178",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792758673.409134,
-     "id": "5GgHGlR2xGQ",
-     "dry": false
-    }
-   },
-   "created": 1792758647.0512576,
-   "after": 0,
-   "handle": "fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "file": "daa4f750.mp4",
-   "thumb": "daa4f750_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18412573822088073"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1424646455893324"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1121033647173484"
-    }
-   }
-  },
-  {
    "id": "534ddd6c",
    "status": "posted",
    "kind": "image",
@@ -5430,17 +5347,88 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-creamy-dessert-bowl-6-pc-set",
    "file": "66158d68.jpg",
    "thumb": "66158d68.jpg"
+  },
+  {
+   "id": "33486de0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Plastic Forks",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 89,
+    "was": 0,
+    "feats": [
+     "Bold Design: Bright",
+     "Strong Build: Durable plastic",
+     "Versatile Use: Great for pasta"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Disposable Plastic Forks | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Plastic Forks"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Plastic Forks\n✔ Bold Design: Bright\n✔ Strong Build: Durable plastic\n✔ Versatile Use: Great for pasta\n\nOnly ₹89. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Disposable Plastic Forks | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793096161.4020438,
+     "id": "18097694666422011",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793096161.4020438,
+     "id": "29393433746930230",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793096161.4020438,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesk-pjETQP2GaC_HoqAbecmWq"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793096161.4020438,
+     "id": "jJ_WEEBGwdY",
+     "dry": false
+    }
+   },
+   "created": 1793096135.4087777,
+   "after": 0,
+   "handle": "premium-disposable-plastic-forks-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/premium-disposable-plastic-forks-1-pc",
+   "file": "33486de0.mp4",
+   "thumb": "33486de0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17965335693235426"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4722455271368346"
+    }
+   }
   }
  ],
- "last_post": 1793094344.273686,
+ "last_post": 1793096161.4020438,
  "log": [
-  "16:31:19 POSTED instagram@Vinzap-Finds 6017ea8f: 17977603476138817",
-  "16:31:24 POSTED facebook@Vinzap-Finds 6017ea8f: 1428352113685678_122112192981501659",
-  "16:31:29 POSTED facebook@Vijayendra-Singh 6017ea8f: 1317760538089559_122122811055480728",
-  "17:01:19 READY 60ca7710 Lollipop Candy Maker Machine, Pink | Diwali (auto-approved)",
-  "17:01:55 POSTED instagram@Vinzap-Finds 60ca7710: 17989143864116714",
-  "17:02:00 POSTED facebook@Vinzap-Finds 60ca7710: 1630515508513362",
-  "17:02:03 FAILED post facebook@Vijayendra-Singh 60ca7710: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetcfBfe5vfmZupNJM2xMOAkeNgsbbdC93nfVVwCcJO2gQmcsJ_T-jNR2Ojtkwm93yOmwYOvdek2KQRAfcZXMWihCAvEQsA4Fy-KwUPBkPiiLNl4LB3d6THTzcijR4g_XFzTpFsIO6IFFQJei0NLxohur8K7IkFmYUlKFI22WZ3RDZIVS3PSMeJeMOwn0rRu9vRlplecDJtLFyK204rjfTAOMeMOcgg8Xdlav4R6l0Bf-aSjcu4PnKJfgVqVrrJsxT_fz_FXfsta-AXC86YdgGVBLNz02LFEpyW5_Ak-89jgVJIhkKfVz2O4hgljqPp0MPDd\",\"help_cent",
   "17:02:36 STORY POSTED instagram@Vinzap-Finds 60ca7710",
   "17:02:46 STORY POSTED facebook@Vinzap-Finds 60ca7710",
   "17:30:52 READY b0604c18 Wooden Spoon 160mm Set of 30 (auto-approved)",
@@ -5633,13 +5621,20 @@
   "15:15:44 READY 66158d68 Supermom Creamy Dessert Bowl Set of 6 (auto-approved)",
   "15:15:56 POSTED instagram@Vinzap-Finds 66158d68: 18107223722190139",
   "15:15:59 POSTED facebook@Vinzap-Finds 66158d68: 1428352113685678_122112907743501659",
-  "15:16:03 POSTED facebook@Vijayendra-Singh 66158d68: 1317760538089559_122123486961480728"
+  "15:16:03 POSTED facebook@Vijayendra-Singh 66158d68: 1317760538089559_122123486961480728",
+  "15:46:01 READY 33486de0 Disposable Plastic Forks | Diwali (auto-approved)",
+  "15:46:35 POSTED instagram@Vinzap-Finds 33486de0: 18097694666422011",
+  "15:46:40 POSTED facebook@Vinzap-Finds 33486de0: 29393433746930230",
+  "15:46:40 FAILED post facebook@Vijayendra-Singh 33486de0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesk-pjETQP2GaC_HoqAbecmWqCNaIveJKoZZJgiUADjTRMM5YHMoJVHsSI8jdBZcnp_IM6CgiRNDz7u-8elKKfKN83dppXql6wcJQ1TQ66cgEaeEGyPFX0dVzfgzYHcVNSA-EMxR4YM557kai6i9XkAuAITepZlW_SJwHFcbJwSavAV4y9sL7IaAEZRGE2xoPCdGJWd5POPIJnktl1FDbqdMXeJM-5khAtwDJk5cBQF7zcqflD5NVgTacU8vfqXm-gznH08XPf_2yYFcUJL3dPjJLeUM1KZ0Qij5AzR-0NAoh28lCOp0BEfzZCpUdDg_nA\",\"help_cente",
+  "15:46:44 POSTED youtube 33486de0: jJ_WEEBGwdY",
+  "15:47:16 STORY POSTED instagram@Vinzap-Finds 33486de0",
+  "15:47:25 STORY POSTED facebook@Vinzap-Finds 33486de0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793094344.273686,
-  "facebook@Vinzap-Finds": 1793094344.273686,
-  "facebook@Vijayendra-Singh": 1793094344.273686,
-  "youtube": 1793084058.5205662
+  "instagram@Vinzap-Finds": 1793096161.4020438,
+  "facebook@Vinzap-Finds": 1793096161.4020438,
+  "facebook@Vijayendra-Singh": 1793096161.4020438,
+  "youtube": 1793096161.4020438
  },
- "n": 184
+ "n": 185
 }
