@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "f04b7e0c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Manual Garlic Press Crusher",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Efficient garlic crushing",
-     "Ergonomic handle for comfortable",
-     "Manual press mechanism"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Manual Garlic Press Crusher | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Manual Garlic Press Crusher"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Garlic Press Crusher\n✔ Efficient garlic crushing\n✔ Ergonomic handle for comfortable\n✔ Manual press mechanism\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Manual Garlic Press Crusher | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792751469.6620812,
-     "id": "18166914619491062",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792751469.6620812,
-     "id": "1131178612703680",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792751469.6620812,
-     "id": "1644237204381486",
-     "dry": false
-    }
-   },
-   "created": 1792751443.976486,
-   "after": 0,
-   "handle": "manual-garlic-press-crusher-tool-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/manual-garlic-press-crusher-tool-1-pc",
-   "file": "f04b7e0c.mp4",
-   "thumb": "f04b7e0c_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18024261191715505"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4511803299084341"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1578881870221053"
-    }
-   }
-  },
-  {
    "id": "9d34f2d9",
    "status": "posted",
    "kind": "image",
@@ -5439,16 +5362,82 @@
    "product_url": "https://www.vinzapstore.in/products/large-capacity-leakproof-water-bottle-1-pc-1400ml-approx",
    "file": "a2ab0011.jpg",
    "thumb": "a2ab0011.jpg"
+  },
+  {
+   "id": "ff92e15d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Square Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Multiple compartments for making",
+     "Comes with lid to prevent spills",
+     "Easy release design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Square Ice Cube Tray | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Square Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSquare Ice Cube Tray\n✔ Multiple compartments for making\n✔ Comes with lid to prevent spills\n✔ Easy release design\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Square Ice Cube Tray | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793088968.9239695,
+     "id": "18374989243240323",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793088968.9239695,
+     "id": "1584233186344557",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793088968.9239695,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetT5lyAu_KuVX2Kq9VuTJjyQ0"
+    }
+   },
+   "created": 1793088941.285296,
+   "after": 0,
+   "handle": "multipurpose-square-ice-cube-tray-with-lid-1-pc-17x9-cm-8-grid",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-square-ice-cube-tray-with-lid-1-pc-17x9-cm-8-grid",
+   "file": "ff92e15d.mp4",
+   "thumb": "ff92e15d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17951226708329366"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1765573448342965"
+    }
+   }
   }
  ],
- "last_post": 1793087063.6392422,
+ "last_post": 1793088968.9239695,
  "log": [
-  "14:31:23 POSTED facebook@Vinzap-Finds 5fe99fbc: 1428352113685678_122112157917501659",
-  "14:31:27 POSTED facebook@Vijayendra-Singh 5fe99fbc: 1317760538089559_122122774785480728",
-  "15:01:23 READY 40c063dd USB Rechargeable Electric Water Dispenser | Trending Shorts (auto-approved)",
-  "15:01:56 POSTED instagram@Vinzap-Finds 40c063dd: 18150452725512818",
-  "15:02:02 POSTED facebook@Vinzap-Finds 40c063dd: 1661172032263519",
-  "15:02:03 FAILED post facebook@Vijayendra-Singh 40c063dd: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpU64AC_a-aw1TK_9dZ4MNgvxZ6nsp8YDu-LdglmBCP-Mp8XT4-GhQQu5jHWkQsn0nghvQ7Qalad0V1L5CbqcbGbWXHPAl5siSQG10oTB36WUQjBCw8o4mQidcvrEN4Dbtf6oRug4DsmHYDgzNiHHJeoXV_j6KieJhBYuWDcWybp7kv-oyAinYrcoVRyi2X5YT8JxQfF1-cLyjJDAbxNSPqPvjmOaBCquWbyAr_LQ2KLQCRYzbGfSNtr6euCv98dD7v27JNJxOPWXG5JASDSdPdMCl9jlUdekWqndGvhOpbtz_4OpxVv1ATWFe5ULrBVE\",\"help_cente",
   "15:02:07 POSTED youtube 40c063dd: ItfHTvJy_Y8",
   "15:02:41 STORY POSTED instagram@Vinzap-Finds 40c063dd",
   "15:02:50 STORY POSTED facebook@Vinzap-Finds 40c063dd",
@@ -5642,13 +5631,19 @@
   "13:14:23 READY a2ab0011 Large Capacity Leakproof Water Bottle 1400ml (auto-approved)",
   "13:14:41 POSTED instagram@Vinzap-Finds a2ab0011: 18113251177884344",
   "13:14:45 POSTED facebook@Vinzap-Finds a2ab0011: 1428352113685678_122112877077501659",
-  "13:14:50 POSTED facebook@Vijayendra-Singh a2ab0011: 1317760538089559_122123443545480728"
+  "13:14:50 POSTED facebook@Vijayendra-Singh a2ab0011: 1317760538089559_122123443545480728",
+  "13:46:08 READY ff92e15d Square Ice Cube Tray | Trending Shorts (auto-approved)",
+  "13:46:45 POSTED instagram@Vinzap-Finds ff92e15d: 18374989243240323",
+  "13:46:50 POSTED facebook@Vinzap-Finds ff92e15d: 1584233186344557",
+  "13:46:51 FAILED post facebook@Vijayendra-Singh ff92e15d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetT5lyAu_KuVX2Kq9VuTJjyQ0cNjxiZSKxZWNGJlQuL9Jgq43a6TDK8gNUvUNpWlgFgh51FNNHJ-AhQcKuCv2qU3lQuS38M_9rHMLhzXIO9EJjwljRaayC76ZnlHbdAeoh4pTIzCJAIfWwihF__Lqp8MoTyGLZ9PJBMsfUv3PI_KPwnh1zUxERHiqczamw4Epbvjsfh2UabtbnhlALUimq2qGpy7FyO145yfTtLmxtK-_0bnu6lqi6aLzS2YxcWzYA5VtouVL26OuqI9khS76Jh2r3hj6xY5WcfYJtWGT4PVgSNzx26Q0_XXe_r1hweNg\",\"help_center",
+  "13:47:22 STORY POSTED instagram@Vinzap-Finds ff92e15d",
+  "13:47:29 STORY POSTED facebook@Vinzap-Finds ff92e15d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793087063.6392422,
-  "facebook@Vinzap-Finds": 1793087063.6392422,
-  "facebook@Vijayendra-Singh": 1793087063.6392422,
+  "instagram@Vinzap-Finds": 1793088968.9239695,
+  "facebook@Vinzap-Finds": 1793088968.9239695,
+  "facebook@Vijayendra-Singh": 1793088968.9239695,
   "youtube": 1793084478.5205662
  },
- "n": 180
+ "n": 181
 }
