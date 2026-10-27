@@ -1,82 +1,6 @@
 {
  "items": [
   {
-   "id": "ae1c9159",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Leak Proof Sports Water Bottle 400ml BPA",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "6955 outdoor sport water bottle"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Leak Proof Sports Water Bottle 400ml BPA | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Leak Proof Sports Water Bottle 400ml BPA"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLeak Proof Sports Water Bottle 400ml BPA\n✔ 6955 outdoor sport water bottle\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
-   "title": "Leak Proof Sports Water Bottle 400ml BPA | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792767982.8422408,
-     "id": "18052947215810280",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792767982.8422408,
-     "id": "1841166690416915",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792767982.8422408,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu-fA0BA4ocODzg2_rIBtQC_s"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792767982.8422408,
-     "id": "pBF1qMP0pUM",
-     "dry": false
-    }
-   },
-   "created": 1792767956.9154096,
-   "after": 0,
-   "handle": "6955-outdoor-sport-water-bottle-400ml-leak-proof-bpa-free-for-travel-cold-and-hot-water-glass-water-bottle-with-daily-water-intake-for-gym-and-children-moq-100-pc",
-   "product_url": "https://www.vinzapstore.in/products/6955-outdoor-sport-water-bottle-400ml-leak-proof-bpa-free-for-travel-cold-and-hot-water-glass-water-bottle-with-daily-water-intake-for-gym-and-children-moq-100-pc",
-   "file": "ae1c9159.mp4",
-   "thumb": "ae1c9159_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18146324644583258"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1713543727006992"
-    }
-   }
-  },
-  {
    "id": "5ce5feaf",
    "status": "posted",
    "kind": "image",
@@ -5420,16 +5344,82 @@
    "product_url": "https://www.vinzapstore.in/products/fancy-shape-chalkboard-sticker-labels-with-marker-pen-jar-labels-1-set",
    "file": "1b9140d7.jpg",
    "thumb": "1b9140d7.jpg"
+  },
+  {
+   "id": "72617307",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Extra Large Leakproof Water Bottle 1700ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "Extra large 1700 ML capacity",
+     "Leakproof screw cap lid to avoid",
+     "Carry strap for easy handling"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Extra Large Leakproof Water Bottle 1700ml | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Extra Large Leakproof Water Bottle 1700ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nExtra Large Leakproof Water Bottle 1700ml\n✔ Extra large 1700 ML capacity\n✔ Leakproof screw cap lid to avoid\n✔ Carry strap for easy handling\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#cooking #homedecor",
+   "title": "Extra Large Leakproof Water Bottle 1700ml | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793104260.586323,
+     "id": "18119296847600038",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793104260.586323,
+     "id": "2200637173851050",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793104260.586323,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeti2vTRnpn99gb5owsry5e1i2"
+    }
+   },
+   "created": 1793104243.9253824,
+   "after": 0,
+   "handle": "extra-large-leakproof-water-bottle-1-pc-1700ml-approx",
+   "product_url": "https://www.vinzapstore.in/products/extra-large-leakproof-water-bottle-1-pc-1700ml-approx",
+   "file": "72617307.mp4",
+   "thumb": "72617307_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18115182850848737"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1569051658242506"
+    }
+   }
   }
  ],
- "last_post": 1793102468.389731,
+ "last_post": 1793104260.586323,
  "log": [
-  "18:30:58 POSTED instagram@Vinzap-Finds d0804ca3: 17999376269828887",
-  "18:31:01 POSTED facebook@Vinzap-Finds d0804ca3: 1428352113685678_122112230391501659",
-  "18:31:04 POSTED facebook@Vijayendra-Singh d0804ca3: 1317760538089559_122122836459480728",
-  "19:01:16 READY d0a046a0 Stainless Steel Dinner Spoon | Home Decor Ideas (auto-approved)",
-  "19:01:52 POSTED instagram@Vinzap-Finds d0a046a0: 18011924883003917",
-  "19:01:58 POSTED facebook@Vinzap-Finds d0a046a0: 1096356823016609",
   "19:02:00 FAILED post facebook@Vijayendra-Singh d0a046a0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevicHYHe-JJN-uUCx-LZ0Gyh_ITLMgi1Na3XwRL5Lxtic13wM9stBSOFFzwTLHu9CVeD6TVpw7jOzSxV-GxHFJKhxxQFln-KA0C4t3ggwAYZ1m3Zak5AbI0NYiYjjotuI0q924YUWqW3z_-7_qhUv4jLU_tJW4PkFR_U2xXCE7D7ZUX6gIrhJ2yBfF4x-0I3EI7mbDQ3kq8qd1DBZaLWm6PM3vY-CZX4bNoTLeiLpC5X0RNtE9Mc0vCRonl0Rmt61aGDcnuoP_vvD_6DMiELMVVJ6PCV1GJp8jtJJvGQMBVMLO4Qt3D3JxwSTtZLUtkLv5O\",\"help_cent",
   "19:02:33 STORY POSTED instagram@Vinzap-Finds d0a046a0",
   "19:02:42 STORY POSTED facebook@Vinzap-Finds d0a046a0",
@@ -5623,13 +5613,19 @@
   "17:31:08 READY 1b9140d7 Chalkboard Sticker Labels (auto-approved)",
   "17:31:15 POSTED instagram@Vinzap-Finds 1b9140d7: 18183065287438014",
   "17:31:18 POSTED facebook@Vinzap-Finds 1b9140d7: 1428352113685678_122112940479501659",
-  "17:31:21 POSTED facebook@Vijayendra-Singh 1b9140d7: 1317760538089559_122123527587480728"
+  "17:31:21 POSTED facebook@Vijayendra-Singh 1b9140d7: 1317760538089559_122123527587480728",
+  "18:01:00 READY 72617307 Extra Large Leakproof Water Bottle 1700ml | Cooking (auto-approved)",
+  "18:01:32 POSTED instagram@Vinzap-Finds 72617307: 18119296847600038",
+  "18:01:38 POSTED facebook@Vinzap-Finds 72617307: 2200637173851050",
+  "18:01:40 FAILED post facebook@Vijayendra-Singh 72617307: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeti2vTRnpn99gb5owsry5e1i2ja7aM8CxgYuecsTOE2MS_CBnAyHd9q5DMcOsJg8i3re0WBEPJLDq3--bKRBwwKdefZz1_9rDCC5COSqwNgr4up6qXQIA2mKNBN5Iw1Cgc_4LesVfJIRbdH7l4h577YYlF9QfXT9j_yGAjRjxJVOnfCH-G9XEJs_pivNoeLrj8CgMUBIyGvu5YxXrLoTFjSHiCEzJK2_60dFxulkA5K-fd_cUmHk1_CJz8DT4YaaKveHN5s2mEH3hjCdueNKBM2HZXCkjx9gQDSYEuUjCzrx6ibf6hAMni_AvlOvxRuYwA\",\"help_cente",
+  "18:02:13 STORY POSTED instagram@Vinzap-Finds 72617307",
+  "18:02:21 STORY POSTED facebook@Vinzap-Finds 72617307"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793102468.389731,
-  "facebook@Vinzap-Finds": 1793102468.389731,
-  "facebook@Vijayendra-Singh": 1793102468.389731,
+  "instagram@Vinzap-Finds": 1793104260.586323,
+  "facebook@Vinzap-Finds": 1793104260.586323,
+  "facebook@Vijayendra-Singh": 1793104260.586323,
   "youtube": 1793096161.4020438
  },
- "n": 188
+ "n": 189
 }
