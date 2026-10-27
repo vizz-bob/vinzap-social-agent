@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "17a8af5d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Chopping Board",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 409,
-    "was": 0,
-    "feats": [
-     "【 Material 】：The cutting board is",
-     "【 Advantage 】：Not easy to crack",
-     "【Maintenance】：The surface"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Stainless Steel Chopping Board | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Chopping Board"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Chopping Board\n✔ 【 Material 】：The cutting board is\n✔ 【 Advantage 】：Not easy to crack\n✔ 【Maintenance】：The surface\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Stainless Steel Chopping Board | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792762282.7615275,
-     "id": "18114232379129744",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792762282.7615275,
-     "id": "1925031908465854",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792762282.7615275,
-     "id": "39333772782934160",
-     "dry": false
-    }
-   },
-   "created": 1792762255.8465571,
-   "after": 0,
-   "handle": "stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
-   "file": "17a8af5d.mp4",
-   "thumb": "17a8af5d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18052448219604670"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2305517983603724"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1098578689756312"
-    }
-   }
-  },
-  {
    "id": "a365637f",
    "status": "posted",
    "kind": "image",
@@ -5425,16 +5348,82 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
    "file": "afad9b9b.jpg",
    "thumb": "afad9b9b.jpg"
+  },
+  {
+   "id": "ba8f2807",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Kitchen Dishwashing Glove",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Reusable design supports repeated",
+     "Mitten-style construction",
+     "Textured exterior supports secure"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Kitchen Dishwashing Glove | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kitchen Dishwashing Glove"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Dishwashing Glove\n✔ Reusable design supports repeated\n✔ Mitten-style construction\n✔ Textured exterior supports secure\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Kitchen Dishwashing Glove | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793100682.5391045,
+     "id": "18007507910791637",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793100682.5391045,
+     "id": "982600031562428",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793100682.5391045,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJTBbFiVS6Nl92wh8P54zcfI"
+    }
+   },
+   "created": 1793100655.5741727,
+   "after": 0,
+   "handle": "kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
+   "file": "ba8f2807.mp4",
+   "thumb": "ba8f2807_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18110908247179986"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1124347073419058"
+    }
+   }
   }
  ],
- "last_post": 1793099166.7241166,
+ "last_post": 1793100682.5391045,
  "log": [
-  "17:31:06 POSTED facebook@Vinzap-Finds b0604c18: 1428352113685678_122112211731501659",
-  "17:31:10 POSTED facebook@Vijayendra-Singh b0604c18: 1317760538089559_122122823073480728",
-  "18:01:10 READY 9f4b77b5 Disposable Plastic Fruit Fork | Trending Shorts (auto-approved)",
-  "18:01:41 POSTED instagram@Vinzap-Finds 9f4b77b5: 17879042910633104",
-  "18:01:47 POSTED facebook@Vinzap-Finds 9f4b77b5: 2321552782021393",
-  "18:01:47 FAILED post facebook@Vijayendra-Singh 9f4b77b5: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesKxx635tsA8EUCk0rYpCpOYlOB7xSZxvkbch1gI9WaMSUKiOJkSBY4_1h1s-08MkoLCuOpwAz1HGHDyZyEJ_jBjnu5b4TLh2sDbb3gpjC5q_yw6KUowcEdqxOlWw2i80Hy0bFzMnvQZkIMFoZv3Lsyl1_B6i1GftbNR5aOVX0kqaMkVxeH4sin3kMtgvRdEYzuUl4jdqjr-mnzwyBhnVtXtHwUsQCH0qle2ek_kaB3oZbqnMnFzMK1VhU0Tvmg10j4Yg_SeKiqR79gRKkUjrJlJ-XR7PBxjz2elgatiybtTEC41k7C5TxzX5dcxNnv51w\",\"help_cente",
   "18:01:51 POSTED youtube 9f4b77b5: 0WtI3Zz_2wo",
   "18:02:21 STORY POSTED instagram@Vinzap-Finds 9f4b77b5",
   "18:02:29 STORY POSTED facebook@Vinzap-Finds 9f4b77b5",
@@ -5628,13 +5617,19 @@
   "16:36:06 READY afad9b9b Ice Cube Tray (auto-approved)",
   "16:36:19 POSTED instagram@Vinzap-Finds afad9b9b: 18141029791713265",
   "16:36:23 POSTED facebook@Vinzap-Finds afad9b9b: 1428352113685678_122112928047501659",
-  "16:36:27 POSTED facebook@Vijayendra-Singh afad9b9b: 1317760538089559_122123508837480728"
+  "16:36:27 POSTED facebook@Vijayendra-Singh afad9b9b: 1317760538089559_122123508837480728",
+  "17:01:22 READY ba8f2807 Kitchen Dishwashing Glove | Diwali (auto-approved)",
+  "17:02:03 POSTED instagram@Vinzap-Finds ba8f2807: 18007507910791637",
+  "17:02:09 POSTED facebook@Vinzap-Finds ba8f2807: 982600031562428",
+  "17:02:10 FAILED post facebook@Vijayendra-Singh ba8f2807: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJTBbFiVS6Nl92wh8P54zcfIBTPyqC4VeQX-WSx3ZWZKb8elEme3JYjDtPcbizEIVx5TBd4k9LM8-hX2fIpmhHHKz5i62269PNCQieFlnKGt58PIaq71wUacV7UlFR_ZQAIOFHJEUbs-X67vfFK5qdzpfWoElfG4lbw1DG6IZgDeyFNvUOb7JeftSNph4TPwDpJvt1s-cV_K9jdgLG9jaFK7t1VzaI6Vw5Gf9EdQ2fle16wQZT8KeiV0hic0AnEnTmVA77EeoQ-FqAhFibxn84HVikPY71UovgVDksGkF3ecPnqtczffJIZIkt0aHxsakH\",\"help_cent",
+  "17:02:43 STORY POSTED instagram@Vinzap-Finds ba8f2807",
+  "17:02:53 STORY POSTED facebook@Vinzap-Finds ba8f2807"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793099166.7241166,
-  "facebook@Vinzap-Finds": 1793099166.7241166,
-  "facebook@Vijayendra-Singh": 1793099166.7241166,
+  "instagram@Vinzap-Finds": 1793100682.5391045,
+  "facebook@Vinzap-Finds": 1793100682.5391045,
+  "facebook@Vijayendra-Singh": 1793100682.5391045,
   "youtube": 1793096161.4020438
  },
- "n": 186
+ "n": 187
 }
