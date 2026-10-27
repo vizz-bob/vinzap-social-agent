@@ -1,82 +1,6 @@
 {
  "items": [
   {
-   "id": "a28d275a",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Snack Caddy Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 109,
-    "was": 0,
-    "feats": [
-     "3 in1 plastic trays hold enough",
-     "【Perfect Sofa Tray】Easily take"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Snack Caddy Tray | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Snack Caddy Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSnack Caddy Tray\n✔ 3 in1 plastic trays hold enough\n✔ 【Perfect Sofa Tray】Easily take\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Snack Caddy Tray | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792755069.4262109,
-     "id": "18110781461227672",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792755069.4262109,
-     "id": "1287093761163524",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792755069.4262109,
-     "id": "3908652659290143",
-     "dry": false
-    }
-   },
-   "created": 1792755053.3694723,
-   "after": 0,
-   "handle": "snack-caddy-tray-with-a-drink-cup-holder-the-ultimate-movie-night",
-   "product_url": "https://www.vinzapstore.in/products/snack-caddy-tray-with-a-drink-cup-holder-the-ultimate-movie-night",
-   "file": "a28d275a.mp4",
-   "thumb": "a28d275a_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18092847197279858"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1500652255218482"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1669487204572002"
-    }
-   }
-  },
-  {
    "id": "503ffe2b",
    "status": "posted",
    "kind": "image",
@@ -5434,16 +5358,82 @@
    "product_url": "https://www.vinzapstore.in/products/premium-900-ml-leak-proof-plastic-water-bottle",
    "file": "b064e0c1.jpg",
    "thumb": "b064e0c1.jpg"
+  },
+  {
+   "id": "d9af76a8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel BBQ Skewers",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Durable and reusable skewer design",
+     "Comfortable handles for easy grip",
+     "Ideal for grilling vegetables"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel BBQ Skewers | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel BBQ Skewers"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel BBQ Skewers\n✔ Durable and reusable skewer design\n✔ Comfortable handles for easy grip\n✔ Ideal for grilling vegetables\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel BBQ Skewers | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793092586.4597208,
+     "id": "18109618148610246",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793092586.4597208,
+     "id": "2898442617198709",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793092586.4597208,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevFsa9aPDVomTsoJr41Ajfq0v"
+    }
+   },
+   "created": 1793092559.7806752,
+   "after": 0,
+   "handle": "stainless-steel-bbq-skewers-with-wooden-handle-12-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-bbq-skewers-with-wooden-handle-12-pc",
+   "file": "d9af76a8.mp4",
+   "thumb": "d9af76a8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18152139511531358"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1730842855064203"
+    }
+   }
   }
  ],
- "last_post": 1793090747.3075688,
+ "last_post": 1793092586.4597208,
  "log": [
-  "15:31:02 POSTED instagram@Vinzap-Finds 930ca079: 17974031172160004",
-  "15:31:06 POSTED facebook@Vinzap-Finds 930ca079: 1428352113685678_122112175431501659",
-  "15:31:10 POSTED facebook@Vijayendra-Singh 930ca079: 1317760538089559_122122799025480728",
-  "16:01:20 READY 3c8ea193 Silicone Ice Cube Tray | Cooking (auto-approved)",
-  "16:01:55 POSTED instagram@Vinzap-Finds 3c8ea193: 18128079385893398",
-  "16:02:00 POSTED facebook@Vinzap-Finds 3c8ea193: 2096247690977624",
   "16:02:01 FAILED post facebook@Vijayendra-Singh 3c8ea193: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesfKCdSlM68GaKp5Q_RsxtP9wAkst_rgmtHRl4Yyb9oOvjnvk8tPAlmLZs7py1SHSP2AhkP92UOOAlFWisoZSvka-11PSQHIPuNH7DxF8PIGfZe0dlwCs1EVobW0kYQL6IwnTPcBtKoNyA9_4T8N0lBH0TvNZvG3GRWpLFjmqHyFDgODsfUedB8nXrrE7FvSuiqNeNZgbOuX2InBi8L3R-lKAVmO9bOUraCrkocsPB65Cg10CcXB6hrrG-X1vcyoYW-IerH7VBn-EnM0xLGXBpCieU5wMjq8VVZBgM2xSME4PGdGQoZm6BusWpFgkyYD4I\",\"help_cente",
   "16:02:32 STORY POSTED instagram@Vinzap-Finds 3c8ea193",
   "16:02:43 STORY POSTED facebook@Vinzap-Finds 3c8ea193",
@@ -5637,13 +5627,19 @@
   "14:15:47 READY b064e0c1 Leak Proof Plastic Water Bottle 900ml (auto-approved)",
   "14:15:56 POSTED instagram@Vinzap-Finds b064e0c1: 18104396126310756",
   "14:15:59 POSTED facebook@Vinzap-Finds b064e0c1: 1428352113685678_122112892227501659",
-  "14:16:02 POSTED facebook@Vijayendra-Singh b064e0c1: 1317760538089559_122123459193480728"
+  "14:16:02 POSTED facebook@Vijayendra-Singh b064e0c1: 1317760538089559_122123459193480728",
+  "14:46:26 READY d9af76a8 Stainless Steel BBQ Skewers | Home Decor (auto-approved)",
+  "14:46:53 POSTED instagram@Vinzap-Finds d9af76a8: 18109618148610246",
+  "14:46:59 POSTED facebook@Vinzap-Finds d9af76a8: 2898442617198709",
+  "14:47:00 FAILED post facebook@Vijayendra-Singh d9af76a8: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevFsa9aPDVomTsoJr41Ajfq0vHxr2vQBoVFR0G5HutpzYtaOGxW89YbxQQNWQoG8gJc--Qij5ctd5nS8CssSvZLrQ0A6r-gYtAJGpPpsvcmxUP7tb3lpPVvyFmxRKCB7HZg4wDYSoe2PMGadBZ6JuXFG3DiRp3tzTUeRxL6LbRg9v4tfFwFAD2mmtNTH1n1O5hmmfR_S6TVm3V_BEv-oG5LOqErY4J2BqlaWLsxnJfZFncbqS8y-wL-6PmCHI7gBhWlvvQt9fIJySHbnXRqZnXyWpkgef5KU-bk-1rlz5Ub6RNP_XrOTb546T5hlLDLWYmO\",\"help_cent",
+  "14:47:28 STORY POSTED instagram@Vinzap-Finds d9af76a8",
+  "14:47:37 STORY POSTED facebook@Vinzap-Finds d9af76a8"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793090747.3075688,
-  "facebook@Vinzap-Finds": 1793090747.3075688,
-  "facebook@Vijayendra-Singh": 1793090747.3075688,
+  "instagram@Vinzap-Finds": 1793092586.4597208,
+  "facebook@Vinzap-Finds": 1793092586.4597208,
+  "facebook@Vijayendra-Singh": 1793092586.4597208,
   "youtube": 1793084478.5205662
  },
- "n": 182
+ "n": 183
 }
