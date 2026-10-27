@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "5cd19e54",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Handheld Vegetable & Fruit Peeler",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Sharp peeling edge for smooth",
-     "Handheld design for better",
-     "Ergonomic handle for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Handheld Vegetable & Fruit Peeler | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Handheld Vegetable & Fruit Peeler"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nHandheld Vegetable & Fruit Peeler\n✔ Sharp peeling edge for smooth\n✔ Handheld design for better\n✔ Ergonomic handle for comfortable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Handheld Vegetable & Fruit Peeler | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792747875.9659722,
-     "id": "18104887958625507",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792747875.9659722,
-     "id": "2073097306743356",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792747875.9659722,
-     "id": "1655444392641662",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792747875.9659722,
-     "id": "4Ee3dgLA1L4",
-     "dry": false
-    }
-   },
-   "created": 1792747849.9904065,
-   "after": 0,
-   "handle": "handheld-vegetable-and-fruit-peeler-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/handheld-vegetable-and-fruit-peeler-1-pc",
-   "file": "5cd19e54.mp4",
-   "thumb": "5cd19e54_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17947387887358277"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1517702057072520"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1125511936902283"
-    }
-   }
-  },
-  {
    "id": "485e44ee",
    "status": "posted",
    "kind": "image",
@@ -5444,17 +5361,88 @@
    "product_url": "https://www.vinzapstore.in/products/vegnar-disposable-round-food-serving-plate-10-pc",
    "file": "58a7d530.jpg",
    "thumb": "58a7d530.jpg"
+  },
+  {
+   "id": "6cbe71a1",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Electric Oven 12 Litre 600W Mini OTG",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 5999,
+    "was": 0,
+    "feats": [
+     "Compact 12 litre capacity",
+     "600W heating for baking",
+     "Adjustable temperature control"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Oven 12 Litre 600W Mini OTG"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Oven 12 Litre 600W Mini OTG\n✔ Compact 12 litre capacity\n✔ 600W heating for baking\n✔ Adjustable temperature control\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793084478.5205662,
+     "id": "18119885362956616",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793084478.5205662,
+     "id": "1373480791528790",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793084478.5205662,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuRr7k2NJd5XH3EsxZSbvfe8K"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793084478.5205662,
+     "id": "_r8J7ihxGq8",
+     "dry": false
+    }
+   },
+   "created": 1793084451.534052,
+   "after": 0,
+   "handle": "electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
+   "file": "6cbe71a1.mp4",
+   "thumb": "6cbe71a1_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18128832115855993"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2301046327324993"
+    }
+   }
   }
  ],
- "last_post": 1793082649.476408,
+ "last_post": 1793084478.5205662,
  "log": [
-  "13:31:01 POSTED instagram@Vinzap-Finds a8e0eaf2: 18434161990183786",
-  "13:31:05 POSTED facebook@Vinzap-Finds a8e0eaf2: 1428352113685678_122112142425501659",
-  "13:31:11 POSTED facebook@Vijayendra-Singh a8e0eaf2: 1317760538089559_122122754613480728",
-  "14:01:19 READY cf1afa65 Disposable Clear Plastic Gloves Large | Kitchen Gadgets (auto-approved)",
-  "14:01:57 POSTED instagram@Vinzap-Finds cf1afa65: 18128744530851986",
-  "14:02:03 POSTED facebook@Vinzap-Finds cf1afa65: 1443818797714134",
-  "14:02:04 FAILED post facebook@Vijayendra-Singh cf1afa65: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevQSL4H5erbkCx6f8wU_fViHHI5WoCamKXMDr5_xVipC4sxR3nTOEzBpyOynij7hWvuQ_8TKQZWRz5zJ63iqvH5kJXz3I94asGpa2H4jyUTbudYB4P1WTuztdxKm99nV_wABhc2Z-OPLyT1heAWUfv_8LP6RO_iDSCI51Uk7Z_i62nZaKuvFp7tNvJS4lwniYfCUvaAzesQCjdvqKknqhtcjSRgExU4NFyJizeLVW8vTbMxwi3Bt1HDG9PiFwY07_EeolSEj0qyCGudzZMkbFLjSoNUeTgO65nPT6SBDTlLhNODYHuzIGxNepX1ZE4Pcd4\",\"help_cente",
   "14:02:35 STORY POSTED instagram@Vinzap-Finds cf1afa65",
   "14:02:45 STORY POSTED facebook@Vinzap-Finds cf1afa65",
   "14:31:03 READY 5fe99fbc Apex Flexi Stainless Steel Lunch Box (auto-approved)",
@@ -5647,13 +5635,20 @@
   "12:00:49 READY 58a7d530 Vegnar Disposable Round Serving Plates Pack (auto-approved)",
   "12:01:00 POSTED instagram@Vinzap-Finds 58a7d530: 18007313030790207",
   "12:01:04 POSTED facebook@Vinzap-Finds 58a7d530: 1428352113685678_122112859917501659",
-  "12:01:06 POSTED facebook@Vijayendra-Singh 58a7d530: 1317760538089559_122123431041480728"
+  "12:01:06 POSTED facebook@Vijayendra-Singh 58a7d530: 1317760538089559_122123431041480728",
+  "12:31:18 READY 6cbe71a1 Electric Oven 12 Litre 600W Mini OTG | Home Decor (auto-approved)",
+  "12:31:48 POSTED instagram@Vinzap-Finds 6cbe71a1: 18119885362956616",
+  "12:31:54 POSTED facebook@Vinzap-Finds 6cbe71a1: 1373480791528790",
+  "12:31:55 FAILED post facebook@Vijayendra-Singh 6cbe71a1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuRr7k2NJd5XH3EsxZSbvfe8KMR_sJiDBTRM9kTAoZbz6Err5uH5z2-DltKRXLQ2WRl9zsTmdZ7Szzdz93S0XXcDeQOXm25B0UCPO3gJQApG0PQkMb_Tb7scnik9UFLvvXDDFg4sp_nDExuJEO7cCbsOD-_clWFNqO6VK_4YNbjwKqlL33CiJ67maX0k5ng20MIMzB3C_XP9CmbzwyL-N1Ry-0N8zBCaiMerT6wNQB8-UN8jSbdoWPrSNc0GrfnF6UTayYXkchlkVY_3AwMyS_t5C17H6Bb245S_3zlK9rTESVIFzKeZ42G1Jp2QHlUYAs\",\"help_cente",
+  "12:32:00 POSTED youtube 6cbe71a1: _r8J7ihxGq8",
+  "12:32:28 STORY POSTED instagram@Vinzap-Finds 6cbe71a1",
+  "12:32:35 STORY POSTED facebook@Vinzap-Finds 6cbe71a1"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793082649.476408,
-  "facebook@Vinzap-Finds": 1793082649.476408,
-  "facebook@Vijayendra-Singh": 1793082649.476408,
-  "youtube": 1793030049.8839269
+  "instagram@Vinzap-Finds": 1793084478.5205662,
+  "facebook@Vinzap-Finds": 1793084478.5205662,
+  "facebook@Vijayendra-Singh": 1793084478.5205662,
+  "youtube": 1793084478.5205662
  },
- "n": 178
+ "n": 179
 }
