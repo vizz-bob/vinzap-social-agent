@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "7345fc44",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Manual Citrus Juicer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 259,
-    "was": 0,
-    "feats": [
-     "Manual Citrus Juicer :",
-     "Multipurpose Use : Suitable",
-     "Durable BPA-Free Plastic : Safe"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Apex Manual Citrus Juicer | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Manual Citrus Juicer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Manual Citrus Juicer\n✔ Manual Citrus Juicer :\n✔ Multipurpose Use : Suitable\n✔ Durable BPA-Free Plastic : Safe\n\nOnly ₹259. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Apex Manual Citrus Juicer",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792830649.7988296,
-     "id": "18194155738396303",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792830649.7988296,
-     "id": "1428352113685678_122111798397501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792830649.7988296,
-     "id": "1317760538089559_122122444755480728",
-     "dry": false
-    }
-   },
-   "created": 1792830647.5396738,
-   "after": 0,
-   "handle": "apex-manual-citrus-juicer",
-   "product_url": "https://www.vinzapstore.in/products/apex-manual-citrus-juicer",
-   "file": "7345fc44.jpg",
-   "thumb": "7345fc44.jpg"
-  },
-  {
    "id": "a80e993b",
    "status": "scheduled",
    "kind": "reel",
@@ -5436,14 +5374,72 @@
      "id": "1131688469275706"
     }
    }
+  },
+  {
+   "id": "c01ecf2a",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Citrus Juicer, Manual Hand",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 799,
+    "was": 0,
+    "feats": [
+     "Made of durable",
+     "Ridged reamer cone for quick",
+     "Built-in strainer to separate"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Stainless Steel Citrus Juicer, Manual Hand | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Citrus Juicer, Manual Hand"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Citrus Juicer, Manual Hand\n✔ Made of durable\n✔ Ridged reamer cone for quick\n✔ Built-in strainer to separate\n\nOnly ₹799. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Stainless Steel Citrus Juicer, Manual Hand",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793169047.9999776,
+     "id": "18094023689682995",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793169047.9999776,
+     "id": "1428352113685678_122113191111501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793169047.9999776,
+     "id": "1317760538089559_122123813925480728",
+     "dry": false
+    }
+   },
+   "created": 1793169045.256113,
+   "after": 0,
+   "handle": "stainless-steel-citrus-juicer-easy-manual-hand-press-for-fresh-juice",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-citrus-juicer-easy-manual-hand-press-for-fresh-juice",
+   "file": "c01ecf2a.jpg",
+   "thumb": "c01ecf2a.jpg"
   }
  ],
- "last_post": 1793120483.5952241,
+ "last_post": 1793169047.9999776,
  "log": [
-  "12:02:33 STORY POSTED facebook@Vinzap-Finds f375a3f3",
-  "12:31:12 READY 17600148 Stackable Storage Container Set (auto-approved)",
-  "12:31:24 POSTED instagram@Vinzap-Finds 17600148: 18101803262375384",
-  "12:31:27 POSTED facebook@Vinzap-Finds 17600148: 1428352113685678_122112515625501659",
   "12:31:30 POSTED facebook@Vijayendra-Singh 17600148: 1317760538089559_122123041323480728",
   "13:01:18 READY abbb661a Stainless Steel Egg Steamer Rack, Folding | Home Decor (auto-approved)",
   "13:01:46 POSTED instagram@Vinzap-Finds abbb661a: 17954480919315338",
@@ -5639,13 +5635,17 @@
   "22:32:09 POSTED youtube 88035b40: PUXjfJ87Au4",
   "22:32:39 STORY POSTED instagram@Vinzap-Finds 88035b40",
   "22:32:48 STORY POSTED facebook@Vinzap-Finds 88035b40",
-  "22:32:56 STORY POSTED facebook@Vijayendra-Singh 88035b40"
+  "22:32:56 STORY POSTED facebook@Vijayendra-Singh 88035b40",
+  "12:00:47 READY c01ecf2a Stainless Steel Citrus Juicer, Manual Hand (auto-approved)",
+  "12:01:01 POSTED instagram@Vinzap-Finds c01ecf2a: 18094023689682995",
+  "12:01:05 POSTED facebook@Vinzap-Finds c01ecf2a: 1428352113685678_122113191111501659",
+  "12:01:09 POSTED facebook@Vijayendra-Singh c01ecf2a: 1317760538089559_122123813925480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793120483.5952241,
-  "facebook@Vinzap-Finds": 1793120483.5952241,
-  "facebook@Vijayendra-Singh": 1793120483.5952241,
-  "youtube": 1793120483.5952241
+  "instagram@Vinzap-Finds": 1793169047.9999776,
+  "facebook@Vinzap-Finds": 1793169047.9999776,
+  "facebook@Vijayendra-Singh": 1793169047.9999776,
+  "youtube": 1793120063.5952241
  },
- "n": 197
+ "n": 198
 }
