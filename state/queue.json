@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "1bd6b06c",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Portable Electric Kettle 600ml Travel Water",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 5999,
-    "was": 0,
-    "feats": [
-     "Portable 600ml electric boiling",
-     "Multiple temperature settings (45",
-     "Heats water quickly for tea"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Portable Electric Kettle 600ml Travel Water | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Portable Electric Kettle 600ml Travel Water"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Electric Kettle 600ml Travel Water\n✔ Portable 600ml electric boiling\n✔ Multiple temperature settings (45\n✔ Heats water quickly for tea\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Portable Electric Kettle 600ml Travel Water",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792862867.5698361,
-     "id": "1317760538089559_122122571469480728",
-     "dry": false
-    }
-   },
-   "created": 1792862865.5695682,
-   "after": 0,
-   "handle": "portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
-   "file": "1bd6b06c.jpg",
-   "thumb": "1bd6b06c.jpg"
-  },
-  {
    "id": "7a36953f",
    "status": "scheduled",
    "kind": "reel",
@@ -5457,14 +5407,72 @@
      "id": "1604776504719652"
     }
    }
+  },
+  {
+   "id": "3e1cb633",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Masala Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "6 Compartment Design: Offers",
+     "Durable Plastic Construction:",
+     "Transparent Lid: Allows easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Masala Box | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Masala Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMasala Box\n✔ 6 Compartment Design: Offers\n✔ Durable Plastic Construction:\n✔ Transparent Lid: Allows easy\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
+   "title": "Masala Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793201455.0961292,
+     "id": "18090771263255797",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793201455.0961292,
+     "id": "1428352113685678_122113333779501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793201455.0961292,
+     "id": "1317760538089559_122123946279480728",
+     "dry": false
+    }
+   },
+   "created": 1793201451.7862837,
+   "after": 0,
+   "handle": "plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
+   "product_url": "https://www.vinzapstore.in/products/plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
+   "file": "3e1cb633.jpg",
+   "thumb": "3e1cb633.jpg"
   }
  ],
- "last_post": 1793199693.9604743,
+ "last_post": 1793201455.0961292,
  "log": [
-  "12:01:04 POSTED facebook@Vinzap-Finds 58a7d530: 1428352113685678_122112859917501659",
-  "12:01:06 POSTED facebook@Vijayendra-Singh 58a7d530: 1317760538089559_122123431041480728",
-  "12:31:18 READY 6cbe71a1 Electric Oven 12 Litre 600W Mini OTG | Home Decor (auto-approved)",
-  "12:31:48 POSTED instagram@Vinzap-Finds 6cbe71a1: 18119885362956616",
   "12:31:54 POSTED facebook@Vinzap-Finds 6cbe71a1: 1373480791528790",
   "12:31:55 FAILED post facebook@Vijayendra-Singh 6cbe71a1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuRr7k2NJd5XH3EsxZSbvfe8KMR_sJiDBTRM9kTAoZbz6Err5uH5z2-DltKRXLQ2WRl9zsTmdZ7Szzdz93S0XXcDeQOXm25B0UCPO3gJQApG0PQkMb_Tb7scnik9UFLvvXDDFg4sp_nDExuJEO7cCbsOD-_clWFNqO6VK_4YNbjwKqlL33CiJ67maX0k5ng20MIMzB3C_XP9CmbzwyL-N1Ry-0N8zBCaiMerT6wNQB8-UN8jSbdoWPrSNc0GrfnF6UTayYXkchlkVY_3AwMyS_t5C17H6Bb245S_3zlK9rTESVIFzKeZ42G1Jp2QHlUYAs\",\"help_cente",
   "12:32:00 POSTED youtube 6cbe71a1: _r8J7ihxGq8",
@@ -5660,13 +5668,17 @@
   "20:32:14 POSTED facebook@Vinzap-Finds 4053f2de: 1297192262523133",
   "20:32:18 POSTED facebook@Vijayendra-Singh 4053f2de: 1869951254007592",
   "20:32:26 STORY POSTED facebook@Vinzap-Finds 4053f2de",
-  "20:32:33 STORY POSTED facebook@Vijayendra-Singh 4053f2de"
+  "20:32:33 STORY POSTED facebook@Vijayendra-Singh 4053f2de",
+  "21:00:55 READY 3e1cb633 Masala Box (auto-approved)",
+  "21:01:09 POSTED instagram@Vinzap-Finds 3e1cb633: 18090771263255797",
+  "21:01:13 POSTED facebook@Vinzap-Finds 3e1cb633: 1428352113685678_122113333779501659",
+  "21:01:17 POSTED facebook@Vijayendra-Singh 3e1cb633: 1317760538089559_122123946279480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793199693.9604743,
-  "facebook@Vinzap-Finds": 1793199693.9604743,
-  "facebook@Vijayendra-Singh": 1793199693.9604743,
-  "youtube": 1793192494.1447694
+  "instagram@Vinzap-Finds": 1793201455.0961292,
+  "facebook@Vinzap-Finds": 1793201455.0961292,
+  "facebook@Vijayendra-Singh": 1793201455.0961292,
+  "youtube": 1793192074.1447694
  },
- "n": 215
+ "n": 216
 }
