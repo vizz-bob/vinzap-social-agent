@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "fc2e1f57",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Coconut Scraper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 579,
-    "was": 0,
-    "feats": [
-     "Stainless Steel Construction –",
-     "Vacuum Base for Stability –",
-     "Effortless Hand Operation –"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Coconut Scraper | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Coconut Scraper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Coconut Scraper\n✔ Stainless Steel Construction –\n✔ Vacuum Base for Stability –\n✔ Effortless Hand Operation –\n\nOnly ₹579. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Coconut Scraper | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792861293.5207036,
-     "id": "18120443705002028",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792861293.5207036,
-     "id": "2079374202783476",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792861293.5207036,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetIacCqfQA0cJFCheCUwZw_Hi"
-    }
-   },
-   "created": 1792861269.2485998,
-   "after": 0,
-   "handle": "supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
-   "file": "fc2e1f57.mp4",
-   "thumb": "fc2e1f57_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18016639886973267"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4699736666973804"
-    }
-   }
-  },
-  {
    "id": "1bd6b06c",
    "status": "scheduled",
    "kind": "image",
@@ -5457,16 +5385,82 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-2-in-1-cut-and-chop-board-with-knife-and-sharpener-1-set",
    "file": "0c62d446.jpg",
    "thumb": "0c62d446.jpg"
+  },
+  {
+   "id": "4053f2de",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Oval Chalkboard Sticker Labels",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Classic oval chalkboard style",
+     "Write",
+     "Strong self adhesive backing"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Oval Chalkboard Sticker Labels | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Oval Chalkboard Sticker Labels"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOval Chalkboard Sticker Labels\n✔ Classic oval chalkboard style\n✔ Write\n✔ Strong self adhesive backing\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Oval Chalkboard Sticker Labels | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": false,
+     "ts": 1793199693.9604743,
+     "error": "HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793199693.9604743,
+     "id": "1297192262523133",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793199693.9604743,
+     "id": "1869951254007592",
+     "dry": false
+    }
+   },
+   "created": 1793199671.89087,
+   "after": 0,
+   "handle": "oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
+   "product_url": "https://www.vinzapstore.in/products/oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
+   "file": "4053f2de.mp4",
+   "thumb": "4053f2de_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1117598331024208"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1604776504719652"
+    }
+   }
   }
  ],
- "last_post": 1793197860.3493006,
+ "last_post": 1793199693.9604743,
  "log": [
-  "22:31:56 POSTED facebook@Vinzap-Finds b1eba901: 1875985353562831",
-  "22:31:57 FAILED post facebook@Vijayendra-Singh b1eba901: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu_nFKs3S6R7101Hc_e5oMKsAoX7iPGPhiba34_u4AyDtkSa25hdRlOdpQPd5urwhISka1ovYm1P8lu0Q3e8RAim4HndrSegw4tHuZQnx8xsun0R1FsUuZ3vd7rfMIs0xhuS8V_NQ-e3ZowztaDzalWc4Vf9zr2cSIvDB6vcBal4vSrJKn3-b0aXn2_DnR-89LtnMiMtqHQ3Vv7OMR5HkvO7XOhi8jkRKGcJKjYEnLM_Rxq0keDZDFLuDrxQpoSDX0ichppDFqHGu389WPAallpD9IHG4_1-1NN61ccXY-zPSYSaer1HmjvTy2E951Qu0j1\",\"help_cent",
-  "22:32:25 STORY POSTED instagram@Vinzap-Finds b1eba901",
-  "22:32:33 STORY POSTED facebook@Vinzap-Finds b1eba901",
-  "12:00:49 READY 58a7d530 Vegnar Disposable Round Serving Plates Pack (auto-approved)",
-  "12:01:00 POSTED instagram@Vinzap-Finds 58a7d530: 18007313030790207",
   "12:01:04 POSTED facebook@Vinzap-Finds 58a7d530: 1428352113685678_122112859917501659",
   "12:01:06 POSTED facebook@Vijayendra-Singh 58a7d530: 1317760538089559_122123431041480728",
   "12:31:18 READY 6cbe71a1 Electric Oven 12 Litre 600W Mini OTG | Home Decor (auto-approved)",
@@ -5660,13 +5654,19 @@
   "20:01:00 READY 0c62d446 Steel 2-in-1 Cut and Chop Board (auto-approved)",
   "20:01:11 POSTED instagram@Vinzap-Finds 0c62d446: 17888246325528671",
   "20:01:15 POSTED facebook@Vinzap-Finds 0c62d446: 1428352113685678_122113316193501659",
-  "20:01:18 POSTED facebook@Vijayendra-Singh 0c62d446: 1317760538089559_122123933511480728"
+  "20:01:18 POSTED facebook@Vijayendra-Singh 0c62d446: 1317760538089559_122123933511480728",
+  "20:31:33 READY 4053f2de Oval Chalkboard Sticker Labels | Home Decor Ideas (auto-approved)",
+  "20:32:09 FAILED post instagram@Vinzap-Finds 4053f2de: HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
+  "20:32:14 POSTED facebook@Vinzap-Finds 4053f2de: 1297192262523133",
+  "20:32:18 POSTED facebook@Vijayendra-Singh 4053f2de: 1869951254007592",
+  "20:32:26 STORY POSTED facebook@Vinzap-Finds 4053f2de",
+  "20:32:33 STORY POSTED facebook@Vijayendra-Singh 4053f2de"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793197860.3493006,
-  "facebook@Vinzap-Finds": 1793197860.3493006,
-  "facebook@Vijayendra-Singh": 1793197860.3493006,
+  "instagram@Vinzap-Finds": 1793199693.9604743,
+  "facebook@Vinzap-Finds": 1793199693.9604743,
+  "facebook@Vijayendra-Singh": 1793199693.9604743,
   "youtube": 1793192494.1447694
  },
- "n": 214
+ "n": 215
 }
