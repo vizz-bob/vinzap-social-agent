@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "8311eb0e",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Steel Kids Dinosaur Lunch Box Bento Tiffin",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1299,
-    "was": 0,
-    "feats": [
-     "Removable stainless steel tray",
-     "Fun cartoon dinosaur design makes",
-     "Includes a spoon and a small"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Steel Kids Dinosaur Lunch Box Bento Tiffin | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Steel Kids Dinosaur Lunch Box Bento Tiffin"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSteel Kids Dinosaur Lunch Box Bento Tiffin\n✔ Removable stainless steel tray\n✔ Fun cartoon dinosaur design makes\n✔ Includes a spoon and a small\n\nOnly ₹1299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#homedecorideas #diwali",
-   "title": "Steel Kids Dinosaur Lunch Box Bento Tiffin | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792913475.3650947,
-     "id": "18096766649670719",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792913475.3650947,
-     "id": "1086587257525314",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792913475.3650947,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevDWy_EAxLrMkjhanGmSpK72_"
-    }
-   },
-   "created": 1792913453.579713,
-   "after": 0,
-   "handle": "steel-kids-dinosaur-lunch-box-bento-tiffin-with-steel-tray-spoon-sauce-cup-1-set",
-   "product_url": "https://www.vinzapstore.in/products/steel-kids-dinosaur-lunch-box-bento-tiffin-with-steel-tray-spoon-sauce-cup-1-set",
-   "file": "8311eb0e.mp4",
-   "thumb": "8311eb0e_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17952676092318332"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1128702376793068"
-    }
-   }
-  },
-  {
    "id": "a8e0eaf2",
    "status": "posted",
    "kind": "image",
@@ -5469,17 +5397,87 @@
    "product_url": "https://www.vinzapstore.in/products/apex-manual-citrus-juicer",
    "file": "87bcd560.jpg",
    "thumb": "87bcd560.jpg"
+  },
+  {
+   "id": "3754e635",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Premium Stainless Steel Soup Spoon Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 389,
+    "was": 0,
+    "feats": [
+     "Set of 6 premium stainless steel",
+     "Deep bowl design for easy",
+     "Polished mirror finish"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Apex Premium Stainless Steel Soup Spoon Set | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Premium Stainless Steel Soup Spoon Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Premium Stainless Steel Soup Spoon Set\n✔ Set of 6 premium stainless steel\n✔ Deep bowl design for easy\n✔ Polished mirror finish\n\nOnly ₹389. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Apex Premium Stainless Steel Soup Spoon Set | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793206897.79281,
+     "id": "17911648242310999",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793206897.79281,
+     "id": "994550256305895",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793206897.79281,
+     "id": "1644718237345172",
+     "dry": false
+    }
+   },
+   "created": 1793206870.6389384,
+   "after": 0,
+   "handle": "apex-premium-stainless-steel-soup-spoon-set-6-pieces",
+   "product_url": "https://www.vinzapstore.in/products/apex-premium-stainless-steel-soup-spoon-set-6-pieces",
+   "file": "3754e635.mp4",
+   "thumb": "3754e635_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18135018121786766"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1421212803457702"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1147217134936600"
+    }
+   }
   }
  ],
- "last_post": 1793205098.4457128,
+ "last_post": 1793206897.79281,
  "log": [
-  "13:46:50 POSTED facebook@Vinzap-Finds ff92e15d: 1584233186344557",
-  "13:46:51 FAILED post facebook@Vijayendra-Singh ff92e15d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetT5lyAu_KuVX2Kq9VuTJjyQ0cNjxiZSKxZWNGJlQuL9Jgq43a6TDK8gNUvUNpWlgFgh51FNNHJ-AhQcKuCv2qU3lQuS38M_9rHMLhzXIO9EJjwljRaayC76ZnlHbdAeoh4pTIzCJAIfWwihF__Lqp8MoTyGLZ9PJBMsfUv3PI_KPwnh1zUxERHiqczamw4Epbvjsfh2UabtbnhlALUimq2qGpy7FyO145yfTtLmxtK-_0bnu6lqi6aLzS2YxcWzYA5VtouVL26OuqI9khS76Jh2r3hj6xY5WcfYJtWGT4PVgSNzx26Q0_XXe_r1hweNg\",\"help_center",
-  "13:47:22 STORY POSTED instagram@Vinzap-Finds ff92e15d",
-  "13:47:29 STORY POSTED facebook@Vinzap-Finds ff92e15d",
-  "14:15:47 READY b064e0c1 Leak Proof Plastic Water Bottle 900ml (auto-approved)",
-  "14:15:56 POSTED instagram@Vinzap-Finds b064e0c1: 18104396126310756",
-  "14:15:59 POSTED facebook@Vinzap-Finds b064e0c1: 1428352113685678_122112892227501659",
   "14:16:02 POSTED facebook@Vijayendra-Singh b064e0c1: 1317760538089559_122123459193480728",
   "14:46:26 READY d9af76a8 Stainless Steel BBQ Skewers | Home Decor (auto-approved)",
   "14:46:53 POSTED instagram@Vinzap-Finds d9af76a8: 18109618148610246",
@@ -5672,13 +5670,20 @@
   "22:01:38 READY 87bcd560 Apex Manual Citrus Juicer (auto-approved)",
   "22:01:53 POSTED instagram@Vinzap-Finds 87bcd560: 18137075992634753",
   "22:01:57 POSTED facebook@Vinzap-Finds 87bcd560: 1428352113685678_122113350477501659",
-  "22:02:01 POSTED facebook@Vijayendra-Singh 87bcd560: 1317760538089559_122123956989480728"
+  "22:02:01 POSTED facebook@Vijayendra-Singh 87bcd560: 1317760538089559_122123956989480728",
+  "22:31:37 READY 3754e635 Apex Premium Stainless Steel Soup Spoon Set | Cooking (auto-approved)",
+  "22:32:13 POSTED instagram@Vinzap-Finds 3754e635: 17911648242310999",
+  "22:32:19 POSTED facebook@Vinzap-Finds 3754e635: 994550256305895",
+  "22:32:24 POSTED facebook@Vijayendra-Singh 3754e635: 1644718237345172",
+  "22:32:55 STORY POSTED instagram@Vinzap-Finds 3754e635",
+  "22:33:03 STORY POSTED facebook@Vinzap-Finds 3754e635",
+  "22:33:11 STORY POSTED facebook@Vijayendra-Singh 3754e635"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793205098.4457128,
-  "facebook@Vinzap-Finds": 1793205098.4457128,
-  "facebook@Vijayendra-Singh": 1793205098.4457128,
+  "instagram@Vinzap-Finds": 1793206897.79281,
+  "facebook@Vinzap-Finds": 1793206897.79281,
+  "facebook@Vijayendra-Singh": 1793206897.79281,
   "youtube": 1793203286.4817278
  },
- "n": 218
+ "n": 219
 }
