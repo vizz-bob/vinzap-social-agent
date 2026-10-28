@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "825bde2f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "2-in-1 Kitchen Bag Clip & Measuring Scoop",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Two tools in one",
-     "Spring loaded jaws grip packets",
-     "Rounded scoop cup lifts"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "2-in-1 Kitchen Bag Clip & Measuring Scoop"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Kitchen Bag Clip & Measuring Scoop\n✔ Two tools in one\n✔ Spring loaded jaws grip packets\n✔ Rounded scoop cup lifts\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792839733.390008,
-     "id": "18147298369576970",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792839733.390008,
-     "id": "1217536110780538",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792839733.390008,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesLOEXyPsT2Rv6GN6pt_MmiRI"
-    }
-   },
-   "created": 1792839706.0036545,
-   "after": 0,
-   "handle": "multipurpose-plastic-kitchen-clamp-2-in-1-measuring-scoop-bag-clip-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-kitchen-clamp-2-in-1-measuring-scoop-bag-clip-1-pc",
-   "file": "825bde2f.mp4",
-   "thumb": "825bde2f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17971825539161645"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1665785204996464"
-    }
-   }
-  },
-  {
    "id": "c80b3378",
    "status": "posted",
    "kind": "image",
@@ -5443,16 +5371,82 @@
    "product_url": "https://www.vinzapstore.in/products/suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
    "file": "6d68c058.jpg",
    "thumb": "6d68c058.jpg"
+  },
+  {
+   "id": "c8f5b952",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Portable Plastic Kitchen Dustbin Hanging",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 609,
+    "was": 0,
+    "feats": [
+     "Compact portable dustbin",
+     "Hanging design suitable",
+     "Lid helps keep waste covered"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Portable Plastic Kitchen Dustbin Hanging | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Portable Plastic Kitchen Dustbin Hanging"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Plastic Kitchen Dustbin Hanging\n✔ Compact portable dustbin\n✔ Hanging design suitable\n✔ Lid helps keep waste covered\n\nOnly ₹609. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Portable Plastic Kitchen Dustbin Hanging | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793178075.639149,
+     "id": "18173814289461654",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793178075.639149,
+     "id": "1665762425093646",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793178075.639149,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetSH0Qyd3iLhJy5eiEupV27WL"
+    }
+   },
+   "created": 1793178059.160793,
+   "after": 0,
+   "handle": "portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
+   "product_url": "https://www.vinzapstore.in/products/portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
+   "file": "c8f5b952.mp4",
+   "thumb": "c8f5b952_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18147703264568112"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1646821490455670"
+    }
+   }
   }
  ],
- "last_post": 1793176256.9791508,
+ "last_post": 1793178075.639149,
  "log": [
-  "15:45:59 READY e04873af Gas Stove Burner Stand, Stainless Steel Wok | Cooking (auto-approved)",
-  "15:46:40 POSTED instagram@Vinzap-Finds e04873af: 18183967630427662",
-  "15:46:45 POSTED facebook@Vinzap-Finds e04873af: 2347677505987281",
-  "15:46:46 FAILED post facebook@Vijayendra-Singh e04873af: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesofoNHp5qdM5mvCLwlC-BPq2591UETWRyD-KbS6XtbiPVTNucuyL6X8QCe58sWNUa9BIX0RETT6raQjmGkwBSf-U-zypkXwhX88VuL7OfrPkhM6kfyI_YXXECCbRBmqH-IsgsrweRg7u_rtlJta2iddp39TEDGCEmcHj84eZCjc_pAjOnlEhtVZ7S_e6EEUtZpUvA1URaldFnwhVSOjNMmT0fmpAfVAOx0NA4LGN3B-p6Fxm8FRijw-mYSyngLJaC1ue9qBVqlMf3VpifdZ92J0tHjPNkXC_NNdlOj7H4k0WVIhnI1bZ5fz6W4sFUo33k\",\"help_cente",
-  "15:47:21 STORY POSTED instagram@Vinzap-Finds e04873af",
-  "15:47:34 STORY POSTED facebook@Vinzap-Finds e04873af",
   "16:15:58 READY b854d694 Plastic Measuring Cups and Spoons Set (auto-approved)",
   "16:16:13 POSTED instagram@Vinzap-Finds b854d694: 17920838406242629",
   "16:16:17 POSTED facebook@Vinzap-Finds b854d694: 1428352113685678_122112569505501659",
@@ -5646,13 +5640,19 @@
   "14:00:56 READY 6d68c058 Electric Glass Kettle 2 Litre (auto-approved)",
   "14:01:09 POSTED instagram@Vinzap-Finds 6d68c058: 17944775799368119",
   "14:01:13 POSTED facebook@Vinzap-Finds 6d68c058: 1428352113685678_122113214877501659",
-  "14:01:17 POSTED facebook@Vijayendra-Singh 6d68c058: 1317760538089559_122123838699480728"
+  "14:01:17 POSTED facebook@Vijayendra-Singh 6d68c058: 1317760538089559_122123838699480728",
+  "14:31:15 READY c8f5b952 Portable Plastic Kitchen Dustbin Hanging | Diwali (auto-approved)",
+  "14:31:52 POSTED instagram@Vinzap-Finds c8f5b952: 18173814289461654",
+  "14:31:56 POSTED facebook@Vinzap-Finds c8f5b952: 1665762425093646",
+  "14:31:58 FAILED post facebook@Vijayendra-Singh c8f5b952: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetSH0Qyd3iLhJy5eiEupV27WLh2GSiuwkwFUV1vVvzRBF3zU6phWg6aEqACHRrH8hw8562jTGdrI-x9gRLE9hYo_8oQDMCAxztxpsxJx67LwmRFi1iLDw1MA_vagLSS65frsPiAy-FkDAY8qltX4EQ_NBcafpJ-HGh8exkkaHlJ1y-SqBEWv6PipfOcLpsVnzHTqYqRIYTfUv9uf9KNz5OVEDHQJDPZrrHVrm6Gk3lhjMJEhVw8YyGa2Cluap5UsbBlZEximsETGYTdw-F59S50OzKlPgKLzDyOWHxi2LlI4A5kJw2MvyDHqe6R5BKZ7lGV\",\"help_cent",
+  "14:32:29 STORY POSTED instagram@Vinzap-Finds c8f5b952",
+  "14:32:38 STORY POSTED facebook@Vinzap-Finds c8f5b952"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793176256.9791508,
-  "facebook@Vinzap-Finds": 1793176256.9791508,
-  "facebook@Vijayendra-Singh": 1793176256.9791508,
+  "instagram@Vinzap-Finds": 1793178075.639149,
+  "facebook@Vinzap-Finds": 1793178075.639149,
+  "facebook@Vijayendra-Singh": 1793178075.639149,
   "youtube": 1793170957.3413293
  },
- "n": 202
+ "n": 203
 }
