@@ -1,76 +1,6 @@
 {
  "items": [
   {
-   "id": "73b0c50d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Pav Bhaji Masher",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 109,
-    "was": 0,
-    "feats": [
-     "0064A Paubhaji Masher used in all"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Pav Bhaji Masher | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Pav Bhaji Masher"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPav Bhaji Masher\n✔ 0064A Paubhaji Masher used in all\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Pav Bhaji Masher | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792843282.550439,
-     "id": "17914234611285516",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792843282.550439,
-     "id": "1697380242018770",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792843282.550439,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6ujRjVf33ZIZ-1X7FRzmyQ"
-    }
-   },
-   "created": 1792843256.9440994,
-   "after": 0,
-   "handle": "0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
-   "product_url": "https://www.vinzapstore.in/products/0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
-   "file": "73b0c50d.mp4",
-   "thumb": "73b0c50d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18077992037485606"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1069274336151364"
-    }
-   }
-  },
-  {
    "id": "bc0bbe11",
    "status": "posted",
    "kind": "image",
@@ -5443,17 +5373,88 @@
    "product_url": "https://www.vinzapstore.in/products/wall-mounted-stainless-steel-cup-mug-holder-rack-25-x-25-cm-1-pc",
    "file": "3c628aba.jpg",
    "thumb": "3c628aba.jpg"
+  },
+  {
+   "id": "7c4789e5",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3-in-1 Kitchen Cleaning Combo Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "3 in 1 kitchen cleaning combo set",
+     "Includes scrub pad",
+     "Helps clean utensils"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "3-in-1 Kitchen Cleaning Combo Set | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3-in-1 Kitchen Cleaning Combo Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3-in-1 Kitchen Cleaning Combo Set\n✔ 3 in 1 kitchen cleaning combo set\n✔ Includes scrub pad\n✔ Helps clean utensils\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
+   "title": "3-in-1 Kitchen Cleaning Combo Set | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793181719.8721268,
+     "id": "17906309601353659",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793181719.8721268,
+     "id": "1438745704347184",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793181719.8721268,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4OUwnhNivSGA4SsNwzmEPt1"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793181719.8721268,
+     "id": "J4LeEmCL-E4",
+     "dry": false
+    }
+   },
+   "created": 1793181703.8459845,
+   "after": 0,
+   "handle": "3-in-1-kitchen-cleaning-combo-set",
+   "product_url": "https://www.vinzapstore.in/products/3-in-1-kitchen-cleaning-combo-set",
+   "file": "7c4789e5.mp4",
+   "thumb": "7c4789e5_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18117266630104850"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1880054320024580"
+    }
+   }
   }
  ],
- "last_post": 1793179850.4237342,
+ "last_post": 1793181719.8721268,
  "log": [
-  "16:46:14 READY e1ae6691 Wall Mount WiFi Router Holder Box Organizer | Home Decor (auto-approved)",
-  "16:46:48 POSTED instagram@Vinzap-Finds e1ae6691: 18191893492409039",
-  "16:46:54 POSTED facebook@Vinzap-Finds e1ae6691: 1162161246167501",
-  "16:46:56 FAILED post facebook@Vijayendra-Singh e1ae6691: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetci-VddbGhyMn6FVW04gwimT4Zu_bQ2t3hpOZdj1JrhyyjIUCd7F_5rBKB4NbcM9mQ2M3GkzBPzAGwRqUglu3m-i3-QGbYKrSmlkhbr_gszrrirnS491-9rFKIr6yQe88xkFFUIDquXBBxoIJXvbhc7Um9AxWbjt1_ouGJYUi02ZURu7xRIzlK1qUK0fWxVZhNvF5HHOHx03AO3JS2qOeYYCkZk-QPFchNI8exnxle92A8v2jRRYlvn0YD9RUcqhUmDjvRCTXIT6TzaI1XvQ2mBDb2TfAeG0Qwp9tceQ8bEHp16U-8ncoNWqme7nvbI9A\",\"help_cente",
-  "16:47:27 STORY POSTED instagram@Vinzap-Finds e1ae6691",
-  "16:47:37 STORY POSTED facebook@Vinzap-Finds e1ae6691",
-  "17:32:46 READY d86ef8c9 Square Ice Cube Mould Set of 4 (auto-approved)",
   "17:33:00 POSTED instagram@Vinzap-Finds d86ef8c9: 17944335171091678",
   "17:33:03 POSTED facebook@Vinzap-Finds d86ef8c9: 1428352113685678_122112590547501659",
   "17:33:06 POSTED facebook@Vijayendra-Singh d86ef8c9: 1317760538089559_122123111319480728",
@@ -5646,13 +5647,20 @@
   "15:00:50 READY 3c628aba Wall Mounted Stainless Steel Cup and Mug (auto-approved)",
   "15:01:05 POSTED instagram@Vinzap-Finds 3c628aba: 18105001910566657",
   "15:01:09 POSTED facebook@Vinzap-Finds 3c628aba: 1428352113685678_122113230171501659",
-  "15:01:13 POSTED facebook@Vijayendra-Singh 3c628aba: 1317760538089559_122123852973480728"
+  "15:01:13 POSTED facebook@Vijayendra-Singh 3c628aba: 1317760538089559_122123852973480728",
+  "15:31:59 READY 7c4789e5 3-in-1 Kitchen Cleaning Combo Set | Home Decor (auto-approved)",
+  "15:32:39 POSTED instagram@Vinzap-Finds 7c4789e5: 17906309601353659",
+  "15:32:44 POSTED facebook@Vinzap-Finds 7c4789e5: 1438745704347184",
+  "15:32:45 FAILED post facebook@Vijayendra-Singh 7c4789e5: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4OUwnhNivSGA4SsNwzmEPt1Dmk3DzjE9klDk1393pMuekm_3MX_ji6TxR_9vVBtZHiThpVRuttX4Qktt0uZgQaR6F_b9HbaER7lpYiMwrcJNzneytgL_8WoYVE90H7Uv3_GAtJZLSuVsBF3Fc2kiY3ePQzvlXjyqomsPIE-1KSjhgn7UApVsMOZGq1oJdd5EZrMCxdJU9HQbjUuPhakbhFelWLbHhGrA6_y11EKTU-FtmaX4t-4f60rG_k_MTm7DxG4a3F87GpnVUpWIOFfhnRApry9D52VAo9MNJHO2PrpW3VazG5UlGw3G7omCh1Q\",\"help_center",
+  "15:32:51 POSTED youtube 7c4789e5: J4LeEmCL-E4",
+  "15:33:25 STORY POSTED instagram@Vinzap-Finds 7c4789e5",
+  "15:33:36 STORY POSTED facebook@Vinzap-Finds 7c4789e5"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793179850.4237342,
-  "facebook@Vinzap-Finds": 1793179850.4237342,
-  "facebook@Vijayendra-Singh": 1793179850.4237342,
-  "youtube": 1793170537.3413293
+  "instagram@Vinzap-Finds": 1793181719.8721268,
+  "facebook@Vinzap-Finds": 1793181719.8721268,
+  "facebook@Vijayendra-Singh": 1793181719.8721268,
+  "youtube": 1793181719.8721268
  },
- "n": 204
+ "n": 205
 }
