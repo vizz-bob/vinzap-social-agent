@@ -1,82 +1,6 @@
 {
  "items": [
   {
-   "id": "fdf6a432",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Large Stainless Steel Chopping Board",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 469,
-    "was": 0,
-    "feats": [
-     "Large Stainless Steel Chopping"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Large Stainless Steel Chopping Board | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Large Stainless Steel Chopping Board"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLarge Stainless Steel Chopping Board\n✔ Large Stainless Steel Chopping\n\nOnly ₹469. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Large Stainless Steel Chopping Board | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792836075.5375214,
-     "id": "17961580257236648",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792836075.5375214,
-     "id": "29457826033823715",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792836075.5375214,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesj87IUi-qcsjzyMWBLInivm-"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792836075.5375214,
-     "id": "N8Tbng32whk",
-     "dry": false
-    }
-   },
-   "created": 1792836054.1971922,
-   "after": 0,
-   "handle": "large-stainless-steel-chopping-cutting-board-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/large-stainless-steel-chopping-cutting-board-1-pc",
-   "file": "fdf6a432.mp4",
-   "thumb": "fdf6a432_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18113150882595928"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1151843604046753"
-    }
-   }
-  },
-  {
    "id": "3a23bb4d",
    "status": "posted",
    "kind": "image",
@@ -5447,16 +5371,82 @@
    "product_url": "https://www.vinzapstore.in/products/apex-3-piece-stainless-steel-kitchen-knife-and-peeler-set",
    "file": "64e763c9.jpg",
    "thumb": "64e763c9.jpg"
+  },
+  {
+   "id": "82d6645a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Reusable Airtight Mason Jar Zipper Pouch",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 45.86,
+    "was": 0,
+    "feats": [
+     "The unique appearance design",
+     "Realistic Mason jar shape design",
+     "They are lightweight and easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Airtight Mason Jar Zipper Pouch"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Airtight Mason Jar Zipper Pouch\n✔ The unique appearance design\n✔ Realistic Mason jar shape design\n✔ They are lightweight and easy\n\nOnly ₹45.86. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecorideas #diwali",
+   "title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793174571.5133796,
+     "id": "18114693167175428",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793174571.5133796,
+     "id": "1355917404280469",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793174571.5133796,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesC5gpHQ02w9XJ5eMar-s4IrJ"
+    }
+   },
+   "created": 1793174552.4798281,
+   "after": 0,
+   "handle": "1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
+   "product_url": "https://www.vinzapstore.in/products/1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
+   "file": "82d6645a.mp4",
+   "thumb": "82d6645a_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18052017071810293"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1149997737477813"
+    }
+   }
   }
  ],
- "last_post": 1793172647.4102437,
+ "last_post": 1793174571.5133796,
  "log": [
-  "14:42:31 POSTED instagram@Vinzap-Finds de327591: 18451551589127690",
-  "14:42:35 POSTED facebook@Vinzap-Finds de327591: 1605589707339638",
-  "14:42:36 FAILED post facebook@Vijayendra-Singh de327591: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeugjFFAEyQFfvov4a94VNTsDQnBASyS7BheaEiHDNyAWrAJFv1r1zx3MNnCAOmB3kKxpE3G8qtY7CAsDOxQGCGvQd3XSPodjLx05e-UhTURZo4KJMsfX5aoKxVi7o7HDkMvpWIyz6_cfLYndJ53Y9U-bOzdtRkbba2vYRm23PvnB_gNOrqKpXtctJesr24FjovLl1cs4qKn8w3E3FwbqrP_ReiypJbcGHwjRJzlPmmSyPGGtmZkXhzqr7GOFDggnWGndiQrce7vk-72q-3QtR2e-wZmewskjUqBXMPQf1pjWnJTXHUBDkbs_XCs_4r-etWA\",\"help_cent",
-  "14:42:41 POSTED youtube de327591: iTRVjvRCKzI",
-  "14:43:11 STORY POSTED instagram@Vinzap-Finds de327591",
-  "14:43:19 STORY POSTED facebook@Vinzap-Finds de327591",
   "15:16:02 READY 58b9b324 Konvex Duo Grater (auto-approved)",
   "15:16:14 POSTED instagram@Vinzap-Finds 58b9b324: 17997776669834755",
   "15:16:17 POSTED facebook@Vinzap-Finds 58b9b324: 1428352113685678_122112554451501659",
@@ -5650,13 +5640,19 @@
   "13:00:47 READY 64e763c9 Stainless Steel Kitchen Knife and Peeler Set (auto-approved)",
   "13:01:02 POSTED instagram@Vinzap-Finds 64e763c9: 18061793237573888",
   "13:01:05 POSTED facebook@Vinzap-Finds 64e763c9: 1428352113685678_122113201857501659",
-  "13:01:09 POSTED facebook@Vijayendra-Singh 64e763c9: 1317760538089559_122123824749480728"
+  "13:01:09 POSTED facebook@Vijayendra-Singh 64e763c9: 1317760538089559_122123824749480728",
+  "13:32:51 READY 82d6645a Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas (auto-approved)",
+  "13:33:27 POSTED instagram@Vinzap-Finds 82d6645a: 18114693167175428",
+  "13:33:31 POSTED facebook@Vinzap-Finds 82d6645a: 1355917404280469",
+  "13:33:33 FAILED post facebook@Vijayendra-Singh 82d6645a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesC5gpHQ02w9XJ5eMar-s4IrJ5uW_5tWkhTx8uZxLIzM8hUqdlScIUqw-LH-wWpo97c5QDZctVjOxsx1DbpSQ1o_r5FpBIw7kUdkZDj3Q7ts4lyRtehI6AqYZ3K6DAY3CZEMgVU7IxuaSsxA_mtQNayamjOS6SpF-MGvO7rIja-JAghUD-h4xacc0KutULWBXxdIHTpcTPGpoSR_luCtIxlf-EQIGk6D200yA0gj0_lAm0R8VOQNu55fv0Tea9gZk10jKMu7GXY0fMTy3SH8VdRSZrFGGmbMZUtzmJroIvzI6AssnswXLsmZ3OZGzKwVHc\",\"help_cente",
+  "13:34:02 STORY POSTED instagram@Vinzap-Finds 82d6645a",
+  "13:34:10 STORY POSTED facebook@Vinzap-Finds 82d6645a"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793172647.4102437,
-  "facebook@Vinzap-Finds": 1793172647.4102437,
-  "facebook@Vijayendra-Singh": 1793172647.4102437,
+  "instagram@Vinzap-Finds": 1793174571.5133796,
+  "facebook@Vinzap-Finds": 1793174571.5133796,
+  "facebook@Vijayendra-Singh": 1793174571.5133796,
   "youtube": 1793170957.3413293
  },
- "n": 200
+ "n": 201
 }
