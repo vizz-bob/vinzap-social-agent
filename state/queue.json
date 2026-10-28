@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "78841181",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Ice Cube Tray 24 Cavity Multicolour",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 291,
-    "was": 0,
-    "feats": [
-     "The trays are made of lightweight",
-     "Easy to use",
-     "Convenient storage"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Ice Cube Tray 24 Cavity Multicolour"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Tray 24 Cavity Multicolour\n✔ The trays are made of lightweight\n✔ Easy to use\n✔ Convenient storage\n\nOnly ₹291. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792850463.7816637,
-     "id": "18139511833628967",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792850463.7816637,
-     "id": "2660958464366316",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792850463.7816637,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetclmmpjbdKWrXtbc1WFhGfBd"
-    }
-   },
-   "created": 1792850449.2908683,
-   "after": 0,
-   "handle": "1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
-   "product_url": "https://www.vinzapstore.in/products/1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
-   "file": "78841181.mp4",
-   "thumb": "78841181_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18014817173974124"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1089147217285228"
-    }
-   }
-  },
-  {
    "id": "7958b08a",
    "status": "posted",
    "kind": "image",
@@ -5447,16 +5375,82 @@
    "product_url": "https://www.vinzapstore.in/products/black-coffee-mug",
    "file": "9d369ce6.jpg",
    "thumb": "9d369ce6.jpg"
+  },
+  {
+   "id": "6a930fa7",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3-in-1 Fruit and Vegetable Cutting Board Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Complete kitchen prep set",
+     "Smooth and flat cutting surface",
+     "Sharp paring knife for precise"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "3-in-1 Fruit and Vegetable Cutting Board Set | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3-in-1 Fruit and Vegetable Cutting Board Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3-in-1 Fruit and Vegetable Cutting Board Set\n✔ Complete kitchen prep set\n✔ Smooth and flat cutting surface\n✔ Sharp paring knife for precise\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "3-in-1 Fruit and Vegetable Cutting Board Set | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793188893.2957177,
+     "id": "18470976928186590",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793188893.2957177,
+     "id": "1052211654502891",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793188893.2957177,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9g5Uc9gaO52T-I81v1tF6j9"
+    }
+   },
+   "created": 1793188871.866269,
+   "after": 0,
+   "handle": "3-in-1-multipurpose-kitchen-fruit-vegetable-cutting-board-set",
+   "product_url": "https://www.vinzapstore.in/products/3-in-1-multipurpose-kitchen-fruit-vegetable-cutting-board-set",
+   "file": "6a930fa7.mp4",
+   "thumb": "6a930fa7_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17909847687582860"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1556656026218323"
+    }
+   }
   }
  ],
- "last_post": 1793187049.6741207,
+ "last_post": 1793188893.2957177,
  "log": [
-  "19:16:08 READY caf58626 Ice Cube Tray | Kitchen Organization (auto-approved)",
-  "19:16:41 POSTED instagram@Vinzap-Finds caf58626: 18164597659493637",
-  "19:16:47 POSTED facebook@Vinzap-Finds caf58626: 1595274195144765",
-  "19:16:48 FAILED post facebook@Vijayendra-Singh caf58626: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevoMVmz_CGyjtWfkEoMTmpvdZCOz9yNAqUT41hZ-ewHWH5YOzG1iAAweE5zkH1Wu-3fzWPLmXU6HsImzPv-kVD0a4_Jyk1mmWDLoFTn5OPhZek3FQcOV_RnlDuJyBi2ZPB381D1_UvlyBihHJSUJxikaJ5glQaHx_VUFQbPNA_BxnEJgcUD0u315EpYGLgg38u2VEpSNJMoZQQ-Ro3LX1s8R8Qrr_viBAkKuRCzsf7sQh1aUlT1w6e2g6YHiAyPwYUOf-ib9uyDNVuEKP-nnVdShhxjIbfe6UuiiZZqn6i3sNjQAQxy34LdrjWWphQNClfz\",\"help_cent",
-  "19:17:19 STORY POSTED instagram@Vinzap-Finds caf58626",
-  "19:17:29 STORY POSTED facebook@Vinzap-Finds caf58626",
   "19:45:29 READY 65fe4226 Disposable Clear Plastic Gloves Medium Pack (auto-approved)",
   "19:45:42 POSTED instagram@Vinzap-Finds 65fe4226: 18058927808569004",
   "19:45:46 POSTED facebook@Vinzap-Finds 65fe4226: 1428352113685678_122112626823501659",
@@ -5650,13 +5644,19 @@
   "17:00:49 READY 9d369ce6 Black Coffee Mug Custom Printed (auto-approved)",
   "17:00:59 POSTED instagram@Vinzap-Finds 9d369ce6: 18115849160029498",
   "17:01:03 POSTED facebook@Vinzap-Finds 9d369ce6: 1428352113685678_122113263669501659",
-  "17:01:08 POSTED facebook@Vijayendra-Singh 9d369ce6: 1317760538089559_122123879067480728"
+  "17:01:08 POSTED facebook@Vijayendra-Singh 9d369ce6: 1317760538089559_122123879067480728",
+  "17:31:33 READY 6a930fa7 3-in-1 Fruit and Vegetable Cutting Board Set | Kitchen Gadgets (auto-approved)",
+  "17:32:02 POSTED instagram@Vinzap-Finds 6a930fa7: 18470976928186590",
+  "17:32:06 POSTED facebook@Vinzap-Finds 6a930fa7: 1052211654502891",
+  "17:32:06 FAILED post facebook@Vijayendra-Singh 6a930fa7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9g5Uc9gaO52T-I81v1tF6j91oBJRXTFBgJYtqCD4oYRxS4WeGwzzDTvx8dwr2PGLjJni8f2YEaNJgPVpaR9kUsfIhtcRh3FBKvm07enwrCz5JCcSVMePFcDv9a-HPaCVDfP2QYcyWLG2yi5Ddv-5bXUXpv6rp2B-LObDkI1iSMiXaYKCvxPjQHDgVcwHrQ11IYb_VUohom6wnifFgqJPdLCAVUJ4FFLATvHszZ6iYY7jQqE-aijWZ4cvP-oHphld0ixS2oKQHfo_pvvQtHtplWoKz_T6KF_83q5gg-p1a4-TdynY1IXrVaje-pSxUGbM\",\"help_cente",
+  "17:32:37 STORY POSTED instagram@Vinzap-Finds 6a930fa7",
+  "17:32:46 STORY POSTED facebook@Vinzap-Finds 6a930fa7"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793187049.6741207,
-  "facebook@Vinzap-Finds": 1793187049.6741207,
-  "facebook@Vijayendra-Singh": 1793187049.6741207,
+  "instagram@Vinzap-Finds": 1793188893.2957177,
+  "facebook@Vinzap-Finds": 1793188893.2957177,
+  "facebook@Vijayendra-Singh": 1793188893.2957177,
   "youtube": 1793181719.8721268
  },
- "n": 208
+ "n": 209
 }
