@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "a80e993b",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Transparent Plastic Water Dipper Scoop",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Roomy water scooping bowl",
-     "Comfortable long handle grip",
-     "Shaped spout for neat pouring"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Transparent Plastic Water Dipper Scoop | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Transparent Plastic Water Dipper Scoop"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Plastic Water Dipper Scoop\n✔ Roomy water scooping bowl\n✔ Comfortable long handle grip\n✔ Shaped spout for neat pouring\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas #bathroomaccessories\n#homedecorideas #diwali",
-   "title": "Transparent Plastic Water Dipper Scoop | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792832474.3508236,
-     "id": "17917541898524110",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792832474.3508236,
-     "id": "29577517011841512",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792832474.3508236,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuetfiaoQf-mIuaU2BdQ2aLp"
-    }
-   },
-   "created": 1792832453.0667973,
-   "after": 0,
-   "handle": "transparent-plastic-water-dipper-scoop-with-handle-for-bathroom-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-water-dipper-scoop-with-handle-for-bathroom-1-pc",
-   "file": "a80e993b.mp4",
-   "thumb": "a80e993b_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18119335835471592"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4330037020641667"
-    }
-   }
-  },
-  {
    "id": "f6be6910",
    "status": "posted",
    "kind": "image",
@@ -5436,18 +5364,93 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-citrus-juicer-easy-manual-hand-press-for-fresh-juice",
    "file": "c01ecf2a.jpg",
    "thumb": "c01ecf2a.jpg"
+  },
+  {
+   "id": "8771ae49",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Oil Proof Aluminium Foil Wallpaper",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "SELF ADHESIVE: Oilproof stickers",
+     "WATER AND OIL RESISTANT:",
+     "MULTIPURPOSE: Multi functional"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Oil Proof Aluminium Foil Wallpaper | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Oil Proof Aluminium Foil Wallpaper"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOil Proof Aluminium Foil Wallpaper\n✔ SELF ADHESIVE: Oilproof stickers\n✔ WATER AND OIL RESISTANT:\n✔ MULTIPURPOSE: Multi functional\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Oil Proof Aluminium Foil Wallpaper | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793170957.3413293,
+     "id": "18170179915475115",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793170957.3413293,
+     "id": "1689281705966565",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793170957.3413293,
+     "id": "1891763765324690",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793170957.3413293,
+     "id": "nGdulB54hW4",
+     "dry": false
+    }
+   },
+   "created": 1793170931.3499784,
+   "after": 0,
+   "handle": "oil-proof-sticker-waterproof-self-adhesive-aluminum-foil-wallpaper-60-cm2m-golden-1-pc-1",
+   "product_url": "https://www.vinzapstore.in/products/oil-proof-sticker-waterproof-self-adhesive-aluminum-foil-wallpaper-60-cm2m-golden-1-pc-1",
+   "file": "8771ae49.mp4",
+   "thumb": "8771ae49_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18099126104549723"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2897789630578156"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1604595430722370"
+    }
+   }
   }
  ],
- "last_post": 1793169047.9999776,
+ "last_post": 1793170957.3413293,
  "log": [
-  "12:31:30 POSTED facebook@Vijayendra-Singh 17600148: 1317760538089559_122123041323480728",
-  "13:01:18 READY abbb661a Stainless Steel Egg Steamer Rack, Folding | Home Decor (auto-approved)",
-  "13:01:46 POSTED instagram@Vinzap-Finds abbb661a: 17954480919315338",
-  "13:01:50 POSTED facebook@Vinzap-Finds abbb661a: 986323220541366",
-  "13:01:51 FAILED post facebook@Vijayendra-Singh abbb661a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4EdVBkZhmQMKwlrPunfFTKA1JkVYcNtr4RplH0qypoZELDpzmfX759vGACbm8BhJQVF4vawgQyISAbW-rqPFBdEnhmGo1UCKSjpcAUSXHM9glihTeZidc3XYYYTJF8vfRXRXRkRqeqOnmXMUTQzGN6LCoatT5ad-lLMJ02ojPKEVDNbSa4NVJ0MX5es8P5zelAiTgQlmCURTkKnQruXmS146OpP16qIdGOlWf-LkUf2K9SxrD1f3Iz4vTRlMKiHVX6dOO3J29OWQuNmk9kiw1YFVfIs-MH9ka2sa_3Nhht1RRhsJ160MvOemkW3MH-vZP\",\"help_cent",
-  "13:02:22 STORY POSTED instagram@Vinzap-Finds abbb661a",
-  "13:02:31 STORY POSTED facebook@Vinzap-Finds abbb661a",
-  "13:31:09 READY 5ec4e841 Apex Ovel Manual Chilli and Dry Fruit (auto-approved)",
   "13:31:17 POSTED instagram@Vinzap-Finds 5ec4e841: 18037087952893599",
   "13:31:21 POSTED facebook@Vinzap-Finds 5ec4e841: 1428352113685678_122112529899501659",
   "13:31:25 POSTED facebook@Vijayendra-Singh 5ec4e841: 1317760538089559_122123050479480728",
@@ -5639,13 +5642,21 @@
   "12:00:47 READY c01ecf2a Stainless Steel Citrus Juicer, Manual Hand (auto-approved)",
   "12:01:01 POSTED instagram@Vinzap-Finds c01ecf2a: 18094023689682995",
   "12:01:05 POSTED facebook@Vinzap-Finds c01ecf2a: 1428352113685678_122113191111501659",
-  "12:01:09 POSTED facebook@Vijayendra-Singh c01ecf2a: 1317760538089559_122123813925480728"
+  "12:01:09 POSTED facebook@Vijayendra-Singh c01ecf2a: 1317760538089559_122123813925480728",
+  "12:32:37 READY 8771ae49 Oil Proof Aluminium Foil Wallpaper | Kitchen Organization (auto-approved)",
+  "12:33:14 POSTED instagram@Vinzap-Finds 8771ae49: 18170179915475115",
+  "12:33:18 POSTED facebook@Vinzap-Finds 8771ae49: 1689281705966565",
+  "12:33:22 POSTED facebook@Vijayendra-Singh 8771ae49: 1891763765324690",
+  "12:33:27 POSTED youtube 8771ae49: nGdulB54hW4",
+  "12:33:58 STORY POSTED instagram@Vinzap-Finds 8771ae49",
+  "12:34:05 STORY POSTED facebook@Vinzap-Finds 8771ae49",
+  "12:34:13 STORY POSTED facebook@Vijayendra-Singh 8771ae49"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793169047.9999776,
-  "facebook@Vinzap-Finds": 1793169047.9999776,
-  "facebook@Vijayendra-Singh": 1793169047.9999776,
-  "youtube": 1793120063.5952241
+  "instagram@Vinzap-Finds": 1793170957.3413293,
+  "facebook@Vinzap-Finds": 1793170957.3413293,
+  "facebook@Vijayendra-Singh": 1793170957.3413293,
+  "youtube": 1793170957.3413293
  },
- "n": 198
+ "n": 199
 }
