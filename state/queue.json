@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "3fdcec67",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Green Tea Strainer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 109,
-    "was": 0,
-    "feats": [
-     "High-Quality Wire Mesh : Fine",
-     "Ergonomic Plastic Handle :",
-     "Compact and Lightweight : Easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Green Tea Strainer | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Green Tea Strainer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGreen Tea Strainer\n✔ High-Quality Wire Mesh : Fine\n✔ Ergonomic Plastic Handle :\n✔ Compact and Lightweight : Easy\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Green Tea Strainer",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792911658.5820029,
-     "id": "18013295501766613",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792911658.5820029,
-     "id": "1428352113685678_122112127689501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792911658.5820029,
-     "id": "1317760538089559_122122736469480728",
-     "dry": false
-    }
-   },
-   "created": 1792911656.0154986,
-   "after": 0,
-   "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
-   "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
-   "file": "3fdcec67.jpg",
-   "thumb": "3fdcec67.jpg"
-  },
-  {
    "id": "8311eb0e",
    "status": "scheduled",
    "kind": "reel",
@@ -5469,14 +5407,72 @@
      "id": "1451272098067833"
     }
    }
+  },
+  {
+   "id": "87bcd560",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Manual Citrus Juicer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 259,
+    "was": 0,
+    "feats": [
+     "Manual Citrus Juicer :",
+     "Multipurpose Use : Suitable",
+     "Durable BPA-Free Plastic : Safe"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Apex Manual Citrus Juicer | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Manual Citrus Juicer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Manual Citrus Juicer\n✔ Manual Citrus Juicer :\n✔ Multipurpose Use : Suitable\n✔ Durable BPA-Free Plastic : Safe\n\nOnly ₹259. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Apex Manual Citrus Juicer",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793205098.4457128,
+     "id": "18137075992634753",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793205098.4457128,
+     "id": "1428352113685678_122113350477501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793205098.4457128,
+     "id": "1317760538089559_122123956989480728",
+     "dry": false
+    }
+   },
+   "created": 1793205095.7075582,
+   "after": 0,
+   "handle": "apex-manual-citrus-juicer",
+   "product_url": "https://www.vinzapstore.in/products/apex-manual-citrus-juicer",
+   "file": "87bcd560.jpg",
+   "thumb": "87bcd560.jpg"
   }
  ],
- "last_post": 1793203286.4817278,
+ "last_post": 1793205098.4457128,
  "log": [
-  "13:14:45 POSTED facebook@Vinzap-Finds a2ab0011: 1428352113685678_122112877077501659",
-  "13:14:50 POSTED facebook@Vijayendra-Singh a2ab0011: 1317760538089559_122123443545480728",
-  "13:46:08 READY ff92e15d Square Ice Cube Tray | Trending Shorts (auto-approved)",
-  "13:46:45 POSTED instagram@Vinzap-Finds ff92e15d: 18374989243240323",
   "13:46:50 POSTED facebook@Vinzap-Finds ff92e15d: 1584233186344557",
   "13:46:51 FAILED post facebook@Vijayendra-Singh ff92e15d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetT5lyAu_KuVX2Kq9VuTJjyQ0cNjxiZSKxZWNGJlQuL9Jgq43a6TDK8gNUvUNpWlgFgh51FNNHJ-AhQcKuCv2qU3lQuS38M_9rHMLhzXIO9EJjwljRaayC76ZnlHbdAeoh4pTIzCJAIfWwihF__Lqp8MoTyGLZ9PJBMsfUv3PI_KPwnh1zUxERHiqczamw4Epbvjsfh2UabtbnhlALUimq2qGpy7FyO145yfTtLmxtK-_0bnu6lqi6aLzS2YxcWzYA5VtouVL26OuqI9khS76Jh2r3hj6xY5WcfYJtWGT4PVgSNzx26Q0_XXe_r1hweNg\",\"help_center",
   "13:47:22 STORY POSTED instagram@Vinzap-Finds ff92e15d",
@@ -5672,13 +5668,17 @@
   "21:32:10 FAILED post facebook@Vijayendra-Singh ff4edf8b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUCdTeJXTrJqTp4m7CQlh2hyfIxEPfuz0q1tI1Ww7qCT1Kvl76apwgHmN6e1rAZ8I8kzxqayGOaCdJ9kpZ6iq9EmKl7PZbGLw8ihz2EPAATmBrVWns3aKy0ouA_CpnZmo9PJkiz_xoL-5qgfXXlrQJ9hCnZK0zAaZLldzbjesGegKRan5rOfAKR0Qw24q9L3CCklPtBvt3ghW4f9Ge9kuChtqPkYP-iDWXCAH4xBTXkrNh6lb2Mn_kdNG5GBanVyFprNV2XOMBhss0cq0XdaPWH0wpaMfrO-NxtA4hjMi1mnJT3PmK99INuFjvqJQzRUE\",\"help_cente",
   "21:32:14 POSTED youtube ff4edf8b: KMsplLNI70k",
   "21:32:47 STORY POSTED instagram@Vinzap-Finds ff4edf8b",
-  "21:32:57 STORY POSTED facebook@Vinzap-Finds ff4edf8b"
+  "21:32:57 STORY POSTED facebook@Vinzap-Finds ff4edf8b",
+  "22:01:38 READY 87bcd560 Apex Manual Citrus Juicer (auto-approved)",
+  "22:01:53 POSTED instagram@Vinzap-Finds 87bcd560: 18137075992634753",
+  "22:01:57 POSTED facebook@Vinzap-Finds 87bcd560: 1428352113685678_122113350477501659",
+  "22:02:01 POSTED facebook@Vijayendra-Singh 87bcd560: 1317760538089559_122123956989480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793203286.4817278,
-  "facebook@Vinzap-Finds": 1793203286.4817278,
-  "facebook@Vijayendra-Singh": 1793203286.4817278,
+  "instagram@Vinzap-Finds": 1793205098.4457128,
+  "facebook@Vinzap-Finds": 1793205098.4457128,
+  "facebook@Vijayendra-Singh": 1793205098.4457128,
   "youtube": 1793203286.4817278
  },
- "n": 217
+ "n": 218
 }
