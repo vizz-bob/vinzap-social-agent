@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "c80b3378",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Panda Design Kids Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Cute Panda design that appeals",
-     "Comes with a fork and spoon",
-     "Multiple compartments to store"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Panda Design Kids Lunch Box | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Panda Design Kids Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPanda Design Kids Lunch Box\n✔ Cute Panda design that appeals\n✔ Comes with a fork and spoon\n✔ Multiple compartments to store\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
-   "title": "Panda Design Kids Lunch Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792841448.9024312,
-     "id": "18116478506277322",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792841448.9024312,
-     "id": "1428352113685678_122111845509501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792841448.9024312,
-     "id": "1317760538089559_122122486287480728",
-     "dry": false
-    }
-   },
-   "created": 1792841446.4780931,
-   "after": 0,
-   "handle": "panda-design-kids-lunch-box-with-separate-compartments-1set",
-   "product_url": "https://www.vinzapstore.in/products/panda-design-kids-lunch-box-with-separate-compartments-1set",
-   "file": "c80b3378.jpg",
-   "thumb": "c80b3378.jpg"
-  },
-  {
    "id": "73b0c50d",
    "status": "scheduled",
    "kind": "reel",
@@ -5443,14 +5381,72 @@
      "id": "1646821490455670"
     }
    }
+  },
+  {
+   "id": "3c628aba",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Wall Mounted Stainless Steel Cup and Mug",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 489,
+    "was": 0,
+    "feats": [
+     "Wall-mounted design",
+     "Helps organize cups",
+     "Open structure allows quick"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Wall Mounted Stainless Steel Cup and Mug | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Wall Mounted Stainless Steel Cup and Mug"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mounted Stainless Steel Cup and Mug\n✔ Wall-mounted design\n✔ Helps organize cups\n✔ Open structure allows quick\n\nOnly ₹489. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#cooking #homedecor",
+   "title": "Wall Mounted Stainless Steel Cup and Mug",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793179850.4237342,
+     "id": "18105001910566657",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793179850.4237342,
+     "id": "1428352113685678_122113230171501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793179850.4237342,
+     "id": "1317760538089559_122123852973480728",
+     "dry": false
+    }
+   },
+   "created": 1793179847.9306006,
+   "after": 0,
+   "handle": "wall-mounted-stainless-steel-cup-mug-holder-rack-25-x-25-cm-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/wall-mounted-stainless-steel-cup-mug-holder-rack-25-x-25-cm-1-pc",
+   "file": "3c628aba.jpg",
+   "thumb": "3c628aba.jpg"
   }
  ],
- "last_post": 1793178075.639149,
+ "last_post": 1793179850.4237342,
  "log": [
-  "16:15:58 READY b854d694 Plastic Measuring Cups and Spoons Set (auto-approved)",
-  "16:16:13 POSTED instagram@Vinzap-Finds b854d694: 17920838406242629",
-  "16:16:17 POSTED facebook@Vinzap-Finds b854d694: 1428352113685678_122112569505501659",
-  "16:16:21 POSTED facebook@Vijayendra-Singh b854d694: 1317760538089559_122123087553480728",
   "16:46:14 READY e1ae6691 Wall Mount WiFi Router Holder Box Organizer | Home Decor (auto-approved)",
   "16:46:48 POSTED instagram@Vinzap-Finds e1ae6691: 18191893492409039",
   "16:46:54 POSTED facebook@Vinzap-Finds e1ae6691: 1162161246167501",
@@ -5646,13 +5642,17 @@
   "14:31:56 POSTED facebook@Vinzap-Finds c8f5b952: 1665762425093646",
   "14:31:58 FAILED post facebook@Vijayendra-Singh c8f5b952: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetSH0Qyd3iLhJy5eiEupV27WLh2GSiuwkwFUV1vVvzRBF3zU6phWg6aEqACHRrH8hw8562jTGdrI-x9gRLE9hYo_8oQDMCAxztxpsxJx67LwmRFi1iLDw1MA_vagLSS65frsPiAy-FkDAY8qltX4EQ_NBcafpJ-HGh8exkkaHlJ1y-SqBEWv6PipfOcLpsVnzHTqYqRIYTfUv9uf9KNz5OVEDHQJDPZrrHVrm6Gk3lhjMJEhVw8YyGa2Cluap5UsbBlZEximsETGYTdw-F59S50OzKlPgKLzDyOWHxi2LlI4A5kJw2MvyDHqe6R5BKZ7lGV\",\"help_cent",
   "14:32:29 STORY POSTED instagram@Vinzap-Finds c8f5b952",
-  "14:32:38 STORY POSTED facebook@Vinzap-Finds c8f5b952"
+  "14:32:38 STORY POSTED facebook@Vinzap-Finds c8f5b952",
+  "15:00:50 READY 3c628aba Wall Mounted Stainless Steel Cup and Mug (auto-approved)",
+  "15:01:05 POSTED instagram@Vinzap-Finds 3c628aba: 18105001910566657",
+  "15:01:09 POSTED facebook@Vinzap-Finds 3c628aba: 1428352113685678_122113230171501659",
+  "15:01:13 POSTED facebook@Vijayendra-Singh 3c628aba: 1317760538089559_122123852973480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793178075.639149,
-  "facebook@Vinzap-Finds": 1793178075.639149,
-  "facebook@Vijayendra-Singh": 1793178075.639149,
-  "youtube": 1793170957.3413293
+  "instagram@Vinzap-Finds": 1793179850.4237342,
+  "facebook@Vinzap-Finds": 1793179850.4237342,
+  "facebook@Vijayendra-Singh": 1793179850.4237342,
+  "youtube": 1793170537.3413293
  },
- "n": 203
+ "n": 204
 }
