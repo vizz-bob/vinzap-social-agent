@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "72ef3ab6",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kids Stainless Steel Cutlery Set 3 in 1",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Complete 3-in-1 set – fork",
-     "Smooth stainless steel heads that",
-     "Comfortable easy-grip handles"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Kids Stainless Steel Cutlery Set 3 in 1 | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kids Stainless Steel Cutlery Set 3 in 1"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKids Stainless Steel Cutlery Set 3 in 1\n✔ Complete 3-in-1 set – fork\n✔ Smooth stainless steel heads that\n✔ Comfortable easy-grip handles\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Kids Stainless Steel Cutlery Set 3 in 1 | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792854076.4599488,
-     "id": "17973821229157655",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792854076.4599488,
-     "id": "1879422043469238",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792854076.4599488,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes5XFjXZ_cXxXcPZEzzcMQs2b"
-    }
-   },
-   "created": 1792854050.38509,
-   "after": 0,
-   "handle": "kids-stainless-steel-cutlery-set-3-in-1-fork-knife-spoon-with-case-3-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/kids-stainless-steel-cutlery-set-3-in-1-fork-knife-spoon-with-case-3-pc-set",
-   "file": "72ef3ab6.mp4",
-   "thumb": "72ef3ab6_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18074226761488077"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1099481982699216"
-    }
-   }
-  },
-  {
    "id": "b4c585cc",
    "status": "posted",
    "kind": "image",
@@ -5447,18 +5375,93 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-sink-caddy-organizer-rack-holder-kitchen-sponge-stand-1-pc",
    "file": "c254723c.jpg",
    "thumb": "c254723c.jpg"
+  },
+  {
+   "id": "f4e0fd96",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Scoop Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Set of 3 scoops in small",
+     "Clear",
+     "Made from lightweight"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Plastic Scoop Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Scoop Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Scoop Set\n✔ Set of 3 scoops in small\n✔ Clear\n✔ Made from lightweight\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Plastic Scoop Set | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793192494.1447694,
+     "id": "17975017848156449",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793192494.1447694,
+     "id": "2579753265784194",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793192494.1447694,
+     "id": "1153818393738545",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793192494.1447694,
+     "id": "3oTVK19grEc",
+     "dry": false
+    }
+   },
+   "created": 1793192477.1133842,
+   "after": 0,
+   "handle": "multipurpose-plastic-scoop-set-clear-flour-coffee-sugar-grain-scoops-3-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-scoop-set-clear-flour-coffee-sugar-grain-scoops-3-pc-set",
+   "file": "f4e0fd96.mp4",
+   "thumb": "f4e0fd96_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18642314008002275"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2245654429626581"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2329412607884478"
+    }
+   }
   }
  ],
- "last_post": 1793190655.718591,
+ "last_post": 1793192494.1447694,
  "log": [
-  "20:36:37 READY 73a059d4 3 in 1 Kids Cutlery Set | Diwali (auto-approved)",
-  "20:37:08 POSTED instagram@Vinzap-Finds 73a059d4: 18094234220678535",
-  "20:37:12 POSTED facebook@Vinzap-Finds 73a059d4: 1140406001754622",
-  "20:37:13 FAILED post facebook@Vijayendra-Singh 73a059d4: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevpMin_PL9JulgTKwaKBc-bSCduuJWEBEM7vDhZTcg5iYw8_7TSQkoOI6enfUBIBiZF0gyjMYtboGIykadn4znzA3dUX_ooVUrBXz4B23mV2hjhICR7VACZfzY6t8RhbqzZnQlcjkJbMToOCBo7gZtwZO9UHQiDJUM5iNA-uB8PCmcXV2aer8D-j3bxUyqR05TnnIRDewZHwPBIyC8azq2Yte3-NtDb-tbA7k8myxhJEo4ZujhCbsomRWpbHCRht29oCQ7Pt3gX030_cu97-mDm60XpeRWvmhMvWKCjmylN25CwqH96YaNW3IFinDGyHbfV\",\"help_cent",
-  "20:37:43 STORY POSTED instagram@Vinzap-Finds 73a059d4",
-  "20:37:51 STORY POSTED facebook@Vinzap-Finds 73a059d4",
-  "21:00:52 READY c16716ae Kitchen Prep Combo of 3 (auto-approved)",
-  "21:01:04 POSTED instagram@Vinzap-Finds c16716ae: 17938615431127696",
   "21:01:06 POSTED facebook@Vinzap-Finds c16716ae: 1428352113685678_122112655695501659",
   "21:01:10 POSTED facebook@Vijayendra-Singh c16716ae: 1317760538089559_122123183379480728",
   "21:31:09 READY b2b777b1 Stainless Steel 2-in-1 Cutting and Chopping | Kitchen Gadgets (auto-approved)",
@@ -5650,13 +5653,21 @@
   "18:00:55 READY c254723c Stainless Steel Sink Caddy Organizer (auto-approved)",
   "18:01:07 POSTED instagram@Vinzap-Finds c254723c: 18117662921088642",
   "18:01:10 POSTED facebook@Vinzap-Finds c254723c: 1428352113685678_122113281447501659",
-  "18:01:14 POSTED facebook@Vijayendra-Singh c254723c: 1317760538089559_122123898501480728"
+  "18:01:14 POSTED facebook@Vijayendra-Singh c254723c: 1317760538089559_122123898501480728",
+  "18:31:34 READY f4e0fd96 Plastic Scoop Set | Diwali (auto-approved)",
+  "18:32:10 POSTED instagram@Vinzap-Finds f4e0fd96: 17975017848156449",
+  "18:32:16 POSTED facebook@Vinzap-Finds f4e0fd96: 2579753265784194",
+  "18:32:21 POSTED facebook@Vijayendra-Singh f4e0fd96: 1153818393738545",
+  "18:32:26 POSTED youtube f4e0fd96: 3oTVK19grEc",
+  "18:32:55 STORY POSTED instagram@Vinzap-Finds f4e0fd96",
+  "18:33:02 STORY POSTED facebook@Vinzap-Finds f4e0fd96",
+  "18:33:10 STORY POSTED facebook@Vijayendra-Singh f4e0fd96"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793190655.718591,
-  "facebook@Vinzap-Finds": 1793190655.718591,
-  "facebook@Vijayendra-Singh": 1793190655.718591,
-  "youtube": 1793181299.8721268
+  "instagram@Vinzap-Finds": 1793192494.1447694,
+  "facebook@Vinzap-Finds": 1793192494.1447694,
+  "facebook@Vijayendra-Singh": 1793192494.1447694,
+  "youtube": 1793192494.1447694
  },
- "n": 210
+ "n": 211
 }
