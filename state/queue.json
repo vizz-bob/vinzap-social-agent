@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "67fe05f6",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "2-in-1 Egg Slicer and Wedger, Stainless",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Two cutting stations slice eggs",
-     "Sharp stainless steel wires cut",
-     "Slotted cups hold the egg firmly"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "2-in-1 Egg Slicer and Wedger, Stainless"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Egg Slicer and Wedger, Stainless\n✔ Two cutting stations slice eggs\n✔ Sharp stainless steel wires cut\n✔ Slotted cups hold the egg firmly\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792846882.9933357,
-     "id": "17955908955266374",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792846882.9933357,
-     "id": "1116461704477514",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792846882.9933357,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPr4bNVotWreIlcy5cigU3ae"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792846882.9933357,
-     "id": "YebOiEyhWvM",
-     "dry": false
-    }
-   },
-   "created": 1792846855.8931696,
-   "after": 0,
-   "handle": "2-in-1-egg-slicer-and-wedger-stainless-steel-wire-boiled-egg-cutter-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/2-in-1-egg-slicer-and-wedger-stainless-steel-wire-boiled-egg-cutter-1-pc",
-   "file": "67fe05f6.mp4",
-   "thumb": "67fe05f6_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18133631830747197"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1135811805483155"
-    }
-   }
-  },
-  {
    "id": "be079f85",
    "status": "posted",
    "kind": "image",
@@ -5451,16 +5373,82 @@
    "product_url": "https://www.vinzapstore.in/products/reusable-bamboo-chopsticks-with-blue-chinese-print-design-2-pc",
    "file": "a04aefb2.jpg",
    "thumb": "a04aefb2.jpg"
+  },
+  {
+   "id": "3dfeea4d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Mini Tabletop Dustbin 1200ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 239,
+    "was": 0,
+    "feats": [
+     "Modern & Space-Saving Design:",
+     "Durable & Sturdy Build: Made from",
+     "Versatile Usage: Suitable for home"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Mini Tabletop Dustbin 1200ml | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Mini Tabletop Dustbin 1200ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMini Tabletop Dustbin 1200ml\n✔ Modern & Space-Saving Design:\n✔ Durable & Sturdy Build: Made from\n✔ Versatile Usage: Suitable for home\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Mini Tabletop Dustbin 1200ml | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793185357.0230236,
+     "id": "18132299551773374",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793185357.0230236,
+     "id": "2146283435984962",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793185357.0230236,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet6bRWPswYV4z6LeM0rqxPuOe"
+    }
+   },
+   "created": 1793185330.6791883,
+   "after": 0,
+   "handle": "apex-mini-tabletop-dustbin-1-pc-1200-ml-mix-color",
+   "product_url": "https://www.vinzapstore.in/products/apex-mini-tabletop-dustbin-1-pc-1200-ml-mix-color",
+   "file": "3dfeea4d.mp4",
+   "thumb": "3dfeea4d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18033786473835909"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1412738041019544"
+    }
+   }
   }
  ],
- "last_post": 1793183451.4799612,
+ "last_post": 1793185357.0230236,
  "log": [
-  "18:22:09 POSTED instagram@Vinzap-Finds 94441ddb: 18097789334437097",
-  "18:22:17 POSTED facebook@Vinzap-Finds 94441ddb: 1432060228911423",
-  "18:22:20 FAILED post facebook@Vijayendra-Singh 94441ddb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGUyuiVKJaVMq_GwvVPVMG2B42-kdIaNL5w9k1qNq2og6FhRpelo-C6GKMAqmv4Ht01IlJC7lR4Htu2kYAfjAFoqcRLOENrx2uo90EwoTHqTaHZdIBDk3VG6UW2-tV3exV91gzfyNkE0xyGXuo0LtA0V7imcyIQkx6obj-9_wyq82vk9osA-feUibTSTq4tZwO3PPhkeF4qzK3319qAntKgLTDQBN3jJ1tKBZq7JcxBdFyc_qfdVJzIuwJjLloiPZk35mPAB9GwOeFfBA-77XLKCMlGX0SnUToZOM6Byv1p0offB7JrKDufbGuqBfuO59J\",\"help_cent",
-  "18:22:30 POSTED youtube 94441ddb: on1EHwue7VM",
-  "18:23:03 STORY POSTED instagram@Vinzap-Finds 94441ddb",
-  "18:23:16 STORY POSTED facebook@Vinzap-Finds 94441ddb",
   "18:46:02 READY 277df4d1 Electric Pepper Grinder, USB Rechargeable (auto-approved)",
   "18:46:17 POSTED instagram@Vinzap-Finds 277df4d1: 17943204051385377",
   "18:46:22 POSTED facebook@Vinzap-Finds 277df4d1: 1428352113685678_122112610983501659",
@@ -5654,13 +5642,19 @@
   "16:00:51 READY a04aefb2 Reusable Bamboo Chopsticks (auto-approved)",
   "16:01:12 POSTED instagram@Vinzap-Finds a04aefb2: 17911523688578589",
   "16:01:19 POSTED facebook@Vinzap-Finds a04aefb2: 1428352113685678_122113245891501659",
-  "16:01:28 POSTED facebook@Vijayendra-Singh a04aefb2: 1317760538089559_122123866557480728"
+  "16:01:28 POSTED facebook@Vijayendra-Singh a04aefb2: 1317760538089559_122123866557480728",
+  "16:32:37 READY 3dfeea4d Mini Tabletop Dustbin 1200ml | Trending Shorts (auto-approved)",
+  "16:33:12 POSTED instagram@Vinzap-Finds 3dfeea4d: 18132299551773374",
+  "16:33:17 POSTED facebook@Vinzap-Finds 3dfeea4d: 2146283435984962",
+  "16:33:19 FAILED post facebook@Vijayendra-Singh 3dfeea4d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet6bRWPswYV4z6LeM0rqxPuOe7eHZbcMNKxJ2g6MqfNdLytZWVX2x-zOF3VtP_aPXY4dVZ7AU8M1ODGPRz_yU-RiWjeyqUYFxkVyDDZIEmwZ4cl-nmfuRrFD7TkVSUaHoMlkbOgGk6pW2ToPdPyz55clufBV91SRjxoTSxqb9tBmo6w1g8rfgy2ozxwYj7lDaBuQODATZ8wKxpgAgdedX2uFrLOsfrjd_ambbLirloh8ZeRKrl2nrFeN2O0I8Fkecvo-l4AQJuE-kpjgTDHIylC-IIa4RQcYhF13KWqNomfW4woGEtExbkCSx_6yF3bFK8K\",\"help_cent",
+  "16:33:49 STORY POSTED instagram@Vinzap-Finds 3dfeea4d",
+  "16:34:02 STORY POSTED facebook@Vinzap-Finds 3dfeea4d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793183451.4799612,
-  "facebook@Vinzap-Finds": 1793183451.4799612,
-  "facebook@Vijayendra-Singh": 1793183451.4799612,
+  "instagram@Vinzap-Finds": 1793185357.0230236,
+  "facebook@Vinzap-Finds": 1793185357.0230236,
+  "facebook@Vijayendra-Singh": 1793185357.0230236,
   "youtube": 1793181719.8721268
  },
- "n": 206
+ "n": 207
 }
