@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "7a36953f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Garlic Ginger Grater Plate",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Stainless steel teeth",
-     "Dish shape to neatly collect",
-     "Suitable for grating vegetables"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Garlic Ginger Grater Plate | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Garlic Ginger Grater Plate"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGarlic Ginger Grater Plate\n✔ Stainless steel teeth\n✔ Dish shape to neatly collect\n✔ Suitable for grating vegetables\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Garlic Ginger Grater Plate | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792909869.0879767,
-     "id": "17951214630301873",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792909869.0879767,
-     "id": "1003017379488888",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792909869.0879767,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetTj45Do8hSgFaujCdpORsIzR"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792909869.0879767,
-     "id": "P4DrVNRVqEk",
-     "dry": false
-    }
-   },
-   "created": 1792909843.2888165,
-   "after": 0,
-   "handle": "garlic-ginger-grater-plate-quick-mess-free-food-prep-tool",
-   "product_url": "https://www.vinzapstore.in/products/garlic-ginger-grater-plate-quick-mess-free-food-prep-tool",
-   "file": "7a36953f.mp4",
-   "thumb": "7a36953f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18194631031402208"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1689020746151562"
-    }
-   }
-  },
-  {
    "id": "3fdcec67",
    "status": "posted",
    "kind": "image",
@@ -5469,17 +5391,88 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
    "file": "3e1cb633.jpg",
    "thumb": "3e1cb633.jpg"
+  },
+  {
+   "id": "ff4edf8b",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Premium Round Tea Cup Set of 6",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 419,
+    "was": 0,
+    "feats": [
+     "Set of 6 matching tea cups",
+     "Elegant round design enhances",
+     "Comfortable handle for easy grip"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Premium Round Tea Cup Set of 6 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Premium Round Tea Cup Set of 6"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Round Tea Cup Set of 6\n✔ Set of 6 matching tea cups\n✔ Elegant round design enhances\n✔ Comfortable handle for easy grip\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Premium Round Tea Cup Set of 6 | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793203286.4817278,
+     "id": "18119914333956928",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793203286.4817278,
+     "id": "1419190056988148",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793203286.4817278,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUCdTeJXTrJqTp4m7CQlh2hy"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793203286.4817278,
+     "id": "KMsplLNI70k",
+     "dry": false
+    }
+   },
+   "created": 1793203258.9640193,
+   "after": 0,
+   "handle": "premium-round-tea-cup-set-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/premium-round-tea-cup-set-6-pc-set",
+   "file": "ff4edf8b.mp4",
+   "thumb": "ff4edf8b_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18139039348730238"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1451272098067833"
+    }
+   }
   }
  ],
- "last_post": 1793201455.0961292,
+ "last_post": 1793203286.4817278,
  "log": [
-  "12:31:54 POSTED facebook@Vinzap-Finds 6cbe71a1: 1373480791528790",
-  "12:31:55 FAILED post facebook@Vijayendra-Singh 6cbe71a1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuRr7k2NJd5XH3EsxZSbvfe8KMR_sJiDBTRM9kTAoZbz6Err5uH5z2-DltKRXLQ2WRl9zsTmdZ7Szzdz93S0XXcDeQOXm25B0UCPO3gJQApG0PQkMb_Tb7scnik9UFLvvXDDFg4sp_nDExuJEO7cCbsOD-_clWFNqO6VK_4YNbjwKqlL33CiJ67maX0k5ng20MIMzB3C_XP9CmbzwyL-N1Ry-0N8zBCaiMerT6wNQB8-UN8jSbdoWPrSNc0GrfnF6UTayYXkchlkVY_3AwMyS_t5C17H6Bb245S_3zlK9rTESVIFzKeZ42G1Jp2QHlUYAs\",\"help_cente",
-  "12:32:00 POSTED youtube 6cbe71a1: _r8J7ihxGq8",
-  "12:32:28 STORY POSTED instagram@Vinzap-Finds 6cbe71a1",
-  "12:32:35 STORY POSTED facebook@Vinzap-Finds 6cbe71a1",
-  "13:14:23 READY a2ab0011 Large Capacity Leakproof Water Bottle 1400ml (auto-approved)",
-  "13:14:41 POSTED instagram@Vinzap-Finds a2ab0011: 18113251177884344",
   "13:14:45 POSTED facebook@Vinzap-Finds a2ab0011: 1428352113685678_122112877077501659",
   "13:14:50 POSTED facebook@Vijayendra-Singh a2ab0011: 1317760538089559_122123443545480728",
   "13:46:08 READY ff92e15d Square Ice Cube Tray | Trending Shorts (auto-approved)",
@@ -5672,13 +5665,20 @@
   "21:00:55 READY 3e1cb633 Masala Box (auto-approved)",
   "21:01:09 POSTED instagram@Vinzap-Finds 3e1cb633: 18090771263255797",
   "21:01:13 POSTED facebook@Vinzap-Finds 3e1cb633: 1428352113685678_122113333779501659",
-  "21:01:17 POSTED facebook@Vijayendra-Singh 3e1cb633: 1317760538089559_122123946279480728"
+  "21:01:17 POSTED facebook@Vijayendra-Singh 3e1cb633: 1317760538089559_122123946279480728",
+  "21:31:26 READY ff4edf8b Premium Round Tea Cup Set of 6 | Kitchen Organization (auto-approved)",
+  "21:32:04 POSTED instagram@Vinzap-Finds ff4edf8b: 18119914333956928",
+  "21:32:09 POSTED facebook@Vinzap-Finds ff4edf8b: 1419190056988148",
+  "21:32:10 FAILED post facebook@Vijayendra-Singh ff4edf8b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUCdTeJXTrJqTp4m7CQlh2hyfIxEPfuz0q1tI1Ww7qCT1Kvl76apwgHmN6e1rAZ8I8kzxqayGOaCdJ9kpZ6iq9EmKl7PZbGLw8ihz2EPAATmBrVWns3aKy0ouA_CpnZmo9PJkiz_xoL-5qgfXXlrQJ9hCnZK0zAaZLldzbjesGegKRan5rOfAKR0Qw24q9L3CCklPtBvt3ghW4f9Ge9kuChtqPkYP-iDWXCAH4xBTXkrNh6lb2Mn_kdNG5GBanVyFprNV2XOMBhss0cq0XdaPWH0wpaMfrO-NxtA4hjMi1mnJT3PmK99INuFjvqJQzRUE\",\"help_cente",
+  "21:32:14 POSTED youtube ff4edf8b: KMsplLNI70k",
+  "21:32:47 STORY POSTED instagram@Vinzap-Finds ff4edf8b",
+  "21:32:57 STORY POSTED facebook@Vinzap-Finds ff4edf8b"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793201455.0961292,
-  "facebook@Vinzap-Finds": 1793201455.0961292,
-  "facebook@Vijayendra-Singh": 1793201455.0961292,
-  "youtube": 1793192074.1447694
+  "instagram@Vinzap-Finds": 1793203286.4817278,
+  "facebook@Vinzap-Finds": 1793203286.4817278,
+  "facebook@Vijayendra-Singh": 1793203286.4817278,
+  "youtube": 1793203286.4817278
  },
- "n": 216
+ "n": 217
 }
