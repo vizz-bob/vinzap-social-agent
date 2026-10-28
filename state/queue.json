@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "78b1b159",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Pet Hair and Lint Remover Brush 2 in 1",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 179,
-    "was": 0,
-    "feats": [
-     "2-in-1 design",
-     "Works on clothes",
-     "Portable and easy to use"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Pet Hair and Lint Remover Brush 2 in 1 | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Pet Hair and Lint Remover Brush 2 in 1"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPet Hair and Lint Remover Brush 2 in 1\n✔ 2-in-1 design\n✔ Works on clothes\n✔ Portable and easy to use\n\nOnly ₹179. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #petlovers #petessentials\n#diwali #trendingshorts",
-   "title": "Pet Hair and Lint Remover Brush 2 in 1 | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792857710.8207042,
-     "id": "18024202088868469",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792857710.8207042,
-     "id": "4496164640712868",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792857710.8207042,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9hFJo42DFmMokvXG4H8eSx6"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792857710.8207042,
-     "id": "qo679T3khQs",
-     "dry": false
-    }
-   },
-   "created": 1792857689.0697563,
-   "after": 0,
-   "handle": "2-in-1-portable-pet-hair-and-lint-remover-brush-for-clothes-and-furniture-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/2-in-1-portable-pet-hair-and-lint-remover-brush-for-clothes-and-furniture-1-pc",
-   "file": "78b1b159.mp4",
-   "thumb": "78b1b159_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18127084102928952"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2314452689328059"
-    }
-   }
-  },
-  {
    "id": "8f9a5218",
    "status": "posted",
    "kind": "image",
@@ -5458,17 +5380,87 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-paper-cups-disposable-tea-coffee-cups-24-pcs-set-mix-color-design-1",
    "file": "5223b4dc.jpg",
    "thumb": "5223b4dc.jpg"
+  },
+  {
+   "id": "bc78e837",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Soft Facial Tissue Paper Napkins Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "50 pcs value pack – convenient",
+     "Made from high-quality pulp paper",
+     "Highly absorbent – ideal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Soft Facial Tissue Paper Napkins Set | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Soft Facial Tissue Paper Napkins Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSoft Facial Tissue Paper Napkins Set\n✔ 50 pcs value pack – convenient\n✔ Made from high-quality pulp paper\n✔ Highly absorbent – ideal\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Soft Facial Tissue Paper Napkins Set | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793196149.1786387,
+     "id": "18219782317346459",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793196149.1786387,
+     "id": "2537519860085529",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793196149.1786387,
+     "id": "1895148721935052",
+     "dry": false
+    }
+   },
+   "created": 1793196122.8279538,
+   "after": 0,
+   "handle": "soft-facial-tissue-paper-napkins-set-50-pcs-set",
+   "product_url": "https://www.vinzapstore.in/products/soft-facial-tissue-paper-napkins-set-50-pcs-set",
+   "file": "bc78e837.mp4",
+   "thumb": "bc78e837_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17983919522901668"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2068706390451942"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "3143354442722804"
+    }
+   }
   }
  ],
- "last_post": 1793194249.3447375,
+ "last_post": 1793196149.1786387,
  "log": [
-  "21:31:55 POSTED facebook@Vinzap-Finds b2b777b1: 1636331467960531",
-  "21:31:57 FAILED post facebook@Vijayendra-Singh b2b777b1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeubjLKtP6kadgHFEsye8bn2An-rI_t4AG8_dWpG5q6KtYTb6e65WJ-wmgdfVW5gP7GHzBY40eqddZEZTm-AnIj9VZXGz8R2fqgvgjPy0b_PFDjg9ITOBysJ52-1oRp4RD9WFwRMHIn9Cw5h4_Tdl6vz3obM3z3ohnPw6lc2au5T9JG5CDom9n6tmyDzBYgmgOz58SlhJt0GJVoIfCtbr22yoA3XZpQokcKd6rkZzo7mdmtCDdgxcvpDCfK09Z8ltpqB61dfG3VGjvVoaVGS24KYUw_9US2SAkaMeu-ESRysfyE2H9NxS7Xoqkym_1ffBL6O\",\"help_cent",
-  "21:32:01 POSTED youtube b2b777b1: aFN9anwevPc",
-  "21:32:34 STORY POSTED instagram@Vinzap-Finds b2b777b1",
-  "21:32:43 STORY POSTED facebook@Vinzap-Finds b2b777b1",
-  "22:00:51 READY b4c30f74 Round Plastic Storage Basket (auto-approved)",
-  "22:01:07 POSTED instagram@Vinzap-Finds b4c30f74: 18097560104548557",
   "22:01:11 POSTED facebook@Vinzap-Finds b4c30f74: 1428352113685678_122112670905501659",
   "22:01:15 POSTED facebook@Vijayendra-Singh b4c30f74: 1317760538089559_122123208075480728",
   "22:31:17 READY b1eba901 Stainless Steel Potato Masher 17cm | Cooking (auto-approved)",
@@ -5661,13 +5653,20 @@
   "19:00:49 READY 5223b4dc Disposable Paper Cups (auto-approved)",
   "19:01:01 POSTED instagram@Vinzap-Finds 5223b4dc: 17914543962542540",
   "19:01:05 POSTED facebook@Vinzap-Finds 5223b4dc: 1428352113685678_122113299567501659",
-  "19:01:09 POSTED facebook@Vijayendra-Singh 5223b4dc: 1317760538089559_122123913993480728"
+  "19:01:09 POSTED facebook@Vijayendra-Singh 5223b4dc: 1317760538089559_122123913993480728",
+  "19:32:29 READY bc78e837 Soft Facial Tissue Paper Napkins Set | Trending Shorts (auto-approved)",
+  "19:33:05 POSTED instagram@Vinzap-Finds bc78e837: 18219782317346459",
+  "19:33:11 POSTED facebook@Vinzap-Finds bc78e837: 2537519860085529",
+  "19:33:15 POSTED facebook@Vijayendra-Singh bc78e837: 1895148721935052",
+  "19:33:46 STORY POSTED instagram@Vinzap-Finds bc78e837",
+  "19:33:54 STORY POSTED facebook@Vinzap-Finds bc78e837",
+  "19:34:02 STORY POSTED facebook@Vijayendra-Singh bc78e837"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793194249.3447375,
-  "facebook@Vinzap-Finds": 1793194249.3447375,
-  "facebook@Vijayendra-Singh": 1793194249.3447375,
+  "instagram@Vinzap-Finds": 1793196149.1786387,
+  "facebook@Vinzap-Finds": 1793196149.1786387,
+  "facebook@Vijayendra-Singh": 1793196149.1786387,
   "youtube": 1793192494.1447694
  },
- "n": 212
+ "n": 213
 }
