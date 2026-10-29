@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "d0a046a0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Dinner Spoon",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Stainless steel dinner spoon",
-     "Decorative scalloped handle design",
-     "Rust-resistant and durable build"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Stainless Steel Dinner Spoon | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Dinner Spoon"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Dinner Spoon\n✔ Stainless steel dinner spoon\n✔ Decorative scalloped handle design\n✔ Rust-resistant and durable build\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Stainless Steel Dinner Spoon | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792935076.1546803,
-     "id": "18011924883003917",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792935076.1546803,
-     "id": "1096356823016609",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792935076.1546803,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevicHYHe-JJN-uUCx-LZ0Gyh_"
-    }
-   },
-   "created": 1792935050.90979,
-   "after": 0,
-   "handle": "stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
-   "file": "d0a046a0.mp4",
-   "thumb": "d0a046a0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17991592719024739"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1131508146055292"
-    }
-   }
-  },
-  {
    "id": "4a74d0e6",
    "status": "posted",
    "kind": "image",
@@ -5491,17 +5419,87 @@
    "product_url": "https://www.vinzapstore.in/products/wall-mount-wifi-router-bracket-holder-stand-shelf-for-set-top-box-1-pc",
    "file": "911599b9.jpg",
    "thumb": "911599b9.jpg"
+  },
+  {
+   "id": "f898e08c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Adjustable Vegetable and Fruit Slicer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 469,
+    "was": 0,
+    "feats": [
+     "Adjustable Thickness: Easily",
+     "High-Quality Blade: Razor-sharp",
+     "Ergonomic Design: Comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Adjustable Vegetable and Fruit Slicer | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Adjustable Vegetable and Fruit Slicer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nAdjustable Vegetable and Fruit Slicer\n✔ Adjustable Thickness: Easily\n✔ High-Quality Blade: Razor-sharp\n✔ Ergonomic Design: Comfortable\n\nOnly ₹469. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Adjustable Vegetable and Fruit Slicer | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793275272.8081844,
+     "id": "18147003856591173",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793275272.8081844,
+     "id": "4492449391003742",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793275272.8081844,
+     "id": "2032681930772591",
+     "dry": false
+    }
+   },
+   "created": 1793275254.629903,
+   "after": 0,
+   "handle": "premium-adjustable-vegetable-fruit-slicer-with-sharp-stainless-steel-blade",
+   "product_url": "https://www.vinzapstore.in/products/premium-adjustable-vegetable-fruit-slicer-with-sharp-stainless-steel-blade",
+   "file": "f898e08c.mp4",
+   "thumb": "f898e08c_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17942341131368647"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1097367823137742"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1445193564245011"
+    }
+   }
   }
  ],
- "last_post": 1793273451.126254,
+ "last_post": 1793275272.8081844,
  "log": [
-  "21:01:03 READY 96c5f31b Apex Pyramid Unbreakable Plastic Glass 300ml (auto-approved)",
-  "21:01:15 POSTED instagram@Vinzap-Finds 96c5f31b: 17962517690999187",
-  "21:01:21 POSTED facebook@Vinzap-Finds 96c5f31b: 1428352113685678_122113000761501659",
-  "21:01:26 POSTED facebook@Vijayendra-Singh 96c5f31b: 1317760538089559_122123591973480728",
-  "21:31:30 READY 8bd59d39 Kitchen Platform and Glass Wiper | Home Decor Ideas (auto-approved)",
-  "21:32:04 POSTED instagram@Vinzap-Finds 8bd59d39: 18118807979327073",
-  "21:32:07 POSTED facebook@Vinzap-Finds 8bd59d39: 1637346507896065",
   "21:32:11 POSTED facebook@Vijayendra-Singh 8bd59d39: 1423320846674333",
   "21:32:42 STORY POSTED instagram@Vinzap-Finds 8bd59d39",
   "21:32:52 STORY POSTED facebook@Vinzap-Finds 8bd59d39",
@@ -5694,13 +5692,20 @@
   "17:00:51 READY 911599b9 Wall Mount WiFi Router Holder Shelf (auto-approved)",
   "17:01:02 POSTED instagram@Vinzap-Finds 911599b9: 17878285518572491",
   "17:01:06 POSTED facebook@Vinzap-Finds 911599b9: 1428352113685678_122113616349501659",
-  "17:01:09 POSTED facebook@Vijayendra-Singh 911599b9: 1317760538089559_122124210165480728"
+  "17:01:09 POSTED facebook@Vijayendra-Singh 911599b9: 1317760538089559_122124210165480728",
+  "17:31:12 READY f898e08c Adjustable Vegetable and Fruit Slicer | Cooking (auto-approved)",
+  "17:31:46 POSTED instagram@Vinzap-Finds f898e08c: 18147003856591173",
+  "17:31:51 POSTED facebook@Vinzap-Finds f898e08c: 4492449391003742",
+  "17:31:57 POSTED facebook@Vijayendra-Singh f898e08c: 2032681930772591",
+  "17:32:32 STORY POSTED instagram@Vinzap-Finds f898e08c",
+  "17:32:42 STORY POSTED facebook@Vinzap-Finds f898e08c",
+  "17:32:51 STORY POSTED facebook@Vijayendra-Singh f898e08c"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793273451.126254,
-  "facebook@Vinzap-Finds": 1793273451.126254,
-  "facebook@Vijayendra-Singh": 1793273451.126254,
+  "instagram@Vinzap-Finds": 1793275272.8081844,
+  "facebook@Vinzap-Finds": 1793275272.8081844,
+  "facebook@Vijayendra-Singh": 1793275272.8081844,
   "youtube": 1793268118.8750515
  },
- "n": 230
+ "n": 231
 }
