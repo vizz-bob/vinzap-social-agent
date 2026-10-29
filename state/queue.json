@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "5fe99fbc",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Flexi Stainless Steel Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 979,
-    "was": 0,
-    "feats": [
-     "Wide rectangular container takes",
-     "Round bowl is sized right",
-     "Flexible sealing lids press tight"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Apex Flexi Stainless Steel Lunch Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Flexi Stainless Steel Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Flexi Stainless Steel Lunch Box\n✔ Wide rectangular container takes\n✔ Round bowl is sized right\n✔ Flexible sealing lids press tight\n\nOnly ₹979. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
-   "title": "Apex Flexi Stainless Steel Lunch Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792918863.3261364,
-     "id": "18130066015860856",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792918863.3261364,
-     "id": "1428352113685678_122112157917501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792918863.3261364,
-     "id": "1317760538089559_122122774785480728",
-     "dry": false
-    }
-   },
-   "created": 1792918862.2103243,
-   "after": 0,
-   "handle": "apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
-   "file": "5fe99fbc.jpg",
-   "thumb": "5fe99fbc.jpg"
-  },
-  {
    "id": "40c063dd",
    "status": "scheduled",
    "kind": "reel",
@@ -5485,14 +5423,72 @@
      "id": "4511837549089487"
     }
    }
+  },
+  {
+   "id": "5a0f2e58",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Soap Dispensing Dishwand Scrubber Brush,",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 159,
+    "was": 0,
+    "feats": [
+     "Built-in soap dispenser handle",
+     "Strong dual-layer sponge head",
+     "Long ergonomic handle for better"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Soap Dispensing Dishwand Scrubber Brush, | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Soap Dispensing Dishwand Scrubber Brush,"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSoap Dispensing Dishwand Scrubber Brush,\n✔ Built-in soap dispenser handle\n✔ Strong dual-layer sponge head\n✔ Long ergonomic handle for better\n\nOnly ₹159. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#kitchengadgets #kitchenorganization",
+   "title": "Soap Dispensing Dishwand Scrubber Brush,",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793259118.8180454,
+     "id": "17919160884459563",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793259118.8180454,
+     "id": "1428352113685678_122113552827501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793259118.8180454,
+     "id": "1317760538089559_122124150615480728",
+     "dry": false
+    }
+   },
+   "created": 1793259116.7026985,
+   "after": 0,
+   "handle": "heavy-duty-soap-dispensing-dishwand-scrubber-brush-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/heavy-duty-soap-dispensing-dishwand-scrubber-brush-1-pc",
+   "file": "5a0f2e58.jpg",
+   "thumb": "5a0f2e58.jpg"
   }
  ],
- "last_post": 1793257273.758251,
+ "last_post": 1793259118.8180454,
  "log": [
-  "15:46:35 POSTED instagram@Vinzap-Finds 33486de0: 18097694666422011",
-  "15:46:40 POSTED facebook@Vinzap-Finds 33486de0: 29393433746930230",
-  "15:46:40 FAILED post facebook@Vijayendra-Singh 33486de0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesk-pjETQP2GaC_HoqAbecmWqCNaIveJKoZZJgiUADjTRMM5YHMoJVHsSI8jdBZcnp_IM6CgiRNDz7u-8elKKfKN83dppXql6wcJQ1TQ66cgEaeEGyPFX0dVzfgzYHcVNSA-EMxR4YM557kai6i9XkAuAITepZlW_SJwHFcbJwSavAV4y9sL7IaAEZRGE2xoPCdGJWd5POPIJnktl1FDbqdMXeJM-5khAtwDJk5cBQF7zcqflD5NVgTacU8vfqXm-gznH08XPf_2yYFcUJL3dPjJLeUM1KZ0Qij5AzR-0NAoh28lCOp0BEfzZCpUdDg_nA\",\"help_cente",
-  "15:46:44 POSTED youtube 33486de0: jJ_WEEBGwdY",
   "15:47:16 STORY POSTED instagram@Vinzap-Finds 33486de0",
   "15:47:25 STORY POSTED facebook@Vinzap-Finds 33486de0",
   "16:36:06 READY afad9b9b Ice Cube Tray (auto-approved)",
@@ -5688,13 +5684,17 @@
   "12:32:10 POSTED youtube c6fe4524: -PnxTB56O1Q",
   "12:32:50 STORY POSTED instagram@Vinzap-Finds c6fe4524",
   "12:33:00 STORY POSTED facebook@Vinzap-Finds c6fe4524",
-  "12:33:09 STORY POSTED facebook@Vijayendra-Singh c6fe4524"
+  "12:33:09 STORY POSTED facebook@Vijayendra-Singh c6fe4524",
+  "13:01:58 READY 5a0f2e58 Soap Dispensing Dishwand Scrubber Brush, (auto-approved)",
+  "13:02:11 POSTED instagram@Vinzap-Finds 5a0f2e58: 17919160884459563",
+  "13:02:16 POSTED facebook@Vinzap-Finds 5a0f2e58: 1428352113685678_122113552827501659",
+  "13:02:21 POSTED facebook@Vijayendra-Singh 5a0f2e58: 1317760538089559_122124150615480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793257273.758251,
-  "facebook@Vinzap-Finds": 1793257273.758251,
-  "facebook@Vijayendra-Singh": 1793257273.758251,
+  "instagram@Vinzap-Finds": 1793259118.8180454,
+  "facebook@Vinzap-Finds": 1793259118.8180454,
+  "facebook@Vijayendra-Singh": 1793259118.8180454,
   "youtube": 1793257273.758251
  },
- "n": 221
+ "n": 222
 }
