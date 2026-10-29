@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "6e0e8faa",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Plastic Champagne Flutes Wine",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "Set of 6 reusable champagne",
-     "Made from durable",
-     "Elegant stemmed design looks"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Reusable Plastic Champagne Flutes Wine | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Plastic Champagne Flutes Wine"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Plastic Champagne Flutes Wine\n✔ Set of 6 reusable champagne\n✔ Made from durable\n✔ Elegant stemmed design looks\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Reusable Plastic Champagne Flutes Wine | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792942275.961005,
-     "id": "18129545884873325",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792942275.961005,
-     "id": "2005917763406662",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792942275.961005,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpvEl-5HcUqHVjZlF4fbem7A"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792942275.961005,
-     "id": "283nxElTqOY",
-     "dry": false
-    }
-   },
-   "created": 1792942250.036049,
-   "after": 0,
-   "handle": "reusable-plastic-champagne-flutes-wine-glasses-set-assorted-colours-6-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/reusable-plastic-champagne-flutes-wine-glasses-set-assorted-colours-6-pc-set",
-   "file": "6e0e8faa.mp4",
-   "thumb": "6e0e8faa_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18021809063731621"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1541522751334820"
-    }
-   }
-  },
-  {
    "id": "77e50208",
    "status": "posted",
    "kind": "image",
@@ -5507,17 +5429,87 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-meat-skewer-kebab-maker-seekh-kebab-mould-bbq-making-tool-1-pc",
    "file": "9560027d.jpg",
    "thumb": "9560027d.jpg"
+  },
+  {
+   "id": "93667b92",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "9 in 1 Snack Serving Plates Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "9 in 1 design for serving",
+     "Separate compartments for neat",
+     "Lightweight and easy to handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "9 in 1 Snack Serving Plates Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "9 in 1 Snack Serving Plates Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n9 in 1 Snack Serving Plates Set\n✔ 9 in 1 design for serving\n✔ Separate compartments for neat\n✔ Lightweight and easy to handle\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "9 in 1 Snack Serving Plates Set | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793282489.6730797,
+     "id": "18166530634491953",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793282489.6730797,
+     "id": "1675315860863379",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793282489.6730797,
+     "id": "1783104939582313",
+     "dry": false
+    }
+   },
+   "created": 1793282462.731179,
+   "after": 0,
+   "handle": "9-in-1-plastic-snack-serving-plates-1-set",
+   "product_url": "https://www.vinzapstore.in/products/9-in-1-plastic-snack-serving-plates-1-set",
+   "file": "93667b92.mp4",
+   "thumb": "93667b92_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17988997974094521"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": false,
+     "error": "Remote end closed connection without response"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1152479840851320"
+    }
+   }
   }
  ],
- "last_post": 1793280656.8610787,
+ "last_post": 1793282489.6730797,
  "log": [
-  "12:00:47 READY c01ecf2a Stainless Steel Citrus Juicer, Manual Hand (auto-approved)",
-  "12:01:01 POSTED instagram@Vinzap-Finds c01ecf2a: 18094023689682995",
-  "12:01:05 POSTED facebook@Vinzap-Finds c01ecf2a: 1428352113685678_122113191111501659",
-  "12:01:09 POSTED facebook@Vijayendra-Singh c01ecf2a: 1317760538089559_122123813925480728",
-  "12:32:37 READY 8771ae49 Oil Proof Aluminium Foil Wallpaper | Kitchen Organization (auto-approved)",
-  "12:33:14 POSTED instagram@Vinzap-Finds 8771ae49: 18170179915475115",
-  "12:33:18 POSTED facebook@Vinzap-Finds 8771ae49: 1689281705966565",
   "12:33:22 POSTED facebook@Vijayendra-Singh 8771ae49: 1891763765324690",
   "12:33:27 POSTED youtube 8771ae49: nGdulB54hW4",
   "12:33:58 STORY POSTED instagram@Vinzap-Finds 8771ae49",
@@ -5710,13 +5702,20 @@
   "19:00:56 READY 9560027d Seekh Kebab Maker Mould Plastic Meat Skewer (auto-approved)",
   "19:01:09 POSTED instagram@Vinzap-Finds 9560027d: 18075592652770584",
   "19:01:13 POSTED facebook@Vinzap-Finds 9560027d: 1428352113685678_122113666119501659",
-  "19:01:16 POSTED facebook@Vijayendra-Singh 9560027d: 1317760538089559_122124238509480728"
+  "19:01:16 POSTED facebook@Vijayendra-Singh 9560027d: 1317760538089559_122124238509480728",
+  "19:31:29 READY 93667b92 9 in 1 Snack Serving Plates Set | Diwali (auto-approved)",
+  "19:32:07 POSTED instagram@Vinzap-Finds 93667b92: 18166530634491953",
+  "19:32:13 POSTED facebook@Vinzap-Finds 93667b92: 1675315860863379",
+  "19:32:17 POSTED facebook@Vijayendra-Singh 93667b92: 1783104939582313",
+  "19:32:51 STORY POSTED instagram@Vinzap-Finds 93667b92",
+  "19:33:04 STORY FAILED facebook@Vinzap-Finds 93667b92: Remote end closed connection without response",
+  "19:33:16 STORY POSTED facebook@Vijayendra-Singh 93667b92"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793280656.8610787,
-  "facebook@Vinzap-Finds": 1793280656.8610787,
-  "facebook@Vijayendra-Singh": 1793280656.8610787,
+  "instagram@Vinzap-Finds": 1793282489.6730797,
+  "facebook@Vinzap-Finds": 1793282489.6730797,
+  "facebook@Vijayendra-Singh": 1793282489.6730797,
   "youtube": 1793278872.7870185
  },
- "n": 234
+ "n": 235
 }
