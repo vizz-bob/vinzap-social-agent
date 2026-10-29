@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "930ca079",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Supermom Spring Masher Stainless Steel",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 419,
-    "was": 0,
-    "feats": [
-     "Strong stainless steel spring",
-     "Ergonomic handle with non-slip",
-     "Ideal for potatoes"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Supermom Spring Masher Stainless Steel | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Spring Masher Stainless Steel"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Spring Masher Stainless Steel\n✔ Strong stainless steel spring\n✔ Ergonomic handle with non-slip\n✔ Ideal for potatoes\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Supermom Spring Masher Stainless Steel",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792922449.7223032,
-     "id": "17974031172160004",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792922449.7223032,
-     "id": "1428352113685678_122112175431501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792922449.7223032,
-     "id": "1317760538089559_122122799025480728",
-     "dry": false
-    }
-   },
-   "created": 1792922447.4430568,
-   "after": 0,
-   "handle": "supermom-spring-omasher-heavy-duty-stainless-steel-vegetable-potato-masher",
-   "product_url": "https://www.vinzapstore.in/products/supermom-spring-omasher-heavy-duty-stainless-steel-vegetable-potato-masher",
-   "file": "930ca079.jpg",
-   "thumb": "930ca079.jpg"
-  },
-  {
    "id": "3c8ea193",
    "status": "scheduled",
    "kind": "reel",
@@ -5479,14 +5417,72 @@
      "id": "1829461588278524"
     }
    }
+  },
+  {
+   "id": "e5bc05e3",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ice Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 259,
+    "was": 0,
+    "feats": [
+     "2-in-1 Compartment: Features",
+     "Durable Construction: Made from",
+     "Space-Saving Design: Ideal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Ice Tray | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Tray\n✔ 2-in-1 Compartment: Features\n✔ Durable Construction: Made from\n✔ Space-Saving Design: Ideal\n\nOnly ₹259. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#diwali #trendingshorts",
+   "title": "Ice Tray",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793262720.6377027,
+     "id": "18077481587569869",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793262720.6377027,
+     "id": "1428352113685678_122113566771501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793262720.6377027,
+     "id": "1317760538089559_122124162285480728",
+     "dry": false
+    }
+   },
+   "created": 1793262718.163748,
+   "after": 0,
+   "handle": "supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
+   "file": "e5bc05e3.jpg",
+   "thumb": "e5bc05e3.jpg"
   }
  ],
- "last_post": 1793260883.5445542,
+ "last_post": 1793262720.6377027,
  "log": [
-  "17:01:22 READY ba8f2807 Kitchen Dishwashing Glove | Diwali (auto-approved)",
-  "17:02:03 POSTED instagram@Vinzap-Finds ba8f2807: 18007507910791637",
-  "17:02:09 POSTED facebook@Vinzap-Finds ba8f2807: 982600031562428",
-  "17:02:10 FAILED post facebook@Vijayendra-Singh ba8f2807: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJTBbFiVS6Nl92wh8P54zcfIBTPyqC4VeQX-WSx3ZWZKb8elEme3JYjDtPcbizEIVx5TBd4k9LM8-hX2fIpmhHHKz5i62269PNCQieFlnKGt58PIaq71wUacV7UlFR_ZQAIOFHJEUbs-X67vfFK5qdzpfWoElfG4lbw1DG6IZgDeyFNvUOb7JeftSNph4TPwDpJvt1s-cV_K9jdgLG9jaFK7t1VzaI6Vw5Gf9EdQ2fle16wQZT8KeiV0hic0AnEnTmVA77EeoQ-FqAhFibxn84HVikPY71UovgVDksGkF3ecPnqtczffJIZIkt0aHxsakH\",\"help_cent",
   "17:02:43 STORY POSTED instagram@Vinzap-Finds ba8f2807",
   "17:02:53 STORY POSTED facebook@Vinzap-Finds ba8f2807",
   "17:31:08 READY 1b9140d7 Chalkboard Sticker Labels (auto-approved)",
@@ -5682,13 +5678,17 @@
   "13:32:05 POSTED facebook@Vinzap-Finds 2022d436: 2314350789321668",
   "13:32:05 FAILED post facebook@Vijayendra-Singh 2022d436: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes8iSvXkzIsoZT05v35_ysVC0MRftzrFb9k3chDSyzdl08yQWSA2LmaXf3YChBlWCWzI2Ni6_MlFkw2xo99jS4Quhy1VtEwaWwizKx7uNBcACfbrJ1bxRSEoIKGBPu66FlHusoXcrzfa0tLDJvmguF4GSqvXlQW7szPLr9L4vjV_RmtdJuDid-buHJmHx_VwiSW5tVy9tqLM3u1iwJEZleJqf4LhGbYRqkx_Xrqexct9XEeO7YB-57TK_oyxwk7D1roHNU3bptolxKfa5NKELFbJ8u8EZSXGIuAOdMK0PNOtv9Yn_VKwh4V37S3m6i5_z0\",\"help_cente",
   "13:32:35 STORY POSTED instagram@Vinzap-Finds 2022d436",
-  "13:32:42 STORY POSTED facebook@Vinzap-Finds 2022d436"
+  "13:32:42 STORY POSTED facebook@Vinzap-Finds 2022d436",
+  "14:02:00 READY e5bc05e3 Ice Tray (auto-approved)",
+  "14:02:14 POSTED instagram@Vinzap-Finds e5bc05e3: 18077481587569869",
+  "14:02:20 POSTED facebook@Vinzap-Finds e5bc05e3: 1428352113685678_122113566771501659",
+  "14:02:25 POSTED facebook@Vijayendra-Singh e5bc05e3: 1317760538089559_122124162285480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793260883.5445542,
-  "facebook@Vinzap-Finds": 1793260883.5445542,
-  "facebook@Vijayendra-Singh": 1793260883.5445542,
+  "instagram@Vinzap-Finds": 1793262720.6377027,
+  "facebook@Vinzap-Finds": 1793262720.6377027,
+  "facebook@Vijayendra-Singh": 1793262720.6377027,
   "youtube": 1793257273.758251
  },
- "n": 223
+ "n": 224
 }
