@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "d0804ca3",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "2-in-1 Oil Dispenser Bottle",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Glass bottle",
-     "Silicone brush in the cap",
-     "Roughly 7 x 7 x 19 cm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "2-in-1 Oil Dispenser Bottle | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "2-in-1 Oil Dispenser Bottle"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Oil Dispenser Bottle\n✔ Glass bottle\n✔ Silicone brush in the cap\n✔ Roughly 7 x 7 x 19 cm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
-   "title": "2-in-1 Oil Dispenser Bottle",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792933249.4946182,
-     "id": "17999376269828887",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792933249.4946182,
-     "id": "1428352113685678_122112230391501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792933249.4946182,
-     "id": "1317760538089559_122122836459480728",
-     "dry": false
-    }
-   },
-   "created": 1792933247.3210995,
-   "after": 0,
-   "handle": "2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
-   "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
-   "file": "d0804ca3.jpg",
-   "thumb": "d0804ca3.jpg"
-  },
-  {
    "id": "d0a046a0",
    "status": "scheduled",
    "kind": "reel",
@@ -5491,14 +5429,72 @@
      "id": "1505248238326859"
     }
    }
+  },
+  {
+   "id": "911599b9",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Wall Mount WiFi Router Holder Shelf",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Holds router neatly on the wall",
+     "Sturdy plastic bracket build",
+     "Open frame for full airflow"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Wall Mount WiFi Router Holder Shelf | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Wall Mount WiFi Router Holder Shelf"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mount WiFi Router Holder Shelf\n✔ Holds router neatly on the wall\n✔ Sturdy plastic bracket build\n✔ Open frame for full airflow\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Wall Mount WiFi Router Holder Shelf",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793273451.126254,
+     "id": "17878285518572491",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793273451.126254,
+     "id": "1428352113685678_122113616349501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793273451.126254,
+     "id": "1317760538089559_122124210165480728",
+     "dry": false
+    }
+   },
+   "created": 1793273448.8636062,
+   "after": 0,
+   "handle": "wall-mount-wifi-router-bracket-holder-stand-shelf-for-set-top-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/wall-mount-wifi-router-bracket-holder-stand-shelf-for-set-top-box-1-pc",
+   "file": "911599b9.jpg",
+   "thumb": "911599b9.jpg"
   }
  ],
- "last_post": 1793271682.3036852,
+ "last_post": 1793273451.126254,
  "log": [
-  "20:27:54 POSTED facebook@Vinzap-Finds e99fc182: 1098229712814142",
-  "20:27:56 FAILED post facebook@Vijayendra-Singh e99fc182: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevyrKzMBgOvXMAJ4H5V-xaEOZGBYCvw6GzAwtZkZ3q6fGt7o4xKSDB8ZeFW0nSBCHvBeSE8xUI2KvzFzsay9vIIP9YN9gVwO1xlF31ErZ0zfbCVqEslmVz4M8y3FCmZJm8zxrePVVEOzj3R-B5CJldaFzBJ9Ih46JmQsZ-5UYCMIp42HPMQW8HwPjt2DGKWGlRS-2f8fzH57kknj27pM14X10zvmq5xmsSv1XrDtMDO4Wltw2j27yf1crGb46oAZd5ODyKZ5ZbpDEBtfDjQYiof5y6_KiWWqpb9Uo4rWG24A0gkWscMCQz0XReRvSCTRMbR\",\"help_cent",
-  "20:28:32 STORY POSTED instagram@Vinzap-Finds e99fc182",
-  "20:28:43 STORY POSTED facebook@Vinzap-Finds e99fc182",
   "21:01:03 READY 96c5f31b Apex Pyramid Unbreakable Plastic Glass 300ml (auto-approved)",
   "21:01:15 POSTED instagram@Vinzap-Finds 96c5f31b: 17962517690999187",
   "21:01:21 POSTED facebook@Vinzap-Finds 96c5f31b: 1428352113685678_122113000761501659",
@@ -5694,13 +5690,17 @@
   "16:32:06 POSTED facebook@Vijayendra-Singh bca457cb: 2200924880455534",
   "16:32:39 STORY POSTED instagram@Vinzap-Finds bca457cb",
   "16:32:49 STORY POSTED facebook@Vinzap-Finds bca457cb",
-  "16:32:58 STORY POSTED facebook@Vijayendra-Singh bca457cb"
+  "16:32:58 STORY POSTED facebook@Vijayendra-Singh bca457cb",
+  "17:00:51 READY 911599b9 Wall Mount WiFi Router Holder Shelf (auto-approved)",
+  "17:01:02 POSTED instagram@Vinzap-Finds 911599b9: 17878285518572491",
+  "17:01:06 POSTED facebook@Vinzap-Finds 911599b9: 1428352113685678_122113616349501659",
+  "17:01:09 POSTED facebook@Vijayendra-Singh 911599b9: 1317760538089559_122124210165480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793271682.3036852,
-  "facebook@Vinzap-Finds": 1793271682.3036852,
-  "facebook@Vijayendra-Singh": 1793271682.3036852,
+  "instagram@Vinzap-Finds": 1793273451.126254,
+  "facebook@Vinzap-Finds": 1793273451.126254,
+  "facebook@Vijayendra-Singh": 1793273451.126254,
   "youtube": 1793268118.8750515
  },
- "n": 229
+ "n": 230
 }
