@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "6017ea8f",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "1 Litre Sports Sipper Water Bottle",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Capacity: approx. 1000 ml",
-     "Flip-lock sipper cap",
-     "Carry strap for easy holding"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "1 Litre Sports Sipper Water Bottle | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "1 Litre Sports Sipper Water Bottle"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n1 Litre Sports Sipper Water Bottle\n✔ Capacity: approx. 1000 ml\n✔ Flip-lock sipper cap\n✔ Carry strap for easy holding\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
-   "title": "1 Litre Sports Sipper Water Bottle",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792926064.0572188,
-     "id": "17977603476138817",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792926064.0572188,
-     "id": "1428352113685678_122112192981501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792926064.0572188,
-     "id": "1317760538089559_122122811055480728",
-     "dry": false
-    }
-   },
-   "created": 1792926062.0894427,
-   "after": 0,
-   "handle": "aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
-   "product_url": "https://www.vinzapstore.in/products/aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
-   "file": "6017ea8f.jpg",
-   "thumb": "6017ea8f.jpg"
-  },
-  {
    "id": "60ca7710",
    "status": "scheduled",
    "kind": "reel",
@@ -5479,14 +5417,72 @@
      "id": "2191994911725103"
     }
    }
+  },
+  {
+   "id": "5ab4240b",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Compact Coffee Mug 300ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 349,
+    "was": 0,
+    "feats": [
+     "300 ML is the size you finish",
+     "Lid keeps the drink warm through",
+     "Slim handle sits close to the body"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Apex Compact Coffee Mug 300ml | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Compact Coffee Mug 300ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Compact Coffee Mug 300ml\n✔ 300 ML is the size you finish\n✔ Lid keeps the drink warm through\n✔ Slim handle sits close to the body\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#trendingshorts #kitchengadgets",
+   "title": "Apex Compact Coffee Mug 300ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793266257.01579,
+     "id": "18192284446404430",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793266257.01579,
+     "id": "1428352113685678_122113584165501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793266257.01579,
+     "id": "1317760538089559_122124183309480728",
+     "dry": false
+    }
+   },
+   "created": 1793266255.0517287,
+   "after": 0,
+   "handle": "apex-compact-coffee-mug-300-ml-with-handle-and-lid-matte-black-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-compact-coffee-mug-300-ml-with-handle-and-lid-matte-black-1-pc",
+   "file": "5ab4240b.jpg",
+   "thumb": "5ab4240b.jpg"
   }
  ],
- "last_post": 1793264490.0471513,
+ "last_post": 1793266257.01579,
  "log": [
-  "18:01:00 READY 72617307 Extra Large Leakproof Water Bottle 1700ml | Cooking (auto-approved)",
-  "18:01:32 POSTED instagram@Vinzap-Finds 72617307: 18119296847600038",
-  "18:01:38 POSTED facebook@Vinzap-Finds 72617307: 2200637173851050",
-  "18:01:40 FAILED post facebook@Vijayendra-Singh 72617307: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeti2vTRnpn99gb5owsry5e1i2ja7aM8CxgYuecsTOE2MS_CBnAyHd9q5DMcOsJg8i3re0WBEPJLDq3--bKRBwwKdefZz1_9rDCC5COSqwNgr4up6qXQIA2mKNBN5Iw1Cgc_4LesVfJIRbdH7l4h577YYlF9QfXT9j_yGAjRjxJVOnfCH-G9XEJs_pivNoeLrj8CgMUBIyGvu5YxXrLoTFjSHiCEzJK2_60dFxulkA5K-fd_cUmHk1_CJz8DT4YaaKveHN5s2mEH3hjCdueNKBM2HZXCkjx9gQDSYEuUjCzrx6ibf6hAMni_AvlOvxRuYwA\",\"help_cente",
   "18:02:13 STORY POSTED instagram@Vinzap-Finds 72617307",
   "18:02:21 STORY POSTED facebook@Vinzap-Finds 72617307",
   "18:51:14 READY 11a2b137 Fresca Stainless Steel Lunch Box (auto-approved)",
@@ -5682,13 +5678,17 @@
   "14:32:08 POSTED facebook@Vinzap-Finds a12d713f: 1647622453641856",
   "14:32:09 FAILED post facebook@Vijayendra-Singh a12d713f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevwsjdfE8o2d05jnAYqH76sIQXlUEVtUVPnsWzF-tFwfNyjyWdmSzk5YFwUZUiiXypbIHHbB1J79teNuPig5kz-nl9LeDwvYNavx5HqeH-tqxft2hO2fHeddMt3DRHzgD7sNR93KJpwrFF5tcEuc01ZEVbbx8keZHeZ9uGHtsb5UL4O5q9iILIr_r-jwN68RBKpe_lLHjeCxHrK_Ef4k-u8guxrSyrOJjJMdfdSY3wnR-c6F0IFNpQufyvY3MWtvrKCquppRcPvYxjn_pJ5J8jjXl0TV-P3-3YBCvY90MAVqJUKXqkjZTakPprCEylgDXM\",\"help_cente",
   "14:32:38 STORY POSTED instagram@Vinzap-Finds a12d713f",
-  "14:32:46 STORY POSTED facebook@Vinzap-Finds a12d713f"
+  "14:32:46 STORY POSTED facebook@Vinzap-Finds a12d713f",
+  "15:00:57 READY 5ab4240b Apex Compact Coffee Mug 300ml (auto-approved)",
+  "15:01:09 POSTED instagram@Vinzap-Finds 5ab4240b: 18192284446404430",
+  "15:01:13 POSTED facebook@Vinzap-Finds 5ab4240b: 1428352113685678_122113584165501659",
+  "15:01:19 POSTED facebook@Vijayendra-Singh 5ab4240b: 1317760538089559_122124183309480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793264490.0471513,
-  "facebook@Vinzap-Finds": 1793264490.0471513,
-  "facebook@Vijayendra-Singh": 1793264490.0471513,
-  "youtube": 1793257273.758251
+  "instagram@Vinzap-Finds": 1793266257.01579,
+  "facebook@Vinzap-Finds": 1793266257.01579,
+  "facebook@Vijayendra-Singh": 1793266257.01579,
+  "youtube": 1793256853.758251
  },
- "n": 225
+ "n": 226
 }
