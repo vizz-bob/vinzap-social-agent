@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "3c8ea193",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 159,
-    "was": 0,
-    "feats": [
-     "The mini silicone mold allows you",
-     "Easy to use",
-     "Freezing"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Silicone Ice Cube Tray | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Tray\n✔ The mini silicone mold allows you\n✔ Easy to use\n✔ Freezing\n\nOnly ₹159. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Silicone Ice Cube Tray | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792924280.9507372,
-     "id": "18128079385893398",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792924280.9507372,
-     "id": "2096247690977624",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792924280.9507372,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesfKCdSlM68GaKp5Q_RsxtP9w"
-    }
-   },
-   "created": 1792924254.919158,
-   "after": 0,
-   "handle": "silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-5",
-   "product_url": "https://www.vinzapstore.in/products/silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-5",
-   "file": "3c8ea193.mp4",
-   "thumb": "3c8ea193_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18130835566698080"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1748535846243918"
-    }
-   }
-  },
-  {
    "id": "6017ea8f",
    "status": "posted",
    "kind": "image",
@@ -5479,16 +5407,82 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
    "file": "e5bc05e3.jpg",
    "thumb": "e5bc05e3.jpg"
+  },
+  {
+   "id": "a12d713f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Supermom Multipurpose Triangular Kitchen",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "Multipurpose: vegetables",
+     "Evenly spaced drainage holes",
+     "Handle for a firm grip when"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Supermom Multipurpose Triangular Kitchen | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Supermom Multipurpose Triangular Kitchen"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Multipurpose Triangular Kitchen\n✔ Multipurpose: vegetables\n✔ Evenly spaced drainage holes\n✔ Handle for a firm grip when\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Supermom Multipurpose Triangular Kitchen | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793264490.0471513,
+     "id": "17878508583573838",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793264490.0471513,
+     "id": "1647622453641856",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793264490.0471513,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevwsjdfE8o2d05jnAYqH76sIQ"
+    }
+   },
+   "created": 1793264464.5103197,
+   "after": 0,
+   "handle": "supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
+   "file": "a12d713f.mp4",
+   "thumb": "a12d713f_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18120031061000374"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2191994911725103"
+    }
+   }
   }
  ],
- "last_post": 1793262720.6377027,
+ "last_post": 1793264490.0471513,
  "log": [
-  "17:02:43 STORY POSTED instagram@Vinzap-Finds ba8f2807",
-  "17:02:53 STORY POSTED facebook@Vinzap-Finds ba8f2807",
-  "17:31:08 READY 1b9140d7 Chalkboard Sticker Labels (auto-approved)",
-  "17:31:15 POSTED instagram@Vinzap-Finds 1b9140d7: 18183065287438014",
-  "17:31:18 POSTED facebook@Vinzap-Finds 1b9140d7: 1428352113685678_122112940479501659",
-  "17:31:21 POSTED facebook@Vijayendra-Singh 1b9140d7: 1317760538089559_122123527587480728",
   "18:01:00 READY 72617307 Extra Large Leakproof Water Bottle 1700ml | Cooking (auto-approved)",
   "18:01:32 POSTED instagram@Vinzap-Finds 72617307: 18119296847600038",
   "18:01:38 POSTED facebook@Vinzap-Finds 72617307: 2200637173851050",
@@ -5682,13 +5676,19 @@
   "14:02:00 READY e5bc05e3 Ice Tray (auto-approved)",
   "14:02:14 POSTED instagram@Vinzap-Finds e5bc05e3: 18077481587569869",
   "14:02:20 POSTED facebook@Vinzap-Finds e5bc05e3: 1428352113685678_122113566771501659",
-  "14:02:25 POSTED facebook@Vijayendra-Singh e5bc05e3: 1317760538089559_122124162285480728"
+  "14:02:25 POSTED facebook@Vijayendra-Singh e5bc05e3: 1317760538089559_122124162285480728",
+  "14:31:30 READY a12d713f Supermom Multipurpose Triangular Kitchen | Home Decor Ideas (auto-approved)",
+  "14:32:03 POSTED instagram@Vinzap-Finds a12d713f: 17878508583573838",
+  "14:32:08 POSTED facebook@Vinzap-Finds a12d713f: 1647622453641856",
+  "14:32:09 FAILED post facebook@Vijayendra-Singh a12d713f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevwsjdfE8o2d05jnAYqH76sIQXlUEVtUVPnsWzF-tFwfNyjyWdmSzk5YFwUZUiiXypbIHHbB1J79teNuPig5kz-nl9LeDwvYNavx5HqeH-tqxft2hO2fHeddMt3DRHzgD7sNR93KJpwrFF5tcEuc01ZEVbbx8keZHeZ9uGHtsb5UL4O5q9iILIr_r-jwN68RBKpe_lLHjeCxHrK_Ef4k-u8guxrSyrOJjJMdfdSY3wnR-c6F0IFNpQufyvY3MWtvrKCquppRcPvYxjn_pJ5J8jjXl0TV-P3-3YBCvY90MAVqJUKXqkjZTakPprCEylgDXM\",\"help_cente",
+  "14:32:38 STORY POSTED instagram@Vinzap-Finds a12d713f",
+  "14:32:46 STORY POSTED facebook@Vinzap-Finds a12d713f"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793262720.6377027,
-  "facebook@Vinzap-Finds": 1793262720.6377027,
-  "facebook@Vijayendra-Singh": 1793262720.6377027,
+  "instagram@Vinzap-Finds": 1793264490.0471513,
+  "facebook@Vinzap-Finds": 1793264490.0471513,
+  "facebook@Vijayendra-Singh": 1793264490.0471513,
   "youtube": 1793257273.758251
  },
- "n": 224
+ "n": 225
 }
