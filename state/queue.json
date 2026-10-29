@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "40c063dd",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "USB Rechargeable Electric Water Dispenser",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 699,
-    "was": 0,
-    "feats": [
-     "Automatic electric pump",
-     "Includes remote control",
-     "USB rechargeable built-in battery"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "USB Rechargeable Electric Water Dispenser | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "USB Rechargeable Electric Water Dispenser"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUSB Rechargeable Electric Water Dispenser\n✔ Automatic electric pump\n✔ Includes remote control\n✔ USB rechargeable built-in battery\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
-   "title": "USB Rechargeable Electric Water Dispenser | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792920683.0944185,
-     "id": "18150452725512818",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792920683.0944185,
-     "id": "1661172032263519",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792920683.0944185,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetpU64AC_a-aw1TK_9dZ4MNgv"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792920683.0944185,
-     "id": "ItfHTvJy_Y8",
-     "dry": false
-    }
-   },
-   "created": 1792920656.2485056,
-   "after": 0,
-   "handle": "usb-rechargeable-electric-water-dispenser-pump-with-remote-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/usb-rechargeable-electric-water-dispenser-pump-with-remote-1-pc",
-   "file": "40c063dd.mp4",
-   "thumb": "40c063dd_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18155502310535891"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1660231918831683"
-    }
-   }
-  },
-  {
    "id": "930ca079",
    "status": "posted",
    "kind": "image",
@@ -5485,16 +5407,82 @@
    "product_url": "https://www.vinzapstore.in/products/heavy-duty-soap-dispensing-dishwand-scrubber-brush-1-pc",
    "file": "5a0f2e58.jpg",
    "thumb": "5a0f2e58.jpg"
+  },
+  {
+   "id": "2022d436",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Transparent Plastic Water Dipper Scoop",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Roomy water scooping bowl",
+     "Comfortable long handle grip",
+     "Shaped spout for neat pouring"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Transparent Plastic Water Dipper Scoop | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Transparent Plastic Water Dipper Scoop"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Plastic Water Dipper Scoop\n✔ Roomy water scooping bowl\n✔ Comfortable long handle grip\n✔ Shaped spout for neat pouring\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas #bathroomaccessories\n#homedecorideas #diwali",
+   "title": "Transparent Plastic Water Dipper Scoop | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793260883.5445542,
+     "id": "17864748585696151",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793260883.5445542,
+     "id": "2314350789321668",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793260883.5445542,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes8iSvXkzIsoZT05v35_ysVC0"
+    }
+   },
+   "created": 1793260855.7133083,
+   "after": 0,
+   "handle": "transparent-plastic-water-dipper-scoop-with-handle-for-bathroom-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-water-dipper-scoop-with-handle-for-bathroom-1-pc",
+   "file": "2022d436.mp4",
+   "thumb": "2022d436_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17967225324218744"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1829461588278524"
+    }
+   }
   }
  ],
- "last_post": 1793259118.8180454,
+ "last_post": 1793260883.5445542,
  "log": [
-  "15:47:16 STORY POSTED instagram@Vinzap-Finds 33486de0",
-  "15:47:25 STORY POSTED facebook@Vinzap-Finds 33486de0",
-  "16:36:06 READY afad9b9b Ice Cube Tray (auto-approved)",
-  "16:36:19 POSTED instagram@Vinzap-Finds afad9b9b: 18141029791713265",
-  "16:36:23 POSTED facebook@Vinzap-Finds afad9b9b: 1428352113685678_122112928047501659",
-  "16:36:27 POSTED facebook@Vijayendra-Singh afad9b9b: 1317760538089559_122123508837480728",
   "17:01:22 READY ba8f2807 Kitchen Dishwashing Glove | Diwali (auto-approved)",
   "17:02:03 POSTED instagram@Vinzap-Finds ba8f2807: 18007507910791637",
   "17:02:09 POSTED facebook@Vinzap-Finds ba8f2807: 982600031562428",
@@ -5688,13 +5676,19 @@
   "13:01:58 READY 5a0f2e58 Soap Dispensing Dishwand Scrubber Brush, (auto-approved)",
   "13:02:11 POSTED instagram@Vinzap-Finds 5a0f2e58: 17919160884459563",
   "13:02:16 POSTED facebook@Vinzap-Finds 5a0f2e58: 1428352113685678_122113552827501659",
-  "13:02:21 POSTED facebook@Vijayendra-Singh 5a0f2e58: 1317760538089559_122124150615480728"
+  "13:02:21 POSTED facebook@Vijayendra-Singh 5a0f2e58: 1317760538089559_122124150615480728",
+  "13:31:23 READY 2022d436 Transparent Plastic Water Dipper Scoop | Home Decor Ideas (auto-approved)",
+  "13:32:00 POSTED instagram@Vinzap-Finds 2022d436: 17864748585696151",
+  "13:32:05 POSTED facebook@Vinzap-Finds 2022d436: 2314350789321668",
+  "13:32:05 FAILED post facebook@Vijayendra-Singh 2022d436: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes8iSvXkzIsoZT05v35_ysVC0MRftzrFb9k3chDSyzdl08yQWSA2LmaXf3YChBlWCWzI2Ni6_MlFkw2xo99jS4Quhy1VtEwaWwizKx7uNBcACfbrJ1bxRSEoIKGBPu66FlHusoXcrzfa0tLDJvmguF4GSqvXlQW7szPLr9L4vjV_RmtdJuDid-buHJmHx_VwiSW5tVy9tqLM3u1iwJEZleJqf4LhGbYRqkx_Xrqexct9XEeO7YB-57TK_oyxwk7D1roHNU3bptolxKfa5NKELFbJ8u8EZSXGIuAOdMK0PNOtv9Yn_VKwh4V37S3m6i5_z0\",\"help_cente",
+  "13:32:35 STORY POSTED instagram@Vinzap-Finds 2022d436",
+  "13:32:42 STORY POSTED facebook@Vinzap-Finds 2022d436"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793259118.8180454,
-  "facebook@Vinzap-Finds": 1793259118.8180454,
-  "facebook@Vijayendra-Singh": 1793259118.8180454,
+  "instagram@Vinzap-Finds": 1793260883.5445542,
+  "facebook@Vinzap-Finds": 1793260883.5445542,
+  "facebook@Vijayendra-Singh": 1793260883.5445542,
   "youtube": 1793257273.758251
  },
- "n": 222
+ "n": 223
 }
