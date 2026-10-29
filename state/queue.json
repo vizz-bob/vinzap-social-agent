@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "4139ee93",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Dough Scraper Cutter Large",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Large 22 x 12 cm heavy-duty",
-     "Graduated centimetre measurement",
-     "Measurement conversion chart"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Stainless Steel Dough Scraper Cutter Large | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Dough Scraper Cutter Large"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Dough Scraper Cutter Large\n✔ Large 22 x 12 cm heavy-duty\n✔ Graduated centimetre measurement\n✔ Measurement conversion chart\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Stainless Steel Dough Scraper Cutter Large",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792947663.5252223,
-     "id": "17881228773544931",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792947663.5252223,
-     "id": "1428352113685678_122112314715501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792947663.5252223,
-     "id": "1317760538089559_122122893585480728",
-     "dry": false
-    }
-   },
-   "created": 1792947661.199695,
-   "after": 0,
-   "handle": "big-stainless-steel-dough-scraper-cutter-22-x-12-cm-with-scale-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/big-stainless-steel-dough-scraper-cutter-22-x-12-cm-with-scale-1-pc",
-   "file": "4139ee93.jpg",
-   "thumb": "4139ee93.jpg"
-  },
-  {
    "id": "f375a3f3",
    "status": "scheduled",
    "kind": "reel",
@@ -5509,14 +5447,72 @@
      "id": "1910511439927344"
     }
    }
+  },
+  {
+   "id": "1730bd05",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Tortoise Shape Kankavati Kumkum Holder",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Tortoise-shaped decorative",
+     "Twin compartments for kumkum",
+     "Golden finish with red and green"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Tortoise Shape Kankavati Kumkum Holder"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTortoise Shape Kankavati Kumkum Holder\n✔ Tortoise-shaped decorative\n✔ Twin compartments for kumkum\n✔ Golden finish with red and green\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Tortoise Shape Kankavati Kumkum Holder",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793287858.2109363,
+     "id": "18135635299670985",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793287858.2109363,
+     "id": "1428352113685678_122113702911501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793287858.2109363,
+     "id": "1317760538089559_122124265803480728",
+     "dry": false
+    }
+   },
+   "created": 1793287854.7687612,
+   "after": 0,
+   "handle": "tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
+   "file": "1730bd05.jpg",
+   "thumb": "1730bd05.jpg"
   }
  ],
- "last_post": 1793286080.605912,
+ "last_post": 1793287858.2109363,
  "log": [
-  "13:33:31 POSTED facebook@Vinzap-Finds 82d6645a: 1355917404280469",
-  "13:33:33 FAILED post facebook@Vijayendra-Singh 82d6645a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesC5gpHQ02w9XJ5eMar-s4IrJ5uW_5tWkhTx8uZxLIzM8hUqdlScIUqw-LH-wWpo97c5QDZctVjOxsx1DbpSQ1o_r5FpBIw7kUdkZDj3Q7ts4lyRtehI6AqYZ3K6DAY3CZEMgVU7IxuaSsxA_mtQNayamjOS6SpF-MGvO7rIja-JAghUD-h4xacc0KutULWBXxdIHTpcTPGpoSR_luCtIxlf-EQIGk6D200yA0gj0_lAm0R8VOQNu55fv0Tea9gZk10jKMu7GXY0fMTy3SH8VdRSZrFGGmbMZUtzmJroIvzI6AssnswXLsmZ3OZGzKwVHc\",\"help_cente",
-  "13:34:02 STORY POSTED instagram@Vinzap-Finds 82d6645a",
-  "13:34:10 STORY POSTED facebook@Vinzap-Finds 82d6645a",
   "14:00:56 READY 6d68c058 Electric Glass Kettle 2 Litre (auto-approved)",
   "14:01:09 POSTED instagram@Vinzap-Finds 6d68c058: 17944775799368119",
   "14:01:13 POSTED facebook@Vinzap-Finds 6d68c058: 1428352113685678_122113214877501659",
@@ -5712,13 +5708,17 @@
   "20:32:03 POSTED facebook@Vijayendra-Singh 2341886f: 1635644698052175",
   "20:32:35 STORY POSTED instagram@Vinzap-Finds 2341886f",
   "20:32:45 STORY POSTED facebook@Vinzap-Finds 2341886f",
-  "20:32:55 STORY POSTED facebook@Vijayendra-Singh 2341886f"
+  "20:32:55 STORY POSTED facebook@Vijayendra-Singh 2341886f",
+  "21:00:58 READY 1730bd05 Tortoise Shape Kankavati Kumkum Holder (auto-approved)",
+  "21:01:10 POSTED instagram@Vinzap-Finds 1730bd05: 18135635299670985",
+  "21:01:14 POSTED facebook@Vinzap-Finds 1730bd05: 1428352113685678_122113702911501659",
+  "21:01:18 POSTED facebook@Vijayendra-Singh 1730bd05: 1317760538089559_122124265803480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793286080.605912,
-  "facebook@Vinzap-Finds": 1793286080.605912,
-  "facebook@Vijayendra-Singh": 1793286080.605912,
-  "youtube": 1793278872.7870185
+  "instagram@Vinzap-Finds": 1793287858.2109363,
+  "facebook@Vinzap-Finds": 1793287858.2109363,
+  "facebook@Vijayendra-Singh": 1793287858.2109363,
+  "youtube": 1793278452.7870185
  },
- "n": 237
+ "n": 238
 }
