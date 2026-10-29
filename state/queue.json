@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "62e05c4b",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "5-in-1 Stainless Steel Grater and Slicer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "5-in-1 multifunctional grater",
-     "High-quality food-grade stainless",
-     "Sharp blades for smooth"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "5-in-1 Stainless Steel Grater and Slicer | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "5-in-1 Stainless Steel Grater and Slicer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n5-in-1 Stainless Steel Grater and Slicer\n✔ 5-in-1 multifunctional grater\n✔ High-quality food-grade stainless\n✔ Sharp blades for smooth\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "5-in-1 Stainless Steel Grater and Slicer | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792938668.0546846,
-     "id": "18094874702184016",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792938668.0546846,
-     "id": "1661594102029609",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792938668.0546846,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuT4BrF1midimKwFcHKfsDiaC"
-    }
-   },
-   "created": 1792938642.140386,
-   "after": 0,
-   "handle": "supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
-   "file": "62e05c4b.mp4",
-   "thumb": "62e05c4b_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17992798626082087"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2458467684678836"
-    }
-   }
-  },
-  {
    "id": "984c38f0",
    "status": "posted",
    "kind": "image",
@@ -5496,18 +5424,93 @@
    "product_url": "https://www.vinzapstore.in/products/1344-silicone-dish-scrubber-sponge-mildew-free-non-stick-heat-resistant",
    "file": "c69f045d.jpg",
    "thumb": "c69f045d.jpg"
+  },
+  {
+   "id": "91723eb5",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ice Candy Popsicle Maker 8 Mould Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "✅ 8 Mold Capacity – Make 8",
+     "✅ Food-Grade Plastic – Safe",
+     "✅ Easy-Release Design – Smooth"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Ice Candy Popsicle Maker 8 Mould Set | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Candy Popsicle Maker 8 Mould Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Candy Popsicle Maker 8 Mould Set\n✔ ✅ 8 Mold Capacity – Make 8\n✔ ✅ Food-Grade Plastic – Safe\n✔ ✅ Easy-Release Design – Smooth\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Ice Candy Popsicle Maker 8 Mould Set | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793278872.7870185,
+     "id": "18429277162150963",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793278872.7870185,
+     "id": "1475165124495477",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793278872.7870185,
+     "id": "1898225241551415",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793278872.7870185,
+     "id": "kKUXBaUhrhw",
+     "dry": false
+    }
+   },
+   "created": 1793278855.8481941,
+   "after": 0,
+   "handle": "plastic-ice-candy-popsicle-maker-8-mold-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-ice-candy-popsicle-maker-8-mold-1-set",
+   "file": "91723eb5.mp4",
+   "thumb": "91723eb5_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18137323372657789"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2125717211394280"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1812924823163248"
+    }
+   }
   }
  ],
- "last_post": 1793277053.4455624,
+ "last_post": 1793278872.7870185,
  "log": [
-  "22:01:02 READY 6891ee5c Kankavati Kumkum Holder (auto-approved)",
-  "22:01:14 POSTED instagram@Vinzap-Finds 6891ee5c: 17895042429438468",
-  "22:01:19 POSTED facebook@Vinzap-Finds 6891ee5c: 1428352113685678_122113014909501659",
-  "22:01:23 POSTED facebook@Vijayendra-Singh 6891ee5c: 1317760538089559_122123615445480728",
-  "22:31:23 READY 88035b40 Cute Cartoon Double Layer Lunch Box | Diwali (auto-approved)",
-  "22:31:54 POSTED instagram@Vinzap-Finds 88035b40: 18113369378334827",
-  "22:31:59 POSTED facebook@Vinzap-Finds 88035b40: 1776020530119507",
-  "22:32:03 POSTED facebook@Vijayendra-Singh 88035b40: 1087186057441992",
   "22:32:09 POSTED youtube 88035b40: PUXjfJ87Au4",
   "22:32:39 STORY POSTED instagram@Vinzap-Finds 88035b40",
   "22:32:48 STORY POSTED facebook@Vinzap-Finds 88035b40",
@@ -5699,13 +5702,21 @@
   "18:00:53 READY c69f045d Silicone Dish Scrubber Sponge, Mildew Free (auto-approved)",
   "18:01:09 POSTED instagram@Vinzap-Finds c69f045d: 18110549174580762",
   "18:01:14 POSTED facebook@Vinzap-Finds c69f045d: 1428352113685678_122113634535501659",
-  "18:01:18 POSTED facebook@Vijayendra-Singh c69f045d: 1317760538089559_122124224811480728"
+  "18:01:18 POSTED facebook@Vijayendra-Singh c69f045d: 1317760538089559_122124224811480728",
+  "18:31:12 READY 91723eb5 Ice Candy Popsicle Maker 8 Mould Set | Home Decor (auto-approved)",
+  "18:31:47 POSTED instagram@Vinzap-Finds 91723eb5: 18429277162150963",
+  "18:31:51 POSTED facebook@Vinzap-Finds 91723eb5: 1475165124495477",
+  "18:31:55 POSTED facebook@Vijayendra-Singh 91723eb5: 1898225241551415",
+  "18:32:00 POSTED youtube 91723eb5: kKUXBaUhrhw",
+  "18:32:30 STORY POSTED instagram@Vinzap-Finds 91723eb5",
+  "18:32:38 STORY POSTED facebook@Vinzap-Finds 91723eb5",
+  "18:32:45 STORY POSTED facebook@Vijayendra-Singh 91723eb5"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793277053.4455624,
-  "facebook@Vinzap-Finds": 1793277053.4455624,
-  "facebook@Vijayendra-Singh": 1793277053.4455624,
-  "youtube": 1793267698.8750515
+  "instagram@Vinzap-Finds": 1793278872.7870185,
+  "facebook@Vinzap-Finds": 1793278872.7870185,
+  "facebook@Vijayendra-Singh": 1793278872.7870185,
+  "youtube": 1793278872.7870185
  },
- "n": 232
+ "n": 233
 }
