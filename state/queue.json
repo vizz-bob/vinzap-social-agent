@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "4f907868",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Supermom Floral Serving Tray Set of 3",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1699,
-    "was": 0,
-    "feats": [
-     "Beautiful floral printed design",
-     "Multipurpose tray set suitable",
-     "Side handles for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Supermom Floral Serving Tray Set of 3 | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Floral Serving Tray Set of 3"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Floral Serving Tray Set of 3\n✔ Beautiful floral printed design\n✔ Multipurpose tray set suitable\n✔ Side handles for comfortable\n\nOnly ₹1699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Supermom Floral Serving Tray Set of 3 | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792945869.452582,
-     "id": "18108244187245508",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792945869.452582,
-     "id": "1121052890678792",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792945869.452582,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesH5EG4vUNB-Lk3J55pEeBKS4"
-    }
-   },
-   "created": 1792945842.250639,
-   "after": 0,
-   "handle": "supermom-floral-printed-multipurpose-serving-tray-set-3-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/supermom-floral-printed-multipurpose-serving-tray-set-3-pc-set",
-   "file": "4f907868.mp4",
-   "thumb": "4f907868_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18102181784410639"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1543182490831235"
-    }
-   }
-  },
-  {
    "id": "4139ee93",
    "status": "posted",
    "kind": "image",
@@ -5506,17 +5434,85 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
    "file": "917f372a.jpg",
    "thumb": "917f372a.jpg"
+  },
+  {
+   "id": "2341886f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Scalloped Disposable Paper Napkins 23x23cm",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 209,
+    "was": 0,
+    "feats": [
+     "Royal Scalloped Disposable Paper"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Scalloped Disposable Paper Napkins 23x23cm | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Scalloped Disposable Paper Napkins 23x23cm"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nScalloped Disposable Paper Napkins 23x23cm\n✔ Royal Scalloped Disposable Paper\n\nOnly ₹209. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Scalloped Disposable Paper Napkins 23x23cm | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793286080.605912,
+     "id": "18128523062307698",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793286080.605912,
+     "id": "2400159153851112",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793286080.605912,
+     "id": "1635644698052175",
+     "dry": false
+    }
+   },
+   "created": 1793286053.567151,
+   "after": 0,
+   "handle": "royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
+   "product_url": "https://www.vinzapstore.in/products/royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
+   "file": "2341886f.mp4",
+   "thumb": "2341886f_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18121853899901757"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2589699738122970"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1910511439927344"
+    }
+   }
   }
  ],
- "last_post": 1793284248.2107928,
+ "last_post": 1793286080.605912,
  "log": [
-  "12:34:13 STORY POSTED facebook@Vijayendra-Singh 8771ae49",
-  "13:00:47 READY 64e763c9 Stainless Steel Kitchen Knife and Peeler Set (auto-approved)",
-  "13:01:02 POSTED instagram@Vinzap-Finds 64e763c9: 18061793237573888",
-  "13:01:05 POSTED facebook@Vinzap-Finds 64e763c9: 1428352113685678_122113201857501659",
-  "13:01:09 POSTED facebook@Vijayendra-Singh 64e763c9: 1317760538089559_122123824749480728",
-  "13:32:51 READY 82d6645a Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas (auto-approved)",
-  "13:33:27 POSTED instagram@Vinzap-Finds 82d6645a: 18114693167175428",
   "13:33:31 POSTED facebook@Vinzap-Finds 82d6645a: 1355917404280469",
   "13:33:33 FAILED post facebook@Vijayendra-Singh 82d6645a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesC5gpHQ02w9XJ5eMar-s4IrJ5uW_5tWkhTx8uZxLIzM8hUqdlScIUqw-LH-wWpo97c5QDZctVjOxsx1DbpSQ1o_r5FpBIw7kUdkZDj3Q7ts4lyRtehI6AqYZ3K6DAY3CZEMgVU7IxuaSsxA_mtQNayamjOS6SpF-MGvO7rIja-JAghUD-h4xacc0KutULWBXxdIHTpcTPGpoSR_luCtIxlf-EQIGk6D200yA0gj0_lAm0R8VOQNu55fv0Tea9gZk10jKMu7GXY0fMTy3SH8VdRSZrFGGmbMZUtzmJroIvzI6AssnswXLsmZ3OZGzKwVHc\",\"help_cente",
   "13:34:02 STORY POSTED instagram@Vinzap-Finds 82d6645a",
@@ -5709,13 +5705,20 @@
   "20:00:48 READY 917f372a Stainless Steel Dinner Spoon (auto-approved)",
   "20:00:58 POSTED instagram@Vinzap-Finds 917f372a: 18111676079617302",
   "20:01:02 POSTED facebook@Vinzap-Finds 917f372a: 1428352113685678_122113686549501659",
-  "20:01:06 POSTED facebook@Vijayendra-Singh 917f372a: 1317760538089559_122124250851480728"
+  "20:01:06 POSTED facebook@Vijayendra-Singh 917f372a: 1317760538089559_122124250851480728",
+  "20:31:20 READY 2341886f Scalloped Disposable Paper Napkins 23x23cm | Kitchen Organization (auto-approved)",
+  "20:31:55 POSTED instagram@Vinzap-Finds 2341886f: 18128523062307698",
+  "20:31:59 POSTED facebook@Vinzap-Finds 2341886f: 2400159153851112",
+  "20:32:03 POSTED facebook@Vijayendra-Singh 2341886f: 1635644698052175",
+  "20:32:35 STORY POSTED instagram@Vinzap-Finds 2341886f",
+  "20:32:45 STORY POSTED facebook@Vinzap-Finds 2341886f",
+  "20:32:55 STORY POSTED facebook@Vijayendra-Singh 2341886f"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793284248.2107928,
-  "facebook@Vinzap-Finds": 1793284248.2107928,
-  "facebook@Vijayendra-Singh": 1793284248.2107928,
+  "instagram@Vinzap-Finds": 1793286080.605912,
+  "facebook@Vinzap-Finds": 1793286080.605912,
+  "facebook@Vijayendra-Singh": 1793286080.605912,
   "youtube": 1793278872.7870185
  },
- "n": 236
+ "n": 237
 }
