@@ -1,76 +1,6 @@
 {
  "items": [
   {
-   "id": "60ca7710",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Lollipop Candy Maker Machine, Pink",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Lollipop Candy Maker and Lollipop"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Lollipop Candy Maker Machine, Pink | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Lollipop Candy Maker Machine, Pink"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLollipop Candy Maker Machine, Pink\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Lollipop Candy Maker Machine, Pink | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792927879.4755218,
-     "id": "17989143864116714",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792927879.4755218,
-     "id": "1630515508513362",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792927879.4755218,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetcfBfe5vfmZupNJM2xMOAkeN"
-    }
-   },
-   "created": 1792927853.482363,
-   "after": 0,
-   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
-   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
-   "file": "60ca7710.mp4",
-   "thumb": "60ca7710_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18121404182289137"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1118674207539341"
-    }
-   }
-  },
-  {
    "id": "b0604c18",
    "status": "posted",
    "kind": "image",
@@ -5479,18 +5409,93 @@
    "product_url": "https://www.vinzapstore.in/products/apex-compact-coffee-mug-300-ml-with-handle-and-lid-matte-black-1-pc",
    "file": "5ab4240b.jpg",
    "thumb": "5ab4240b.jpg"
+  },
+  {
+   "id": "d5d4f1c0",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Insulated Tiffin Lunch Box Keeps Food Warm",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 3599,
+    "was": 0,
+    "feats": [
+     "Multiple food containers plus",
+     "Leak-resistant lids",
+     "Stackable containers pack"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Insulated Tiffin Lunch Box Keeps Food Warm | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Insulated Tiffin Lunch Box Keeps Food Warm"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nInsulated Tiffin Lunch Box Keeps Food Warm\n✔ Multiple food containers plus\n✔ Leak-resistant lids\n✔ Stackable containers pack\n\nOnly ₹3599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
+   "title": "Insulated Tiffin Lunch Box Keeps Food Warm | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793268118.8750515,
+     "id": "18099826091100186",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793268118.8750515,
+     "id": "1011385831984421",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793268118.8750515,
+     "id": "1745848293192073",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793268118.8750515,
+     "id": "v6beWPbCxUI",
+     "dry": false
+    }
+   },
+   "created": 1793268092.8325279,
+   "after": 0,
+   "handle": "insulated-tiffin-lunch-box-keeps-food-warm-cool",
+   "product_url": "https://www.vinzapstore.in/products/insulated-tiffin-lunch-box-keeps-food-warm-cool",
+   "file": "d5d4f1c0.mp4",
+   "thumb": "d5d4f1c0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18203209117328309"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4652217368330467"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1627204022084785"
+    }
+   }
   }
  ],
- "last_post": 1793266257.01579,
+ "last_post": 1793268118.8750515,
  "log": [
-  "18:02:13 STORY POSTED instagram@Vinzap-Finds 72617307",
-  "18:02:21 STORY POSTED facebook@Vinzap-Finds 72617307",
-  "18:51:14 READY 11a2b137 Fresca Stainless Steel Lunch Box (auto-approved)",
-  "18:51:25 POSTED instagram@Vinzap-Finds 11a2b137: 18117585371046753",
-  "18:51:29 POSTED facebook@Vinzap-Finds 11a2b137: 1428352113685678_122112961713501659",
-  "18:51:32 POSTED facebook@Vijayendra-Singh 11a2b137: 1317760538089559_122123550309480728",
-  "19:16:08 READY dcb298c7 Reusable Plastic Spoon Set of 20 | Home Decor Ideas (auto-approved)",
-  "19:16:49 POSTED instagram@Vinzap-Finds dcb298c7: 18131245516700748",
   "19:16:53 POSTED facebook@Vinzap-Finds dcb298c7: 1456005276639519",
   "19:16:54 FAILED post facebook@Vijayendra-Singh dcb298c7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuewMtXXgdopsF5TvPz65eshQ4KxQLC70b3xTa_XRPQ-JjY4abmmXKqViDG7RwzKn4W4VzIEvZVCvXxcvE95-8PV_cPViP-6Kdmv6e2Pt-4AqdONqIHC8NA18rfW9EZDoz2g9RjPkGkd7VqKGp6vIdIbKogu7V1Zz2EBwNxbrN_m9NSPRQygTt5SqrfpgBAnEtjFLNOgDaSsqzcXQGh7v8DuSjOClvEoHvipbEf3R8MntcMFiMAUDVGtQE6ZyQnMFl1R6Y5kudF0AVZ3rQVDDIfHhWNiILAzcxAEnHOa44VTiDKgijHo3V3OsKsZG4635g\",\"help_cente",
   "19:17:00 POSTED youtube dcb298c7: QK2mkO3uOtU",
@@ -5682,13 +5687,21 @@
   "15:00:57 READY 5ab4240b Apex Compact Coffee Mug 300ml (auto-approved)",
   "15:01:09 POSTED instagram@Vinzap-Finds 5ab4240b: 18192284446404430",
   "15:01:13 POSTED facebook@Vinzap-Finds 5ab4240b: 1428352113685678_122113584165501659",
-  "15:01:19 POSTED facebook@Vijayendra-Singh 5ab4240b: 1317760538089559_122124183309480728"
+  "15:01:19 POSTED facebook@Vijayendra-Singh 5ab4240b: 1317760538089559_122124183309480728",
+  "15:31:58 READY d5d4f1c0 Insulated Tiffin Lunch Box Keeps Food Warm | Diwali (auto-approved)",
+  "15:32:41 POSTED instagram@Vinzap-Finds d5d4f1c0: 18099826091100186",
+  "15:32:47 POSTED facebook@Vinzap-Finds d5d4f1c0: 1011385831984421",
+  "15:32:52 POSTED facebook@Vijayendra-Singh d5d4f1c0: 1745848293192073",
+  "15:33:01 POSTED youtube d5d4f1c0: v6beWPbCxUI",
+  "15:33:35 STORY POSTED instagram@Vinzap-Finds d5d4f1c0",
+  "15:33:45 STORY POSTED facebook@Vinzap-Finds d5d4f1c0",
+  "15:33:55 STORY POSTED facebook@Vijayendra-Singh d5d4f1c0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793266257.01579,
-  "facebook@Vinzap-Finds": 1793266257.01579,
-  "facebook@Vijayendra-Singh": 1793266257.01579,
-  "youtube": 1793256853.758251
+  "instagram@Vinzap-Finds": 1793268118.8750515,
+  "facebook@Vinzap-Finds": 1793268118.8750515,
+  "facebook@Vijayendra-Singh": 1793268118.8750515,
+  "youtube": 1793268118.8750515
  },
- "n": 226
+ "n": 227
 }
