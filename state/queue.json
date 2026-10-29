@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "b0604c18",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Wooden Spoon 160mm Set of 30",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Eco-Friendly Birchwood: Renewable",
-     "Smooth & Splinter-Free: Polished",
-     "Full-Size Control (160 mm):"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Wooden Spoon 160mm Set of 30 | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wooden Spoon 160mm Set of 30"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWooden Spoon 160mm Set of 30\n✔ Eco-Friendly Birchwood: Renewable\n✔ Smooth & Splinter-Free: Polished\n✔ Full-Size Control (160 mm):\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Wooden Spoon 160mm Set of 30",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792929652.0781965,
-     "id": "18179974042435633",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792929652.0781965,
-     "id": "1428352113685678_122112211731501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1792929652.0781965,
-     "id": "1317760538089559_122122823073480728",
-     "dry": false
-    }
-   },
-   "created": 1792929649.9677272,
-   "after": 0,
-   "handle": "160mm-wooden-spoon-30-pcs-pack",
-   "product_url": "https://www.vinzapstore.in/products/160mm-wooden-spoon-30-pcs-pack",
-   "file": "b0604c18.jpg",
-   "thumb": "b0604c18.jpg"
-  },
-  {
    "id": "9f4b77b5",
    "status": "scheduled",
    "kind": "reel",
@@ -5492,14 +5430,72 @@
      "id": "1627204022084785"
     }
    }
+  },
+  {
+   "id": "91879e4d",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Ice Cube Tray 24 Cavity Multicolour",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 291,
+    "was": 0,
+    "feats": [
+     "The trays are made of lightweight",
+     "Easy to use",
+     "Convenient storage"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Tray 24 Cavity Multicolour"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Tray 24 Cavity Multicolour\n✔ The trays are made of lightweight\n✔ Easy to use\n✔ Convenient storage\n\nOnly ₹291. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Silicone Ice Cube Tray 24 Cavity Multicolour",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793269847.148565,
+     "id": "17953515192321258",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793269847.148565,
+     "id": "1428352113685678_122113599591501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793269847.148565,
+     "id": "1317760538089559_122124195309480728",
+     "dry": false
+    }
+   },
+   "created": 1793269844.8925517,
+   "after": 0,
+   "handle": "1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "product_url": "https://www.vinzapstore.in/products/1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "file": "91879e4d.jpg",
+   "thumb": "91879e4d.jpg"
   }
  ],
- "last_post": 1793268118.8750515,
+ "last_post": 1793269847.148565,
  "log": [
-  "19:16:53 POSTED facebook@Vinzap-Finds dcb298c7: 1456005276639519",
-  "19:16:54 FAILED post facebook@Vijayendra-Singh dcb298c7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuewMtXXgdopsF5TvPz65eshQ4KxQLC70b3xTa_XRPQ-JjY4abmmXKqViDG7RwzKn4W4VzIEvZVCvXxcvE95-8PV_cPViP-6Kdmv6e2Pt-4AqdONqIHC8NA18rfW9EZDoz2g9RjPkGkd7VqKGp6vIdIbKogu7V1Zz2EBwNxbrN_m9NSPRQygTt5SqrfpgBAnEtjFLNOgDaSsqzcXQGh7v8DuSjOClvEoHvipbEf3R8MntcMFiMAUDVGtQE6ZyQnMFl1R6Y5kudF0AVZ3rQVDDIfHhWNiILAzcxAEnHOa44VTiDKgijHo3V3OsKsZG4635g\",\"help_cente",
-  "19:17:00 POSTED youtube dcb298c7: QK2mkO3uOtU",
-  "19:17:38 STORY POSTED instagram@Vinzap-Finds dcb298c7",
   "19:17:48 STORY POSTED facebook@Vinzap-Finds dcb298c7",
   "19:45:53 READY 85cadb08 Stainless Steel Vacuum Insulated Water (auto-approved)",
   "19:46:32 FAILED post instagram@Vinzap-Finds 85cadb08: HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"A72MRPd8ysrcuwSwrCKIorb\"}}",
@@ -5695,13 +5691,17 @@
   "15:33:01 POSTED youtube d5d4f1c0: v6beWPbCxUI",
   "15:33:35 STORY POSTED instagram@Vinzap-Finds d5d4f1c0",
   "15:33:45 STORY POSTED facebook@Vinzap-Finds d5d4f1c0",
-  "15:33:55 STORY POSTED facebook@Vijayendra-Singh d5d4f1c0"
+  "15:33:55 STORY POSTED facebook@Vijayendra-Singh d5d4f1c0",
+  "16:00:47 READY 91879e4d Silicone Ice Cube Tray 24 Cavity Multicolour (auto-approved)",
+  "16:01:02 POSTED instagram@Vinzap-Finds 91879e4d: 17953515192321258",
+  "16:01:06 POSTED facebook@Vinzap-Finds 91879e4d: 1428352113685678_122113599591501659",
+  "16:01:09 POSTED facebook@Vijayendra-Singh 91879e4d: 1317760538089559_122124195309480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793268118.8750515,
-  "facebook@Vinzap-Finds": 1793268118.8750515,
-  "facebook@Vijayendra-Singh": 1793268118.8750515,
+  "instagram@Vinzap-Finds": 1793269847.148565,
+  "facebook@Vinzap-Finds": 1793269847.148565,
+  "facebook@Vijayendra-Singh": 1793269847.148565,
   "youtube": 1793268118.8750515
  },
- "n": 227
+ "n": 228
 }
