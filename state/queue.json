@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "abbb661a",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Egg Steamer Rack, Folding",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 269,
-    "was": 0,
-    "feats": [
-     "Sturdy stainless steel rack",
-     "Folding legs adjust between two",
-     "Fold height about 3.2 cm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Egg Steamer Rack, Folding"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Egg Steamer Rack, Folding\n✔ Sturdy stainless steel rack\n✔ Folding legs adjust between two\n✔ Fold height about 3.2 cm\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792999878.7912593,
-     "id": "17954480919315338",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792999878.7912593,
-     "id": "986323220541366",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792999878.7912593,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4EdVBkZhmQMKwlrPunfFTKA"
-    }
-   },
-   "created": 1792999851.5917687,
-   "after": 0,
-   "handle": "stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
-   "file": "abbb661a.mp4",
-   "thumb": "abbb661a_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18078933008417958"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4614512605503896"
-    }
-   }
-  },
-  {
    "id": "5ec4e841",
    "status": "posted",
    "kind": "image",
@@ -5514,16 +5442,82 @@
    "product_url": "https://www.vinzapstore.in/products/350-ml-frosted-glass-water-bottle-lucky-day-print-for-office-travel-1-pc",
    "file": "8c0799bc.jpg",
    "thumb": "8c0799bc.jpg"
+  },
+  {
+   "id": "a74c61ef",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "2-in-1 Egg Slicer and Wedger, Stainless",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Two cutting stations slice eggs",
+     "Sharp stainless steel wires cut",
+     "Slotted cups hold the egg firmly"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2-in-1 Egg Slicer and Wedger, Stainless"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Egg Slicer and Wedger, Stainless\n✔ Two cutting stations slice eggs\n✔ Sharp stainless steel wires cut\n✔ Slotted cups hold the egg firmly\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793293290.176916,
+     "id": "18134049079758958",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793293290.176916,
+     "id": "1993483951325516",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793293290.176916,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuW78ofwHpbsaRc8Rl7iPYlNK"
+    }
+   },
+   "created": 1793293268.472557,
+   "after": 0,
+   "handle": "2-in-1-egg-slicer-and-wedger-stainless-steel-wire-boiled-egg-cutter-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/2-in-1-egg-slicer-and-wedger-stainless-steel-wire-boiled-egg-cutter-1-pc",
+   "file": "a74c61ef.mp4",
+   "thumb": "a74c61ef_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18134742403737691"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1303923028493668"
+    }
+   }
   }
  ],
- "last_post": 1793291447.2819343,
+ "last_post": 1793293290.176916,
  "log": [
-  "15:01:09 POSTED facebook@Vinzap-Finds 3c628aba: 1428352113685678_122113230171501659",
-  "15:01:13 POSTED facebook@Vijayendra-Singh 3c628aba: 1317760538089559_122123852973480728",
-  "15:31:59 READY 7c4789e5 3-in-1 Kitchen Cleaning Combo Set | Home Decor (auto-approved)",
-  "15:32:39 POSTED instagram@Vinzap-Finds 7c4789e5: 17906309601353659",
-  "15:32:44 POSTED facebook@Vinzap-Finds 7c4789e5: 1438745704347184",
-  "15:32:45 FAILED post facebook@Vijayendra-Singh 7c4789e5: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4OUwnhNivSGA4SsNwzmEPt1Dmk3DzjE9klDk1393pMuekm_3MX_ji6TxR_9vVBtZHiThpVRuttX4Qktt0uZgQaR6F_b9HbaER7lpYiMwrcJNzneytgL_8WoYVE90H7Uv3_GAtJZLSuVsBF3Fc2kiY3ePQzvlXjyqomsPIE-1KSjhgn7UApVsMOZGq1oJdd5EZrMCxdJU9HQbjUuPhakbhFelWLbHhGrA6_y11EKTU-FtmaX4t-4f60rG_k_MTm7DxG4a3F87GpnVUpWIOFfhnRApry9D52VAo9MNJHO2PrpW3VazG5UlGw3G7omCh1Q\",\"help_center",
   "15:32:51 POSTED youtube 7c4789e5: J4LeEmCL-E4",
   "15:33:25 STORY POSTED instagram@Vinzap-Finds 7c4789e5",
   "15:33:36 STORY POSTED facebook@Vinzap-Finds 7c4789e5",
@@ -5717,13 +5711,19 @@
   "22:00:47 READY 8c0799bc Frosted Glass Water Bottle 350ml (auto-approved)",
   "22:00:56 POSTED instagram@Vinzap-Finds 8c0799bc: 18100754582651564",
   "22:00:59 POSTED facebook@Vinzap-Finds 8c0799bc: 1428352113685678_122113719081501659",
-  "22:01:03 POSTED facebook@Vijayendra-Singh 8c0799bc: 1317760538089559_122124281517480728"
+  "22:01:03 POSTED facebook@Vijayendra-Singh 8c0799bc: 1317760538089559_122124281517480728",
+  "22:31:30 READY a74c61ef 2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas (auto-approved)",
+  "22:32:08 POSTED instagram@Vinzap-Finds a74c61ef: 18134049079758958",
+  "22:32:13 POSTED facebook@Vinzap-Finds a74c61ef: 1993483951325516",
+  "22:32:14 FAILED post facebook@Vijayendra-Singh a74c61ef: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuW78ofwHpbsaRc8Rl7iPYlNKOX_Tk8Xz4e71y-C5NPK4_QvguoJ9owf0YXmAJXOCb78ryJiLnjJP27KT84Azw_yLJlBJZ8JMt6IG7cEdU7Z-usiayTt4lotMSsEUexqWqHLh19Iy8K85xKMDY3Nca1FfW3BGGhc4ni20GfWzgjqVuP9zuhdXNW4ULAXxiGgKz247fEA3MzLtlelQSSnvKGxz3wGglltnLpgv6rJ-W1oxQl3JBL0Tz4HyXHpZXs4n-b_a-HhigCJVjdwLSfF4VipxjFlJx2VA0B8lMoIt2AuioXdo4bFStU5--qqlc0a5VN\",\"help_cent",
+  "22:32:45 STORY POSTED instagram@Vinzap-Finds a74c61ef",
+  "22:32:54 STORY POSTED facebook@Vinzap-Finds a74c61ef"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793291447.2819343,
-  "facebook@Vinzap-Finds": 1793291447.2819343,
-  "facebook@Vijayendra-Singh": 1793291447.2819343,
+  "instagram@Vinzap-Finds": 1793293290.176916,
+  "facebook@Vinzap-Finds": 1793293290.176916,
+  "facebook@Vijayendra-Singh": 1793293290.176916,
   "youtube": 1793289681.2101388
  },
- "n": 240
+ "n": 241
 }
