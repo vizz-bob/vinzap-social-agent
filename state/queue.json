@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "f375a3f3",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "4-Tier Plastic Storage Trolley",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 5999,
-    "was": 0,
-    "feats": [
-     "4 spacious pull-out drawers",
-     "Smooth-rolling wheels to move it",
-     "Sturdy frame with a comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "4-Tier Plastic Storage Trolley | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "4-Tier Plastic Storage Trolley"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n4-Tier Plastic Storage Trolley\n✔ 4 spacious pull-out drawers\n✔ Smooth-rolling wheels to move it\n✔ Sturdy frame with a comfortable\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchenorganization #cooking",
-   "title": "4-Tier Plastic Storage Trolley | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792996270.5193753,
-     "id": "17974277724159997",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1792996270.5193753,
-     "id": "1462251870300816",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1792996270.5193753,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesG3lPRDEeqFJKrERKOWnKWcs"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1792996270.5193753,
-     "id": "CsT98DYeRns",
-     "dry": false
-    }
-   },
-   "created": 1792996243.9645941,
-   "after": 0,
-   "handle": "4-tier-plastic-storage-trolley-with-wheels-rolling-drawer-organizer-cart-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/4-tier-plastic-storage-trolley-with-wheels-rolling-drawer-organizer-cart-1-pc",
-   "file": "f375a3f3.mp4",
-   "thumb": "f375a3f3_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18128194360804534"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "28798993423114100"
-    }
-   }
-  },
-  {
    "id": "17600148",
    "status": "posted",
    "kind": "image",
@@ -5509,18 +5431,93 @@
    "product_url": "https://www.vinzapstore.in/products/tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
    "file": "1730bd05.jpg",
    "thumb": "1730bd05.jpg"
+  },
+  {
+   "id": "489406a8",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Mocktail Mug Glass Set of 2, 400ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 269,
+    "was": 0,
+    "feats": [
+     "Elegant",
+     "Built to Last Made from virgin",
+     "Perfect Size"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Apex Mocktail Mug Glass Set of 2, 400ml | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Mocktail Mug Glass Set of 2, 400ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Mocktail Mug Glass Set of 2, 400ml\n✔ Elegant\n✔ Built to Last Made from virgin\n✔ Perfect Size\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#homedecor #homedecorideas",
+   "title": "Apex Mocktail Mug Glass Set of 2, 400ml | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793289681.2101388,
+     "id": "18083703191401188",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793289681.2101388,
+     "id": "1796506968288826",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793289681.2101388,
+     "id": "3208834155990993",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793289681.2101388,
+     "id": "Z8LPRJ0L64M",
+     "dry": false
+    }
+   },
+   "created": 1793289654.8281384,
+   "after": 0,
+   "handle": "apex-mocktail-mug-glass-2-pc-set-400-ml",
+   "product_url": "https://www.vinzapstore.in/products/apex-mocktail-mug-glass-2-pc-set-400-ml",
+   "file": "489406a8.mp4",
+   "thumb": "489406a8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18120447788050543"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2200056094191036"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn Mo"
+    }
+   }
   }
  ],
- "last_post": 1793287858.2109363,
+ "last_post": 1793289681.2101388,
  "log": [
-  "14:00:56 READY 6d68c058 Electric Glass Kettle 2 Litre (auto-approved)",
-  "14:01:09 POSTED instagram@Vinzap-Finds 6d68c058: 17944775799368119",
-  "14:01:13 POSTED facebook@Vinzap-Finds 6d68c058: 1428352113685678_122113214877501659",
-  "14:01:17 POSTED facebook@Vijayendra-Singh 6d68c058: 1317760538089559_122123838699480728",
-  "14:31:15 READY c8f5b952 Portable Plastic Kitchen Dustbin Hanging | Diwali (auto-approved)",
-  "14:31:52 POSTED instagram@Vinzap-Finds c8f5b952: 18173814289461654",
-  "14:31:56 POSTED facebook@Vinzap-Finds c8f5b952: 1665762425093646",
-  "14:31:58 FAILED post facebook@Vijayendra-Singh c8f5b952: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetSH0Qyd3iLhJy5eiEupV27WLh2GSiuwkwFUV1vVvzRBF3zU6phWg6aEqACHRrH8hw8562jTGdrI-x9gRLE9hYo_8oQDMCAxztxpsxJx67LwmRFi1iLDw1MA_vagLSS65frsPiAy-FkDAY8qltX4EQ_NBcafpJ-HGh8exkkaHlJ1y-SqBEWv6PipfOcLpsVnzHTqYqRIYTfUv9uf9KNz5OVEDHQJDPZrrHVrm6Gk3lhjMJEhVw8YyGa2Cluap5UsbBlZEximsETGYTdw-F59S50OzKlPgKLzDyOWHxi2LlI4A5kJw2MvyDHqe6R5BKZ7lGV\",\"help_cent",
   "14:32:29 STORY POSTED instagram@Vinzap-Finds c8f5b952",
   "14:32:38 STORY POSTED facebook@Vinzap-Finds c8f5b952",
   "15:00:50 READY 3c628aba Wall Mounted Stainless Steel Cup and Mug (auto-approved)",
@@ -5712,13 +5709,21 @@
   "21:00:58 READY 1730bd05 Tortoise Shape Kankavati Kumkum Holder (auto-approved)",
   "21:01:10 POSTED instagram@Vinzap-Finds 1730bd05: 18135635299670985",
   "21:01:14 POSTED facebook@Vinzap-Finds 1730bd05: 1428352113685678_122113702911501659",
-  "21:01:18 POSTED facebook@Vijayendra-Singh 1730bd05: 1317760538089559_122124265803480728"
+  "21:01:18 POSTED facebook@Vijayendra-Singh 1730bd05: 1317760538089559_122124265803480728",
+  "21:31:21 READY 489406a8 Apex Mocktail Mug Glass Set of 2, 400ml | Home Decor (auto-approved)",
+  "21:31:59 POSTED instagram@Vinzap-Finds 489406a8: 18083703191401188",
+  "21:32:04 POSTED facebook@Vinzap-Finds 489406a8: 1796506968288826",
+  "21:32:08 POSTED facebook@Vijayendra-Singh 489406a8: 3208834155990993",
+  "21:32:15 POSTED youtube 489406a8: Z8LPRJ0L64M",
+  "21:32:56 STORY POSTED instagram@Vinzap-Finds 489406a8",
+  "21:33:07 STORY POSTED facebook@Vinzap-Finds 489406a8",
+  "21:33:08 STORY FAILED facebook@Vijayendra-Singh 489406a8: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793287858.2109363,
-  "facebook@Vinzap-Finds": 1793287858.2109363,
-  "facebook@Vijayendra-Singh": 1793287858.2109363,
-  "youtube": 1793278452.7870185
+  "instagram@Vinzap-Finds": 1793289681.2101388,
+  "facebook@Vinzap-Finds": 1793289681.2101388,
+  "facebook@Vijayendra-Singh": 1793289681.2101388,
+  "youtube": 1793289681.2101388
  },
- "n": 238
+ "n": 239
 }
