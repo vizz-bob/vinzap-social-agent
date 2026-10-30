@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "ff92e15d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Square Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Multiple compartments for making",
-     "Comes with lid to prevent spills",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Square Ice Cube Tray | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Square Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSquare Ice Cube Tray\n✔ Multiple compartments for making\n✔ Comes with lid to prevent spills\n✔ Easy release design\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Square Ice Cube Tray | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793088968.9239695,
-     "id": "18374989243240323",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793088968.9239695,
-     "id": "1584233186344557",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793088968.9239695,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetT5lyAu_KuVX2Kq9VuTJjyQ0"
-    }
-   },
-   "created": 1793088941.285296,
-   "after": 0,
-   "handle": "multipurpose-square-ice-cube-tray-with-lid-1-pc-17x9-cm-8-grid",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-square-ice-cube-tray-with-lid-1-pc-17x9-cm-8-grid",
-   "file": "ff92e15d.mp4",
-   "thumb": "ff92e15d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17951226708329366"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1765573448342965"
-    }
-   }
-  },
-  {
    "id": "b064e0c1",
    "status": "posted",
    "kind": "image",
@@ -5543,17 +5471,88 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
    "file": "fc4706db.jpg",
    "thumb": "fc4706db.jpg"
+  },
+  {
+   "id": "7e6f4a94",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Gas Stove Burner Stand, Stainless Steel Wok",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 269,
+    "was": 0,
+    "feats": [
+     "Gives a stable base for small pots",
+     "Holds round-bottom and small",
+     "Concentrates flame and heat"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Gas Stove Burner Stand, Stainless Steel Wok | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Gas Stove Burner Stand, Stainless Steel Wok"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGas Stove Burner Stand, Stainless Steel Wok\n✔ Gives a stable base for small pots\n✔ Holds round-bottom and small\n✔ Concentrates flame and heat\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Gas Stove Burner Stand, Stainless Steel Wok | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": false,
+     "ts": 1793376078.395273,
+     "error": "HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793376078.395273,
+     "id": "1429125128737836",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793376078.395273,
+     "id": "1527206672574071",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793376078.395273,
+     "id": "_Tu3Ttor2d8",
+     "dry": false
+    }
+   },
+   "created": 1793376056.2793136,
+   "after": 0,
+   "handle": "gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
+   "file": "7e6f4a94.mp4",
+   "thumb": "7e6f4a94_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1682120700156271"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1992584274765083"
+    }
+   }
   }
  ],
- "last_post": 1793374248.899157,
+ "last_post": 1793376078.395273,
  "log": [
-  "14:31:30 READY a12d713f Supermom Multipurpose Triangular Kitchen | Home Decor Ideas (auto-approved)",
-  "14:32:03 POSTED instagram@Vinzap-Finds a12d713f: 17878508583573838",
-  "14:32:08 POSTED facebook@Vinzap-Finds a12d713f: 1647622453641856",
-  "14:32:09 FAILED post facebook@Vijayendra-Singh a12d713f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevwsjdfE8o2d05jnAYqH76sIQXlUEVtUVPnsWzF-tFwfNyjyWdmSzk5YFwUZUiiXypbIHHbB1J79teNuPig5kz-nl9LeDwvYNavx5HqeH-tqxft2hO2fHeddMt3DRHzgD7sNR93KJpwrFF5tcEuc01ZEVbbx8keZHeZ9uGHtsb5UL4O5q9iILIr_r-jwN68RBKpe_lLHjeCxHrK_Ef4k-u8guxrSyrOJjJMdfdSY3wnR-c6F0IFNpQufyvY3MWtvrKCquppRcPvYxjn_pJ5J8jjXl0TV-P3-3YBCvY90MAVqJUKXqkjZTakPprCEylgDXM\",\"help_cente",
-  "14:32:38 STORY POSTED instagram@Vinzap-Finds a12d713f",
-  "14:32:46 STORY POSTED facebook@Vinzap-Finds a12d713f",
-  "15:00:57 READY 5ab4240b Apex Compact Coffee Mug 300ml (auto-approved)",
   "15:01:09 POSTED instagram@Vinzap-Finds 5ab4240b: 18192284446404430",
   "15:01:13 POSTED facebook@Vinzap-Finds 5ab4240b: 1428352113685678_122113584165501659",
   "15:01:19 POSTED facebook@Vijayendra-Singh 5ab4240b: 1317760538089559_122124183309480728",
@@ -5746,13 +5745,20 @@
   "21:00:48 READY fc4706db 2-in-1 Oil Dispenser Bottle (auto-approved)",
   "21:00:58 POSTED instagram@Vinzap-Finds fc4706db: 18120093559951860",
   "21:01:02 POSTED facebook@Vinzap-Finds fc4706db: 1428352113685678_122114048571501659",
-  "21:01:05 POSTED facebook@Vijayendra-Singh fc4706db: 1317760538089559_122124565017480728"
+  "21:01:05 POSTED facebook@Vijayendra-Singh fc4706db: 1317760538089559_122124565017480728",
+  "21:31:18 READY 7e6f4a94 Gas Stove Burner Stand, Stainless Steel Wok | Cooking (auto-approved)",
+  "21:31:54 FAILED post instagram@Vinzap-Finds 7e6f4a94: HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
+  "21:31:59 POSTED facebook@Vinzap-Finds 7e6f4a94: 1429125128737836",
+  "21:32:05 POSTED facebook@Vijayendra-Singh 7e6f4a94: 1527206672574071",
+  "21:32:12 POSTED youtube 7e6f4a94: _Tu3Ttor2d8",
+  "21:32:22 STORY POSTED facebook@Vinzap-Finds 7e6f4a94",
+  "21:32:32 STORY POSTED facebook@Vijayendra-Singh 7e6f4a94"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793374248.899157,
-  "facebook@Vinzap-Finds": 1793374248.899157,
-  "facebook@Vijayendra-Singh": 1793374248.899157,
-  "youtube": 1793364867.0615463
+  "instagram@Vinzap-Finds": 1793376078.395273,
+  "facebook@Vinzap-Finds": 1793376078.395273,
+  "facebook@Vijayendra-Singh": 1793376078.395273,
+  "youtube": 1793376078.395273
  },
- "n": 260
+ "n": 261
 }
