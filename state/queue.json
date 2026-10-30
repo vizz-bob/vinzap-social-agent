@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "e04873af",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Gas Stove Burner Stand, Stainless Steel Wok",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 269,
-    "was": 0,
-    "feats": [
-     "Gives a stable base for small pots",
-     "Holds round-bottom and small",
-     "Concentrates flame and heat"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Gas Stove Burner Stand, Stainless Steel Wok | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Gas Stove Burner Stand, Stainless Steel Wok"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGas Stove Burner Stand, Stainless Steel Wok\n✔ Gives a stable base for small pots\n✔ Holds round-bottom and small\n✔ Concentrates flame and heat\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Gas Stove Burner Stand, Stainless Steel Wok | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793009759.4220679,
-     "id": "18183967630427662",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793009759.4220679,
-     "id": "2347677505987281",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793009759.4220679,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesofoNHp5qdM5mvCLwlC-BPq2"
-    }
-   },
-   "created": 1793009742.0897698,
-   "after": 0,
-   "handle": "gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
-   "file": "e04873af.mp4",
-   "thumb": "e04873af_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18071517182602580"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1865034181578395"
-    }
-   }
-  },
-  {
    "id": "b854d694",
    "status": "posted",
    "kind": "image",
@@ -5519,17 +5447,87 @@
    "product_url": "https://www.vinzapstore.in/products/apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
    "file": "0a6f7b6c.jpg",
    "thumb": "0a6f7b6c.jpg"
+  },
+  {
+   "id": "23cf347c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Manual Rotary Drum Grater and Slicer, 3",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1089,
+    "was": 0,
+    "feats": [
+     "Three stainless steel drums",
+     "Fast manual operation",
+     "Strong suction base holds firmly"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Manual Rotary Drum Grater and Slicer, 3 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Rotary Drum Grater and Slicer, 3"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Rotary Drum Grater and Slicer, 3\n✔ Three stainless steel drums\n✔ Fast manual operation\n✔ Strong suction base holds firmly\n\nOnly ₹1089. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Manual Rotary Drum Grater and Slicer, 3 | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793347282.9584236,
+     "id": "18105500102020487",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793347282.9584236,
+     "id": "1476383331072541",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793347282.9584236,
+     "id": "2002498987104355",
+     "dry": false
+    }
+   },
+   "created": 1793347254.9709496,
+   "after": 0,
+   "handle": "manual-rotary-drum-grater-and-slicer-stainless-steel-3-drum-vegetable-cutter-1-set",
+   "product_url": "https://www.vinzapstore.in/products/manual-rotary-drum-grater-and-slicer-stainless-steel-3-drum-vegetable-cutter-1-set",
+   "file": "23cf347c.mp4",
+   "thumb": "23cf347c_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18444514414180016"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1170501609002705"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1826022368534601"
+    }
+   }
   }
  ],
- "last_post": 1793345453.5210404,
+ "last_post": 1793347282.9584236,
  "log": [
-  "17:01:08 POSTED facebook@Vijayendra-Singh 9d369ce6: 1317760538089559_122123879067480728",
-  "17:31:33 READY 6a930fa7 3-in-1 Fruit and Vegetable Cutting Board Set | Kitchen Gadgets (auto-approved)",
-  "17:32:02 POSTED instagram@Vinzap-Finds 6a930fa7: 18470976928186590",
-  "17:32:06 POSTED facebook@Vinzap-Finds 6a930fa7: 1052211654502891",
-  "17:32:06 FAILED post facebook@Vijayendra-Singh 6a930fa7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9g5Uc9gaO52T-I81v1tF6j91oBJRXTFBgJYtqCD4oYRxS4WeGwzzDTvx8dwr2PGLjJni8f2YEaNJgPVpaR9kUsfIhtcRh3FBKvm07enwrCz5JCcSVMePFcDv9a-HPaCVDfP2QYcyWLG2yi5Ddv-5bXUXpv6rp2B-LObDkI1iSMiXaYKCvxPjQHDgVcwHrQ11IYb_VUohom6wnifFgqJPdLCAVUJ4FFLATvHszZ6iYY7jQqE-aijWZ4cvP-oHphld0ixS2oKQHfo_pvvQtHtplWoKz_T6KF_83q5gg-p1a4-TdynY1IXrVaje-pSxUGbM\",\"help_cente",
-  "17:32:37 STORY POSTED instagram@Vinzap-Finds 6a930fa7",
-  "17:32:46 STORY POSTED facebook@Vinzap-Finds 6a930fa7",
   "18:00:55 READY c254723c Stainless Steel Sink Caddy Organizer (auto-approved)",
   "18:01:07 POSTED instagram@Vinzap-Finds c254723c: 18117662921088642",
   "18:01:10 POSTED facebook@Vinzap-Finds c254723c: 1428352113685678_122113281447501659",
@@ -5722,13 +5720,20 @@
   "13:00:53 READY 0a6f7b6c Apex Power-X Hand-Pull Vegetable Chopper (auto-approved)",
   "13:01:07 POSTED instagram@Vinzap-Finds 0a6f7b6c: 18141371326620623",
   "13:01:12 POSTED facebook@Vinzap-Finds 0a6f7b6c: 1428352113685678_122113912119501659",
-  "13:01:17 POSTED facebook@Vijayendra-Singh 0a6f7b6c: 1317760538089559_122124448875480728"
+  "13:01:17 POSTED facebook@Vijayendra-Singh 0a6f7b6c: 1317760538089559_122124448875480728",
+  "13:31:22 READY 23cf347c Manual Rotary Drum Grater and Slicer, 3 | Kitchen Organization (auto-approved)",
+  "13:31:56 POSTED instagram@Vinzap-Finds 23cf347c: 18105500102020487",
+  "13:32:01 POSTED facebook@Vinzap-Finds 23cf347c: 1476383331072541",
+  "13:32:07 POSTED facebook@Vijayendra-Singh 23cf347c: 2002498987104355",
+  "13:32:38 STORY POSTED instagram@Vinzap-Finds 23cf347c",
+  "13:32:46 STORY POSTED facebook@Vinzap-Finds 23cf347c",
+  "13:32:54 STORY POSTED facebook@Vijayendra-Singh 23cf347c"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793345453.5210404,
-  "facebook@Vinzap-Finds": 1793345453.5210404,
-  "facebook@Vijayendra-Singh": 1793345453.5210404,
+  "instagram@Vinzap-Finds": 1793347282.9584236,
+  "facebook@Vinzap-Finds": 1793347282.9584236,
+  "facebook@Vijayendra-Singh": 1793347282.9584236,
   "youtube": 1793343685.0027359
  },
- "n": 244
+ "n": 245
 }
