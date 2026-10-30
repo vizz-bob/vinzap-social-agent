@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "d9af76a8",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel BBQ Skewers",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Durable and reusable skewer design",
-     "Comfortable handles for easy grip",
-     "Ideal for grilling vegetables"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel BBQ Skewers | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel BBQ Skewers"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel BBQ Skewers\n✔ Durable and reusable skewer design\n✔ Comfortable handles for easy grip\n✔ Ideal for grilling vegetables\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel BBQ Skewers | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793092586.4597208,
-     "id": "18109618148610246",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793092586.4597208,
-     "id": "2898442617198709",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793092586.4597208,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevFsa9aPDVomTsoJr41Ajfq0v"
-    }
-   },
-   "created": 1793092559.7806752,
-   "after": 0,
-   "handle": "stainless-steel-bbq-skewers-with-wooden-handle-12-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-bbq-skewers-with-wooden-handle-12-pc",
-   "file": "d9af76a8.mp4",
-   "thumb": "d9af76a8_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18152139511531358"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1730842855064203"
-    }
-   }
-  },
-  {
    "id": "66158d68",
    "status": "posted",
    "kind": "image",
@@ -5549,17 +5477,87 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-cleaning-cloth-roll-reusable-microfiber-kitchen-towel-tear-off-1-roll",
    "file": "dad65399.jpg",
    "thumb": "dad65399.jpg"
+  },
+  {
+   "id": "428e8e80",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ritu Unbreakable Plastic Khal Batta Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 390,
+    "was": 0,
+    "feats": [
+     "Traditional Kitchen Tool: Perfect",
+     "Unbreakable Construction: Made",
+     "Rust-Free Stainless Steel Base:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Ritu Unbreakable Plastic Khal Batta Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ritu Unbreakable Plastic Khal Batta Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nRitu Unbreakable Plastic Khal Batta Set\n✔ Traditional Kitchen Tool: Perfect\n✔ Unbreakable Construction: Made\n✔ Rust-Free Stainless Steel Base:\n\nOnly ₹390. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Ritu Unbreakable Plastic Khal Batta Set | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793379677.759214,
+     "id": "17903577546671451",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793379677.759214,
+     "id": "1868378897515301",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793379677.759214,
+     "id": "1144082914978151",
+     "dry": false
+    }
+   },
+   "created": 1793379661.4396472,
+   "after": 0,
+   "handle": "ritu-heavy-duty-unbreakable-plastic-khal-batta-set-2-pcs-set",
+   "product_url": "https://www.vinzapstore.in/products/ritu-heavy-duty-unbreakable-plastic-khal-batta-set-2-pcs-set",
+   "file": "428e8e80.mp4",
+   "thumb": "428e8e80_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17969055066076250"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1506290661364508"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2044920729557465"
+    }
+   }
   }
  ],
- "last_post": 1793377849.4123123,
+ "last_post": 1793379677.759214,
  "log": [
-  "15:32:41 POSTED instagram@Vinzap-Finds d5d4f1c0: 18099826091100186",
-  "15:32:47 POSTED facebook@Vinzap-Finds d5d4f1c0: 1011385831984421",
-  "15:32:52 POSTED facebook@Vijayendra-Singh d5d4f1c0: 1745848293192073",
-  "15:33:01 POSTED youtube d5d4f1c0: v6beWPbCxUI",
-  "15:33:35 STORY POSTED instagram@Vinzap-Finds d5d4f1c0",
-  "15:33:45 STORY POSTED facebook@Vinzap-Finds d5d4f1c0",
-  "15:33:55 STORY POSTED facebook@Vijayendra-Singh d5d4f1c0",
   "16:00:47 READY 91879e4d Silicone Ice Cube Tray 24 Cavity Multicolour (auto-approved)",
   "16:01:02 POSTED instagram@Vinzap-Finds 91879e4d: 17953515192321258",
   "16:01:06 POSTED facebook@Vinzap-Finds 91879e4d: 1428352113685678_122113599591501659",
@@ -5752,13 +5750,20 @@
   "22:00:49 READY dad65399 Tear-Off Microfiber Cleaning Cloth Roll (auto-approved)",
   "22:01:02 POSTED instagram@Vinzap-Finds dad65399: 17943560886386767",
   "22:01:05 POSTED facebook@Vinzap-Finds dad65399: 1428352113685678_122114060481501659",
-  "22:01:09 POSTED facebook@Vijayendra-Singh dad65399: 1317760538089559_122124581943480728"
+  "22:01:09 POSTED facebook@Vijayendra-Singh dad65399: 1317760538089559_122124581943480728",
+  "22:31:17 READY 428e8e80 Ritu Unbreakable Plastic Khal Batta Set | Diwali (auto-approved)",
+  "22:31:57 POSTED instagram@Vinzap-Finds 428e8e80: 17903577546671451",
+  "22:32:02 POSTED facebook@Vinzap-Finds 428e8e80: 1868378897515301",
+  "22:32:06 POSTED facebook@Vijayendra-Singh 428e8e80: 1144082914978151",
+  "22:32:42 STORY POSTED instagram@Vinzap-Finds 428e8e80",
+  "22:32:52 STORY POSTED facebook@Vinzap-Finds 428e8e80",
+  "22:33:01 STORY POSTED facebook@Vijayendra-Singh 428e8e80"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793377849.4123123,
-  "facebook@Vinzap-Finds": 1793377849.4123123,
-  "facebook@Vijayendra-Singh": 1793377849.4123123,
+  "instagram@Vinzap-Finds": 1793379677.759214,
+  "facebook@Vinzap-Finds": 1793379677.759214,
+  "facebook@Vijayendra-Singh": 1793379677.759214,
   "youtube": 1793376078.395273
  },
- "n": 262
+ "n": 263
 }
