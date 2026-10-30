@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "6cbe71a1",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Electric Oven 12 Litre 600W Mini OTG",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 5999,
-    "was": 0,
-    "feats": [
-     "Compact 12 litre capacity",
-     "600W heating for baking",
-     "Adjustable temperature control"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Oven 12 Litre 600W Mini OTG"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Oven 12 Litre 600W Mini OTG\n✔ Compact 12 litre capacity\n✔ 600W heating for baking\n✔ Adjustable temperature control\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793084478.5205662,
-     "id": "18119885362956616",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793084478.5205662,
-     "id": "1373480791528790",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793084478.5205662,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuRr7k2NJd5XH3EsxZSbvfe8K"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793084478.5205662,
-     "id": "_r8J7ihxGq8",
-     "dry": false
-    }
-   },
-   "created": 1793084451.534052,
-   "after": 0,
-   "handle": "electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
-   "file": "6cbe71a1.mp4",
-   "thumb": "6cbe71a1_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18128832115855993"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2301046327324993"
-    }
-   }
-  },
-  {
    "id": "a2ab0011",
    "status": "posted",
    "kind": "image",
@@ -5549,16 +5471,82 @@
    "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-18-cm",
    "file": "07503658.jpg",
    "thumb": "07503658.jpg"
+  },
+  {
+   "id": "11380256",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Unbreakable Plastic Juice Glass Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Set of 6 juice glasses",
+     "Looks like real glass",
+     "Unbreakable food-grade plastic"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Unbreakable Plastic Juice Glass Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Unbreakable Plastic Juice Glass Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUnbreakable Plastic Juice Glass Set\n✔ Set of 6 juice glasses\n✔ Looks like real glass\n✔ Unbreakable food-grade plastic\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Unbreakable Plastic Juice Glass Set | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793372552.124569,
+     "id": "17936791212408795",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793372552.124569,
+     "id": "1587883099329499",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793372552.124569,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYNTEw4uaZ-VqfwPYL4UJW9B"
+    }
+   },
+   "created": 1793372526.0756516,
+   "after": 0,
+   "handle": "classic-plastic-juice-glass-set-unbreakable-water-tumbler-for-home-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/classic-plastic-juice-glass-set-unbreakable-water-tumbler-for-home-6-pc-set",
+   "file": "11380256.mp4",
+   "thumb": "11380256_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18431001847146510"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3438014769726703"
+    }
+   }
   }
  ],
- "last_post": 1793370656.31428,
+ "last_post": 1793372552.124569,
  "log": [
-  "13:31:23 READY 2022d436 Transparent Plastic Water Dipper Scoop | Home Decor Ideas (auto-approved)",
-  "13:32:00 POSTED instagram@Vinzap-Finds 2022d436: 17864748585696151",
-  "13:32:05 POSTED facebook@Vinzap-Finds 2022d436: 2314350789321668",
-  "13:32:05 FAILED post facebook@Vijayendra-Singh 2022d436: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes8iSvXkzIsoZT05v35_ysVC0MRftzrFb9k3chDSyzdl08yQWSA2LmaXf3YChBlWCWzI2Ni6_MlFkw2xo99jS4Quhy1VtEwaWwizKx7uNBcACfbrJ1bxRSEoIKGBPu66FlHusoXcrzfa0tLDJvmguF4GSqvXlQW7szPLr9L4vjV_RmtdJuDid-buHJmHx_VwiSW5tVy9tqLM3u1iwJEZleJqf4LhGbYRqkx_Xrqexct9XEeO7YB-57TK_oyxwk7D1roHNU3bptolxKfa5NKELFbJ8u8EZSXGIuAOdMK0PNOtv9Yn_VKwh4V37S3m6i5_z0\",\"help_cente",
-  "13:32:35 STORY POSTED instagram@Vinzap-Finds 2022d436",
-  "13:32:42 STORY POSTED facebook@Vinzap-Finds 2022d436",
   "14:02:00 READY e5bc05e3 Ice Tray (auto-approved)",
   "14:02:14 POSTED instagram@Vinzap-Finds e5bc05e3: 18077481587569869",
   "14:02:20 POSTED facebook@Vinzap-Finds e5bc05e3: 1428352113685678_122113566771501659",
@@ -5752,13 +5740,19 @@
   "20:00:56 READY 07503658 Silicone Cooking Spatula 18cm (auto-approved)",
   "20:01:07 POSTED instagram@Vinzap-Finds 07503658: 18640898911007370",
   "20:01:11 POSTED facebook@Vinzap-Finds 07503658: 1428352113685678_122114030661501659",
-  "20:01:15 POSTED facebook@Vijayendra-Singh 07503658: 1317760538089559_122124550899480728"
+  "20:01:15 POSTED facebook@Vijayendra-Singh 07503658: 1317760538089559_122124550899480728",
+  "20:32:32 READY 11380256 Unbreakable Plastic Juice Glass Set | Diwali (auto-approved)",
+  "20:33:10 POSTED instagram@Vinzap-Finds 11380256: 17936791212408795",
+  "20:33:16 POSTED facebook@Vinzap-Finds 11380256: 1587883099329499",
+  "20:33:18 FAILED post facebook@Vijayendra-Singh 11380256: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYNTEw4uaZ-VqfwPYL4UJW9BfATS82uZCKQJ9YAL4Lqd7qNXi3M5afCntc8WsGOA20t3bcNyZAGAk4VY8ACxr-8_DvYgOeNvSbF96pXQ9RGuraNRcqYkDVvq-kh1OvgmBaaN08J8-BClGYhY_mKiNEEZ1pRzoHXklPppkamMvHZofMOsgYoydWaKKLuZvPfb75cNI1sb-u1xIakJDg_aaF-bXi-XG2dVA-jG3mDHGi0J05Yewz7ggOeaz_2zilzaNEZwwe6jhvWACmiqdM1IVSCBiH3ldFHAkDf4yOe3xQXlgqCz4qRNPfR_4nKAfH31Y\",\"help_cente",
+  "20:33:49 STORY POSTED instagram@Vinzap-Finds 11380256",
+  "20:33:55 STORY POSTED facebook@Vinzap-Finds 11380256"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793370656.31428,
-  "facebook@Vinzap-Finds": 1793370656.31428,
-  "facebook@Vijayendra-Singh": 1793370656.31428,
+  "instagram@Vinzap-Finds": 1793372552.124569,
+  "facebook@Vinzap-Finds": 1793372552.124569,
+  "facebook@Vijayendra-Singh": 1793372552.124569,
   "youtube": 1793365287.0615463
  },
- "n": 258
+ "n": 259
 }
