@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "de327591",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Orbit Adjustable Pop-Up Toaster 1200W",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 3299,
-    "was": 0,
-    "feats": [
-     "1200 W power",
-     "Stainless steel finish",
-     "Adjustable browning control"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Orbit Adjustable Pop-Up Toaster 1200W | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Orbit Adjustable Pop-Up Toaster 1200W"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOrbit Adjustable Pop-Up Toaster 1200W\n✔ 1200 W power\n✔ Stainless steel finish\n✔ Adjustable browning control\n\nOnly ₹3299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Orbit Adjustable Pop-Up Toaster 1200W | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793005915.8301857,
-     "id": "18451551589127690",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793005915.8301857,
-     "id": "1605589707339638",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793005915.8301857,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeugjFFAEyQFfvov4a94VNTsDQ"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793005915.8301857,
-     "id": "iTRVjvRCKzI",
-     "dry": false
-    }
-   },
-   "created": 1793005893.7448082,
-   "after": 0,
-   "handle": "orbit-adjustable-pop-up-toaster-1200w",
-   "product_url": "https://www.vinzapstore.in/products/orbit-adjustable-pop-up-toaster-1200w",
-   "file": "de327591.mp4",
-   "thumb": "de327591_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17998117161041940"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1630638635196173"
-    }
-   }
-  },
-  {
    "id": "58b9b324",
    "status": "posted",
    "kind": "image",
@@ -5514,18 +5436,93 @@
    "product_url": "https://www.vinzapstore.in/products/400-ml-glass-water-bottle-with-silicone-sleeve-for-gym-office-1-pc",
    "file": "6617b856.jpg",
    "thumb": "6617b856.jpg"
+  },
+  {
+   "id": "54f4ebbf",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Non-Slip Decorative Serving Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Multi-purpose use – can be used",
+     "Non-slip surface for stability",
+     "Durable plastic construction"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Non-Slip Decorative Serving Tray | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Non-Slip Decorative Serving Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nNon-Slip Decorative Serving Tray\n✔ Multi-purpose use – can be used\n✔ Non-slip surface for stability\n✔ Durable plastic construction\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Non-Slip Decorative Serving Tray | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793343685.0027359,
+     "id": "18130365091885696",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793343685.0027359,
+     "id": "1109905338509980",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793343685.0027359,
+     "id": "1148501274430091",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793343685.0027359,
+     "id": "iwfaseOg6Ec",
+     "dry": false
+    }
+   },
+   "created": 1793343658.2596655,
+   "after": 0,
+   "handle": "decorative-non-slip-plastic-serving-tray-with-stand-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/decorative-non-slip-plastic-serving-tray-with-stand-1-pc",
+   "file": "54f4ebbf.mp4",
+   "thumb": "54f4ebbf_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18223106491353753"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1882037819822684"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1316399431565913"
+    }
+   }
   }
  ],
- "last_post": 1793341847.3470592,
+ "last_post": 1793343685.0027359,
  "log": [
-  "16:01:12 POSTED instagram@Vinzap-Finds a04aefb2: 17911523688578589",
-  "16:01:19 POSTED facebook@Vinzap-Finds a04aefb2: 1428352113685678_122113245891501659",
-  "16:01:28 POSTED facebook@Vijayendra-Singh a04aefb2: 1317760538089559_122123866557480728",
-  "16:32:37 READY 3dfeea4d Mini Tabletop Dustbin 1200ml | Trending Shorts (auto-approved)",
-  "16:33:12 POSTED instagram@Vinzap-Finds 3dfeea4d: 18132299551773374",
-  "16:33:17 POSTED facebook@Vinzap-Finds 3dfeea4d: 2146283435984962",
-  "16:33:19 FAILED post facebook@Vijayendra-Singh 3dfeea4d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet6bRWPswYV4z6LeM0rqxPuOe7eHZbcMNKxJ2g6MqfNdLytZWVX2x-zOF3VtP_aPXY4dVZ7AU8M1ODGPRz_yU-RiWjeyqUYFxkVyDDZIEmwZ4cl-nmfuRrFD7TkVSUaHoMlkbOgGk6pW2ToPdPyz55clufBV91SRjxoTSxqb9tBmo6w1g8rfgy2ozxwYj7lDaBuQODATZ8wKxpgAgdedX2uFrLOsfrjd_ambbLirloh8ZeRKrl2nrFeN2O0I8Fkecvo-l4AQJuE-kpjgTDHIylC-IIa4RQcYhF13KWqNomfW4woGEtExbkCSx_6yF3bFK8K\",\"help_cent",
-  "16:33:49 STORY POSTED instagram@Vinzap-Finds 3dfeea4d",
   "16:34:02 STORY POSTED facebook@Vinzap-Finds 3dfeea4d",
   "17:00:49 READY 9d369ce6 Black Coffee Mug Custom Printed (auto-approved)",
   "17:00:59 POSTED instagram@Vinzap-Finds 9d369ce6: 18115849160029498",
@@ -5717,13 +5714,21 @@
   "12:00:47 READY 6617b856 Glass Water Bottle 400ml (auto-approved)",
   "12:00:58 POSTED instagram@Vinzap-Finds 6617b856: 18644152291022902",
   "12:01:02 POSTED facebook@Vinzap-Finds 6617b856: 1428352113685678_122113896297501659",
-  "12:01:07 POSTED facebook@Vijayendra-Singh 6617b856: 1317760538089559_122124439107480728"
+  "12:01:07 POSTED facebook@Vijayendra-Singh 6617b856: 1317760538089559_122124439107480728",
+  "12:31:24 READY 54f4ebbf Non-Slip Decorative Serving Tray | Diwali (auto-approved)",
+  "12:31:57 POSTED instagram@Vinzap-Finds 54f4ebbf: 18130365091885696",
+  "12:32:01 POSTED facebook@Vinzap-Finds 54f4ebbf: 1109905338509980",
+  "12:32:06 POSTED facebook@Vijayendra-Singh 54f4ebbf: 1148501274430091",
+  "12:32:14 POSTED youtube 54f4ebbf: iwfaseOg6Ec",
+  "12:32:44 STORY POSTED instagram@Vinzap-Finds 54f4ebbf",
+  "12:32:52 STORY POSTED facebook@Vinzap-Finds 54f4ebbf",
+  "12:33:01 STORY POSTED facebook@Vijayendra-Singh 54f4ebbf"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793341847.3470592,
-  "facebook@Vinzap-Finds": 1793341847.3470592,
-  "facebook@Vijayendra-Singh": 1793341847.3470592,
-  "youtube": 1793289261.2101388
+  "instagram@Vinzap-Finds": 1793343685.0027359,
+  "facebook@Vinzap-Finds": 1793343685.0027359,
+  "facebook@Vijayendra-Singh": 1793343685.0027359,
+  "youtube": 1793343685.0027359
  },
- "n": 242
+ "n": 243
 }
