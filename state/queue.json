@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "a2ab0011",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Large Capacity Leakproof Water Bottle 1400ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "Large 1400 ML capacity",
-     "Leakproof lid design to prevent",
-     "Strong carry strap for easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Large Capacity Leakproof Water Bottle 1400ml | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Large Capacity Leakproof Water Bottle 1400ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLarge Capacity Leakproof Water Bottle 1400ml\n✔ Large 1400 ML capacity\n✔ Leakproof lid design to prevent\n✔ Strong carry strap for easy\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
-   "title": "Large Capacity Leakproof Water Bottle 1400ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793087063.6392422,
-     "id": "18113251177884344",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793087063.6392422,
-     "id": "1428352113685678_122112877077501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793087063.6392422,
-     "id": "1317760538089559_122123443545480728",
-     "dry": false
-    }
-   },
-   "created": 1793087061.338376,
-   "after": 0,
-   "handle": "large-capacity-leakproof-water-bottle-1-pc-1400ml-approx",
-   "product_url": "https://www.vinzapstore.in/products/large-capacity-leakproof-water-bottle-1-pc-1400ml-approx",
-   "file": "a2ab0011.jpg",
-   "thumb": "a2ab0011.jpg"
-  },
-  {
    "id": "ff92e15d",
    "status": "scheduled",
    "kind": "reel",
@@ -5543,14 +5481,72 @@
      "id": "3438014769726703"
     }
    }
+  },
+  {
+   "id": "fc4706db",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "2-in-1 Oil Dispenser Bottle",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Glass bottle",
+     "Silicone brush in the cap",
+     "Roughly 7 x 7 x 19 cm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "2-in-1 Oil Dispenser Bottle | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2-in-1 Oil Dispenser Bottle"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Oil Dispenser Bottle\n✔ Glass bottle\n✔ Silicone brush in the cap\n✔ Roughly 7 x 7 x 19 cm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
+   "title": "2-in-1 Oil Dispenser Bottle",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793374248.899157,
+     "id": "18120093559951860",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793374248.899157,
+     "id": "1428352113685678_122114048571501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793374248.899157,
+     "id": "1317760538089559_122124565017480728",
+     "dry": false
+    }
+   },
+   "created": 1793374245.3734434,
+   "after": 0,
+   "handle": "2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
+   "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
+   "file": "fc4706db.jpg",
+   "thumb": "fc4706db.jpg"
   }
  ],
- "last_post": 1793372552.124569,
+ "last_post": 1793374248.899157,
  "log": [
-  "14:02:00 READY e5bc05e3 Ice Tray (auto-approved)",
-  "14:02:14 POSTED instagram@Vinzap-Finds e5bc05e3: 18077481587569869",
-  "14:02:20 POSTED facebook@Vinzap-Finds e5bc05e3: 1428352113685678_122113566771501659",
-  "14:02:25 POSTED facebook@Vijayendra-Singh e5bc05e3: 1317760538089559_122124162285480728",
   "14:31:30 READY a12d713f Supermom Multipurpose Triangular Kitchen | Home Decor Ideas (auto-approved)",
   "14:32:03 POSTED instagram@Vinzap-Finds a12d713f: 17878508583573838",
   "14:32:08 POSTED facebook@Vinzap-Finds a12d713f: 1647622453641856",
@@ -5746,13 +5742,17 @@
   "20:33:16 POSTED facebook@Vinzap-Finds 11380256: 1587883099329499",
   "20:33:18 FAILED post facebook@Vijayendra-Singh 11380256: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYNTEw4uaZ-VqfwPYL4UJW9BfATS82uZCKQJ9YAL4Lqd7qNXi3M5afCntc8WsGOA20t3bcNyZAGAk4VY8ACxr-8_DvYgOeNvSbF96pXQ9RGuraNRcqYkDVvq-kh1OvgmBaaN08J8-BClGYhY_mKiNEEZ1pRzoHXklPppkamMvHZofMOsgYoydWaKKLuZvPfb75cNI1sb-u1xIakJDg_aaF-bXi-XG2dVA-jG3mDHGi0J05Yewz7ggOeaz_2zilzaNEZwwe6jhvWACmiqdM1IVSCBiH3ldFHAkDf4yOe3xQXlgqCz4qRNPfR_4nKAfH31Y\",\"help_cente",
   "20:33:49 STORY POSTED instagram@Vinzap-Finds 11380256",
-  "20:33:55 STORY POSTED facebook@Vinzap-Finds 11380256"
+  "20:33:55 STORY POSTED facebook@Vinzap-Finds 11380256",
+  "21:00:48 READY fc4706db 2-in-1 Oil Dispenser Bottle (auto-approved)",
+  "21:00:58 POSTED instagram@Vinzap-Finds fc4706db: 18120093559951860",
+  "21:01:02 POSTED facebook@Vinzap-Finds fc4706db: 1428352113685678_122114048571501659",
+  "21:01:05 POSTED facebook@Vijayendra-Singh fc4706db: 1317760538089559_122124565017480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793372552.124569,
-  "facebook@Vinzap-Finds": 1793372552.124569,
-  "facebook@Vijayendra-Singh": 1793372552.124569,
-  "youtube": 1793365287.0615463
+  "instagram@Vinzap-Finds": 1793374248.899157,
+  "facebook@Vinzap-Finds": 1793374248.899157,
+  "facebook@Vijayendra-Singh": 1793374248.899157,
+  "youtube": 1793364867.0615463
  },
- "n": 259
+ "n": 260
 }
