@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "caf58626",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "14-grid design for making",
-     "Comes with a lid to keep ice",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Ice Cube Tray | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Ice Cube Tray | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793022368.9824557,
-     "id": "18164597659493637",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793022368.9824557,
-     "id": "1595274195144765",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793022368.9824557,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevoMVmz_CGyjtWfkEoMTmpvdZ"
-    }
-   },
-   "created": 1793022342.5415943,
-   "after": 0,
-   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
-   "file": "caf58626.mp4",
-   "thumb": "caf58626_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17947274976358369"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1624496926094064"
-    }
-   }
-  },
-  {
    "id": "65fe4226",
    "status": "posted",
    "kind": "image",
@@ -5534,17 +5462,87 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-caterpillar-shape-self-adhesive-wall-toothbrush-and-storage-holder-1-pc",
    "file": "0ef1d144.jpg",
    "thumb": "0ef1d144.jpg"
+  },
+  {
+   "id": "4bba6145",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Knife Sharpener",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Rotating sharpening wheels",
+     "Peel-and-stick adhesive base",
+     "Stable one-hand operation keeps"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Knife Sharpener | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Knife Sharpener"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKnife Sharpener\n✔ Rotating sharpening wheels\n✔ Peel-and-stick adhesive base\n✔ Stable one-hand operation keeps\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Knife Sharpener | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793358080.700348,
+     "id": "18093271670679634",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793358080.700348,
+     "id": "1165388909503223",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793358080.700348,
+     "id": "1773719510574553",
+     "dry": false
+    }
+   },
+   "created": 1793358059.537993,
+   "after": 0,
+   "handle": "compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
+   "file": "4bba6145.mp4",
+   "thumb": "4bba6145_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18119952208777124"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1527672092663118"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1906386050731788"
+    }
+   }
   }
  ],
- "last_post": 1793356248.8204079,
+ "last_post": 1793358080.700348,
  "log": [
-  "20:31:33 READY 4053f2de Oval Chalkboard Sticker Labels | Home Decor Ideas (auto-approved)",
-  "20:32:09 FAILED post instagram@Vinzap-Finds 4053f2de: HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
-  "20:32:14 POSTED facebook@Vinzap-Finds 4053f2de: 1297192262523133",
-  "20:32:18 POSTED facebook@Vijayendra-Singh 4053f2de: 1869951254007592",
-  "20:32:26 STORY POSTED facebook@Vinzap-Finds 4053f2de",
-  "20:32:33 STORY POSTED facebook@Vijayendra-Singh 4053f2de",
-  "21:00:55 READY 3e1cb633 Masala Box (auto-approved)",
   "21:01:09 POSTED instagram@Vinzap-Finds 3e1cb633: 18090771263255797",
   "21:01:13 POSTED facebook@Vinzap-Finds 3e1cb633: 1428352113685678_122113333779501659",
   "21:01:17 POSTED facebook@Vijayendra-Singh 3e1cb633: 1317760538089559_122123946279480728",
@@ -5737,13 +5735,20 @@
   "16:00:48 READY 0ef1d144 Caterpillar Self-Adhesive Wall Toothbrush (auto-approved)",
   "16:01:02 POSTED instagram@Vinzap-Finds 0ef1d144: 18109584712944516",
   "16:01:07 POSTED facebook@Vinzap-Finds 0ef1d144: 1428352113685678_122113961115501659",
-  "16:01:12 POSTED facebook@Vijayendra-Singh 0ef1d144: 1317760538089559_122124483087480728"
+  "16:01:12 POSTED facebook@Vijayendra-Singh 0ef1d144: 1317760538089559_122124483087480728",
+  "16:31:20 READY 4bba6145 Knife Sharpener | Kitchen Organization (auto-approved)",
+  "16:31:54 POSTED instagram@Vinzap-Finds 4bba6145: 18093271670679634",
+  "16:31:58 POSTED facebook@Vinzap-Finds 4bba6145: 1165388909503223",
+  "16:32:03 POSTED facebook@Vijayendra-Singh 4bba6145: 1773719510574553",
+  "16:32:33 STORY POSTED instagram@Vinzap-Finds 4bba6145",
+  "16:32:42 STORY POSTED facebook@Vinzap-Finds 4bba6145",
+  "16:32:50 STORY POSTED facebook@Vijayendra-Singh 4bba6145"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793356248.8204079,
-  "facebook@Vinzap-Finds": 1793356248.8204079,
-  "facebook@Vijayendra-Singh": 1793356248.8204079,
+  "instagram@Vinzap-Finds": 1793358080.700348,
+  "facebook@Vinzap-Finds": 1793358080.700348,
+  "facebook@Vijayendra-Singh": 1793358080.700348,
   "youtube": 1793354478.3759863
  },
- "n": 250
+ "n": 251
 }
