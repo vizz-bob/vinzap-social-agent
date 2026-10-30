@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "b1eba901",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Potato Masher 17cm",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Premium food-grade stainless",
-     "Wide mashing plate",
-     "Ergonomic handle with anti-slip"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Stainless Steel Potato Masher 17cm | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Potato Masher 17cm"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Potato Masher 17cm\n✔ Premium food-grade stainless\n✔ Wide mashing plate\n✔ Ergonomic handle with anti-slip\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Stainless Steel Potato Masher 17cm | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793034077.8569322,
-     "id": "17931768330419960",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793034077.8569322,
-     "id": "1875985353562831",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793034077.8569322,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu_nFKs3S6R7101Hc_e5oMKsA"
-    }
-   },
-   "created": 1793034060.871385,
-   "after": 0,
-   "handle": "stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
-   "file": "b1eba901.mp4",
-   "thumb": "b1eba901_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18108009212580697"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1777966889922539"
-    }
-   }
-  },
-  {
    "id": "58a7d530",
    "status": "posted",
    "kind": "image",
@@ -5549,16 +5477,82 @@
    "product_url": "https://www.vinzapstore.in/products/big-stainless-steel-dough-scraper-cutter-22-x-12-cm-with-scale-1-pc",
    "file": "2a665031.jpg",
    "thumb": "2a665031.jpg"
+  },
+  {
+   "id": "b107287d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Dual compartment design",
+     "Secure locking lid to help",
+     "Matching water bottle with easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Plastic Lunch Box | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Lunch Box\n✔ Dual compartment design\n✔ Secure locking lid to help\n✔ Matching water bottle with easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #bottle #homeessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
+   "title": "Plastic Lunch Box | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793368876.830246,
+     "id": "18030451622693155",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793368876.830246,
+     "id": "1644026473976209",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793368876.830246,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes3DROe7YdMW9Bmpe3uJ1LUiK"
+    }
+   },
+   "created": 1793368852.3927884,
+   "after": 0,
+   "handle": "plastic-lunch-box-with-water-bottle-combo-set-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-lunch-box-with-water-bottle-combo-set-1-set",
+   "file": "b107287d.mp4",
+   "thumb": "b107287d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18132483130831686"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1791602428752575"
+    }
+   }
   }
  ],
- "last_post": 1793367048.4687285,
+ "last_post": 1793368876.830246,
  "log": [
-  "12:32:01 POSTED facebook@Vinzap-Finds c6fe4524: 2080401872902296",
-  "12:32:06 POSTED facebook@Vijayendra-Singh c6fe4524: 1585602269547497",
-  "12:32:10 POSTED youtube c6fe4524: -PnxTB56O1Q",
-  "12:32:50 STORY POSTED instagram@Vinzap-Finds c6fe4524",
-  "12:33:00 STORY POSTED facebook@Vinzap-Finds c6fe4524",
-  "12:33:09 STORY POSTED facebook@Vijayendra-Singh c6fe4524",
   "13:01:58 READY 5a0f2e58 Soap Dispensing Dishwand Scrubber Brush, (auto-approved)",
   "13:02:11 POSTED instagram@Vinzap-Finds 5a0f2e58: 17919160884459563",
   "13:02:16 POSTED facebook@Vinzap-Finds 5a0f2e58: 1428352113685678_122113552827501659",
@@ -5752,13 +5746,19 @@
   "19:00:48 READY 2a665031 Stainless Steel Dough Scraper Cutter Large (auto-approved)",
   "19:01:00 POSTED instagram@Vinzap-Finds 2a665031: 18062736959567859",
   "19:01:05 POSTED facebook@Vinzap-Finds 2a665031: 1428352113685678_122114014485501659",
-  "19:01:11 POSTED facebook@Vijayendra-Singh 2a665031: 1317760538089559_122124535077480728"
+  "19:01:11 POSTED facebook@Vijayendra-Singh 2a665031: 1317760538089559_122124535077480728",
+  "19:31:16 READY b107287d Plastic Lunch Box | Kitchen Organization (auto-approved)",
+  "19:31:51 POSTED instagram@Vinzap-Finds b107287d: 18030451622693155",
+  "19:31:54 POSTED facebook@Vinzap-Finds b107287d: 1644026473976209",
+  "19:31:55 FAILED post facebook@Vijayendra-Singh b107287d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes3DROe7YdMW9Bmpe3uJ1LUiK8HGHbAxhqipAPP0J93PGMGZi9npxS9VwVUwoQ9at7RDjFGwY7A9eWNjfVZcXUnxj4h_kDfg3kBoz-6uiEXtMVH_4bTGQSVVZXwN_kDGBuynDZPKgWuxEpA4xU4H9zXZIAEu4Ma4zjCAgPUpJm7fgVKyQeSmwm84Iw1Itf51gLspy-Sj-kv7divxoa_Sp2xQgvPwZAh5tLFgo93J32tkhLtAYH6h_m4KA-jd2usss_tMg5KF9NSC5_izTYCthR2_twkL7zLwek3GmDk7tuPI45rqSzssEwQDXU92Jovpzkb\",\"help_cent",
+  "19:32:24 STORY POSTED instagram@Vinzap-Finds b107287d",
+  "19:32:32 STORY POSTED facebook@Vinzap-Finds b107287d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793367048.4687285,
-  "facebook@Vinzap-Finds": 1793367048.4687285,
-  "facebook@Vijayendra-Singh": 1793367048.4687285,
+  "instagram@Vinzap-Finds": 1793368876.830246,
+  "facebook@Vinzap-Finds": 1793368876.830246,
+  "facebook@Vijayendra-Singh": 1793368876.830246,
   "youtube": 1793365287.0615463
  },
- "n": 256
+ "n": 257
 }
