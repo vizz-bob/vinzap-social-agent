@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "94441ddb",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Aroma Diffuser Humidifier 200ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "200ml ultrasonic aroma diffuser",
-     "Wood grain stylish round design",
-     "Cool mist essential oil diffuser"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Aroma Diffuser Humidifier 200ml | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Aroma Diffuser Humidifier 200ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nAroma Diffuser Humidifier 200ml\n✔ 200ml ultrasonic aroma diffuser\n✔ Wood grain stylish round design\n✔ Cool mist essential oil diffuser\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Aroma Diffuser Humidifier 200ml | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793019089.266691,
-     "id": "18097789334437097",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793019089.266691,
-     "id": "1432060228911423",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793019089.266691,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGUyuiVKJaVMq_GwvVPVMG2B"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793019089.266691,
-     "id": "on1EHwue7VM",
-     "dry": false
-    }
-   },
-   "created": 1793019063.1136942,
-   "after": 0,
-   "handle": "ultrasonic-aroma-diffuser-humidifier-200ml-with-led-light-for-home-office-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/ultrasonic-aroma-diffuser-humidifier-200ml-with-led-light-for-home-office-1-pc",
-   "file": "94441ddb.mp4",
-   "thumb": "94441ddb_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18148200115566016"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1838204370632450"
-    }
-   }
-  },
-  {
    "id": "277df4d1",
    "status": "posted",
    "kind": "image",
@@ -5529,18 +5451,93 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-marin-serving-bowl-elegant-oval-deep-bowl-1-pc-red",
    "file": "80b8b82f.jpg",
    "thumb": "80b8b82f.jpg"
+  },
+  {
+   "id": "de83b117",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "2-in-1 Kitchen Bag Clip & Measuring Scoop",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Two tools in one",
+     "Spring loaded jaws grip packets",
+     "Rounded scoop cup lifts"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2-in-1 Kitchen Bag Clip & Measuring Scoop"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Kitchen Bag Clip & Measuring Scoop\n✔ Two tools in one\n✔ Spring loaded jaws grip packets\n✔ Rounded scoop cup lifts\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793354478.3759863,
+     "id": "18382794067234681",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793354478.3759863,
+     "id": "1109476728327570",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793354478.3759863,
+     "id": "1632160991889946",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793354478.3759863,
+     "id": "riAk4kPcWEA",
+     "dry": false
+    }
+   },
+   "created": 1793354451.8574977,
+   "after": 0,
+   "handle": "multipurpose-plastic-kitchen-clamp-2-in-1-measuring-scoop-bag-clip-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-kitchen-clamp-2-in-1-measuring-scoop-bag-clip-1-pc",
+   "file": "de83b117.mp4",
+   "thumb": "de83b117_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18434279008197194"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1730584201340913"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "4327486600717114"
+    }
+   }
   }
  ],
- "last_post": 1793352720.503339,
+ "last_post": 1793354478.3759863,
  "log": [
-  "19:01:09 POSTED facebook@Vijayendra-Singh 5223b4dc: 1317760538089559_122123913993480728",
-  "19:32:29 READY bc78e837 Soft Facial Tissue Paper Napkins Set | Trending Shorts (auto-approved)",
-  "19:33:05 POSTED instagram@Vinzap-Finds bc78e837: 18219782317346459",
-  "19:33:11 POSTED facebook@Vinzap-Finds bc78e837: 2537519860085529",
-  "19:33:15 POSTED facebook@Vijayendra-Singh bc78e837: 1895148721935052",
-  "19:33:46 STORY POSTED instagram@Vinzap-Finds bc78e837",
-  "19:33:54 STORY POSTED facebook@Vinzap-Finds bc78e837",
-  "19:34:02 STORY POSTED facebook@Vijayendra-Singh bc78e837",
   "20:01:00 READY 0c62d446 Steel 2-in-1 Cut and Chop Board (auto-approved)",
   "20:01:11 POSTED instagram@Vinzap-Finds 0c62d446: 17888246325528671",
   "20:01:15 POSTED facebook@Vinzap-Finds 0c62d446: 1428352113685678_122113316193501659",
@@ -5732,13 +5729,21 @@
   "15:02:00 READY 80b8b82f Plastic Oval Deep Serving Bowl, Red (auto-approved)",
   "15:02:15 POSTED instagram@Vinzap-Finds 80b8b82f: 17951783784055433",
   "15:02:19 POSTED facebook@Vinzap-Finds 80b8b82f: 1428352113685678_122113946973501659",
-  "15:02:23 POSTED facebook@Vijayendra-Singh 80b8b82f: 1317760538089559_122124472989480728"
+  "15:02:23 POSTED facebook@Vijayendra-Singh 80b8b82f: 1317760538089559_122124472989480728",
+  "15:31:18 READY de83b117 2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets (auto-approved)",
+  "15:31:52 POSTED instagram@Vinzap-Finds de83b117: 18382794067234681",
+  "15:31:56 POSTED facebook@Vinzap-Finds de83b117: 1109476728327570",
+  "15:32:00 POSTED facebook@Vijayendra-Singh de83b117: 1632160991889946",
+  "15:32:04 POSTED youtube de83b117: riAk4kPcWEA",
+  "15:32:33 STORY POSTED instagram@Vinzap-Finds de83b117",
+  "15:32:40 STORY POSTED facebook@Vinzap-Finds de83b117",
+  "15:32:47 STORY POSTED facebook@Vijayendra-Singh de83b117"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793352720.503339,
-  "facebook@Vinzap-Finds": 1793352720.503339,
-  "facebook@Vijayendra-Singh": 1793352720.503339,
-  "youtube": 1793343265.0027359
+  "instagram@Vinzap-Finds": 1793354478.3759863,
+  "facebook@Vinzap-Finds": 1793354478.3759863,
+  "facebook@Vijayendra-Singh": 1793354478.3759863,
+  "youtube": 1793354478.3759863
  },
- "n": 248
+ "n": 249
 }
