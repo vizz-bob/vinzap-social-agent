@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "e1ae6691",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Wall Mount WiFi Router Holder Box Organizer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Neatly hides router and cables",
-     "Sturdy durable plastic body",
-     "Wall mountable design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Wall Mount WiFi Router Holder Box Organizer | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wall Mount WiFi Router Holder Box Organizer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mount WiFi Router Holder Box Organizer\n✔ Neatly hides router and cables\n✔ Sturdy durable plastic body\n✔ Wall mountable design\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Wall Mount WiFi Router Holder Box Organizer | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793013374.3915854,
-     "id": "18191893492409039",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793013374.3915854,
-     "id": "1162161246167501",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793013374.3915854,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetci-VddbGhyMn6FVW04gwimT"
-    }
-   },
-   "created": 1793013353.3398736,
-   "after": 0,
-   "handle": "wall-mount-wifi-router-holder-storage-box-organizer-rack-with-screws-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/wall-mount-wifi-router-holder-storage-box-organizer-rack-with-screws-1-pc",
-   "file": "e1ae6691.mp4",
-   "thumb": "e1ae6691_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18399618691164081"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1462518545825030"
-    }
-   }
-  },
-  {
    "id": "d86ef8c9",
    "status": "posted",
    "kind": "image",
@@ -5524,17 +5452,87 @@
    "product_url": "https://www.vinzapstore.in/products/kitchen-knife-set-with-ergonomic-handles-stainless-steel-chef-knives-12-pc",
    "file": "8f1a43db.jpg",
    "thumb": "8f1a43db.jpg"
+  },
+  {
+   "id": "f50a564b",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "5-in-1 Stainless Steel Grater and Slicer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "5-in-1 multifunctional grater",
+     "High-quality food-grade stainless",
+     "Sharp blades for smooth"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "5-in-1 Stainless Steel Grater and Slicer | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "5-in-1 Stainless Steel Grater and Slicer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n5-in-1 Stainless Steel Grater and Slicer\n✔ 5-in-1 multifunctional grater\n✔ High-quality food-grade stainless\n✔ Sharp blades for smooth\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "5-in-1 Stainless Steel Grater and Slicer | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793350892.775524,
+     "id": "18156121270538534",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793350892.775524,
+     "id": "1111986681605771",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793350892.775524,
+     "id": "1813165026500835",
+     "dry": false
+    }
+   },
+   "created": 1793350866.0517294,
+   "after": 0,
+   "handle": "supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
+   "file": "f50a564b.mp4",
+   "thumb": "f50a564b_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18061020974641528"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1083836561189536"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1131891429529673"
+    }
+   }
   }
  ],
- "last_post": 1793349048.226804,
+ "last_post": 1793350892.775524,
  "log": [
-  "18:31:34 READY f4e0fd96 Plastic Scoop Set | Diwali (auto-approved)",
-  "18:32:10 POSTED instagram@Vinzap-Finds f4e0fd96: 17975017848156449",
-  "18:32:16 POSTED facebook@Vinzap-Finds f4e0fd96: 2579753265784194",
-  "18:32:21 POSTED facebook@Vijayendra-Singh f4e0fd96: 1153818393738545",
-  "18:32:26 POSTED youtube f4e0fd96: 3oTVK19grEc",
-  "18:32:55 STORY POSTED instagram@Vinzap-Finds f4e0fd96",
-  "18:33:02 STORY POSTED facebook@Vinzap-Finds f4e0fd96",
   "18:33:10 STORY POSTED facebook@Vijayendra-Singh f4e0fd96",
   "19:00:49 READY 5223b4dc Disposable Paper Cups (auto-approved)",
   "19:01:01 POSTED instagram@Vinzap-Finds 5223b4dc: 17914543962542540",
@@ -5727,13 +5725,20 @@
   "14:00:48 READY 8f1a43db Kitchen Knife Set (auto-approved)",
   "14:00:59 POSTED instagram@Vinzap-Finds 8f1a43db: 18118830352789790",
   "14:01:02 POSTED facebook@Vinzap-Finds 8f1a43db: 1428352113685678_122113927677501659",
-  "14:01:05 POSTED facebook@Vijayendra-Singh 8f1a43db: 1317760538089559_122124460743480728"
+  "14:01:05 POSTED facebook@Vijayendra-Singh 8f1a43db: 1317760538089559_122124460743480728",
+  "14:31:32 READY f50a564b 5-in-1 Stainless Steel Grater and Slicer | Home Decor (auto-approved)",
+  "14:32:12 POSTED instagram@Vinzap-Finds f50a564b: 18156121270538534",
+  "14:32:18 POSTED facebook@Vinzap-Finds f50a564b: 1111986681605771",
+  "14:32:23 POSTED facebook@Vijayendra-Singh f50a564b: 1813165026500835",
+  "14:32:53 STORY POSTED instagram@Vinzap-Finds f50a564b",
+  "14:33:04 STORY POSTED facebook@Vinzap-Finds f50a564b",
+  "14:33:15 STORY POSTED facebook@Vijayendra-Singh f50a564b"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793349048.226804,
-  "facebook@Vinzap-Finds": 1793349048.226804,
-  "facebook@Vijayendra-Singh": 1793349048.226804,
+  "instagram@Vinzap-Finds": 1793350892.775524,
+  "facebook@Vinzap-Finds": 1793350892.775524,
+  "facebook@Vijayendra-Singh": 1793350892.775524,
   "youtube": 1793343685.0027359
  },
- "n": 246
+ "n": 247
 }
