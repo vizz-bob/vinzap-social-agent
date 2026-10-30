@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "73a059d4",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3 in 1 Kids Cutlery Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "3 in 1 set includes a spoon",
-     "Durable stainless steel heads are",
-     "Cute cartoon print handles make"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "3 in 1 Kids Cutlery Set | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3 in 1 Kids Cutlery Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 in 1 Kids Cutlery Set\n✔ 3 in 1 set includes a spoon\n✔ Durable stainless steel heads are\n✔ Cute cartoon print handles make\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "3 in 1 Kids Cutlery Set | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793027197.5279279,
-     "id": "18094234220678535",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793027197.5279279,
-     "id": "1140406001754622",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793027197.5279279,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevpMin_PL9JulgTKwaKBc-bSC"
-    }
-   },
-   "created": 1793027175.918036,
-   "after": 0,
-   "handle": "3-in-1-kids-cutlery-set-with-case-spoon-fork-knife-for-children-1-set",
-   "product_url": "https://www.vinzapstore.in/products/3-in-1-kids-cutlery-set-with-case-spoon-fork-knife-for-children-1-set",
-   "file": "73a059d4.mp4",
-   "thumb": "73a059d4_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18142922191610789"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1530319902237614"
-    }
-   }
-  },
-  {
    "id": "c16716ae",
    "status": "posted",
    "kind": "image",
@@ -5539,17 +5467,87 @@
    "product_url": "https://www.vinzapstore.in/products/electric-pepper-grinder-usb-rechargeable-one-touch-operation",
    "file": "3389788b.jpg",
    "thumb": "3389788b.jpg"
+  },
+  {
+   "id": "8b9f3957",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Ice Cream Scoop",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Trigger release lever pushes out",
+     "Sturdy stainless steel build is",
+     "Comfortable handle gives a firm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Ice Cream Scoop | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Ice Cream Scoop"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Ice Cream Scoop\n✔ Trigger release lever pushes out\n✔ Sturdy stainless steel build is\n✔ Comfortable handle gives a firm\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Ice Cream Scoop | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793361685.229231,
+     "id": "18091814270294871",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793361685.229231,
+     "id": "1103202792332730",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793361685.229231,
+     "id": "1437120964492167",
+     "dry": false
+    }
+   },
+   "created": 1793361657.3725357,
+   "after": 0,
+   "handle": "stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
+   "file": "8b9f3957.mp4",
+   "thumb": "8b9f3957_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18109042925153349"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2054428231875364"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2287328601840861"
+    }
+   }
   }
  ],
- "last_post": 1793359850.6350234,
+ "last_post": 1793361685.229231,
  "log": [
-  "21:32:04 POSTED instagram@Vinzap-Finds ff4edf8b: 18119914333956928",
-  "21:32:09 POSTED facebook@Vinzap-Finds ff4edf8b: 1419190056988148",
-  "21:32:10 FAILED post facebook@Vijayendra-Singh ff4edf8b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUCdTeJXTrJqTp4m7CQlh2hyfIxEPfuz0q1tI1Ww7qCT1Kvl76apwgHmN6e1rAZ8I8kzxqayGOaCdJ9kpZ6iq9EmKl7PZbGLw8ihz2EPAATmBrVWns3aKy0ouA_CpnZmo9PJkiz_xoL-5qgfXXlrQJ9hCnZK0zAaZLldzbjesGegKRan5rOfAKR0Qw24q9L3CCklPtBvt3ghW4f9Ge9kuChtqPkYP-iDWXCAH4xBTXkrNh6lb2Mn_kdNG5GBanVyFprNV2XOMBhss0cq0XdaPWH0wpaMfrO-NxtA4hjMi1mnJT3PmK99INuFjvqJQzRUE\",\"help_cente",
-  "21:32:14 POSTED youtube ff4edf8b: KMsplLNI70k",
-  "21:32:47 STORY POSTED instagram@Vinzap-Finds ff4edf8b",
-  "21:32:57 STORY POSTED facebook@Vinzap-Finds ff4edf8b",
-  "22:01:38 READY 87bcd560 Apex Manual Citrus Juicer (auto-approved)",
   "22:01:53 POSTED instagram@Vinzap-Finds 87bcd560: 18137075992634753",
   "22:01:57 POSTED facebook@Vinzap-Finds 87bcd560: 1428352113685678_122113350477501659",
   "22:02:01 POSTED facebook@Vijayendra-Singh 87bcd560: 1317760538089559_122123956989480728",
@@ -5742,13 +5740,20 @@
   "17:00:50 READY 3389788b Electric Pepper Grinder, USB Rechargeable (auto-approved)",
   "17:01:00 POSTED instagram@Vinzap-Finds 3389788b: 18118512520795425",
   "17:01:03 POSTED facebook@Vinzap-Finds 3389788b: 1428352113685678_122113978983501659",
-  "17:01:07 POSTED facebook@Vijayendra-Singh 3389788b: 1317760538089559_122124497157480728"
+  "17:01:07 POSTED facebook@Vijayendra-Singh 3389788b: 1317760538089559_122124497157480728",
+  "17:31:25 READY 8b9f3957 Stainless Steel Ice Cream Scoop | Home Decor (auto-approved)",
+  "17:31:58 POSTED instagram@Vinzap-Finds 8b9f3957: 18091814270294871",
+  "17:32:03 POSTED facebook@Vinzap-Finds 8b9f3957: 1103202792332730",
+  "17:32:07 POSTED facebook@Vijayendra-Singh 8b9f3957: 1437120964492167",
+  "17:32:38 STORY POSTED instagram@Vinzap-Finds 8b9f3957",
+  "17:32:44 STORY POSTED facebook@Vinzap-Finds 8b9f3957",
+  "17:32:52 STORY POSTED facebook@Vijayendra-Singh 8b9f3957"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793359850.6350234,
-  "facebook@Vinzap-Finds": 1793359850.6350234,
-  "facebook@Vijayendra-Singh": 1793359850.6350234,
+  "instagram@Vinzap-Finds": 1793361685.229231,
+  "facebook@Vinzap-Finds": 1793361685.229231,
+  "facebook@Vijayendra-Singh": 1793361685.229231,
   "youtube": 1793354478.3759863
  },
- "n": 252
+ "n": 253
 }
