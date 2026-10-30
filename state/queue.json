@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "b2b777b1",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel 2-in-1 Cutting and Chopping",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1699,
-    "was": 0,
-    "feats": [
-     "2 in 1 design works as both",
-     "Built-in razor-sharp stainless",
-     "Durable stainless steel surface"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Stainless Steel 2-in-1 Cutting and Chopping | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel 2-in-1 Cutting and Chopping"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel 2-in-1 Cutting and Chopping\n✔ 2 in 1 design works as both\n✔ Built-in razor-sharp stainless\n✔ Durable stainless steel surface\n\nOnly ₹1699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Stainless Steel 2-in-1 Cutting and Chopping | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793030469.8839269,
-     "id": "18113883107601026",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793030469.8839269,
-     "id": "1636331467960531",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793030469.8839269,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeubjLKtP6kadgHFEsye8bn2An"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793030469.8839269,
-     "id": "aFN9anwevPc",
-     "dry": false
-    }
-   },
-   "created": 1793030453.4852936,
-   "after": 0,
-   "handle": "stainless-steel-2-in-1-cutting-and-chopping-board-with-knife-for-kitchen-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-2-in-1-cutting-and-chopping-board-with-knife-for-kitchen-1-pc",
-   "file": "b2b777b1.mp4",
-   "thumb": "b2b777b1_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18145823323604683"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1130278743086108"
-    }
-   }
-  },
-  {
    "id": "b4c30f74",
    "status": "posted",
    "kind": "image",
@@ -5544,18 +5466,93 @@
    "product_url": "https://www.vinzapstore.in/products/portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
    "file": "554e9f87.jpg",
    "thumb": "554e9f87.jpg"
+  },
+  {
+   "id": "b1053852",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Bagasse Clamshell Food Box 9x6 Inch",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "Premium bagasse clamshell food",
+     "Pack of 10 pieces for restaurant",
+     "9x6 inch size ideal for lunch"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Bagasse Clamshell Food Box 9x6 Inch | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Bagasse Clamshell Food Box 9x6 Inch"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nBagasse Clamshell Food Box 9x6 Inch\n✔ Premium bagasse clamshell food\n✔ Pack of 10 pieces for restaurant\n✔ 9x6 inch size ideal for lunch\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Bagasse Clamshell Food Box 9x6 Inch | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793365287.0615463,
+     "id": "18110858446924341",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793365287.0615463,
+     "id": "3612262932265079",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793365287.0615463,
+     "id": "1577450414498941",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793365287.0615463,
+     "id": "CdheMgZeay8",
+     "dry": false
+    }
+   },
+   "created": 1793365263.6095886,
+   "after": 0,
+   "handle": "vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
+   "product_url": "https://www.vinzapstore.in/products/vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
+   "file": "b1053852.mp4",
+   "thumb": "b1053852_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18121347710071563"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4479430015633968"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1546247670858595"
+    }
+   }
   }
  ],
- "last_post": 1793363461.8199959,
+ "last_post": 1793365287.0615463,
  "log": [
-  "22:32:13 POSTED instagram@Vinzap-Finds 3754e635: 17911648242310999",
-  "22:32:19 POSTED facebook@Vinzap-Finds 3754e635: 994550256305895",
-  "22:32:24 POSTED facebook@Vijayendra-Singh 3754e635: 1644718237345172",
-  "22:32:55 STORY POSTED instagram@Vinzap-Finds 3754e635",
-  "22:33:03 STORY POSTED facebook@Vinzap-Finds 3754e635",
-  "22:33:11 STORY POSTED facebook@Vijayendra-Singh 3754e635",
-  "12:00:49 READY 8d0d8194 Protein Shaker Tumbler 400ml (auto-approved)",
-  "12:01:05 POSTED instagram@Vinzap-Finds 8d0d8194: 18115595399043101",
   "12:01:11 POSTED facebook@Vinzap-Finds 8d0d8194: 1428352113685678_122113540245501659",
   "12:01:17 POSTED facebook@Vijayendra-Singh 8d0d8194: 1317760538089559_122124140403480728",
   "12:31:13 READY c6fe4524 White Coffee Mug Custom Printed | Trending Shorts (auto-approved)",
@@ -5747,13 +5744,21 @@
   "18:01:01 READY 554e9f87 Portable Electric Kettle 600ml Travel Water (auto-approved)",
   "18:01:11 POSTED instagram@Vinzap-Finds 554e9f87: 18010004451000833",
   "18:01:15 POSTED facebook@Vinzap-Finds 554e9f87: 1428352113685678_122113997001501659",
-  "18:01:17 POSTED facebook@Vijayendra-Singh 554e9f87: 1317760538089559_122124509793480728"
+  "18:01:17 POSTED facebook@Vijayendra-Singh 554e9f87: 1317760538089559_122124509793480728",
+  "18:31:27 READY b1053852 Bagasse Clamshell Food Box 9x6 Inch | Trending Shorts (auto-approved)",
+  "18:32:07 POSTED instagram@Vinzap-Finds b1053852: 18110858446924341",
+  "18:32:14 POSTED facebook@Vinzap-Finds b1053852: 3612262932265079",
+  "18:32:19 POSTED facebook@Vijayendra-Singh b1053852: 1577450414498941",
+  "18:32:28 POSTED youtube b1053852: CdheMgZeay8",
+  "18:33:01 STORY POSTED instagram@Vinzap-Finds b1053852",
+  "18:33:11 STORY POSTED facebook@Vinzap-Finds b1053852",
+  "18:33:20 STORY POSTED facebook@Vijayendra-Singh b1053852"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793363461.8199959,
-  "facebook@Vinzap-Finds": 1793363461.8199959,
-  "facebook@Vijayendra-Singh": 1793363461.8199959,
-  "youtube": 1793354058.3759863
+  "instagram@Vinzap-Finds": 1793365287.0615463,
+  "facebook@Vinzap-Finds": 1793365287.0615463,
+  "facebook@Vijayendra-Singh": 1793365287.0615463,
+  "youtube": 1793365287.0615463
  },
- "n": 254
+ "n": 255
 }
