@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "dcb298c7",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Plastic Spoon Set of 20",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Value pack of 20 spoons provides",
-     "Reusable and durable plastic is",
-     "Bright colour adds a fun"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Reusable Plastic Spoon Set of 20 | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Plastic Spoon Set of 20"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Plastic Spoon Set of 20\n✔ Value pack of 20 spoons provides\n✔ Reusable and durable plastic is\n✔ Bright colour adds a fun\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Reusable Plastic Spoon Set of 20 | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793108768.156222,
-     "id": "18131245516700748",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793108768.156222,
-     "id": "1456005276639519",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793108768.156222,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuewMtXXgdopsF5TvPz65eshQ"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793108768.156222,
-     "id": "QK2mkO3uOtU",
-     "dry": false
-    }
-   },
-   "created": 1793108741.3264349,
-   "after": 0,
-   "handle": "plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
-   "file": "dcb298c7.mp4",
-   "thumb": "dcb298c7_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18468052474142480"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1852162389290738"
-    }
-   }
-  },
-  {
    "id": "85cadb08",
    "status": "scheduled",
    "kind": "image",
@@ -5571,18 +5493,93 @@
    "product_url": "https://www.vinzapstore.in/products/vegnar-disposable-round-food-serving-plate-10-pc",
    "file": "6cad3d90.jpg",
    "thumb": "6cad3d90.jpg"
+  },
+  {
+   "id": "37a51244",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Knife Organizer Stand",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "SPACE SAVING: The angled slots",
+     "ORGANIZATION: The space saving",
+     "NON-SLIP: The organizer has"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Plastic Knife Organizer Stand | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Knife Organizer Stand"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Knife Organizer Stand\n✔ SPACE SAVING: The angled slots\n✔ ORGANIZATION: The space saving\n✔ NON-SLIP: The organizer has\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Plastic Knife Organizer Stand | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793440882.4610548,
+     "id": "17941234524384620",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793440882.4610548,
+     "id": "946880541558364",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793440882.4610548,
+     "id": "4146550818971246",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793440882.4610548,
+     "id": "xDsG7wfcxW4",
+     "dry": false
+    }
+   },
+   "created": 1793440855.3314693,
+   "after": 0,
+   "handle": "5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
+   "product_url": "https://www.vinzapstore.in/products/5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
+   "file": "37a51244.mp4",
+   "thumb": "37a51244_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18132000112705964"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2007072053291589"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1638613014669059"
+    }
+   }
   }
  ],
- "last_post": 1793439042.626328,
+ "last_post": 1793440882.4610548,
  "log": [
-  "19:31:29 READY 93667b92 9 in 1 Snack Serving Plates Set | Diwali (auto-approved)",
-  "19:32:07 POSTED instagram@Vinzap-Finds 93667b92: 18166530634491953",
-  "19:32:13 POSTED facebook@Vinzap-Finds 93667b92: 1675315860863379",
-  "19:32:17 POSTED facebook@Vijayendra-Singh 93667b92: 1783104939582313",
-  "19:32:51 STORY POSTED instagram@Vinzap-Finds 93667b92",
-  "19:33:04 STORY FAILED facebook@Vinzap-Finds 93667b92: Remote end closed connection without response",
-  "19:33:16 STORY POSTED facebook@Vijayendra-Singh 93667b92",
-  "20:00:48 READY 917f372a Stainless Steel Dinner Spoon (auto-approved)",
   "20:00:58 POSTED instagram@Vinzap-Finds 917f372a: 18111676079617302",
   "20:01:02 POSTED facebook@Vinzap-Finds 917f372a: 1428352113685678_122113686549501659",
   "20:01:06 POSTED facebook@Vijayendra-Singh 917f372a: 1317760538089559_122124250851480728",
@@ -5774,13 +5771,21 @@
   "15:00:42 READY 6cad3d90 Vegnar Disposable Round Serving Plates Pack (auto-approved)",
   "15:00:57 POSTED instagram@Vinzap-Finds 6cad3d90: 18102642695169021",
   "15:01:00 POSTED facebook@Vinzap-Finds 6cad3d90: 1428352113685678_122114282967501659",
-  "15:01:03 POSTED facebook@Vijayendra-Singh 6cad3d90: 1317760538089559_122124817347480728"
+  "15:01:03 POSTED facebook@Vijayendra-Singh 6cad3d90: 1317760538089559_122124817347480728",
+  "15:31:22 READY 37a51244 Plastic Knife Organizer Stand | Trending Shorts (auto-approved)",
+  "15:32:10 POSTED instagram@Vinzap-Finds 37a51244: 17941234524384620",
+  "15:32:15 POSTED facebook@Vinzap-Finds 37a51244: 946880541558364",
+  "15:32:19 POSTED facebook@Vijayendra-Singh 37a51244: 4146550818971246",
+  "15:32:25 POSTED youtube 37a51244: xDsG7wfcxW4",
+  "15:32:56 STORY POSTED instagram@Vinzap-Finds 37a51244",
+  "15:33:05 STORY POSTED facebook@Vinzap-Finds 37a51244",
+  "15:33:14 STORY POSTED facebook@Vijayendra-Singh 37a51244"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793439042.626328,
-  "facebook@Vinzap-Finds": 1793439042.626328,
-  "facebook@Vijayendra-Singh": 1793439042.626328,
-  "youtube": 1793429658.591145
+  "instagram@Vinzap-Finds": 1793440882.4610548,
+  "facebook@Vinzap-Finds": 1793440882.4610548,
+  "facebook@Vijayendra-Singh": 1793440882.4610548,
+  "youtube": 1793440882.4610548
  },
- "n": 270
+ "n": 271
 }
