@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "88035b40",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Cute Cartoon Double Layer Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1999,
-    "was": 0,
-    "feats": [
-     "Double layer for separate food",
-     "Cartoon-themed look",
-     "Side locks and a carry handle"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Cute Cartoon Double Layer Lunch Box | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Cute Cartoon Double Layer Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCute Cartoon Double Layer Lunch Box\n✔ Double layer for separate food\n✔ Cartoon-themed look\n✔ Side locks and a carry handle\n\nOnly ₹1999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
-   "title": "Cute Cartoon Double Layer Lunch Box | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793120483.5952241,
-     "id": "18113369378334827",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793120483.5952241,
-     "id": "1776020530119507",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793120483.5952241,
-     "id": "1087186057441992",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793120483.5952241,
-     "id": "PUXjfJ87Au4",
-     "dry": false
-    }
-   },
-   "created": 1793120456.7980428,
-   "after": 0,
-   "handle": "cute-cartoon-double-layer-lunch-box-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/cute-cartoon-double-layer-lunch-box-1-pc",
-   "file": "88035b40.mp4",
-   "thumb": "88035b40_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17919108474463868"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1131607499320608"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1131688469275706"
-    }
-   }
-  },
-  {
    "id": "c01ecf2a",
    "status": "posted",
    "kind": "image",
@@ -5577,17 +5494,88 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-creamy-dessert-bowl-6-pc-set",
    "file": "71cf43d8.jpg",
    "thumb": "71cf43d8.jpg"
+  },
+  {
+   "id": "9580a8b7",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Egg Steamer Rack, Folding",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 269,
+    "was": 0,
+    "feats": [
+     "Sturdy stainless steel rack",
+     "Folding legs adjust between two",
+     "Fold height about 3.2 cm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Egg Steamer Rack, Folding"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Egg Steamer Rack, Folding\n✔ Sturdy stainless steel rack\n✔ Folding legs adjust between two\n✔ Fold height about 3.2 cm\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793451692.3340342,
+     "id": "18149061163539859",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793451692.3340342,
+     "id": "1459030256372305",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793451692.3340342,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesJhF_H24AdS9MUcuT2E6JRpf"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793451692.3340342,
+     "id": "XwXmXkA6giY",
+     "dry": false
+    }
+   },
+   "created": 1793451666.705768,
+   "after": 0,
+   "handle": "stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
+   "file": "9580a8b7.mp4",
+   "thumb": "9580a8b7_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17909558820330096"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1125409573469129"
+    }
+   }
   }
  ],
- "last_post": 1793449850.7861562,
+ "last_post": 1793451692.3340342,
  "log": [
-  "22:01:03 POSTED facebook@Vijayendra-Singh 8c0799bc: 1317760538089559_122124281517480728",
-  "22:31:30 READY a74c61ef 2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas (auto-approved)",
-  "22:32:08 POSTED instagram@Vinzap-Finds a74c61ef: 18134049079758958",
-  "22:32:13 POSTED facebook@Vinzap-Finds a74c61ef: 1993483951325516",
-  "22:32:14 FAILED post facebook@Vijayendra-Singh a74c61ef: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuW78ofwHpbsaRc8Rl7iPYlNKOX_Tk8Xz4e71y-C5NPK4_QvguoJ9owf0YXmAJXOCb78ryJiLnjJP27KT84Azw_yLJlBJZ8JMt6IG7cEdU7Z-usiayTt4lotMSsEUexqWqHLh19Iy8K85xKMDY3Nca1FfW3BGGhc4ni20GfWzgjqVuP9zuhdXNW4ULAXxiGgKz247fEA3MzLtlelQSSnvKGxz3wGglltnLpgv6rJ-W1oxQl3JBL0Tz4HyXHpZXs4n-b_a-HhigCJVjdwLSfF4VipxjFlJx2VA0B8lMoIt2AuioXdo4bFStU5--qqlc0a5VN\",\"help_cent",
-  "22:32:45 STORY POSTED instagram@Vinzap-Finds a74c61ef",
-  "22:32:54 STORY POSTED facebook@Vinzap-Finds a74c61ef",
   "12:00:47 READY 6617b856 Glass Water Bottle 400ml (auto-approved)",
   "12:00:58 POSTED instagram@Vinzap-Finds 6617b856: 18644152291022902",
   "12:01:02 POSTED facebook@Vinzap-Finds 6617b856: 1428352113685678_122113896297501659",
@@ -5780,13 +5768,20 @@
   "18:00:50 READY 71cf43d8 Supermom Creamy Dessert Bowl Set of 6 (auto-approved)",
   "18:01:00 POSTED instagram@Vinzap-Finds 71cf43d8: 18647122906037898",
   "18:01:03 POSTED facebook@Vinzap-Finds 71cf43d8: 1428352113685678_122114328579501659",
-  "18:01:07 POSTED facebook@Vijayendra-Singh 71cf43d8: 1317760538089559_122124865647480728"
+  "18:01:07 POSTED facebook@Vijayendra-Singh 71cf43d8: 1317760538089559_122124865647480728",
+  "18:31:32 READY 9580a8b7 Stainless Steel Egg Steamer Rack, Folding | Home Decor (auto-approved)",
+  "18:32:13 POSTED instagram@Vinzap-Finds 9580a8b7: 18149061163539859",
+  "18:32:19 POSTED facebook@Vinzap-Finds 9580a8b7: 1459030256372305",
+  "18:32:21 FAILED post facebook@Vijayendra-Singh 9580a8b7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesJhF_H24AdS9MUcuT2E6JRpfAx1r8fI5EdlriywzE8z8FUQIX6e4HlWkUEJ1_ESvrHmNYLZtNXL_14natxWSU6weXz_yPWuoz-c458Pg5qsjohyoccXIM1PSeBIa_9aR3yFURupoEBJbogyfUtZaUQ-M8Xnd8ecWEdN95XkShnqlK-iPfc2suU8ZIjfUjWMs9A6uxHcYXCJpHHR4qL-qo6XGAG6xMpikKObvx32YnhxaDfOWX6feWgnF63TziC7VPe9024r6iOJtVtusc6i2t2yaSuFQnRpUXbAUAs9UHssNn_1qS2USIsGVVXFcZerjg_\",\"help_cent",
+  "18:32:26 POSTED youtube 9580a8b7: XwXmXkA6giY",
+  "18:33:03 STORY POSTED instagram@Vinzap-Finds 9580a8b7",
+  "18:33:16 STORY POSTED facebook@Vinzap-Finds 9580a8b7"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793449850.7861562,
-  "facebook@Vinzap-Finds": 1793449850.7861562,
-  "facebook@Vijayendra-Singh": 1793449850.7861562,
-  "youtube": 1793440462.4610548
+  "instagram@Vinzap-Finds": 1793451692.3340342,
+  "facebook@Vinzap-Finds": 1793451692.3340342,
+  "facebook@Vijayendra-Singh": 1793451692.3340342,
+  "youtube": 1793451692.3340342
  },
- "n": 276
+ "n": 277
 }
