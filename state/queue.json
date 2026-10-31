@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "c8f5b952",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Portable Plastic Kitchen Dustbin Hanging",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 609,
-    "was": 0,
-    "feats": [
-     "Compact portable dustbin",
-     "Hanging design suitable",
-     "Lid helps keep waste covered"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Portable Plastic Kitchen Dustbin Hanging | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Portable Plastic Kitchen Dustbin Hanging"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Plastic Kitchen Dustbin Hanging\n✔ Compact portable dustbin\n✔ Hanging design suitable\n✔ Lid helps keep waste covered\n\nOnly ₹609. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Portable Plastic Kitchen Dustbin Hanging | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793178075.639149,
-     "id": "18173814289461654",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793178075.639149,
-     "id": "1665762425093646",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793178075.639149,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetSH0Qyd3iLhJy5eiEupV27WL"
-    }
-   },
-   "created": 1793178059.160793,
-   "after": 0,
-   "handle": "portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
-   "product_url": "https://www.vinzapstore.in/products/portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
-   "file": "c8f5b952.mp4",
-   "thumb": "c8f5b952_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18147703264568112"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1646821490455670"
-    }
-   }
-  },
-  {
    "id": "3c628aba",
    "status": "posted",
    "kind": "image",
@@ -5561,17 +5489,88 @@
    "product_url": "https://www.vinzapstore.in/products/steel-kids-dinosaur-lunch-box-bento-tiffin-with-steel-tray-spoon-sauce-cup-1-set",
    "file": "647603d6.jpg",
    "thumb": "647603d6.jpg"
+  },
+  {
+   "id": "756b279f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 159,
+    "was": 0,
+    "feats": [
+     "The mini silicone mold allows you",
+     "Easy to use",
+     "Freezing"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Silicone Ice Cube Tray | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Tray\n✔ The mini silicone mold allows you\n✔ Easy to use\n✔ Freezing\n\nOnly ₹159. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Silicone Ice Cube Tray | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793462475.145613,
+     "id": "18137284069709690",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793462475.145613,
+     "id": "945579301744169",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793462475.145613,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetk-yHxzlgFoU728dQ0-1ecHN"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793462475.145613,
+     "id": "gVWLwBkogrU",
+     "dry": false
+    }
+   },
+   "created": 1793462449.2652361,
+   "after": 0,
+   "handle": "silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-5",
+   "product_url": "https://www.vinzapstore.in/products/silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-5",
+   "file": "756b279f.mp4",
+   "thumb": "756b279f_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17977955705935672"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1396657979124626"
+    }
+   }
   }
  ],
- "last_post": 1793460642.8161223,
+ "last_post": 1793462475.145613,
  "log": [
-  "14:00:59 POSTED instagram@Vinzap-Finds 8f1a43db: 18118830352789790",
-  "14:01:02 POSTED facebook@Vinzap-Finds 8f1a43db: 1428352113685678_122113927677501659",
-  "14:01:05 POSTED facebook@Vijayendra-Singh 8f1a43db: 1317760538089559_122124460743480728",
-  "14:31:32 READY f50a564b 5-in-1 Stainless Steel Grater and Slicer | Home Decor (auto-approved)",
-  "14:32:12 POSTED instagram@Vinzap-Finds f50a564b: 18156121270538534",
-  "14:32:18 POSTED facebook@Vinzap-Finds f50a564b: 1111986681605771",
-  "14:32:23 POSTED facebook@Vijayendra-Singh f50a564b: 1813165026500835",
   "14:32:53 STORY POSTED instagram@Vinzap-Finds f50a564b",
   "14:33:04 STORY POSTED facebook@Vinzap-Finds f50a564b",
   "14:33:15 STORY POSTED facebook@Vijayendra-Singh f50a564b",
@@ -5764,13 +5763,20 @@
   "21:00:42 READY 647603d6 Steel Kids Dinosaur Lunch Box Bento Tiffin (auto-approved)",
   "21:00:54 POSTED instagram@Vinzap-Finds 647603d6: 18371939326245898",
   "21:00:58 POSTED facebook@Vinzap-Finds 647603d6: 1428352113685678_122114376699501659",
-  "21:01:03 POSTED facebook@Vijayendra-Singh 647603d6: 1317760538089559_122124920073480728"
+  "21:01:03 POSTED facebook@Vijayendra-Singh 647603d6: 1317760538089559_122124920073480728",
+  "21:31:15 READY 756b279f Silicone Ice Cube Tray | Cooking (auto-approved)",
+  "21:31:47 POSTED instagram@Vinzap-Finds 756b279f: 18137284069709690",
+  "21:31:51 POSTED facebook@Vinzap-Finds 756b279f: 945579301744169",
+  "21:31:52 FAILED post facebook@Vijayendra-Singh 756b279f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetk-yHxzlgFoU728dQ0-1ecHNJskoMeA3E_T8tXWbcIsJLxsfBc448Z9IvOrLhJdMzBDaKjOaIgxR4B8ZA7ASdJU4ROrYQyq0F-sozmknpzK5gl809O6IsR5bvzaLZK8stn3HyMB2_CB2G9GERaIp9-aYtIR8PB3Bqovl6G6Njo__kXApIOkMeD3NJbB1j7ECs4pbNE3j29tAREUCjSdEG0di_nr-R_FwCqZNaArzunVk6G0MlV28J9MGTYwAzenujUFuWRaCHm1UvKLVNuf7wbBwVWXUxSY0A4lC4vpN--UQD_AsZEk5vUPV4Y81NcT3Ku\",\"help_cent",
+  "21:31:59 POSTED youtube 756b279f: gVWLwBkogrU",
+  "21:32:29 STORY POSTED instagram@Vinzap-Finds 756b279f",
+  "21:32:36 STORY POSTED facebook@Vinzap-Finds 756b279f"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793460642.8161223,
-  "facebook@Vinzap-Finds": 1793460642.8161223,
-  "facebook@Vijayendra-Singh": 1793460642.8161223,
-  "youtube": 1793451272.3340342
+  "instagram@Vinzap-Finds": 1793462475.145613,
+  "facebook@Vinzap-Finds": 1793462475.145613,
+  "facebook@Vijayendra-Singh": 1793462475.145613,
+  "youtube": 1793462475.145613
  },
- "n": 282
+ "n": 283
 }
