@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "8bd59d39",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kitchen Platform and Glass Wiper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Multipurpose wiper suitable",
-     "High-quality rubber blade",
-     "Ergonomic handle for a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Kitchen Platform and Glass Wiper | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kitchen Platform and Glass Wiper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Platform and Glass Wiper\n✔ Multipurpose wiper suitable\n✔ High-quality rubber blade\n✔ Ergonomic handle for a firm\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecorideas #diwali",
-   "title": "Kitchen Platform and Glass Wiper | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793116890.250024,
-     "id": "18118807979327073",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793116890.250024,
-     "id": "1637346507896065",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793116890.250024,
-     "id": "1423320846674333",
-     "dry": false
-    }
-   },
-   "created": 1793116857.6119187,
-   "after": 0,
-   "handle": "supermom-premium-kitchen-platform-and-glass-wiper-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-kitchen-platform-and-glass-wiper-1-pc",
-   "file": "8bd59d39.mp4",
-   "thumb": "8bd59d39_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18115165277165687"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1607669857021268"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2059531108769922"
-    }
-   }
-  },
-  {
    "id": "6891ee5c",
    "status": "posted",
    "kind": "image",
@@ -5582,16 +5505,82 @@
    "product_url": "https://www.vinzapstore.in/products/extra-large-leakproof-water-bottle-1-pc-1700ml-approx",
    "file": "304366ee.jpg",
    "thumb": "304366ee.jpg"
+  },
+  {
+   "id": "d0bb2602",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "4-Tier Plastic Storage Trolley",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 5999,
+    "was": 0,
+    "feats": [
+     "4 spacious pull-out drawers",
+     "Smooth-rolling wheels to move it",
+     "Sturdy frame with a comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "4-Tier Plastic Storage Trolley | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "4-Tier Plastic Storage Trolley"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n4-Tier Plastic Storage Trolley\n✔ 4 spacious pull-out drawers\n✔ Smooth-rolling wheels to move it\n✔ Sturdy frame with a comfortable\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchenorganization #cooking",
+   "title": "4-Tier Plastic Storage Trolley | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793448075.8668554,
+     "id": "18100778756536536",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793448075.8668554,
+     "id": "1114446917623483",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793448075.8668554,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetqd-VBWQ3k8Bi1COd4mOYd6u"
+    }
+   },
+   "created": 1793448050.015015,
+   "after": 0,
+   "handle": "4-tier-plastic-storage-trolley-with-wheels-rolling-drawer-organizer-cart-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/4-tier-plastic-storage-trolley-with-wheels-rolling-drawer-organizer-cart-1-pc",
+   "file": "d0bb2602.mp4",
+   "thumb": "d0bb2602_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17978456421137863"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4259807527644534"
+    }
+   }
   }
  ],
- "last_post": 1793446267.3971498,
+ "last_post": 1793448075.8668554,
  "log": [
-  "21:31:59 POSTED instagram@Vinzap-Finds 489406a8: 18083703191401188",
-  "21:32:04 POSTED facebook@Vinzap-Finds 489406a8: 1796506968288826",
-  "21:32:08 POSTED facebook@Vijayendra-Singh 489406a8: 3208834155990993",
-  "21:32:15 POSTED youtube 489406a8: Z8LPRJ0L64M",
-  "21:32:56 STORY POSTED instagram@Vinzap-Finds 489406a8",
-  "21:33:07 STORY POSTED facebook@Vinzap-Finds 489406a8",
   "21:33:08 STORY FAILED facebook@Vijayendra-Singh 489406a8: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from",
   "22:00:47 READY 8c0799bc Frosted Glass Water Bottle 350ml (auto-approved)",
   "22:00:56 POSTED instagram@Vinzap-Finds 8c0799bc: 18100754582651564",
@@ -5785,13 +5774,19 @@
   "17:01:07 READY 304366ee Extra Large Leakproof Water Bottle 1700ml (auto-approved)",
   "17:01:21 POSTED instagram@Vinzap-Finds 304366ee: 18112652978183490",
   "17:01:25 POSTED facebook@Vinzap-Finds 304366ee: 1428352113685678_122114314803501659",
-  "17:01:28 POSTED facebook@Vijayendra-Singh 304366ee: 1317760538089559_122124851583480728"
+  "17:01:28 POSTED facebook@Vijayendra-Singh 304366ee: 1317760538089559_122124851583480728",
+  "17:31:15 READY d0bb2602 4-Tier Plastic Storage Trolley | Kitchen Organization (auto-approved)",
+  "17:31:49 POSTED instagram@Vinzap-Finds d0bb2602: 18100778756536536",
+  "17:31:55 POSTED facebook@Vinzap-Finds d0bb2602: 1114446917623483",
+  "17:31:56 FAILED post facebook@Vijayendra-Singh d0bb2602: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetqd-VBWQ3k8Bi1COd4mOYd6uWTYEHrqf5lkccCwX1c4VAUlxC9GVdMt95Xbny-aG_1ziMokBVFf1gc2IJrqtMjsFXRE5N77e-Z7mMkxc-phBKGkj8ms0C_f50kbE_a9gwf-ofnYBTLtR5dCVxaqytlXcJO4crYmORUhm6OWqpKtA2kSFr8MNNGcprSHW_Sr3HLMru1Nu7z5AKlJQgWTFlVKXpDWXrpMuhMaqeLYURCUhtCBB8WDc4NLAa4xk5ZKKwqkfi1JzGvqIQ_hYcpGsL6vWYP3IB2Kiiq8m-FG1Y1Y-9p06k-HYpacMOgEwEaT3NV\",\"help_cent",
+  "17:32:27 STORY POSTED instagram@Vinzap-Finds d0bb2602",
+  "17:32:35 STORY POSTED facebook@Vinzap-Finds d0bb2602"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793446267.3971498,
-  "facebook@Vinzap-Finds": 1793446267.3971498,
-  "facebook@Vijayendra-Singh": 1793446267.3971498,
+  "instagram@Vinzap-Finds": 1793448075.8668554,
+  "facebook@Vinzap-Finds": 1793448075.8668554,
+  "facebook@Vijayendra-Singh": 1793448075.8668554,
   "youtube": 1793440882.4610548
  },
- "n": 274
+ "n": 275
 }
