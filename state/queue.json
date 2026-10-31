@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "82d6645a",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Airtight Mason Jar Zipper Pouch",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 45.86,
-    "was": 0,
-    "feats": [
-     "The unique appearance design",
-     "Realistic Mason jar shape design",
-     "They are lightweight and easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Airtight Mason Jar Zipper Pouch"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Airtight Mason Jar Zipper Pouch\n✔ The unique appearance design\n✔ Realistic Mason jar shape design\n✔ They are lightweight and easy\n\nOnly ₹45.86. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecorideas #diwali",
-   "title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793174571.5133796,
-     "id": "18114693167175428",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793174571.5133796,
-     "id": "1355917404280469",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793174571.5133796,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesC5gpHQ02w9XJ5eMar-s4IrJ"
-    }
-   },
-   "created": 1793174552.4798281,
-   "after": 0,
-   "handle": "1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
-   "product_url": "https://www.vinzapstore.in/products/1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
-   "file": "82d6645a.mp4",
-   "thumb": "82d6645a_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18052017071810293"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1149997737477813"
-    }
-   }
-  },
-  {
    "id": "6d68c058",
    "status": "posted",
    "kind": "image",
@@ -5561,16 +5489,82 @@
    "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-kitchen-plastic-handle-cutlery-set-with-tray-24-pc-set",
    "file": "497eb695.jpg",
    "thumb": "497eb695.jpg"
+  },
+  {
+   "id": "bfc8a4c4",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Car Shape Kids Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Cute car shape with rolling wheels",
+     "Complete set with spoon and fork",
+     "Transparent inner tray included"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Car Shape Kids Lunch Box | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Car Shape Kids Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCar Shape Kids Lunch Box\n✔ Cute car shape with rolling wheels\n✔ Complete set with spoon and fork\n✔ Transparent inner tray included\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#cooking #homedecor",
+   "title": "Car Shape Kids Lunch Box | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793458874.848694,
+     "id": "17908993269570914",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793458874.848694,
+     "id": "1755576465516254",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793458874.848694,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetv3DBmBBd4a8It9vw6eMNpep"
+    }
+   },
+   "created": 1793458853.237495,
+   "after": 0,
+   "handle": "car-shape-kids-lunch-box-with-wheels-spoon-and-fork-for-school-tiffin-1-set",
+   "product_url": "https://www.vinzapstore.in/products/car-shape-kids-lunch-box-with-wheels-spoon-and-fork-for-school-tiffin-1-set",
+   "file": "bfc8a4c4.mp4",
+   "thumb": "bfc8a4c4_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18111555893525051"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2134478307434813"
+    }
+   }
   }
  ],
- "last_post": 1793457081.1053011,
+ "last_post": 1793458874.848694,
  "log": [
-  "13:01:12 POSTED facebook@Vinzap-Finds 0a6f7b6c: 1428352113685678_122113912119501659",
-  "13:01:17 POSTED facebook@Vijayendra-Singh 0a6f7b6c: 1317760538089559_122124448875480728",
-  "13:31:22 READY 23cf347c Manual Rotary Drum Grater and Slicer, 3 | Kitchen Organization (auto-approved)",
-  "13:31:56 POSTED instagram@Vinzap-Finds 23cf347c: 18105500102020487",
-  "13:32:01 POSTED facebook@Vinzap-Finds 23cf347c: 1476383331072541",
-  "13:32:07 POSTED facebook@Vijayendra-Singh 23cf347c: 2002498987104355",
   "13:32:38 STORY POSTED instagram@Vinzap-Finds 23cf347c",
   "13:32:46 STORY POSTED facebook@Vinzap-Finds 23cf347c",
   "13:32:54 STORY POSTED facebook@Vijayendra-Singh 23cf347c",
@@ -5764,13 +5758,19 @@
   "20:01:21 READY 497eb695 Stainless Steel Cutlery Set (auto-approved)",
   "20:01:32 POSTED instagram@Vinzap-Finds 497eb695: 17915790153507582",
   "20:01:35 POSTED facebook@Vinzap-Finds 497eb695: 1428352113685678_122114360745501659",
-  "20:01:39 POSTED facebook@Vijayendra-Singh 497eb695: 1317760538089559_122124905229480728"
+  "20:01:39 POSTED facebook@Vijayendra-Singh 497eb695: 1317760538089559_122124905229480728",
+  "20:31:14 READY bfc8a4c4 Car Shape Kids Lunch Box | Cooking (auto-approved)",
+  "20:31:52 POSTED instagram@Vinzap-Finds bfc8a4c4: 17908993269570914",
+  "20:31:56 POSTED facebook@Vinzap-Finds bfc8a4c4: 1755576465516254",
+  "20:31:57 FAILED post facebook@Vijayendra-Singh bfc8a4c4: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetv3DBmBBd4a8It9vw6eMNpepH1bzfhxE0ubomkP6TDoIIU3PjhSGYVUEyT2p0ifgDWbBSEEcmZvvFZgQ4VwtAEQan1IepHOt1NTCuKjX0VuyZSUSMqKrdwoDy_N1lQlMy2bFSlosGXvSNV6as4LIA912CXsruLeIN0Q3k-q2hyPhtcLoW3CklHmt752ryiKMPytlwr4x1Jjn_GJeXqOil5XK8l-T_GJlfdgaSOidnFIT2vMaqXEFCLo8EpWh65OV8nmS0gySv_1H0LOH176u6gAhBL2lm9YtPtg5sAlhsavSxEORvmKi_o-Q9h4ynYr6BF\",\"help_cent",
+  "20:32:28 STORY POSTED instagram@Vinzap-Finds bfc8a4c4",
+  "20:32:36 STORY POSTED facebook@Vinzap-Finds bfc8a4c4"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793457081.1053011,
-  "facebook@Vinzap-Finds": 1793457081.1053011,
-  "facebook@Vijayendra-Singh": 1793457081.1053011,
+  "instagram@Vinzap-Finds": 1793458874.848694,
+  "facebook@Vinzap-Finds": 1793458874.848694,
+  "facebook@Vijayendra-Singh": 1793458874.848694,
   "youtube": 1793451692.3340342
  },
- "n": 280
+ "n": 281
 }
