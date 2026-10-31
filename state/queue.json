@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "afad9b9b",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "14-grid design for making",
-     "Comes with a lid to keep ice",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Ice Cube Tray | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Ice Cube Tray",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793099166.7241166,
-     "id": "18141029791713265",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793099166.7241166,
-     "id": "1428352113685678_122112928047501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793099166.7241166,
-     "id": "1317760538089559_122123508837480728",
-     "dry": false
-    }
-   },
-   "created": 1793099164.0805624,
-   "after": 0,
-   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
-   "file": "afad9b9b.jpg",
-   "thumb": "afad9b9b.jpg"
-  },
-  {
    "id": "ba8f2807",
    "status": "scheduled",
    "kind": "reel",
@@ -5559,14 +5497,72 @@
      "id": "2344520462962086"
     }
    }
+  },
+  {
+   "id": "798e2af7",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Dual Sided Microfiber Cleaning Towel",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Dual-sided design — textured",
+     "Highly absorbent microfiber",
+     "Lint-free and streak-free"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Dual Sided Microfiber Cleaning Towel | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Dual Sided Microfiber Cleaning Towel"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDual Sided Microfiber Cleaning Towel\n✔ Dual-sided design — textured\n✔ Highly absorbent microfiber\n✔ Lint-free and streak-free\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#diwali #trendingshorts",
+   "title": "Dual Sided Microfiber Cleaning Towel",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793431845.9667554,
+     "id": "18104877431334976",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793431845.9667554,
+     "id": "1428352113685678_122114247213501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793431845.9667554,
+     "id": "1317760538089559_122124774993480728",
+     "dry": false
+    }
+   },
+   "created": 1793431841.9854436,
+   "after": 0,
+   "handle": "dual-sided-microfiber-cleaning-towel-for-kitchen-countertop-gas-stove-3-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/dual-sided-microfiber-cleaning-towel-for-kitchen-countertop-gas-stove-3-pc-set",
+   "file": "798e2af7.jpg",
+   "thumb": "798e2af7.jpg"
   }
  ],
- "last_post": 1793430078.591145,
+ "last_post": 1793431845.9667554,
  "log": [
-  "17:01:02 POSTED instagram@Vinzap-Finds 911599b9: 17878285518572491",
-  "17:01:06 POSTED facebook@Vinzap-Finds 911599b9: 1428352113685678_122113616349501659",
-  "17:01:09 POSTED facebook@Vijayendra-Singh 911599b9: 1317760538089559_122124210165480728",
-  "17:31:12 READY f898e08c Adjustable Vegetable and Fruit Slicer | Cooking (auto-approved)",
   "17:31:46 POSTED instagram@Vinzap-Finds f898e08c: 18147003856591173",
   "17:31:51 POSTED facebook@Vinzap-Finds f898e08c: 4492449391003742",
   "17:31:57 POSTED facebook@Vijayendra-Singh f898e08c: 2032681930772591",
@@ -5762,13 +5758,17 @@
   "12:32:13 POSTED youtube 1b76e2dc: EPUtT8knO0Y",
   "12:32:44 STORY POSTED instagram@Vinzap-Finds 1b76e2dc",
   "12:32:53 STORY POSTED facebook@Vinzap-Finds 1b76e2dc",
-  "12:33:01 STORY POSTED facebook@Vijayendra-Singh 1b76e2dc"
+  "12:33:01 STORY POSTED facebook@Vijayendra-Singh 1b76e2dc",
+  "13:00:45 READY 798e2af7 Dual Sided Microfiber Cleaning Towel (auto-approved)",
+  "13:00:56 POSTED instagram@Vinzap-Finds 798e2af7: 18104877431334976",
+  "13:01:01 POSTED facebook@Vinzap-Finds 798e2af7: 1428352113685678_122114247213501659",
+  "13:01:05 POSTED facebook@Vijayendra-Singh 798e2af7: 1317760538089559_122124774993480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793430078.591145,
-  "facebook@Vinzap-Finds": 1793430078.591145,
-  "facebook@Vijayendra-Singh": 1793430078.591145,
+  "instagram@Vinzap-Finds": 1793431845.9667554,
+  "facebook@Vinzap-Finds": 1793431845.9667554,
+  "facebook@Vijayendra-Singh": 1793431845.9667554,
   "youtube": 1793430078.591145
  },
- "n": 265
+ "n": 266
 }
