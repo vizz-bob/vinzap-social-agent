@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "7c4789e5",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3-in-1 Kitchen Cleaning Combo Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "3 in 1 kitchen cleaning combo set",
-     "Includes scrub pad",
-     "Helps clean utensils"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "3-in-1 Kitchen Cleaning Combo Set | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3-in-1 Kitchen Cleaning Combo Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3-in-1 Kitchen Cleaning Combo Set\n✔ 3 in 1 kitchen cleaning combo set\n✔ Includes scrub pad\n✔ Helps clean utensils\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
-   "title": "3-in-1 Kitchen Cleaning Combo Set | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793181719.8721268,
-     "id": "17906309601353659",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793181719.8721268,
-     "id": "1438745704347184",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793181719.8721268,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4OUwnhNivSGA4SsNwzmEPt1"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793181719.8721268,
-     "id": "J4LeEmCL-E4",
-     "dry": false
-    }
-   },
-   "created": 1793181703.8459845,
-   "after": 0,
-   "handle": "3-in-1-kitchen-cleaning-combo-set",
-   "product_url": "https://www.vinzapstore.in/products/3-in-1-kitchen-cleaning-combo-set",
-   "file": "7c4789e5.mp4",
-   "thumb": "7c4789e5_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18117266630104850"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1880054320024580"
-    }
-   }
-  },
-  {
    "id": "a04aefb2",
    "status": "posted",
    "kind": "image",
@@ -5567,16 +5489,82 @@
    "product_url": "https://www.vinzapstore.in/products/panda-design-kids-lunch-box-with-separate-compartments-1set",
    "file": "57225f1c.jpg",
    "thumb": "57225f1c.jpg"
+  },
+  {
+   "id": "2af0e750",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel BBQ Skewers",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Durable and reusable skewer design",
+     "Comfortable handles for easy grip",
+     "Ideal for grilling vegetables"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel BBQ Skewers | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel BBQ Skewers"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel BBQ Skewers\n✔ Durable and reusable skewer design\n✔ Comfortable handles for easy grip\n✔ Ideal for grilling vegetables\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel BBQ Skewers | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793466078.2044528,
+     "id": "18222474217354187",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793466078.2044528,
+     "id": "4643013212642774",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793466078.2044528,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevOedncQty8pJNBSM4KdVsMog"
+    }
+   },
+   "created": 1793466051.8237062,
+   "after": 0,
+   "handle": "stainless-steel-bbq-skewers-with-wooden-handle-12-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-bbq-skewers-with-wooden-handle-12-pc",
+   "file": "2af0e750.mp4",
+   "thumb": "2af0e750_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18112748891077524"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4629624844025827"
+    }
+   }
   }
  ],
- "last_post": 1793464244.3769262,
+ "last_post": 1793466078.2044528,
  "log": [
-  "15:02:15 POSTED instagram@Vinzap-Finds 80b8b82f: 17951783784055433",
-  "15:02:19 POSTED facebook@Vinzap-Finds 80b8b82f: 1428352113685678_122113946973501659",
-  "15:02:23 POSTED facebook@Vijayendra-Singh 80b8b82f: 1317760538089559_122124472989480728",
-  "15:31:18 READY de83b117 2-in-1 Kitchen Bag Clip & Measuring Scoop | Kitchen Gadgets (auto-approved)",
-  "15:31:52 POSTED instagram@Vinzap-Finds de83b117: 18382794067234681",
-  "15:31:56 POSTED facebook@Vinzap-Finds de83b117: 1109476728327570",
   "15:32:00 POSTED facebook@Vijayendra-Singh de83b117: 1632160991889946",
   "15:32:04 POSTED youtube de83b117: riAk4kPcWEA",
   "15:32:33 STORY POSTED instagram@Vinzap-Finds de83b117",
@@ -5770,13 +5758,19 @@
   "22:00:44 READY 57225f1c Panda Design Kids Lunch Box (auto-approved)",
   "22:00:56 POSTED instagram@Vinzap-Finds 57225f1c: 18642282940040783",
   "22:00:59 POSTED facebook@Vinzap-Finds 57225f1c: 1428352113685678_122114395077501659",
-  "22:01:03 POSTED facebook@Vijayendra-Singh 57225f1c: 1317760538089559_122124936141480728"
+  "22:01:03 POSTED facebook@Vijayendra-Singh 57225f1c: 1317760538089559_122124936141480728",
+  "22:31:18 READY 2af0e750 Stainless Steel BBQ Skewers | Home Decor (auto-approved)",
+  "22:31:48 POSTED instagram@Vinzap-Finds 2af0e750: 18222474217354187",
+  "22:31:52 POSTED facebook@Vinzap-Finds 2af0e750: 4643013212642774",
+  "22:31:53 FAILED post facebook@Vijayendra-Singh 2af0e750: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevOedncQty8pJNBSM4KdVsMog2ZEQ4ykJVVIB4mBF13vlaxOTO1qJaQ6FGnvDwp64yjIC0CSQW2IDvuCSXpadJ8mp4DU7ochBtZU7I9OVeTHUCTaCFl7CBqFrjxRxaGVZLBD9NOrfzYLNEVRNNjOjRCOwNJQ54Kv-16YNKWgZCwP0g63IyVI9OKz5ILGKsu4OLHz4pOpfTLKPAiVF35HVI4-AVIwjIEHH3VxB4ZlM0kRc55lueMWdtoympMXQAyEZHvnx8cDInWDKiHqP5KcMUX1IoMKAhfvhpSE1jYOOkdrqaE1hhQBf8ktb_VuoUXHZyM\",\"help_cent",
+  "22:32:23 STORY POSTED instagram@Vinzap-Finds 2af0e750",
+  "22:32:30 STORY POSTED facebook@Vinzap-Finds 2af0e750"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793464244.3769262,
-  "facebook@Vinzap-Finds": 1793464244.3769262,
-  "facebook@Vijayendra-Singh": 1793464244.3769262,
+  "instagram@Vinzap-Finds": 1793466078.2044528,
+  "facebook@Vinzap-Finds": 1793466078.2044528,
+  "facebook@Vijayendra-Singh": 1793466078.2044528,
   "youtube": 1793462475.145613
  },
- "n": 284
+ "n": 285
 }
