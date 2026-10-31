@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "72617307",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Extra Large Leakproof Water Bottle 1700ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "Extra large 1700 ML capacity",
-     "Leakproof screw cap lid to avoid",
-     "Carry strap for easy handling"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Extra Large Leakproof Water Bottle 1700ml | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Extra Large Leakproof Water Bottle 1700ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nExtra Large Leakproof Water Bottle 1700ml\n✔ Extra large 1700 ML capacity\n✔ Leakproof screw cap lid to avoid\n✔ Carry strap for easy handling\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#cooking #homedecor",
-   "title": "Extra Large Leakproof Water Bottle 1700ml | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793104260.586323,
-     "id": "18119296847600038",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793104260.586323,
-     "id": "2200637173851050",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793104260.586323,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeti2vTRnpn99gb5owsry5e1i2"
-    }
-   },
-   "created": 1793104243.9253824,
-   "after": 0,
-   "handle": "extra-large-leakproof-water-bottle-1-pc-1700ml-approx",
-   "product_url": "https://www.vinzapstore.in/products/extra-large-leakproof-water-bottle-1-pc-1700ml-approx",
-   "file": "72617307.mp4",
-   "thumb": "72617307_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18115182850848737"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1569051658242506"
-    }
-   }
-  },
-  {
    "id": "11a2b137",
    "status": "posted",
    "kind": "image",
@@ -5564,17 +5492,87 @@
    "product_url": "https://www.vinzapstore.in/products/portable-glass-water-bottle-230ml-with-silicone-sleeve-and-carry-strap-1-pc",
    "file": "e0caae58.jpg",
    "thumb": "e0caae58.jpg"
+  },
+  {
+   "id": "9f7827e8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Electric Oven 12 Litre 600W Mini OTG",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 5999,
+    "was": 0,
+    "feats": [
+     "Compact 12 litre capacity",
+     "600W heating for baking",
+     "Adjustable temperature control"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Oven 12 Litre 600W Mini OTG"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Oven 12 Litre 600W Mini OTG\n✔ Compact 12 litre capacity\n✔ 600W heating for baking\n✔ Adjustable temperature control\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793437272.8182812,
+     "id": "18650833603036992",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793437272.8182812,
+     "id": "2558303671317922",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793437272.8182812,
+     "id": "1477654394258904",
+     "dry": false
+    }
+   },
+   "created": 1793437246.9217145,
+   "after": 0,
+   "handle": "electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
+   "file": "9f7827e8.mp4",
+   "thumb": "9f7827e8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18123430771994050"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1186464330616162"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2838333579894825"
+    }
+   }
   }
  ],
- "last_post": 1793435444.272193,
+ "last_post": 1793437272.8182812,
  "log": [
-  "18:31:47 POSTED instagram@Vinzap-Finds 91723eb5: 18429277162150963",
-  "18:31:51 POSTED facebook@Vinzap-Finds 91723eb5: 1475165124495477",
-  "18:31:55 POSTED facebook@Vijayendra-Singh 91723eb5: 1898225241551415",
-  "18:32:00 POSTED youtube 91723eb5: kKUXBaUhrhw",
-  "18:32:30 STORY POSTED instagram@Vinzap-Finds 91723eb5",
-  "18:32:38 STORY POSTED facebook@Vinzap-Finds 91723eb5",
-  "18:32:45 STORY POSTED facebook@Vijayendra-Singh 91723eb5",
   "19:00:56 READY 9560027d Seekh Kebab Maker Mould Plastic Meat Skewer (auto-approved)",
   "19:01:09 POSTED instagram@Vinzap-Finds 9560027d: 18075592652770584",
   "19:01:13 POSTED facebook@Vinzap-Finds 9560027d: 1428352113685678_122113666119501659",
@@ -5767,13 +5765,20 @@
   "14:00:44 READY e0caae58 Glass Water Bottle 230ml (auto-approved)",
   "14:00:58 POSTED instagram@Vinzap-Finds e0caae58: 18097495307176161",
   "14:01:01 POSTED facebook@Vinzap-Finds e0caae58: 1428352113685678_122114261523501659",
-  "14:01:04 POSTED facebook@Vijayendra-Singh e0caae58: 1317760538089559_122124797997480728"
+  "14:01:04 POSTED facebook@Vijayendra-Singh e0caae58: 1317760538089559_122124797997480728",
+  "14:31:12 READY 9f7827e8 Electric Oven 12 Litre 600W Mini OTG | Home Decor (auto-approved)",
+  "14:31:52 POSTED instagram@Vinzap-Finds 9f7827e8: 18650833603036992",
+  "14:31:57 POSTED facebook@Vinzap-Finds 9f7827e8: 2558303671317922",
+  "14:32:02 POSTED facebook@Vijayendra-Singh 9f7827e8: 1477654394258904",
+  "14:32:39 STORY POSTED instagram@Vinzap-Finds 9f7827e8",
+  "14:32:51 STORY POSTED facebook@Vinzap-Finds 9f7827e8",
+  "14:33:01 STORY POSTED facebook@Vijayendra-Singh 9f7827e8"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793435444.272193,
-  "facebook@Vinzap-Finds": 1793435444.272193,
-  "facebook@Vijayendra-Singh": 1793435444.272193,
+  "instagram@Vinzap-Finds": 1793437272.8182812,
+  "facebook@Vinzap-Finds": 1793437272.8182812,
+  "facebook@Vijayendra-Singh": 1793437272.8182812,
   "youtube": 1793430078.591145
  },
- "n": 268
+ "n": 269
 }
