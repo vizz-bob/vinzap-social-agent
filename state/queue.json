@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "8771ae49",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Oil Proof Aluminium Foil Wallpaper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "SELF ADHESIVE: Oilproof stickers",
-     "WATER AND OIL RESISTANT:",
-     "MULTIPURPOSE: Multi functional"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Oil Proof Aluminium Foil Wallpaper | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Oil Proof Aluminium Foil Wallpaper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOil Proof Aluminium Foil Wallpaper\n✔ SELF ADHESIVE: Oilproof stickers\n✔ WATER AND OIL RESISTANT:\n✔ MULTIPURPOSE: Multi functional\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Oil Proof Aluminium Foil Wallpaper | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793170957.3413293,
-     "id": "18170179915475115",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793170957.3413293,
-     "id": "1689281705966565",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793170957.3413293,
-     "id": "1891763765324690",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793170957.3413293,
-     "id": "nGdulB54hW4",
-     "dry": false
-    }
-   },
-   "created": 1793170931.3499784,
-   "after": 0,
-   "handle": "oil-proof-sticker-waterproof-self-adhesive-aluminum-foil-wallpaper-60-cm2m-golden-1-pc-1",
-   "product_url": "https://www.vinzapstore.in/products/oil-proof-sticker-waterproof-self-adhesive-aluminum-foil-wallpaper-60-cm2m-golden-1-pc-1",
-   "file": "8771ae49.mp4",
-   "thumb": "8771ae49_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18099126104549723"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2897789630578156"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1604595430722370"
-    }
-   }
-  },
-  {
    "id": "64e763c9",
    "status": "posted",
    "kind": "image",
@@ -5572,16 +5489,82 @@
    "product_url": "https://www.vinzapstore.in/products/small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
    "file": "37229454.jpg",
    "thumb": "37229454.jpg"
+  },
+  {
+   "id": "da8d2774",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Paring Knife",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Surgical-grade stainless steel",
+     "Serrated edge ensures smooth",
+     "Ergonomic handle for comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Paring Knife | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Paring Knife"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Paring Knife\n✔ Surgical-grade stainless steel\n✔ Serrated edge ensures smooth\n✔ Ergonomic handle for comfortable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Paring Knife | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793455283.3418052,
+     "id": "18147671164553351",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793455283.3418052,
+     "id": "1057471290676289",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793455283.3418052,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuxeuKw7pMpC1-rvaMWZu-Y9Q"
+    }
+   },
+   "created": 1793455257.4711397,
+   "after": 0,
+   "handle": "supermom-premium-stainless-steel-paring-knife-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-stainless-steel-paring-knife-1-pc",
+   "file": "da8d2774.mp4",
+   "thumb": "da8d2774_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17899866552395792"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1119897584235393"
+    }
+   }
   }
  ],
- "last_post": 1793453445.743663,
+ "last_post": 1793455283.3418052,
  "log": [
-  "12:31:24 READY 54f4ebbf Non-Slip Decorative Serving Tray | Diwali (auto-approved)",
-  "12:31:57 POSTED instagram@Vinzap-Finds 54f4ebbf: 18130365091885696",
-  "12:32:01 POSTED facebook@Vinzap-Finds 54f4ebbf: 1109905338509980",
-  "12:32:06 POSTED facebook@Vijayendra-Singh 54f4ebbf: 1148501274430091",
-  "12:32:14 POSTED youtube 54f4ebbf: iwfaseOg6Ec",
-  "12:32:44 STORY POSTED instagram@Vinzap-Finds 54f4ebbf",
   "12:32:52 STORY POSTED facebook@Vinzap-Finds 54f4ebbf",
   "12:33:01 STORY POSTED facebook@Vijayendra-Singh 54f4ebbf",
   "13:00:53 READY 0a6f7b6c Apex Power-X Hand-Pull Vegetable Chopper (auto-approved)",
@@ -5775,13 +5758,19 @@
   "19:00:45 READY 37229454 Plastic Squeeze Sauce Bottle (auto-approved)",
   "19:00:55 POSTED instagram@Vinzap-Finds 37229454: 17867340399678264",
   "19:00:58 POSTED facebook@Vinzap-Finds 37229454: 1428352113685678_122114341947501659",
-  "19:01:01 POSTED facebook@Vijayendra-Singh 37229454: 1317760538089559_122124886455480728"
+  "19:01:01 POSTED facebook@Vijayendra-Singh 37229454: 1317760538089559_122124886455480728",
+  "19:31:23 READY da8d2774 Stainless Steel Paring Knife | Home Decor (auto-approved)",
+  "19:32:02 POSTED instagram@Vinzap-Finds da8d2774: 18147671164553351",
+  "19:32:07 POSTED facebook@Vinzap-Finds da8d2774: 1057471290676289",
+  "19:32:08 FAILED post facebook@Vijayendra-Singh da8d2774: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuxeuKw7pMpC1-rvaMWZu-Y9QH2NB4xIHaLUjyYSDg_YXBRrf-8qxkEBXvpLR1gVa45-CckBx3rSO5udnOY6N_x07e94Y4N7I3im6qhH5PbxOTNB4eX-oAWAv1tZX2brDfGZAR0YtE4OIcQKgejdzPrjYfjWbgaZjvDmToXp7qAJSS-vst2k0mqVNLRibaiaJxcy6Pca6Avnr65enSjI10lfnpejQzHx7H61145MqTqGtkPXJ-vO-EiUQuz9Bdvoc_TwGvYb0T7li5sNqDAi2Op4Oqv2oJMhrk7jASc4KnJu8e2hceZaznuFSz8e_QZJuAE\",\"help_cent",
+  "19:32:39 STORY POSTED instagram@Vinzap-Finds da8d2774",
+  "19:32:48 STORY POSTED facebook@Vinzap-Finds da8d2774"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793453445.743663,
-  "facebook@Vinzap-Finds": 1793453445.743663,
-  "facebook@Vijayendra-Singh": 1793453445.743663,
+  "instagram@Vinzap-Finds": 1793455283.3418052,
+  "facebook@Vinzap-Finds": 1793455283.3418052,
+  "facebook@Vijayendra-Singh": 1793455283.3418052,
   "youtube": 1793451692.3340342
  },
- "n": 278
+ "n": 279
 }
