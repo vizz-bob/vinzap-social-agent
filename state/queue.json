@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "ba8f2807",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kitchen Dishwashing Glove",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Reusable design supports repeated",
-     "Mitten-style construction",
-     "Textured exterior supports secure"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Kitchen Dishwashing Glove | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kitchen Dishwashing Glove"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Dishwashing Glove\n✔ Reusable design supports repeated\n✔ Mitten-style construction\n✔ Textured exterior supports secure\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Kitchen Dishwashing Glove | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793100682.5391045,
-     "id": "18007507910791637",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793100682.5391045,
-     "id": "982600031562428",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793100682.5391045,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJTBbFiVS6Nl92wh8P54zcfI"
-    }
-   },
-   "created": 1793100655.5741727,
-   "after": 0,
-   "handle": "kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
-   "file": "ba8f2807.mp4",
-   "thumb": "ba8f2807_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18110908247179986"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1124347073419058"
-    }
-   }
-  },
-  {
    "id": "1b9140d7",
    "status": "posted",
    "kind": "image",
@@ -5559,17 +5487,87 @@
    "product_url": "https://www.vinzapstore.in/products/dual-sided-microfiber-cleaning-towel-for-kitchen-countertop-gas-stove-3-pc-set",
    "file": "798e2af7.jpg",
    "thumb": "798e2af7.jpg"
+  },
+  {
+   "id": "96a29715",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Coconut Scraper",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 579,
+    "was": 0,
+    "feats": [
+     "Stainless Steel Construction –",
+     "Vacuum Base for Stability –",
+     "Effortless Hand Operation –"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Coconut Scraper | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Coconut Scraper"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Coconut Scraper\n✔ Stainless Steel Construction –\n✔ Vacuum Base for Stability –\n✔ Effortless Hand Operation –\n\nOnly ₹579. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Coconut Scraper | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793433667.201247,
+     "id": "18097952921448864",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793433667.201247,
+     "id": "1655405642609719",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793433667.201247,
+     "id": "1475774857732578",
+     "dry": false
+    }
+   },
+   "created": 1793433647.6021936,
+   "after": 0,
+   "handle": "supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
+   "file": "96a29715.mp4",
+   "thumb": "96a29715_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18360595519223972"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1154314810679061"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "29246887521599651"
+    }
+   }
   }
  ],
- "last_post": 1793431845.9667554,
+ "last_post": 1793433667.201247,
  "log": [
-  "17:31:46 POSTED instagram@Vinzap-Finds f898e08c: 18147003856591173",
-  "17:31:51 POSTED facebook@Vinzap-Finds f898e08c: 4492449391003742",
-  "17:31:57 POSTED facebook@Vijayendra-Singh f898e08c: 2032681930772591",
-  "17:32:32 STORY POSTED instagram@Vinzap-Finds f898e08c",
-  "17:32:42 STORY POSTED facebook@Vinzap-Finds f898e08c",
-  "17:32:51 STORY POSTED facebook@Vijayendra-Singh f898e08c",
-  "18:00:53 READY c69f045d Silicone Dish Scrubber Sponge, Mildew Free (auto-approved)",
   "18:01:09 POSTED instagram@Vinzap-Finds c69f045d: 18110549174580762",
   "18:01:14 POSTED facebook@Vinzap-Finds c69f045d: 1428352113685678_122113634535501659",
   "18:01:18 POSTED facebook@Vijayendra-Singh c69f045d: 1317760538089559_122124224811480728",
@@ -5762,13 +5760,20 @@
   "13:00:45 READY 798e2af7 Dual Sided Microfiber Cleaning Towel (auto-approved)",
   "13:00:56 POSTED instagram@Vinzap-Finds 798e2af7: 18104877431334976",
   "13:01:01 POSTED facebook@Vinzap-Finds 798e2af7: 1428352113685678_122114247213501659",
-  "13:01:05 POSTED facebook@Vijayendra-Singh 798e2af7: 1317760538089559_122124774993480728"
+  "13:01:05 POSTED facebook@Vijayendra-Singh 798e2af7: 1317760538089559_122124774993480728",
+  "13:31:07 READY 96a29715 Stainless Steel Coconut Scraper | Home Decor (auto-approved)",
+  "13:31:43 POSTED instagram@Vinzap-Finds 96a29715: 18097952921448864",
+  "13:31:46 POSTED facebook@Vinzap-Finds 96a29715: 1655405642609719",
+  "13:31:49 POSTED facebook@Vijayendra-Singh 96a29715: 1475774857732578",
+  "13:32:20 STORY POSTED instagram@Vinzap-Finds 96a29715",
+  "13:32:28 STORY POSTED facebook@Vinzap-Finds 96a29715",
+  "13:32:35 STORY POSTED facebook@Vijayendra-Singh 96a29715"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793431845.9667554,
-  "facebook@Vinzap-Finds": 1793431845.9667554,
-  "facebook@Vijayendra-Singh": 1793431845.9667554,
+  "instagram@Vinzap-Finds": 1793433667.201247,
+  "facebook@Vinzap-Finds": 1793433667.201247,
+  "facebook@Vijayendra-Singh": 1793433667.201247,
   "youtube": 1793430078.591145
  },
- "n": 266
+ "n": 267
 }
