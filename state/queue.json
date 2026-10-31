@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "33486de0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Plastic Forks",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 89,
-    "was": 0,
-    "feats": [
-     "Bold Design: Bright",
-     "Strong Build: Durable plastic",
-     "Versatile Use: Great for pasta"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Disposable Plastic Forks | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Plastic Forks"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Plastic Forks\n✔ Bold Design: Bright\n✔ Strong Build: Durable plastic\n✔ Versatile Use: Great for pasta\n\nOnly ₹89. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Disposable Plastic Forks | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793096161.4020438,
-     "id": "18097694666422011",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793096161.4020438,
-     "id": "29393433746930230",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793096161.4020438,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesk-pjETQP2GaC_HoqAbecmWq"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793096161.4020438,
-     "id": "jJ_WEEBGwdY",
-     "dry": false
-    }
-   },
-   "created": 1793096135.4087777,
-   "after": 0,
-   "handle": "premium-disposable-plastic-forks-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/premium-disposable-plastic-forks-1-pc",
-   "file": "33486de0.mp4",
-   "thumb": "33486de0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17965335693235426"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4722455271368346"
-    }
-   }
-  },
-  {
    "id": "afad9b9b",
    "status": "posted",
    "kind": "image",
@@ -5554,18 +5476,93 @@
    "product_url": "https://www.vinzapstore.in/products/dumpling-maker-mould-set-with-mini-rolling-pin-for-momo-and-gujiya-1-set",
    "file": "1738a41b.jpg",
    "thumb": "1738a41b.jpg"
+  },
+  {
+   "id": "1b76e2dc",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3 Layer Wall Mounted Food Organizer Rack",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1059,
+    "was": 0,
+    "feats": [
+     "High quality and Eco-friendly pp",
+     "Perfect solution many vegetable",
+     "Multi-function for Pantry Storage"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "3 Layer Wall Mounted Food Organizer Rack | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3 Layer Wall Mounted Food Organizer Rack"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 Layer Wall Mounted Food Organizer Rack\n✔ High quality and Eco-friendly pp\n✔ Perfect solution many vegetable\n✔ Multi-function for Pantry Storage\n\nOnly ₹1059. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecor #homedecorideas",
+   "title": "3 Layer Wall Mounted Food Organizer Rack | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793430078.591145,
+     "id": "18641976073018489",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793430078.591145,
+     "id": "1838083923889395",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793430078.591145,
+     "id": "2470978350103242",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793430078.591145,
+     "id": "EPUtT8knO0Y",
+     "dry": false
+    }
+   },
+   "created": 1793430053.1714022,
+   "after": 0,
+   "handle": "plastic-3-layer-wall-mounted-food-organizer-rack-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-3-layer-wall-mounted-food-organizer-rack-1-set",
+   "file": "1b76e2dc.mp4",
+   "thumb": "1b76e2dc_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18121224838755463"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2344972222932398"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2344520462962086"
+    }
+   }
   }
  ],
- "last_post": 1793428252.6015491,
+ "last_post": 1793430078.591145,
  "log": [
-  "16:31:22 READY bca457cb Plastic Sports Water Bottle 1000ml | Trending Shorts (auto-approved)",
-  "16:31:59 POSTED instagram@Vinzap-Finds bca457cb: 18153305908539887",
-  "16:32:02 POSTED facebook@Vinzap-Finds bca457cb: 1136326405596300",
-  "16:32:06 POSTED facebook@Vijayendra-Singh bca457cb: 2200924880455534",
-  "16:32:39 STORY POSTED instagram@Vinzap-Finds bca457cb",
-  "16:32:49 STORY POSTED facebook@Vinzap-Finds bca457cb",
-  "16:32:58 STORY POSTED facebook@Vijayendra-Singh bca457cb",
-  "17:00:51 READY 911599b9 Wall Mount WiFi Router Holder Shelf (auto-approved)",
   "17:01:02 POSTED instagram@Vinzap-Finds 911599b9: 17878285518572491",
   "17:01:06 POSTED facebook@Vinzap-Finds 911599b9: 1428352113685678_122113616349501659",
   "17:01:09 POSTED facebook@Vijayendra-Singh 911599b9: 1317760538089559_122124210165480728",
@@ -5757,13 +5754,21 @@
   "12:00:52 READY 1738a41b Dumpling Maker Mould Set (auto-approved)",
   "12:01:03 POSTED instagram@Vinzap-Finds 1738a41b: 17872356708646947",
   "12:01:06 POSTED facebook@Vinzap-Finds 1738a41b: 1428352113685678_122114232657501659",
-  "12:01:10 POSTED facebook@Vijayendra-Singh 1738a41b: 1317760538089559_122124734625480728"
+  "12:01:10 POSTED facebook@Vijayendra-Singh 1738a41b: 1317760538089559_122124734625480728",
+  "12:31:18 READY 1b76e2dc 3 Layer Wall Mounted Food Organizer Rack | Home Decor (auto-approved)",
+  "12:31:56 POSTED instagram@Vinzap-Finds 1b76e2dc: 18641976073018489",
+  "12:32:00 POSTED facebook@Vinzap-Finds 1b76e2dc: 1838083923889395",
+  "12:32:07 POSTED facebook@Vijayendra-Singh 1b76e2dc: 2470978350103242",
+  "12:32:13 POSTED youtube 1b76e2dc: EPUtT8knO0Y",
+  "12:32:44 STORY POSTED instagram@Vinzap-Finds 1b76e2dc",
+  "12:32:53 STORY POSTED facebook@Vinzap-Finds 1b76e2dc",
+  "12:33:01 STORY POSTED facebook@Vijayendra-Singh 1b76e2dc"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793428252.6015491,
-  "facebook@Vinzap-Finds": 1793428252.6015491,
-  "facebook@Vijayendra-Singh": 1793428252.6015491,
-  "youtube": 1793375658.395273
+  "instagram@Vinzap-Finds": 1793430078.591145,
+  "facebook@Vinzap-Finds": 1793430078.591145,
+  "facebook@Vijayendra-Singh": 1793430078.591145,
+  "youtube": 1793430078.591145
  },
- "n": 264
+ "n": 265
 }
