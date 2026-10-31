@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "6891ee5c",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kankavati Kumkum Holder",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Triveni design with three",
-     "Holds kumkum",
-     "Three matching decorative lids"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Kankavati Kumkum Holder | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kankavati Kumkum Holder"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKankavati Kumkum Holder\n✔ Triveni design with three\n✔ Holds kumkum\n✔ Three matching decorative lids\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Kankavati Kumkum Holder",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793118662.9921718,
-     "id": "17895042429438468",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793118662.9921718,
-     "id": "1428352113685678_122113014909501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793118662.9921718,
-     "id": "1317760538089559_122123615445480728",
-     "dry": false
-    }
-   },
-   "created": 1793118660.3864355,
-   "after": 0,
-   "handle": "triveni-kankavati-kumkum-holder-with-3-compartments-for-puja-and-tilak-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/triveni-kankavati-kumkum-holder-with-3-compartments-for-puja-and-tilak-1-pc",
-   "file": "6891ee5c.jpg",
-   "thumb": "6891ee5c.jpg"
-  },
-  {
    "id": "88035b40",
    "status": "posted",
    "kind": "reel",
@@ -5577,14 +5515,72 @@
      "id": "4259807527644534"
     }
    }
+  },
+  {
+   "id": "71cf43d8",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Supermom Creamy Dessert Bowl Set of 6",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1099,
+    "was": 0,
+    "feats": [
+     "Set of 6 Pieces: Perfect",
+     "Unbreakable Material: Made from",
+     "Crystal-Clear Finish: Transparent"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Supermom Creamy Dessert Bowl Set of 6 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Supermom Creamy Dessert Bowl Set of 6"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Creamy Dessert Bowl Set of 6\n✔ Set of 6 Pieces: Perfect\n✔ Unbreakable Material: Made from\n✔ Crystal-Clear Finish: Transparent\n\nOnly ₹1099. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Supermom Creamy Dessert Bowl Set of 6",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793449850.7861562,
+     "id": "18647122906037898",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793449850.7861562,
+     "id": "1428352113685678_122114328579501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793449850.7861562,
+     "id": "1317760538089559_122124865647480728",
+     "dry": false
+    }
+   },
+   "created": 1793449847.7719555,
+   "after": 0,
+   "handle": "supermom-creamy-dessert-bowl-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/supermom-creamy-dessert-bowl-6-pc-set",
+   "file": "71cf43d8.jpg",
+   "thumb": "71cf43d8.jpg"
   }
  ],
- "last_post": 1793448075.8668554,
+ "last_post": 1793449850.7861562,
  "log": [
-  "21:33:08 STORY FAILED facebook@Vijayendra-Singh 489406a8: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from",
-  "22:00:47 READY 8c0799bc Frosted Glass Water Bottle 350ml (auto-approved)",
-  "22:00:56 POSTED instagram@Vinzap-Finds 8c0799bc: 18100754582651564",
-  "22:00:59 POSTED facebook@Vinzap-Finds 8c0799bc: 1428352113685678_122113719081501659",
   "22:01:03 POSTED facebook@Vijayendra-Singh 8c0799bc: 1317760538089559_122124281517480728",
   "22:31:30 READY a74c61ef 2-in-1 Egg Slicer and Wedger, Stainless | Home Decor Ideas (auto-approved)",
   "22:32:08 POSTED instagram@Vinzap-Finds a74c61ef: 18134049079758958",
@@ -5780,13 +5776,17 @@
   "17:31:55 POSTED facebook@Vinzap-Finds d0bb2602: 1114446917623483",
   "17:31:56 FAILED post facebook@Vijayendra-Singh d0bb2602: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetqd-VBWQ3k8Bi1COd4mOYd6uWTYEHrqf5lkccCwX1c4VAUlxC9GVdMt95Xbny-aG_1ziMokBVFf1gc2IJrqtMjsFXRE5N77e-Z7mMkxc-phBKGkj8ms0C_f50kbE_a9gwf-ofnYBTLtR5dCVxaqytlXcJO4crYmORUhm6OWqpKtA2kSFr8MNNGcprSHW_Sr3HLMru1Nu7z5AKlJQgWTFlVKXpDWXrpMuhMaqeLYURCUhtCBB8WDc4NLAa4xk5ZKKwqkfi1JzGvqIQ_hYcpGsL6vWYP3IB2Kiiq8m-FG1Y1Y-9p06k-HYpacMOgEwEaT3NV\",\"help_cent",
   "17:32:27 STORY POSTED instagram@Vinzap-Finds d0bb2602",
-  "17:32:35 STORY POSTED facebook@Vinzap-Finds d0bb2602"
+  "17:32:35 STORY POSTED facebook@Vinzap-Finds d0bb2602",
+  "18:00:50 READY 71cf43d8 Supermom Creamy Dessert Bowl Set of 6 (auto-approved)",
+  "18:01:00 POSTED instagram@Vinzap-Finds 71cf43d8: 18647122906037898",
+  "18:01:03 POSTED facebook@Vinzap-Finds 71cf43d8: 1428352113685678_122114328579501659",
+  "18:01:07 POSTED facebook@Vijayendra-Singh 71cf43d8: 1317760538089559_122124865647480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793448075.8668554,
-  "facebook@Vinzap-Finds": 1793448075.8668554,
-  "facebook@Vijayendra-Singh": 1793448075.8668554,
-  "youtube": 1793440882.4610548
+  "instagram@Vinzap-Finds": 1793449850.7861562,
+  "facebook@Vinzap-Finds": 1793449850.7861562,
+  "facebook@Vijayendra-Singh": 1793449850.7861562,
+  "youtube": 1793440462.4610548
  },
- "n": 275
+ "n": 276
 }
