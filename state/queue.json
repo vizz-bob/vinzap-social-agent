@@ -1,67 +1,6 @@
 {
  "items": [
   {
-   "id": "85cadb08",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Vacuum Insulated Water",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1499,
-    "was": 0,
-    "feats": [
-     "Double wall vacuum insulation",
-     "1000 ML large capacity ensures",
-     "Premium stainless steel"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Stainless Steel Vacuum Insulated Water | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Vacuum Insulated Water"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vacuum Insulated Water\n✔ Double wall vacuum insulation\n✔ 1000 ML large capacity ensures\n✔ Premium stainless steel\n\nOnly ₹1499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
-   "title": "Stainless Steel Vacuum Insulated Water",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": false,
-     "ts": 1793110553.7354288,
-     "error": "HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"A72MRPd8ysrcuwSwrCKIorb\"}}"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793110553.7354288,
-     "id": "1428352113685678_122112982629501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793110553.7354288,
-     "id": "1317760538089559_122123565999480728",
-     "dry": false
-    }
-   },
-   "created": 1793110551.038376,
-   "after": 0,
-   "handle": "stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vacuum-insulated-water-bottle-1000-ml-hot-cold-flask-1-pc",
-   "file": "85cadb08.jpg",
-   "thumb": "85cadb08.jpg"
-  },
-  {
    "id": "e99fc182",
    "status": "scheduled",
    "kind": "reel",
@@ -5576,14 +5515,72 @@
      "id": "1638613014669059"
     }
    }
+  },
+  {
+   "id": "31c01cee",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "White Glass Water Bottle 400ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Premium glass bottle design",
+     "400 ML capacity ideal for travel",
+     "Leakproof lid helps prevent"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "White Glass Water Bottle 400ml | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "White Glass Water Bottle 400ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWhite Glass Water Bottle 400ml\n✔ Premium glass bottle design\n✔ 400 ML capacity ideal for travel\n✔ Leakproof lid helps prevent\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
+   "title": "White Glass Water Bottle 400ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793442656.5211794,
+     "id": "18134850871751823",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793442656.5211794,
+     "id": "1428352113685678_122114300091501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793442656.5211794,
+     "id": "1317760538089559_122124831831480728",
+     "dry": false
+    }
+   },
+   "created": 1793442655.071125,
+   "after": 0,
+   "handle": "premium-white-glass-water-bottle-1-pc-400-ml",
+   "product_url": "https://www.vinzapstore.in/products/premium-white-glass-water-bottle-1-pc-400-ml",
+   "file": "31c01cee.jpg",
+   "thumb": "31c01cee.jpg"
   }
  ],
- "last_post": 1793440882.4610548,
+ "last_post": 1793442656.5211794,
  "log": [
-  "20:00:58 POSTED instagram@Vinzap-Finds 917f372a: 18111676079617302",
-  "20:01:02 POSTED facebook@Vinzap-Finds 917f372a: 1428352113685678_122113686549501659",
-  "20:01:06 POSTED facebook@Vijayendra-Singh 917f372a: 1317760538089559_122124250851480728",
-  "20:31:20 READY 2341886f Scalloped Disposable Paper Napkins 23x23cm | Kitchen Organization (auto-approved)",
   "20:31:55 POSTED instagram@Vinzap-Finds 2341886f: 18128523062307698",
   "20:31:59 POSTED facebook@Vinzap-Finds 2341886f: 2400159153851112",
   "20:32:03 POSTED facebook@Vijayendra-Singh 2341886f: 1635644698052175",
@@ -5779,13 +5776,17 @@
   "15:32:25 POSTED youtube 37a51244: xDsG7wfcxW4",
   "15:32:56 STORY POSTED instagram@Vinzap-Finds 37a51244",
   "15:33:05 STORY POSTED facebook@Vinzap-Finds 37a51244",
-  "15:33:14 STORY POSTED facebook@Vijayendra-Singh 37a51244"
+  "15:33:14 STORY POSTED facebook@Vijayendra-Singh 37a51244",
+  "16:00:56 READY 31c01cee White Glass Water Bottle 400ml (auto-approved)",
+  "16:01:15 POSTED instagram@Vinzap-Finds 31c01cee: 18134850871751823",
+  "16:01:18 POSTED facebook@Vinzap-Finds 31c01cee: 1428352113685678_122114300091501659",
+  "16:01:23 POSTED facebook@Vijayendra-Singh 31c01cee: 1317760538089559_122124831831480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793440882.4610548,
-  "facebook@Vinzap-Finds": 1793440882.4610548,
-  "facebook@Vijayendra-Singh": 1793440882.4610548,
+  "instagram@Vinzap-Finds": 1793442656.5211794,
+  "facebook@Vinzap-Finds": 1793442656.5211794,
+  "facebook@Vijayendra-Singh": 1793442656.5211794,
   "youtube": 1793440882.4610548
  },
- "n": 271
+ "n": 272
 }
