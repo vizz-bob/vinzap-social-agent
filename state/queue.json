@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "2022d436",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Transparent Plastic Water Dipper Scoop",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Roomy water scooping bowl",
-     "Comfortable long handle grip",
-     "Shaped spout for neat pouring"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Transparent Plastic Water Dipper Scoop | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Transparent Plastic Water Dipper Scoop"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Plastic Water Dipper Scoop\n✔ Roomy water scooping bowl\n✔ Comfortable long handle grip\n✔ Shaped spout for neat pouring\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas #bathroomaccessories\n#homedecorideas #diwali",
-   "title": "Transparent Plastic Water Dipper Scoop | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793260883.5445542,
-     "id": "17864748585696151",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793260883.5445542,
-     "id": "2314350789321668",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793260883.5445542,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes8iSvXkzIsoZT05v35_ysVC0"
-    }
-   },
-   "created": 1793260855.7133083,
-   "after": 0,
-   "handle": "transparent-plastic-water-dipper-scoop-with-handle-for-bathroom-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-water-dipper-scoop-with-handle-for-bathroom-1-pc",
-   "file": "2022d436.mp4",
-   "thumb": "2022d436_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17967225324218744"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1829461588278524"
-    }
-   }
-  },
-  {
    "id": "e5bc05e3",
    "status": "posted",
    "kind": "image",
@@ -5559,16 +5487,82 @@
    "product_url": "https://www.vinzapstore.in/products/400-ml-glass-oil-dispenser-bottle-with-drip-free-lid-for-kitchen-1-pc",
    "file": "ffaed909.jpg",
    "thumb": "ffaed909.jpg"
+  },
+  {
+   "id": "141377bb",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Manual Hand Crank Ice Crusher and Snow",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 999,
+    "was": 0,
+    "feats": [
+     "Manual hand crank mechanism",
+     "Converts ice cubes into fine snow",
+     "No electricity required"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Manual Hand Crank Ice Crusher and Snow | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Hand Crank Ice Crusher and Snow"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Hand Crank Ice Crusher and Snow\n✔ Manual hand crank mechanism\n✔ Converts ice cubes into fine snow\n✔ No electricity required\n\nOnly ₹999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Manual Hand Crank Ice Crusher and Snow | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793545348.4050972,
+     "id": "18053255921814529",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793545348.4050972,
+     "id": "1642135904259234",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793545348.4050972,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeval7mdCRiBLbs9Y7udHOkPTS"
+    }
+   },
+   "created": 1793545322.3376267,
+   "after": 0,
+   "handle": "manual-hand-crank-ice-crusher-snow-maker-machine-1-set-mix-color",
+   "product_url": "https://www.vinzapstore.in/products/manual-hand-crank-ice-crusher-snow-maker-machine-1-set-mix-color",
+   "file": "141377bb.mp4",
+   "thumb": "141377bb_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17903261340606734"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1130990176082872"
+    }
+   }
   }
  ],
- "last_post": 1793543453.606934,
+ "last_post": 1793545348.4050972,
  "log": [
-  "12:32:53 STORY POSTED facebook@Vinzap-Finds 1b76e2dc",
-  "12:33:01 STORY POSTED facebook@Vijayendra-Singh 1b76e2dc",
-  "13:00:45 READY 798e2af7 Dual Sided Microfiber Cleaning Towel (auto-approved)",
-  "13:00:56 POSTED instagram@Vinzap-Finds 798e2af7: 18104877431334976",
-  "13:01:01 POSTED facebook@Vinzap-Finds 798e2af7: 1428352113685678_122114247213501659",
-  "13:01:05 POSTED facebook@Vijayendra-Singh 798e2af7: 1317760538089559_122124774993480728",
   "13:31:07 READY 96a29715 Stainless Steel Coconut Scraper | Home Decor (auto-approved)",
   "13:31:43 POSTED instagram@Vinzap-Finds 96a29715: 18097952921448864",
   "13:31:46 POSTED facebook@Vinzap-Finds 96a29715: 1655405642609719",
@@ -5762,13 +5756,19 @@
   "20:00:53 READY ffaed909 Glass Oil Dispenser Bottle 400ml (auto-approved)",
   "20:01:16 POSTED instagram@Vinzap-Finds ffaed909: 18097425758441042",
   "20:01:20 POSTED facebook@Vinzap-Finds ffaed909: 1428352113685678_122114660979501659",
-  "20:01:24 POSTED facebook@Vijayendra-Singh ffaed909: 1317760538089559_122125233279480728"
+  "20:01:24 POSTED facebook@Vijayendra-Singh ffaed909: 1317760538089559_122125233279480728",
+  "20:32:28 READY 141377bb Manual Hand Crank Ice Crusher and Snow | Trending Shorts (auto-approved)",
+  "20:33:03 POSTED instagram@Vinzap-Finds 141377bb: 18053255921814529",
+  "20:33:06 POSTED facebook@Vinzap-Finds 141377bb: 1642135904259234",
+  "20:33:07 FAILED post facebook@Vijayendra-Singh 141377bb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeval7mdCRiBLbs9Y7udHOkPTSS2VRAi4atP7-g2f34Zg4BQe2tC6-KY4VSBXFibSZERBFUI07vCXZzO9ydR1148E5RbYQfLuODk0X2oxh_0CzzNRYU1FtkfXUBDhBqoBKufsQ98XKWBnhVVExMGBEmDr0Cle2y4duJi23sUKr0LWqi4HFKw-UpUhEA108T33fDtGAK_3E_xDym5M-T0_l0iEc2d5ZZ0kyJJ07Nl3lAHb7M24tche5ukv-kem4E_LflzpFiYtD7nRw9p_ZcwhguI4QLVvHcdVBjE4r6HjRTBZm9W_JQ_mE3zc3lGh-Q4AgZ8\",\"help_cent",
+  "20:33:42 STORY POSTED instagram@Vinzap-Finds 141377bb",
+  "20:33:52 STORY POSTED facebook@Vinzap-Finds 141377bb"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793543453.606934,
-  "facebook@Vinzap-Finds": 1793543453.606934,
-  "facebook@Vijayendra-Singh": 1793543453.606934,
+  "instagram@Vinzap-Finds": 1793545348.4050972,
+  "facebook@Vinzap-Finds": 1793545348.4050972,
+  "facebook@Vijayendra-Singh": 1793545348.4050972,
   "youtube": 1793538074.088842
  },
- "n": 302
+ "n": 303
 }
