@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "bc78e837",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Soft Facial Tissue Paper Napkins Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "50 pcs value pack – convenient",
-     "Made from high-quality pulp paper",
-     "Highly absorbent – ideal"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Soft Facial Tissue Paper Napkins Set | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Soft Facial Tissue Paper Napkins Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSoft Facial Tissue Paper Napkins Set\n✔ 50 pcs value pack – convenient\n✔ Made from high-quality pulp paper\n✔ Highly absorbent – ideal\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Soft Facial Tissue Paper Napkins Set | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793196149.1786387,
-     "id": "18219782317346459",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793196149.1786387,
-     "id": "2537519860085529",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793196149.1786387,
-     "id": "1895148721935052",
-     "dry": false
-    }
-   },
-   "created": 1793196122.8279538,
-   "after": 0,
-   "handle": "soft-facial-tissue-paper-napkins-set-50-pcs-set",
-   "product_url": "https://www.vinzapstore.in/products/soft-facial-tissue-paper-napkins-set-50-pcs-set",
-   "file": "bc78e837.mp4",
-   "thumb": "bc78e837_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17983919522901668"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2068706390451942"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "3143354442722804"
-    }
-   }
-  },
-  {
    "id": "0c62d446",
    "status": "posted",
    "kind": "image",
@@ -5561,18 +5484,93 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-mini-manual-citrus-lemon-orange-squeezer-with-cup-1-pc",
    "file": "fc2e5cbf.jpg",
    "thumb": "fc2e5cbf.jpg"
+  },
+  {
+   "id": "711046be",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Fish Scaler Scraper",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Sharp serrated scraper removes",
+     "Attached lid acts as a scale",
+     "Comfortable handle gives a firm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Fish Scaler Scraper | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fish Scaler Scraper"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFish Scaler Scraper\n✔ Sharp serrated scraper removes\n✔ Attached lid acts as a scale\n✔ Comfortable handle gives a firm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#trendingshorts #kitchengadgets",
+   "title": "Fish Scaler Scraper | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793527277.2231061,
+     "id": "17924541462220360",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793527277.2231061,
+     "id": "1153073604132852",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793527277.2231061,
+     "id": "1473079921395427",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793527277.2231061,
+     "id": "3_wS576NV_8",
+     "dry": false
+    }
+   },
+   "created": 1793527250.3167264,
+   "after": 0,
+   "handle": "fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
+   "file": "711046be.mp4",
+   "thumb": "711046be_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18097114985660409"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1659808245642147"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2965909850441969"
+    }
+   }
   }
  ],
- "last_post": 1793525444.8134174,
+ "last_post": 1793527277.2231061,
  "log": [
-  "18:33:01 STORY POSTED instagram@Vinzap-Finds b1053852",
-  "18:33:11 STORY POSTED facebook@Vinzap-Finds b1053852",
-  "18:33:20 STORY POSTED facebook@Vijayendra-Singh b1053852",
-  "19:00:48 READY 2a665031 Stainless Steel Dough Scraper Cutter Large (auto-approved)",
-  "19:01:00 POSTED instagram@Vinzap-Finds 2a665031: 18062736959567859",
-  "19:01:05 POSTED facebook@Vinzap-Finds 2a665031: 1428352113685678_122114014485501659",
-  "19:01:11 POSTED facebook@Vijayendra-Singh 2a665031: 1317760538089559_122124535077480728",
-  "19:31:16 READY b107287d Plastic Lunch Box | Kitchen Organization (auto-approved)",
   "19:31:51 POSTED instagram@Vinzap-Finds b107287d: 18030451622693155",
   "19:31:54 POSTED facebook@Vinzap-Finds b107287d: 1644026473976209",
   "19:31:55 FAILED post facebook@Vijayendra-Singh b107287d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes3DROe7YdMW9Bmpe3uJ1LUiK8HGHbAxhqipAPP0J93PGMGZi9npxS9VwVUwoQ9at7RDjFGwY7A9eWNjfVZcXUnxj4h_kDfg3kBoz-6uiEXtMVH_4bTGQSVVZXwN_kDGBuynDZPKgWuxEpA4xU4H9zXZIAEu4Ma4zjCAgPUpJm7fgVKyQeSmwm84Iw1Itf51gLspy-Sj-kv7divxoa_Sp2xQgvPwZAh5tLFgo93J32tkhLtAYH6h_m4KA-jd2usss_tMg5KF9NSC5_izTYCthR2_twkL7zLwek3GmDk7tuPI45rqSzssEwQDXU92Jovpzkb\",\"help_cent",
@@ -5764,13 +5762,21 @@
   "15:00:44 READY fc2e5cbf Manual Citrus Lemon Orange Squeezer (auto-approved)",
   "15:00:54 POSTED instagram@Vinzap-Finds fc2e5cbf: 18100251101452142",
   "15:00:59 POSTED facebook@Vinzap-Finds fc2e5cbf: 1428352113685678_122114589879501659",
-  "15:01:02 POSTED facebook@Vijayendra-Singh fc2e5cbf: 1317760538089559_122125144959480728"
+  "15:01:02 POSTED facebook@Vijayendra-Singh fc2e5cbf: 1317760538089559_122125144959480728",
+  "15:31:17 READY 711046be Fish Scaler Scraper | Trending Shorts (auto-approved)",
+  "15:31:53 POSTED instagram@Vinzap-Finds 711046be: 17924541462220360",
+  "15:31:56 POSTED facebook@Vinzap-Finds 711046be: 1153073604132852",
+  "15:32:00 POSTED facebook@Vijayendra-Singh 711046be: 1473079921395427",
+  "15:32:08 POSTED youtube 711046be: 3_wS576NV_8",
+  "15:32:39 STORY POSTED instagram@Vinzap-Finds 711046be",
+  "15:32:48 STORY POSTED facebook@Vinzap-Finds 711046be",
+  "15:32:56 STORY POSTED facebook@Vijayendra-Singh 711046be"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793525444.8134174,
-  "facebook@Vinzap-Finds": 1793525444.8134174,
-  "facebook@Vijayendra-Singh": 1793525444.8134174,
-  "youtube": 1793516058.0532446
+  "instagram@Vinzap-Finds": 1793527277.2231061,
+  "facebook@Vinzap-Finds": 1793527277.2231061,
+  "facebook@Vijayendra-Singh": 1793527277.2231061,
+  "youtube": 1793527277.2231061
  },
- "n": 292
+ "n": 293
 }
