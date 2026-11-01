@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "3754e635",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Premium Stainless Steel Soup Spoon Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 389,
-    "was": 0,
-    "feats": [
-     "Set of 6 premium stainless steel",
-     "Deep bowl design for easy",
-     "Polished mirror finish"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Apex Premium Stainless Steel Soup Spoon Set | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Premium Stainless Steel Soup Spoon Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Premium Stainless Steel Soup Spoon Set\n✔ Set of 6 premium stainless steel\n✔ Deep bowl design for easy\n✔ Polished mirror finish\n\nOnly ₹389. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Apex Premium Stainless Steel Soup Spoon Set | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793206897.79281,
-     "id": "17911648242310999",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793206897.79281,
-     "id": "994550256305895",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793206897.79281,
-     "id": "1644718237345172",
-     "dry": false
-    }
-   },
-   "created": 1793206870.6389384,
-   "after": 0,
-   "handle": "apex-premium-stainless-steel-soup-spoon-set-6-pieces",
-   "product_url": "https://www.vinzapstore.in/products/apex-premium-stainless-steel-soup-spoon-set-6-pieces",
-   "file": "3754e635.mp4",
-   "thumb": "3754e635_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18135018121786766"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1421212803457702"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1147217134936600"
-    }
-   }
-  },
-  {
    "id": "8d0d8194",
    "status": "posted",
    "kind": "image",
@@ -5571,17 +5494,86 @@
    "product_url": "https://www.vinzapstore.in/products/heart-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
    "file": "bd3e1e60.jpg",
    "thumb": "bd3e1e60.jpg"
+  },
+  {
+   "id": "8aa705fe",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Fresca Stainless Steel Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 879,
+    "was": 0,
+    "feats": [
+     "Fresca Stainless Steel 3"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Fresca Stainless Steel Lunch Box | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fresca Stainless Steel Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFresca Stainless Steel Lunch Box\n✔ Fresca Stainless Steel 3\n\nOnly ₹879. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchengadgets #kitchenorganization",
+   "title": "Fresca Stainless Steel Lunch Box | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793538074.088842,
+     "id": "18134250388683921",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793538074.088842,
+     "id": "4539654316350769",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793538074.088842,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuvOfxdLOtV2RlF6WawHHjtQC"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793538074.088842,
+     "id": "bSeayeQn-_8",
+     "dry": false
+    }
+   },
+   "created": 1793538052.534418,
+   "after": 0,
+   "handle": "fresca-stainless-steel-3-compartment-lunch-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/fresca-stainless-steel-3-compartment-lunch-box-1-pc",
+   "file": "8aa705fe.mp4",
+   "thumb": "8aa705fe_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18001998066031791"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "987363807755216"
+    }
+   }
   }
  ],
- "last_post": 1793536248.516889,
+ "last_post": 1793538074.088842,
  "log": [
-  "22:00:49 READY dad65399 Tear-Off Microfiber Cleaning Cloth Roll (auto-approved)",
-  "22:01:02 POSTED instagram@Vinzap-Finds dad65399: 17943560886386767",
-  "22:01:05 POSTED facebook@Vinzap-Finds dad65399: 1428352113685678_122114060481501659",
-  "22:01:09 POSTED facebook@Vijayendra-Singh dad65399: 1317760538089559_122124581943480728",
-  "22:31:17 READY 428e8e80 Ritu Unbreakable Plastic Khal Batta Set | Diwali (auto-approved)",
-  "22:31:57 POSTED instagram@Vinzap-Finds 428e8e80: 17903577546671451",
-  "22:32:02 POSTED facebook@Vinzap-Finds 428e8e80: 1868378897515301",
   "22:32:06 POSTED facebook@Vijayendra-Singh 428e8e80: 1144082914978151",
   "22:32:42 STORY POSTED instagram@Vinzap-Finds 428e8e80",
   "22:32:52 STORY POSTED facebook@Vinzap-Finds 428e8e80",
@@ -5774,13 +5766,20 @@
   "18:00:48 READY bd3e1e60 Heart Shaped Kumkum Holder Kankavati (auto-approved)",
   "18:01:01 POSTED instagram@Vinzap-Finds bd3e1e60: 18218984782357860",
   "18:01:03 POSTED facebook@Vinzap-Finds bd3e1e60: 1428352113685678_122114633391501659",
-  "18:01:06 POSTED facebook@Vijayendra-Singh bd3e1e60: 1317760538089559_122125201065480728"
+  "18:01:06 POSTED facebook@Vijayendra-Singh bd3e1e60: 1317760538089559_122125201065480728",
+  "18:31:14 READY 8aa705fe Fresca Stainless Steel Lunch Box | Kitchen Gadgets (auto-approved)",
+  "18:31:45 POSTED instagram@Vinzap-Finds 8aa705fe: 18134250388683921",
+  "18:31:50 POSTED facebook@Vinzap-Finds 8aa705fe: 4539654316350769",
+  "18:31:51 FAILED post facebook@Vijayendra-Singh 8aa705fe: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuvOfxdLOtV2RlF6WawHHjtQCaRDpwzF2QMxASl3Unn-rWgkeUCp7kewuAI0LH5yJOjn2jymCqYNNq6fDfrzO9ayHy5vM79TqmRsVkP4TFjP55TuhsFwxhhKguDcXNeurFwQvL7zvCg_sQRrXseBoioxTkTt-y33L1j0ML6vXeUZJtmp-fQ0ENIqlOGJ-tNb1Wv3S7ALaO9NzboYPbMH7pWUUgEabzPTI19IC9RLyrtwdbDhBZU9qDhy2lT4u0Y9ICPXc99_4pNr6cNMVOE-a_ifOQBNxkbUmYs13aUmAqF7QF4QojbY-g_NsUBCZmrTGM\",\"help_cente",
+  "18:31:55 POSTED youtube 8aa705fe: bSeayeQn-_8",
+  "18:32:25 STORY POSTED instagram@Vinzap-Finds 8aa705fe",
+  "18:32:34 STORY POSTED facebook@Vinzap-Finds 8aa705fe"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793536248.516889,
-  "facebook@Vinzap-Finds": 1793536248.516889,
-  "facebook@Vijayendra-Singh": 1793536248.516889,
-  "youtube": 1793526857.2231061
+  "instagram@Vinzap-Finds": 1793538074.088842,
+  "facebook@Vinzap-Finds": 1793538074.088842,
+  "facebook@Vijayendra-Singh": 1793538074.088842,
+  "youtube": 1793538074.088842
  },
- "n": 298
+ "n": 299
 }
