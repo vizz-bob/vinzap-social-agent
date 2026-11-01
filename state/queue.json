@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "3e1cb633",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Masala Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "6 Compartment Design: Offers",
-     "Durable Plastic Construction:",
-     "Transparent Lid: Allows easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Masala Box | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Masala Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMasala Box\n✔ 6 Compartment Design: Offers\n✔ Durable Plastic Construction:\n✔ Transparent Lid: Allows easy\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
-   "title": "Masala Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793201455.0961292,
-     "id": "18090771263255797",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793201455.0961292,
-     "id": "1428352113685678_122113333779501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793201455.0961292,
-     "id": "1317760538089559_122123946279480728",
-     "dry": false
-    }
-   },
-   "created": 1793201451.7862837,
-   "after": 0,
-   "handle": "plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
-   "product_url": "https://www.vinzapstore.in/products/plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
-   "file": "3e1cb633.jpg",
-   "thumb": "3e1cb633.jpg"
-  },
-  {
    "id": "ff4edf8b",
    "status": "scheduled",
    "kind": "reel",
@@ -5572,14 +5510,72 @@
      "id": "1449672616497166"
     }
    }
+  },
+  {
+   "id": "e9c21cdb",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Teak Wood Chopping Board",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1169,
+    "was": 0,
+    "feats": [
+     "Made from 100% natural seasoned",
+     "Strong and durable design",
+     "Gentle on knives – prevents"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Teak Wood Chopping Board | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Teak Wood Chopping Board"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTeak Wood Chopping Board\n✔ Made from 100% natural seasoned\n✔ Strong and durable design\n✔ Gentle on knives – prevents\n\nOnly ₹1169. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Teak Wood Chopping Board",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793532644.812175,
+     "id": "17887069431505282",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793532644.812175,
+     "id": "1428352113685678_122114617047501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793532644.812175,
+     "id": "1317760538089559_122125180455480728",
+     "dry": false
+    }
+   },
+   "created": 1793532642.3467588,
+   "after": 0,
+   "handle": "supermom-premium-teak-wood-chopping-board-for-kitchen-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-teak-wood-chopping-board-for-kitchen-1-pc",
+   "file": "e9c21cdb.jpg",
+   "thumb": "e9c21cdb.jpg"
   }
  ],
- "last_post": 1793530879.912079,
+ "last_post": 1793532644.812175,
  "log": [
-  "20:33:16 POSTED facebook@Vinzap-Finds 11380256: 1587883099329499",
-  "20:33:18 FAILED post facebook@Vijayendra-Singh 11380256: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYNTEw4uaZ-VqfwPYL4UJW9BfATS82uZCKQJ9YAL4Lqd7qNXi3M5afCntc8WsGOA20t3bcNyZAGAk4VY8ACxr-8_DvYgOeNvSbF96pXQ9RGuraNRcqYkDVvq-kh1OvgmBaaN08J8-BClGYhY_mKiNEEZ1pRzoHXklPppkamMvHZofMOsgYoydWaKKLuZvPfb75cNI1sb-u1xIakJDg_aaF-bXi-XG2dVA-jG3mDHGi0J05Yewz7ggOeaz_2zilzaNEZwwe6jhvWACmiqdM1IVSCBiH3ldFHAkDf4yOe3xQXlgqCz4qRNPfR_4nKAfH31Y\",\"help_cente",
-  "20:33:49 STORY POSTED instagram@Vinzap-Finds 11380256",
-  "20:33:55 STORY POSTED facebook@Vinzap-Finds 11380256",
   "21:00:48 READY fc4706db 2-in-1 Oil Dispenser Bottle (auto-approved)",
   "21:00:58 POSTED instagram@Vinzap-Finds fc4706db: 18120093559951860",
   "21:01:02 POSTED facebook@Vinzap-Finds fc4706db: 1428352113685678_122114048571501659",
@@ -5775,13 +5771,17 @@
   "16:32:12 POSTED facebook@Vijayendra-Singh f2665a05: 1643544244061737",
   "16:32:43 STORY POSTED instagram@Vinzap-Finds f2665a05",
   "16:32:52 STORY POSTED facebook@Vinzap-Finds f2665a05",
-  "16:33:02 STORY POSTED facebook@Vijayendra-Singh f2665a05"
+  "16:33:02 STORY POSTED facebook@Vijayendra-Singh f2665a05",
+  "17:00:44 READY e9c21cdb Teak Wood Chopping Board (auto-approved)",
+  "17:00:56 POSTED instagram@Vinzap-Finds e9c21cdb: 17887069431505282",
+  "17:00:59 POSTED facebook@Vinzap-Finds e9c21cdb: 1428352113685678_122114617047501659",
+  "17:01:03 POSTED facebook@Vijayendra-Singh e9c21cdb: 1317760538089559_122125180455480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793530879.912079,
-  "facebook@Vinzap-Finds": 1793530879.912079,
-  "facebook@Vijayendra-Singh": 1793530879.912079,
+  "instagram@Vinzap-Finds": 1793532644.812175,
+  "facebook@Vinzap-Finds": 1793532644.812175,
+  "facebook@Vijayendra-Singh": 1793532644.812175,
   "youtube": 1793527277.2231061
  },
- "n": 295
+ "n": 296
 }
