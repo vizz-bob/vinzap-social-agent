@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "4053f2de",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Oval Chalkboard Sticker Labels",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Classic oval chalkboard style",
-     "Write",
-     "Strong self adhesive backing"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Oval Chalkboard Sticker Labels | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Oval Chalkboard Sticker Labels"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOval Chalkboard Sticker Labels\n✔ Classic oval chalkboard style\n✔ Write\n✔ Strong self adhesive backing\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Oval Chalkboard Sticker Labels | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": false,
-     "ts": 1793199693.9604743,
-     "error": "HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793199693.9604743,
-     "id": "1297192262523133",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793199693.9604743,
-     "id": "1869951254007592",
-     "dry": false
-    }
-   },
-   "created": 1793199671.89087,
-   "after": 0,
-   "handle": "oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
-   "product_url": "https://www.vinzapstore.in/products/oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
-   "file": "4053f2de.mp4",
-   "thumb": "4053f2de_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1117598331024208"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1604776504719652"
-    }
-   }
-  },
-  {
    "id": "3e1cb633",
    "status": "posted",
    "kind": "image",
@@ -5567,17 +5495,87 @@
    "product_url": "https://www.vinzapstore.in/products/silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
    "file": "717f28d0.jpg",
    "thumb": "717f28d0.jpg"
+  },
+  {
+   "id": "f2665a05",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Foldable Collapsible Utility Basket 23x21cm",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 219,
+    "was": 0,
+    "feats": [
+     "Foldable collapsible design saves",
+     "Sturdy handles for easy carrying",
+     "Multi-purpose use for storage"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Foldable Collapsible Utility Basket 23x21cm | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Foldable Collapsible Utility Basket 23x21cm"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFoldable Collapsible Utility Basket 23x21cm\n✔ Foldable collapsible design saves\n✔ Sturdy handles for easy carrying\n✔ Multi-purpose use for storage\n\nOnly ₹219. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecorideas #diwali",
+   "title": "Foldable Collapsible Utility Basket 23x21cm | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793530879.912079,
+     "id": "17929956666427858",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793530879.912079,
+     "id": "1554744306368933",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793530879.912079,
+     "id": "1643544244061737",
+     "dry": false
+    }
+   },
+   "created": 1793530863.6245575,
+   "after": 0,
+   "handle": "foldable-collapsible-utility-basket-23x21-cm",
+   "product_url": "https://www.vinzapstore.in/products/foldable-collapsible-utility-basket-23x21-cm",
+   "file": "f2665a05.mp4",
+   "thumb": "f2665a05_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18078515021731924"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2025895305426654"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1449672616497166"
+    }
+   }
   }
  ],
- "last_post": 1793529065.1402268,
+ "last_post": 1793530879.912079,
  "log": [
-  "19:32:32 STORY POSTED facebook@Vinzap-Finds b107287d",
-  "20:00:56 READY 07503658 Silicone Cooking Spatula 18cm (auto-approved)",
-  "20:01:07 POSTED instagram@Vinzap-Finds 07503658: 18640898911007370",
-  "20:01:11 POSTED facebook@Vinzap-Finds 07503658: 1428352113685678_122114030661501659",
-  "20:01:15 POSTED facebook@Vijayendra-Singh 07503658: 1317760538089559_122124550899480728",
-  "20:32:32 READY 11380256 Unbreakable Plastic Juice Glass Set | Diwali (auto-approved)",
-  "20:33:10 POSTED instagram@Vinzap-Finds 11380256: 17936791212408795",
   "20:33:16 POSTED facebook@Vinzap-Finds 11380256: 1587883099329499",
   "20:33:18 FAILED post facebook@Vijayendra-Singh 11380256: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYNTEw4uaZ-VqfwPYL4UJW9BfATS82uZCKQJ9YAL4Lqd7qNXi3M5afCntc8WsGOA20t3bcNyZAGAk4VY8ACxr-8_DvYgOeNvSbF96pXQ9RGuraNRcqYkDVvq-kh1OvgmBaaN08J8-BClGYhY_mKiNEEZ1pRzoHXklPppkamMvHZofMOsgYoydWaKKLuZvPfb75cNI1sb-u1xIakJDg_aaF-bXi-XG2dVA-jG3mDHGi0J05Yewz7ggOeaz_2zilzaNEZwwe6jhvWACmiqdM1IVSCBiH3ldFHAkDf4yOe3xQXlgqCz4qRNPfR_4nKAfH31Y\",\"help_cente",
   "20:33:49 STORY POSTED instagram@Vinzap-Finds 11380256",
@@ -5770,13 +5768,20 @@
   "16:01:05 READY 717f28d0 Silicone Ice Cube Maker Cup (auto-approved)",
   "16:01:21 POSTED instagram@Vinzap-Finds 717f28d0: 17962555224011207",
   "16:01:25 POSTED facebook@Vinzap-Finds 717f28d0: 1428352113685678_122114604939501659",
-  "16:01:29 POSTED facebook@Vijayendra-Singh 717f28d0: 1317760538089559_122125163847480728"
+  "16:01:29 POSTED facebook@Vijayendra-Singh 717f28d0: 1317760538089559_122125163847480728",
+  "16:31:19 READY f2665a05 Foldable Collapsible Utility Basket 23x21cm | Home Decor Ideas (auto-approved)",
+  "16:31:59 POSTED instagram@Vinzap-Finds f2665a05: 17929956666427858",
+  "16:32:05 POSTED facebook@Vinzap-Finds f2665a05: 1554744306368933",
+  "16:32:12 POSTED facebook@Vijayendra-Singh f2665a05: 1643544244061737",
+  "16:32:43 STORY POSTED instagram@Vinzap-Finds f2665a05",
+  "16:32:52 STORY POSTED facebook@Vinzap-Finds f2665a05",
+  "16:33:02 STORY POSTED facebook@Vijayendra-Singh f2665a05"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793529065.1402268,
-  "facebook@Vinzap-Finds": 1793529065.1402268,
-  "facebook@Vijayendra-Singh": 1793529065.1402268,
+  "instagram@Vinzap-Finds": 1793530879.912079,
+  "facebook@Vinzap-Finds": 1793530879.912079,
+  "facebook@Vijayendra-Singh": 1793530879.912079,
   "youtube": 1793527277.2231061
  },
- "n": 294
+ "n": 295
 }
