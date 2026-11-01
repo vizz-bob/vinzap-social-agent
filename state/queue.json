@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "6a930fa7",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3-in-1 Fruit and Vegetable Cutting Board Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Complete kitchen prep set",
-     "Smooth and flat cutting surface",
-     "Sharp paring knife for precise"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "3-in-1 Fruit and Vegetable Cutting Board Set | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3-in-1 Fruit and Vegetable Cutting Board Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3-in-1 Fruit and Vegetable Cutting Board Set\n✔ Complete kitchen prep set\n✔ Smooth and flat cutting surface\n✔ Sharp paring knife for precise\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "3-in-1 Fruit and Vegetable Cutting Board Set | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793188893.2957177,
-     "id": "18470976928186590",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793188893.2957177,
-     "id": "1052211654502891",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793188893.2957177,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu9g5Uc9gaO52T-I81v1tF6j9"
-    }
-   },
-   "created": 1793188871.866269,
-   "after": 0,
-   "handle": "3-in-1-multipurpose-kitchen-fruit-vegetable-cutting-board-set",
-   "product_url": "https://www.vinzapstore.in/products/3-in-1-multipurpose-kitchen-fruit-vegetable-cutting-board-set",
-   "file": "6a930fa7.mp4",
-   "thumb": "6a930fa7_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17909847687582860"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1556656026218323"
-    }
-   }
-  },
-  {
    "id": "c254723c",
    "status": "posted",
    "kind": "image",
@@ -5567,16 +5495,82 @@
    "product_url": "https://www.vinzapstore.in/products/apex-pyramid-ringo-plastic-glass-300ml-approx-durable-crystal-clear-tumbler",
    "file": "9d406e70.jpg",
    "thumb": "9d406e70.jpg"
+  },
+  {
+   "id": "e825a3ac",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Manual Egg Beater",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 179,
+    "was": 0,
+    "feats": [
+     "Food-grade plastic",
+     "Long handle with a hanging hole",
+     "Use for eggs"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Manual Egg Beater | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Egg Beater"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Egg Beater\n✔ Food-grade plastic\n✔ Long handle with a hanging hole\n✔ Use for eggs\n\nOnly ₹179. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Manual Egg Beater | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793520087.2490652,
+     "id": "17964548862229858",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793520087.2490652,
+     "id": "983762501447419",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793520087.2490652,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuqqeZVRaIp0pmVfvqERehngU"
+    }
+   },
+   "created": 1793520061.9594526,
+   "after": 0,
+   "handle": "manual-egg-beater-versatile-kitchen-mixing-tool-for-eggs-batters",
+   "product_url": "https://www.vinzapstore.in/products/manual-egg-beater-versatile-kitchen-mixing-tool-for-eggs-batters",
+   "file": "e825a3ac.mp4",
+   "thumb": "e825a3ac_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17956185774038522"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2085203052155251"
+    }
+   }
   }
  ],
- "last_post": 1793518250.921743,
+ "last_post": 1793520087.2490652,
  "log": [
-  "16:32:50 STORY POSTED facebook@Vijayendra-Singh 4bba6145",
-  "17:00:50 READY 3389788b Electric Pepper Grinder, USB Rechargeable (auto-approved)",
-  "17:01:00 POSTED instagram@Vinzap-Finds 3389788b: 18118512520795425",
-  "17:01:03 POSTED facebook@Vinzap-Finds 3389788b: 1428352113685678_122113978983501659",
-  "17:01:07 POSTED facebook@Vijayendra-Singh 3389788b: 1317760538089559_122124497157480728",
-  "17:31:25 READY 8b9f3957 Stainless Steel Ice Cream Scoop | Home Decor (auto-approved)",
   "17:31:58 POSTED instagram@Vinzap-Finds 8b9f3957: 18091814270294871",
   "17:32:03 POSTED facebook@Vinzap-Finds 8b9f3957: 1103202792332730",
   "17:32:07 POSTED facebook@Vijayendra-Singh 8b9f3957: 1437120964492167",
@@ -5770,13 +5764,19 @@
   "13:00:50 READY 9d406e70 Apex Pyramid Ringo Plastic Glass 300ml (auto-approved)",
   "13:01:00 POSTED instagram@Vinzap-Finds 9d406e70: 18043313489839039",
   "13:01:03 POSTED facebook@Vinzap-Finds 9d406e70: 1428352113685678_122114560365501659",
-  "13:01:06 POSTED facebook@Vijayendra-Singh 9d406e70: 1317760538089559_122125115169480728"
+  "13:01:06 POSTED facebook@Vijayendra-Singh 9d406e70: 1317760538089559_122125115169480728",
+  "13:31:27 READY e825a3ac Manual Egg Beater | Trending Shorts (auto-approved)",
+  "13:32:03 POSTED instagram@Vinzap-Finds e825a3ac: 17964548862229858",
+  "13:32:08 POSTED facebook@Vinzap-Finds e825a3ac: 983762501447419",
+  "13:32:10 FAILED post facebook@Vijayendra-Singh e825a3ac: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuqqeZVRaIp0pmVfvqERehngUL8s3zoeW82iGQGxGglvRxF2Xttsl1RA1VuMW3gJqbcm7hkUJJBEFiRegZ7n-4IMS04vH5jUAE-KluHR6SNDUCIDjy2jXyn7Y16E4g_gNHeLwKvPOl66AQdsgVV-3AH72rl_Leb5l9Ylo7JRCy9Xga49lJP-f2m18k6Spt5zzdvtmmM1uJdbtHzmMKFLtlRYqxhRRjDPxvCiW0Y_K_uq4nyiBjEr-xtCYaaw7SDWP6ZzfpT-fUCq2v0-nrVlEVBbuJVCHcTGQvPgtKruoxEddsaqb0oRVtppfcAGwsPSQ\",\"help_center",
+  "13:32:39 STORY POSTED instagram@Vinzap-Finds e825a3ac",
+  "13:32:49 STORY POSTED facebook@Vinzap-Finds e825a3ac"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793518250.921743,
-  "facebook@Vinzap-Finds": 1793518250.921743,
-  "facebook@Vijayendra-Singh": 1793518250.921743,
+  "instagram@Vinzap-Finds": 1793520087.2490652,
+  "facebook@Vinzap-Finds": 1793520087.2490652,
+  "facebook@Vijayendra-Singh": 1793520087.2490652,
   "youtube": 1793516478.0532446
  },
- "n": 288
+ "n": 289
 }
