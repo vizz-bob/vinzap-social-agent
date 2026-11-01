@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "a04aefb2",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Bamboo Chopsticks",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 49,
-    "was": 0,
-    "feats": [
-     "Set of 2 premium reusable bamboo",
-     "Made from eco-friendly natural",
-     "Smooth polished bamboo lower"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Reusable Bamboo Chopsticks | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Bamboo Chopsticks"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Bamboo Chopsticks\n✔ Set of 2 premium reusable bamboo\n✔ Made from eco-friendly natural\n✔ Smooth polished bamboo lower\n\nOnly ₹49. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Reusable Bamboo Chopsticks",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793183451.4799612,
-     "id": "17911523688578589",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793183451.4799612,
-     "id": "1428352113685678_122113245891501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793183451.4799612,
-     "id": "1317760538089559_122123866557480728",
-     "dry": false
-    }
-   },
-   "created": 1793183448.704066,
-   "after": 0,
-   "handle": "reusable-bamboo-chopsticks-with-blue-chinese-print-design-2-pc",
-   "product_url": "https://www.vinzapstore.in/products/reusable-bamboo-chopsticks-with-blue-chinese-print-design-2-pc",
-   "file": "a04aefb2.jpg",
-   "thumb": "a04aefb2.jpg"
-  },
-  {
    "id": "3dfeea4d",
    "status": "scheduled",
    "kind": "reel",
@@ -5561,14 +5499,72 @@
      "id": "4629624844025827"
     }
    }
+  },
+  {
+   "id": "7e93e026",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Leak Proof Plastic Water Bottle 900ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 279,
+    "was": 0,
+    "feats": [
+     "900 ML large capacity water bottle",
+     "Durable plastic construction",
+     "Leak proof flip top lid"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Leak Proof Plastic Water Bottle 900ml | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Leak Proof Plastic Water Bottle 900ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLeak Proof Plastic Water Bottle 900ml\n✔ 900 ML large capacity water bottle\n✔ Durable plastic construction\n✔ Leak proof flip top lid\n\nOnly ₹279. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
+   "title": "Leak Proof Plastic Water Bottle 900ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793514651.605715,
+     "id": "18132186763704844",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793514651.605715,
+     "id": "1428352113685678_122114549025501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793514651.605715,
+     "id": "1317760538089559_122125101759480728",
+     "dry": false
+    }
+   },
+   "created": 1793514649.1256237,
+   "after": 0,
+   "handle": "premium-900-ml-leak-proof-plastic-water-bottle",
+   "product_url": "https://www.vinzapstore.in/products/premium-900-ml-leak-proof-plastic-water-bottle",
+   "file": "7e93e026.jpg",
+   "thumb": "7e93e026.jpg"
   }
  ],
- "last_post": 1793466078.2044528,
+ "last_post": 1793514651.605715,
  "log": [
-  "15:32:00 POSTED facebook@Vijayendra-Singh de83b117: 1632160991889946",
-  "15:32:04 POSTED youtube de83b117: riAk4kPcWEA",
-  "15:32:33 STORY POSTED instagram@Vinzap-Finds de83b117",
-  "15:32:40 STORY POSTED facebook@Vinzap-Finds de83b117",
   "15:32:47 STORY POSTED facebook@Vijayendra-Singh de83b117",
   "16:00:48 READY 0ef1d144 Caterpillar Self-Adhesive Wall Toothbrush (auto-approved)",
   "16:01:02 POSTED instagram@Vinzap-Finds 0ef1d144: 18109584712944516",
@@ -5764,13 +5760,17 @@
   "22:31:52 POSTED facebook@Vinzap-Finds 2af0e750: 4643013212642774",
   "22:31:53 FAILED post facebook@Vijayendra-Singh 2af0e750: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevOedncQty8pJNBSM4KdVsMog2ZEQ4ykJVVIB4mBF13vlaxOTO1qJaQ6FGnvDwp64yjIC0CSQW2IDvuCSXpadJ8mp4DU7ochBtZU7I9OVeTHUCTaCFl7CBqFrjxRxaGVZLBD9NOrfzYLNEVRNNjOjRCOwNJQ54Kv-16YNKWgZCwP0g63IyVI9OKz5ILGKsu4OLHz4pOpfTLKPAiVF35HVI4-AVIwjIEHH3VxB4ZlM0kRc55lueMWdtoympMXQAyEZHvnx8cDInWDKiHqP5KcMUX1IoMKAhfvhpSE1jYOOkdrqaE1hhQBf8ktb_VuoUXHZyM\",\"help_cent",
   "22:32:23 STORY POSTED instagram@Vinzap-Finds 2af0e750",
-  "22:32:30 STORY POSTED facebook@Vinzap-Finds 2af0e750"
+  "22:32:30 STORY POSTED facebook@Vinzap-Finds 2af0e750",
+  "12:00:51 READY 7e93e026 Leak Proof Plastic Water Bottle 900ml (auto-approved)",
+  "12:01:00 POSTED instagram@Vinzap-Finds 7e93e026: 18132186763704844",
+  "12:01:03 POSTED facebook@Vinzap-Finds 7e93e026: 1428352113685678_122114549025501659",
+  "12:01:08 POSTED facebook@Vijayendra-Singh 7e93e026: 1317760538089559_122125101759480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793466078.2044528,
-  "facebook@Vinzap-Finds": 1793466078.2044528,
-  "facebook@Vijayendra-Singh": 1793466078.2044528,
-  "youtube": 1793462475.145613
+  "instagram@Vinzap-Finds": 1793514651.605715,
+  "facebook@Vinzap-Finds": 1793514651.605715,
+  "facebook@Vijayendra-Singh": 1793514651.605715,
+  "youtube": 1793462055.145613
  },
- "n": 285
+ "n": 286
 }
