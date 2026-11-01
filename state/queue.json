@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "0c62d446",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Steel 2-in-1 Cut and Chop Board",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1699,
-    "was": 0,
-    "feats": [
-     "Durable stainless steel board",
-     "Comes with a sharp chef knife",
-     "Smooth steel surface is hygienic"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Steel 2-in-1 Cut and Chop Board | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Steel 2-in-1 Cut and Chop Board"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSteel 2-in-1 Cut and Chop Board\n✔ Durable stainless steel board\n✔ Comes with a sharp chef knife\n✔ Smooth steel surface is hygienic\n\nOnly ₹1699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Steel 2-in-1 Cut and Chop Board",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793197860.3493006,
-     "id": "17888246325528671",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793197860.3493006,
-     "id": "1428352113685678_122113316193501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793197860.3493006,
-     "id": "1317760538089559_122123933511480728",
-     "dry": false
-    }
-   },
-   "created": 1793197857.3241928,
-   "after": 0,
-   "handle": "stainless-steel-2-in-1-cut-and-chop-board-with-knife-and-sharpener-1-set",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-2-in-1-cut-and-chop-board-with-knife-and-sharpener-1-set",
-   "file": "0c62d446.jpg",
-   "thumb": "0c62d446.jpg"
-  },
-  {
    "id": "4053f2de",
    "status": "scheduled",
    "kind": "reel",
@@ -5567,14 +5505,72 @@
      "id": "2965909850441969"
     }
    }
+  },
+  {
+   "id": "717f28d0",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Ice Cube Maker Cup",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Flexible silicone cup makes many",
+     "Simply squeeze the sides to pop",
+     "Space-saving cylinder shape fits"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Silicone Ice Cube Maker Cup | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Maker Cup"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Maker Cup\n✔ Flexible silicone cup makes many\n✔ Simply squeeze the sides to pop\n✔ Space-saving cylinder shape fits\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Silicone Ice Cube Maker Cup",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793529065.1402268,
+     "id": "17962555224011207",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793529065.1402268,
+     "id": "1428352113685678_122114604939501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793529065.1402268,
+     "id": "1317760538089559_122125163847480728",
+     "dry": false
+    }
+   },
+   "created": 1793529062.5670877,
+   "after": 0,
+   "handle": "silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
+   "file": "717f28d0.jpg",
+   "thumb": "717f28d0.jpg"
   }
  ],
- "last_post": 1793527277.2231061,
+ "last_post": 1793529065.1402268,
  "log": [
-  "19:31:51 POSTED instagram@Vinzap-Finds b107287d: 18030451622693155",
-  "19:31:54 POSTED facebook@Vinzap-Finds b107287d: 1644026473976209",
-  "19:31:55 FAILED post facebook@Vijayendra-Singh b107287d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes3DROe7YdMW9Bmpe3uJ1LUiK8HGHbAxhqipAPP0J93PGMGZi9npxS9VwVUwoQ9at7RDjFGwY7A9eWNjfVZcXUnxj4h_kDfg3kBoz-6uiEXtMVH_4bTGQSVVZXwN_kDGBuynDZPKgWuxEpA4xU4H9zXZIAEu4Ma4zjCAgPUpJm7fgVKyQeSmwm84Iw1Itf51gLspy-Sj-kv7divxoa_Sp2xQgvPwZAh5tLFgo93J32tkhLtAYH6h_m4KA-jd2usss_tMg5KF9NSC5_izTYCthR2_twkL7zLwek3GmDk7tuPI45rqSzssEwQDXU92Jovpzkb\",\"help_cent",
-  "19:32:24 STORY POSTED instagram@Vinzap-Finds b107287d",
   "19:32:32 STORY POSTED facebook@Vinzap-Finds b107287d",
   "20:00:56 READY 07503658 Silicone Cooking Spatula 18cm (auto-approved)",
   "20:01:07 POSTED instagram@Vinzap-Finds 07503658: 18640898911007370",
@@ -5770,13 +5766,17 @@
   "15:32:08 POSTED youtube 711046be: 3_wS576NV_8",
   "15:32:39 STORY POSTED instagram@Vinzap-Finds 711046be",
   "15:32:48 STORY POSTED facebook@Vinzap-Finds 711046be",
-  "15:32:56 STORY POSTED facebook@Vijayendra-Singh 711046be"
+  "15:32:56 STORY POSTED facebook@Vijayendra-Singh 711046be",
+  "16:01:05 READY 717f28d0 Silicone Ice Cube Maker Cup (auto-approved)",
+  "16:01:21 POSTED instagram@Vinzap-Finds 717f28d0: 17962555224011207",
+  "16:01:25 POSTED facebook@Vinzap-Finds 717f28d0: 1428352113685678_122114604939501659",
+  "16:01:29 POSTED facebook@Vijayendra-Singh 717f28d0: 1317760538089559_122125163847480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793527277.2231061,
-  "facebook@Vinzap-Finds": 1793527277.2231061,
-  "facebook@Vijayendra-Singh": 1793527277.2231061,
+  "instagram@Vinzap-Finds": 1793529065.1402268,
+  "facebook@Vinzap-Finds": 1793529065.1402268,
+  "facebook@Vijayendra-Singh": 1793529065.1402268,
   "youtube": 1793527277.2231061
  },
- "n": 293
+ "n": 294
 }
