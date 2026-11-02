@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "8f1a43db",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kitchen Knife Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Ergonomic Handles: Comfortable",
-     "Sharp Stainless Steel Blades:",
-     "Versatile Set: Includes knives"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Kitchen Knife Set | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kitchen Knife Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Knife Set\n✔ Ergonomic Handles: Comfortable\n✔ Sharp Stainless Steel Blades:\n✔ Versatile Set: Includes knives\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Kitchen Knife Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793349048.226804,
-     "id": "18118830352789790",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793349048.226804,
-     "id": "1428352113685678_122113927677501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793349048.226804,
-     "id": "1317760538089559_122124460743480728",
-     "dry": false
-    }
-   },
-   "created": 1793349045.8738086,
-   "after": 0,
-   "handle": "kitchen-knife-set-with-ergonomic-handles-stainless-steel-chef-knives-12-pc",
-   "product_url": "https://www.vinzapstore.in/products/kitchen-knife-set-with-ergonomic-handles-stainless-steel-chef-knives-12-pc",
-   "file": "8f1a43db.jpg",
-   "thumb": "8f1a43db.jpg"
-  },
-  {
    "id": "f50a564b",
    "status": "scheduled",
    "kind": "reel",
@@ -5515,14 +5453,70 @@
      "id": "927344173643082"
     }
    }
+  },
+  {
+   "id": "91dae7de",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Multifunction Collapsible Extendable Stick",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 739,
+    "was": 0,
+    "feats": [
+     "Multi-Function Collapsible"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Multifunction Collapsible Extendable Stick | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Multifunction Collapsible Extendable Stick"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultifunction Collapsible Extendable Stick\n✔ Multi-Function Collapsible\n\nOnly ₹739. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Multifunction Collapsible Extendable Stick",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793634338.9820852,
+     "id": "18137256553709332",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793634338.9820852,
+     "id": "1428352113685678_122114989341501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793634338.9820852,
+     "id": "1317760538089559_122125582443480728",
+     "dry": false
+    }
+   },
+   "created": 1793634337.4746587,
+   "after": 0,
+   "handle": "576-multi-function-collapsible-self-defense-stick-extended",
+   "product_url": "https://www.vinzapstore.in/products/576-multi-function-collapsible-self-defense-stick-extended",
+   "file": "91dae7de.jpg",
+   "thumb": "91dae7de.jpg"
   }
  ],
- "last_post": 1793632572.6110828,
+ "last_post": 1793634338.9820852,
  "log": [
-  "13:01:00 POSTED instagram@Vinzap-Finds 9d406e70: 18043313489839039",
-  "13:01:03 POSTED facebook@Vinzap-Finds 9d406e70: 1428352113685678_122114560365501659",
-  "13:01:06 POSTED facebook@Vijayendra-Singh 9d406e70: 1317760538089559_122125115169480728",
-  "13:31:27 READY e825a3ac Manual Egg Beater | Trending Shorts (auto-approved)",
   "13:32:03 POSTED instagram@Vinzap-Finds e825a3ac: 17964548862229858",
   "13:32:08 POSTED facebook@Vinzap-Finds e825a3ac: 983762501447419",
   "13:32:10 FAILED post facebook@Vijayendra-Singh e825a3ac: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuqqeZVRaIp0pmVfvqERehngUL8s3zoeW82iGQGxGglvRxF2Xttsl1RA1VuMW3gJqbcm7hkUJJBEFiRegZ7n-4IMS04vH5jUAE-KluHR6SNDUCIDjy2jXyn7Y16E4g_gNHeLwKvPOl66AQdsgVV-3AH72rl_Leb5l9Ylo7JRCy9Xga49lJP-f2m18k6Spt5zzdvtmmM1uJdbtHzmMKFLtlRYqxhRRjDPxvCiW0Y_K_uq4nyiBjEr-xtCYaaw7SDWP6ZzfpT-fUCq2v0-nrVlEVBbuJVCHcTGQvPgtKruoxEddsaqb0oRVtppfcAGwsPSQ\",\"help_center",
@@ -5718,13 +5712,17 @@
   "20:46:54 POSTED facebook@Vijayendra-Singh 0d0fd347: 1765997291370406",
   "20:47:24 STORY POSTED instagram@Vinzap-Finds 0d0fd347",
   "20:47:31 STORY POSTED facebook@Vinzap-Finds 0d0fd347",
-  "20:47:39 STORY POSTED facebook@Vijayendra-Singh 0d0fd347"
+  "20:47:39 STORY POSTED facebook@Vijayendra-Singh 0d0fd347",
+  "21:15:38 READY 91dae7de Multifunction Collapsible Extendable Stick (auto-approved)",
+  "21:15:51 POSTED instagram@Vinzap-Finds 91dae7de: 18137256553709332",
+  "21:15:55 POSTED facebook@Vinzap-Finds 91dae7de: 1428352113685678_122114989341501659",
+  "21:15:59 POSTED facebook@Vijayendra-Singh 91dae7de: 1317760538089559_122125582443480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793632572.6110828,
-  "facebook@Vinzap-Finds": 1793632572.6110828,
-  "facebook@Vijayendra-Singh": 1793632572.6110828,
-  "youtube": 1793625385.2266517
+  "instagram@Vinzap-Finds": 1793634338.9820852,
+  "facebook@Vinzap-Finds": 1793634338.9820852,
+  "facebook@Vijayendra-Singh": 1793634338.9820852,
+  "youtube": 1793624965.2266517
  },
- "n": 325
+ "n": 326
 }
