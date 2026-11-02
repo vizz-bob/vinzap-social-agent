@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "8c0799bc",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Frosted Glass Water Bottle 350ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Frosted glass body keeps water",
-     "Cheerful Lucky Day smiley face",
-     "Compact 350ml size — perfect"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Frosted Glass Water Bottle 350ml | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Frosted Glass Water Bottle 350ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFrosted Glass Water Bottle 350ml\n✔ Frosted glass body keeps water\n✔ Cheerful Lucky Day smiley face\n✔ Compact 350ml size — perfect\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#cooking #homedecor",
-   "title": "Frosted Glass Water Bottle 350ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793291447.2819343,
-     "id": "18100754582651564",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793291447.2819343,
-     "id": "1428352113685678_122113719081501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793291447.2819343,
-     "id": "1317760538089559_122124281517480728",
-     "dry": false
-    }
-   },
-   "created": 1793291444.6614327,
-   "after": 0,
-   "handle": "350-ml-frosted-glass-water-bottle-lucky-day-print-for-office-travel-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/350-ml-frosted-glass-water-bottle-lucky-day-print-for-office-travel-1-pc",
-   "file": "8c0799bc.jpg",
-   "thumb": "8c0799bc.jpg"
-  },
-  {
    "id": "a74c61ef",
    "status": "scheduled",
    "kind": "reel",
@@ -5524,14 +5462,70 @@
      "id": "1107625898918683"
     }
    }
+  },
+  {
+   "id": "898372a4",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Snack Caddy Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 109,
+    "was": 0,
+    "feats": [
+     "3 in1 plastic trays hold enough",
+     "【Perfect Sofa Tray】Easily take"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Snack Caddy Tray | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Snack Caddy Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSnack Caddy Tray\n✔ 3 in1 plastic trays hold enough\n✔ 【Perfect Sofa Tray】Easily take\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Snack Caddy Tray",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": false,
+     "ts": 1793623541.1084855,
+     "error": "HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"A95zHJo8hKVXK9zay1Y4PAz\"}}"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793623541.1084855,
+     "id": "1428352113685678_122114933253501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793623541.1084855,
+     "id": "1317760538089559_122125526955480728",
+     "dry": false
+    }
+   },
+   "created": 1793623538.7815356,
+   "after": 0,
+   "handle": "snack-caddy-tray-with-a-drink-cup-holder-the-ultimate-movie-night",
+   "product_url": "https://www.vinzapstore.in/products/snack-caddy-tray-with-a-drink-cup-holder-the-ultimate-movie-night",
+   "file": "898372a4.jpg",
+   "thumb": "898372a4.jpg"
   }
  ],
- "last_post": 1793621779.2048352,
+ "last_post": 1793623541.1084855,
  "log": [
-  "21:00:54 POSTED instagram@Vinzap-Finds 647603d6: 18371939326245898",
-  "21:00:58 POSTED facebook@Vinzap-Finds 647603d6: 1428352113685678_122114376699501659",
-  "21:01:03 POSTED facebook@Vijayendra-Singh 647603d6: 1317760538089559_122124920073480728",
-  "21:31:15 READY 756b279f Silicone Ice Cube Tray | Cooking (auto-approved)",
   "21:31:47 POSTED instagram@Vinzap-Finds 756b279f: 18137284069709690",
   "21:31:51 POSTED facebook@Vinzap-Finds 756b279f: 945579301744169",
   "21:31:52 FAILED post facebook@Vijayendra-Singh 756b279f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetk-yHxzlgFoU728dQ0-1ecHNJskoMeA3E_T8tXWbcIsJLxsfBc448Z9IvOrLhJdMzBDaKjOaIgxR4B8ZA7ASdJU4ROrYQyq0F-sozmknpzK5gl809O6IsR5bvzaLZK8stn3HyMB2_CB2G9GERaIp9-aYtIR8PB3Bqovl6G6Njo__kXApIOkMeD3NJbB1j7ECs4pbNE3j29tAREUCjSdEG0di_nr-R_FwCqZNaArzunVk6G0MlV28J9MGTYwAzenujUFuWRaCHm1UvKLVNuf7wbBwVWXUxSY0A4lC4vpN--UQD_AsZEk5vUPV4Y81NcT3Ku\",\"help_cent",
@@ -5727,13 +5721,17 @@
   "17:46:52 POSTED facebook@Vinzap-Finds 4b6bdf27: 3034052766962573",
   "17:46:53 FAILED post facebook@Vijayendra-Singh 4b6bdf27: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetCwTBMTB_DoRCoFxEkahlvU_09WlU9Kmd9EQVc6j4fGSe7wMMrDK4R8CV6-OgoVTF-6_KXC-SuevPURS6wkSnoP8WYLC-YMsQl9EKq5gNxNOBdOd64-OUcIMCgLPrz9eBXBdciFLEzwejE43Zs_4diC2um1P_3FeZheGmZrdlHgxGXj8lgYJ9TEQYKvv7v3aem6K9JSuLjgpXq5MXPbPtuYggane_LQDjanioUR3Ltlc5V3v46d7Dr4BDrqDEVZsfNKCFYWobUkCobUmrilQsorpFAAily0xkbxWLz9nkHudFP_u2CSqpbcABFC7r38g9i\",\"help_cent",
   "17:47:23 STORY POSTED instagram@Vinzap-Finds 4b6bdf27",
-  "17:47:32 STORY POSTED facebook@Vinzap-Finds 4b6bdf27"
+  "17:47:32 STORY POSTED facebook@Vinzap-Finds 4b6bdf27",
+  "18:15:41 READY 898372a4 Snack Caddy Tray (auto-approved)",
+  "18:15:45 FAILED post instagram@Vinzap-Finds 898372a4: HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"A95zHJo8hKVXK9zay1Y4PAz\"}}",
+  "18:15:48 POSTED facebook@Vinzap-Finds 898372a4: 1428352113685678_122114933253501659",
+  "18:15:51 POSTED facebook@Vijayendra-Singh 898372a4: 1317760538089559_122125526955480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793621779.2048352,
-  "facebook@Vinzap-Finds": 1793621779.2048352,
-  "facebook@Vijayendra-Singh": 1793621779.2048352,
-  "youtube": 1793614556.4237585
+  "instagram@Vinzap-Finds": 1793623541.1084855,
+  "facebook@Vinzap-Finds": 1793623541.1084855,
+  "facebook@Vijayendra-Singh": 1793623541.1084855,
+  "youtube": 1793614136.4237585
  },
- "n": 319
+ "n": 320
 }
