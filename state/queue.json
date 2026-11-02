@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "91723eb5",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ice Candy Popsicle Maker 8 Mould Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 249,
-    "was": 0,
-    "feats": [
-     "✅ 8 Mold Capacity – Make 8",
-     "✅ Food-Grade Plastic – Safe",
-     "✅ Easy-Release Design – Smooth"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Ice Candy Popsicle Maker 8 Mould Set | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Candy Popsicle Maker 8 Mould Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Candy Popsicle Maker 8 Mould Set\n✔ ✅ 8 Mold Capacity – Make 8\n✔ ✅ Food-Grade Plastic – Safe\n✔ ✅ Easy-Release Design – Smooth\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Ice Candy Popsicle Maker 8 Mould Set | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793278872.7870185,
-     "id": "18429277162150963",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793278872.7870185,
-     "id": "1475165124495477",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793278872.7870185,
-     "id": "1898225241551415",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793278872.7870185,
-     "id": "kKUXBaUhrhw",
-     "dry": false
-    }
-   },
-   "created": 1793278855.8481941,
-   "after": 0,
-   "handle": "plastic-ice-candy-popsicle-maker-8-mold-1-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-ice-candy-popsicle-maker-8-mold-1-set",
-   "file": "91723eb5.mp4",
-   "thumb": "91723eb5_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18137323372657789"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2125717211394280"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1812924823163248"
-    }
-   }
-  },
-  {
    "id": "9560027d",
    "status": "posted",
    "kind": "image",
@@ -5548,16 +5465,82 @@
    "product_url": "https://www.vinzapstore.in/products/kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
    "file": "b5ce68ec.jpg",
    "thumb": "b5ce68ec.jpg"
+  },
+  {
+   "id": "3d8d6d23",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Hot Pot Gripper Clamp Pan",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Strong stainless steel gripping",
+     "Heat-resistant anti-slip handle",
+     "Multi-purpose design suitable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Hot Pot Gripper Clamp Pan"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Hot Pot Gripper Clamp Pan\n✔ Strong stainless steel gripping\n✔ Heat-resistant anti-slip handle\n✔ Multi-purpose design suitable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793610996.3686814,
+     "id": "18115179185032974",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793610996.3686814,
+     "id": "1147718464454830",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793610996.3686814,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevA134El3mfErNipo34A8Z5Ti"
+    }
+   },
+   "created": 1793610975.0997412,
+   "after": 0,
+   "handle": "multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
+   "file": "3d8d6d23.mp4",
+   "thumb": "3d8d6d23_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18017316458976896"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1120952643641770"
+    }
+   }
   }
  ],
- "last_post": 1793608271.7598844,
+ "last_post": 1793610996.3686814,
  "log": [
-  "17:31:49 POSTED instagram@Vinzap-Finds d0bb2602: 18100778756536536",
-  "17:31:55 POSTED facebook@Vinzap-Finds d0bb2602: 1114446917623483",
-  "17:31:56 FAILED post facebook@Vijayendra-Singh d0bb2602: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetqd-VBWQ3k8Bi1COd4mOYd6uWTYEHrqf5lkccCwX1c4VAUlxC9GVdMt95Xbny-aG_1ziMokBVFf1gc2IJrqtMjsFXRE5N77e-Z7mMkxc-phBKGkj8ms0C_f50kbE_a9gwf-ofnYBTLtR5dCVxaqytlXcJO4crYmORUhm6OWqpKtA2kSFr8MNNGcprSHW_Sr3HLMru1Nu7z5AKlJQgWTFlVKXpDWXrpMuhMaqeLYURCUhtCBB8WDc4NLAa4xk5ZKKwqkfi1JzGvqIQ_hYcpGsL6vWYP3IB2Kiiq8m-FG1Y1Y-9p06k-HYpacMOgEwEaT3NV\",\"help_cent",
-  "17:32:27 STORY POSTED instagram@Vinzap-Finds d0bb2602",
-  "17:32:35 STORY POSTED facebook@Vinzap-Finds d0bb2602",
-  "18:00:50 READY 71cf43d8 Supermom Creamy Dessert Bowl Set of 6 (auto-approved)",
   "18:01:00 POSTED instagram@Vinzap-Finds 71cf43d8: 18647122906037898",
   "18:01:03 POSTED facebook@Vinzap-Finds 71cf43d8: 1428352113685678_122114328579501659",
   "18:01:07 POSTED facebook@Vijayendra-Singh 71cf43d8: 1317760538089559_122124865647480728",
@@ -5751,13 +5734,19 @@
   "14:01:11 READY b5ce68ec Kids Tumbler 900ml (auto-approved)",
   "14:01:28 POSTED instagram@Vinzap-Finds b5ce68ec: 18018565205748223",
   "14:01:33 POSTED facebook@Vinzap-Finds b5ce68ec: 1428352113685678_122114873895501659",
-  "14:01:38 POSTED facebook@Vijayendra-Singh b5ce68ec: 1317760538089559_122125462755480728"
+  "14:01:38 POSTED facebook@Vijayendra-Singh b5ce68ec: 1317760538089559_122125462755480728",
+  "14:46:36 READY 3d8d6d23 Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets (auto-approved)",
+  "14:47:12 POSTED instagram@Vinzap-Finds 3d8d6d23: 18115179185032974",
+  "14:47:18 POSTED facebook@Vinzap-Finds 3d8d6d23: 1147718464454830",
+  "14:47:19 FAILED post facebook@Vijayendra-Singh 3d8d6d23: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevA134El3mfErNipo34A8Z5Ti1q7Tze1yWVde6SYbJd_-JfBl9rhY-mm5FHkvSwoTUzdQoXR-vNxh9Oebm50inrqRitYrGfrDoOlnZQOx-t9rX22CMULFQGlnn6NpQ94T1USFlVCPrywKvb1aD6yxcMXKhODxpsRz80L6lqw5gQbX420ienPiovKIf9Bitwsv6SIu7aQEGrUwJGsWfFDQHwgu_hWABPI6p3AyUOFbKcwZcYzhM8rsCwo05N5uTkOxFU4MzI3vqVNECN0U6OfzYO3JT8lob4Esmd_1NIBzQd5uXXFr8J8NnSe7CrjHA0jcU\",\"help_cente",
+  "14:47:49 STORY POSTED instagram@Vinzap-Finds 3d8d6d23",
+  "14:47:57 STORY POSTED facebook@Vinzap-Finds 3d8d6d23"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793608271.7598844,
-  "facebook@Vinzap-Finds": 1793608271.7598844,
-  "facebook@Vijayendra-Singh": 1793608271.7598844,
+  "instagram@Vinzap-Finds": 1793610996.3686814,
+  "facebook@Vinzap-Finds": 1793610996.3686814,
+  "facebook@Vijayendra-Singh": 1793610996.3686814,
   "youtube": 1793602871.9468184
  },
- "n": 312
+ "n": 313
 }
