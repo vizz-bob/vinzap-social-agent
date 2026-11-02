@@ -1,81 +1,6 @@
 {
  "items": [
   {
-   "id": "2341886f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Scalloped Disposable Paper Napkins 23x23cm",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 209,
-    "was": 0,
-    "feats": [
-     "Royal Scalloped Disposable Paper"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Scalloped Disposable Paper Napkins 23x23cm | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Scalloped Disposable Paper Napkins 23x23cm"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nScalloped Disposable Paper Napkins 23x23cm\n✔ Royal Scalloped Disposable Paper\n\nOnly ₹209. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Scalloped Disposable Paper Napkins 23x23cm | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793286080.605912,
-     "id": "18128523062307698",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793286080.605912,
-     "id": "2400159153851112",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793286080.605912,
-     "id": "1635644698052175",
-     "dry": false
-    }
-   },
-   "created": 1793286053.567151,
-   "after": 0,
-   "handle": "royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
-   "product_url": "https://www.vinzapstore.in/products/royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
-   "file": "2341886f.mp4",
-   "thumb": "2341886f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18121853899901757"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2589699738122970"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1910511439927344"
-    }
-   }
-  },
-  {
    "id": "1730bd05",
    "status": "posted",
    "kind": "image",
@@ -5538,16 +5463,82 @@
    "product_url": "https://www.vinzapstore.in/products/food-grade-cling-wrap-roll-30-bag-300x300-mm",
    "file": "c53f6f97.jpg",
    "thumb": "c53f6f97.jpg"
+  },
+  {
+   "id": "377a1783",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "1 Litre Sports Sipper Water Bottle",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Capacity: approx. 1000 ml",
+     "Flip-lock sipper cap",
+     "Carry strap for easy holding"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "1 Litre Sports Sipper Water Bottle | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "1 Litre Sports Sipper Water Bottle"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n1 Litre Sports Sipper Water Bottle\n✔ Capacity: approx. 1000 ml\n✔ Flip-lock sipper cap\n✔ Carry strap for easy holding\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
+   "title": "1 Litre Sports Sipper Water Bottle | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793618163.0290835,
+     "id": "18157252306521823",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793618163.0290835,
+     "id": "1124313167005817",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793618163.0290835,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev5BzOU8FhK6XUFjH8sytKFrB"
+    }
+   },
+   "created": 1793618136.9393446,
+   "after": 0,
+   "handle": "aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
+   "product_url": "https://www.vinzapstore.in/products/aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
+   "file": "377a1783.mp4",
+   "thumb": "377a1783_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18022742171947581"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2288760438577521"
+    }
+   }
   }
  ],
- "last_post": 1793616347.7765787,
+ "last_post": 1793618163.0290835,
  "log": [
-  "19:32:02 POSTED instagram@Vinzap-Finds da8d2774: 18147671164553351",
-  "19:32:07 POSTED facebook@Vinzap-Finds da8d2774: 1057471290676289",
-  "19:32:08 FAILED post facebook@Vijayendra-Singh da8d2774: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuxeuKw7pMpC1-rvaMWZu-Y9QH2NB4xIHaLUjyYSDg_YXBRrf-8qxkEBXvpLR1gVa45-CckBx3rSO5udnOY6N_x07e94Y4N7I3im6qhH5PbxOTNB4eX-oAWAv1tZX2brDfGZAR0YtE4OIcQKgejdzPrjYfjWbgaZjvDmToXp7qAJSS-vst2k0mqVNLRibaiaJxcy6Pca6Avnr65enSjI10lfnpejQzHx7H61145MqTqGtkPXJ-vO-EiUQuz9Bdvoc_TwGvYb0T7li5sNqDAi2Op4Oqv2oJMhrk7jASc4KnJu8e2hceZaznuFSz8e_QZJuAE\",\"help_cent",
-  "19:32:39 STORY POSTED instagram@Vinzap-Finds da8d2774",
-  "19:32:48 STORY POSTED facebook@Vinzap-Finds da8d2774",
-  "20:01:21 READY 497eb695 Stainless Steel Cutlery Set (auto-approved)",
   "20:01:32 POSTED instagram@Vinzap-Finds 497eb695: 17915790153507582",
   "20:01:35 POSTED facebook@Vinzap-Finds 497eb695: 1428352113685678_122114360745501659",
   "20:01:39 POSTED facebook@Vijayendra-Singh 497eb695: 1317760538089559_122124905229480728",
@@ -5741,13 +5732,19 @@
   "16:15:47 READY c53f6f97 Food Grade Cling Wrap Bags,  300x300mm (auto-approved)",
   "16:16:02 POSTED instagram@Vinzap-Finds c53f6f97: 18416688322086206",
   "16:16:06 POSTED facebook@Vinzap-Finds c53f6f97: 1428352113685678_122114903559501659",
-  "16:16:09 POSTED facebook@Vijayendra-Singh c53f6f97: 1317760538089559_122125495557480728"
+  "16:16:09 POSTED facebook@Vijayendra-Singh c53f6f97: 1317760538089559_122125495557480728",
+  "16:46:03 READY 377a1783 1 Litre Sports Sipper Water Bottle | Kitchen Gadgets (auto-approved)",
+  "16:46:40 POSTED instagram@Vinzap-Finds 377a1783: 18157252306521823",
+  "16:46:44 POSTED facebook@Vinzap-Finds 377a1783: 1124313167005817",
+  "16:46:45 FAILED post facebook@Vijayendra-Singh 377a1783: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev5BzOU8FhK6XUFjH8sytKFrBU_cXYfvF0fam-UZofZ-U68qSPsf3tQgNFnclWXPtyCDEWdULQoUMiyMYCoAz2VpVjeeavRvywLz3yfVlrhxOMvP1TKuS6S2h6l3xaa4-Kwmee7chxLFc7_Oq_Fczeea19uU2d2dEgRZrKaRepAoUep8O7HOXWp4DVmhNQxZIZcsrqbuoViM96CrAKvo6GeqI5Ij3SD-ki7W9foDLBDbmMKd_LK5kTjx8i_86LniRr3xpIypHKIdlFuKyWHDD1hCBsEIITe3p-OF6Iu7z7d3WP48Ht_AnDyxAxWIKzI63Mu\",\"help_cent",
+  "16:47:17 STORY POSTED instagram@Vinzap-Finds 377a1783",
+  "16:47:24 STORY POSTED facebook@Vinzap-Finds 377a1783"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793616347.7765787,
-  "facebook@Vinzap-Finds": 1793616347.7765787,
-  "facebook@Vijayendra-Singh": 1793616347.7765787,
+  "instagram@Vinzap-Finds": 1793618163.0290835,
+  "facebook@Vinzap-Finds": 1793618163.0290835,
+  "facebook@Vijayendra-Singh": 1793618163.0290835,
   "youtube": 1793614556.4237585
  },
- "n": 316
+ "n": 317
 }
