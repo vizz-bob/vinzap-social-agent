@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "bca457cb",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Sports Water Bottle 1000ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "1000 ML large capacity for daily",
-     "Flip-top lid for easy and quick",
-     "Leakproof design to prevent"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Plastic Sports Water Bottle 1000ml | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Sports Water Bottle 1000ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Sports Water Bottle 1000ml\n✔ 1000 ML large capacity for daily\n✔ Flip-top lid for easy and quick\n✔ Leakproof design to prevent\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
-   "title": "Plastic Sports Water Bottle 1000ml | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793271682.3036852,
-     "id": "18153305908539887",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793271682.3036852,
-     "id": "1136326405596300",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793271682.3036852,
-     "id": "2200924880455534",
-     "dry": false
-    }
-   },
-   "created": 1793271655.3583696,
-   "after": 0,
-   "handle": "plastic-1000-ml-approx-sports-water-bottle-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/plastic-1000-ml-approx-sports-water-bottle-1-pc",
-   "file": "bca457cb.mp4",
-   "thumb": "bca457cb_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18074312984765104"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1089487053711509"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1505248238326859"
-    }
-   }
-  },
-  {
    "id": "911599b9",
    "status": "posted",
    "kind": "image",
@@ -5554,17 +5477,88 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
    "file": "280bcf38.jpg",
    "thumb": "280bcf38.jpg"
+  },
+  {
+   "id": "b6156d14",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Oil Pourer 750ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 639,
+    "was": 0,
+    "feats": [
+     "750ml Approx. Capacity: Ample",
+     "Stainless Steel Body: Made from",
+     "Ergonomic Handle: Comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Stainless Steel Oil Pourer 750ml | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Oil Pourer 750ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Oil Pourer 750ml\n✔ 750ml Approx. Capacity: Ample\n✔ Stainless Steel Body: Made from\n✔ Ergonomic Handle: Comfortable\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Stainless Steel Oil Pourer 750ml | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793602871.9468184,
+     "id": "18097182632689329",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793602871.9468184,
+     "id": "1139974958478908",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793602871.9468184,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevIc6_JVULBvcv2JnqocGTXyS"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793602871.9468184,
+     "id": "3Mdms8Tdrck",
+     "dry": false
+    }
+   },
+   "created": 1793602855.109085,
+   "after": 0,
+   "handle": "supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
+   "file": "b6156d14.mp4",
+   "thumb": "b6156d14_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18133818511761917"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1437962027817458"
+    }
+   }
   }
  ],
- "last_post": 1793601059.839593,
+ "last_post": 1793602871.9468184,
  "log": [
-  "15:32:19 POSTED facebook@Vijayendra-Singh 37a51244: 4146550818971246",
-  "15:32:25 POSTED youtube 37a51244: xDsG7wfcxW4",
-  "15:32:56 STORY POSTED instagram@Vinzap-Finds 37a51244",
-  "15:33:05 STORY POSTED facebook@Vinzap-Finds 37a51244",
-  "15:33:14 STORY POSTED facebook@Vijayendra-Singh 37a51244",
-  "16:00:56 READY 31c01cee White Glass Water Bottle 400ml (auto-approved)",
-  "16:01:15 POSTED instagram@Vinzap-Finds 31c01cee: 18134850871751823",
   "16:01:18 POSTED facebook@Vinzap-Finds 31c01cee: 1428352113685678_122114300091501659",
   "16:01:23 POSTED facebook@Vijayendra-Singh 31c01cee: 1317760538089559_122124831831480728",
   "16:31:22 READY 16747e1f USB Rechargeable Electric Water Dispenser | Trending Shorts (auto-approved)",
@@ -5757,13 +5751,20 @@
   "12:00:59 READY 280bcf38 Masala Box (auto-approved)",
   "12:01:17 POSTED instagram@Vinzap-Finds 280bcf38: 17965106439210787",
   "12:01:23 POSTED facebook@Vinzap-Finds 280bcf38: 1428352113685678_122114842887501659",
-  "12:01:27 POSTED facebook@Vijayendra-Singh 280bcf38: 1317760538089559_122125433517480728"
+  "12:01:27 POSTED facebook@Vijayendra-Singh 280bcf38: 1317760538089559_122125433517480728",
+  "12:31:11 READY b6156d14 Stainless Steel Oil Pourer 750ml | Kitchen Organization (auto-approved)",
+  "12:31:45 POSTED instagram@Vinzap-Finds b6156d14: 18097182632689329",
+  "12:31:48 POSTED facebook@Vinzap-Finds b6156d14: 1139974958478908",
+  "12:31:49 FAILED post facebook@Vijayendra-Singh b6156d14: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevIc6_JVULBvcv2JnqocGTXySRTfG-7CMnZMy2JVpLaUg6jZx8B2chXoFHp-WaQ6hTvj5jv3XG68xznUdYGMfcIAFomymUhLUg9PkrsVh_8ThBYYNCDNSv5ktM2U1B63GkhOVkuCdtIxqZ7ayyQJaCiPggzxnix33ZdcJ7As8VfUZ92cafqyCooUSjfT001hR-Zaopf7CfJaBYSMJvU5rbiu06SiCPwu-PepaA6Prns9WXQ2AvzM1fX8x7SjXhKovy9w3iaLdEwMKDC4avCtTZ_sa4YNVpXraZ8Fas2mIMqGvRFiu8BR8D6BgEssp6Hkh0\",\"help_cente",
+  "12:31:54 POSTED youtube b6156d14: 3Mdms8Tdrck",
+  "12:32:27 STORY POSTED instagram@Vinzap-Finds b6156d14",
+  "12:32:34 STORY POSTED facebook@Vinzap-Finds b6156d14"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793601059.839593,
-  "facebook@Vinzap-Finds": 1793601059.839593,
-  "facebook@Vijayendra-Singh": 1793601059.839593,
-  "youtube": 1793548458.5878348
+  "instagram@Vinzap-Finds": 1793602871.9468184,
+  "facebook@Vinzap-Finds": 1793602871.9468184,
+  "facebook@Vijayendra-Singh": 1793602871.9468184,
+  "youtube": 1793602871.9468184
  },
- "n": 308
+ "n": 309
 }
