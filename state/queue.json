@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "489406a8",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Mocktail Mug Glass Set of 2, 400ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 269,
-    "was": 0,
-    "feats": [
-     "Elegant",
-     "Built to Last Made from virgin",
-     "Perfect Size"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Apex Mocktail Mug Glass Set of 2, 400ml | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Mocktail Mug Glass Set of 2, 400ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Mocktail Mug Glass Set of 2, 400ml\n✔ Elegant\n✔ Built to Last Made from virgin\n✔ Perfect Size\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#homedecor #homedecorideas",
-   "title": "Apex Mocktail Mug Glass Set of 2, 400ml | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793289681.2101388,
-     "id": "18083703191401188",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793289681.2101388,
-     "id": "1796506968288826",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793289681.2101388,
-     "id": "3208834155990993",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793289681.2101388,
-     "id": "Z8LPRJ0L64M",
-     "dry": false
-    }
-   },
-   "created": 1793289654.8281384,
-   "after": 0,
-   "handle": "apex-mocktail-mug-glass-2-pc-set-400-ml",
-   "product_url": "https://www.vinzapstore.in/products/apex-mocktail-mug-glass-2-pc-set-400-ml",
-   "file": "489406a8.mp4",
-   "thumb": "489406a8_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18120447788050543"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2200056094191036"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn Mo"
-    }
-   }
-  },
-  {
    "id": "8c0799bc",
    "status": "posted",
    "kind": "image",
@@ -5535,16 +5452,82 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-large-1",
    "file": "5b08daa8.jpg",
    "thumb": "5b08daa8.jpg"
+  },
+  {
+   "id": "4b6bdf27",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "20 Litre Water Can Dispenser Stand",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 999,
+    "was": 0,
+    "feats": [
+     "Sturdy metal frame securely holds",
+     "Angled design allows easy",
+     "Non-slip cradle pads cushion"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "20 Litre Water Can Dispenser Stand | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "20 Litre Water Can Dispenser Stand"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n20 Litre Water Can Dispenser Stand\n✔ Sturdy metal frame securely holds\n✔ Angled design allows easy\n✔ Non-slip cradle pads cushion\n\nOnly ₹999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#kitchenorganization #cooking",
+   "title": "20 Litre Water Can Dispenser Stand | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793621779.2048352,
+     "id": "18387101773230479",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793621779.2048352,
+     "id": "3034052766962573",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793621779.2048352,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetCwTBMTB_DoRCoFxEkahlvU_"
+    }
+   },
+   "created": 1793621761.7821403,
+   "after": 0,
+   "handle": "metal-water-can-bottle-dispenser-stand-heavy-duty-holder-for-20-litre-1-set",
+   "product_url": "https://www.vinzapstore.in/products/metal-water-can-bottle-dispenser-stand-heavy-duty-holder-for-20-litre-1-set",
+   "file": "4b6bdf27.mp4",
+   "thumb": "4b6bdf27_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17980618785068020"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1107625898918683"
+    }
+   }
   }
  ],
- "last_post": 1793619938.671337,
+ "last_post": 1793621779.2048352,
  "log": [
-  "20:31:52 POSTED instagram@Vinzap-Finds bfc8a4c4: 17908993269570914",
-  "20:31:56 POSTED facebook@Vinzap-Finds bfc8a4c4: 1755576465516254",
-  "20:31:57 FAILED post facebook@Vijayendra-Singh bfc8a4c4: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetv3DBmBBd4a8It9vw6eMNpepH1bzfhxE0ubomkP6TDoIIU3PjhSGYVUEyT2p0ifgDWbBSEEcmZvvFZgQ4VwtAEQan1IepHOt1NTCuKjX0VuyZSUSMqKrdwoDy_N1lQlMy2bFSlosGXvSNV6as4LIA912CXsruLeIN0Q3k-q2hyPhtcLoW3CklHmt752ryiKMPytlwr4x1Jjn_GJeXqOil5XK8l-T_GJlfdgaSOidnFIT2vMaqXEFCLo8EpWh65OV8nmS0gySv_1H0LOH176u6gAhBL2lm9YtPtg5sAlhsavSxEORvmKi_o-Q9h4ynYr6BF\",\"help_cent",
-  "20:32:28 STORY POSTED instagram@Vinzap-Finds bfc8a4c4",
-  "20:32:36 STORY POSTED facebook@Vinzap-Finds bfc8a4c4",
-  "21:00:42 READY 647603d6 Steel Kids Dinosaur Lunch Box Bento Tiffin (auto-approved)",
   "21:00:54 POSTED instagram@Vinzap-Finds 647603d6: 18371939326245898",
   "21:00:58 POSTED facebook@Vinzap-Finds 647603d6: 1428352113685678_122114376699501659",
   "21:01:03 POSTED facebook@Vijayendra-Singh 647603d6: 1317760538089559_122124920073480728",
@@ -5738,13 +5721,19 @@
   "17:15:38 READY 5b08daa8 Disposable Clear Plastic Gloves Large (auto-approved)",
   "17:15:47 POSTED instagram@Vinzap-Finds 5b08daa8: 18470512153186103",
   "17:15:50 POSTED facebook@Vinzap-Finds 5b08daa8: 1428352113685678_122114920077501659",
-  "17:15:56 POSTED facebook@Vijayendra-Singh 5b08daa8: 1317760538089559_122125511193480728"
+  "17:15:56 POSTED facebook@Vijayendra-Singh 5b08daa8: 1317760538089559_122125511193480728",
+  "17:46:19 READY 4b6bdf27 20 Litre Water Can Dispenser Stand | Kitchen Organization (auto-approved)",
+  "17:46:47 POSTED instagram@Vinzap-Finds 4b6bdf27: 18387101773230479",
+  "17:46:52 POSTED facebook@Vinzap-Finds 4b6bdf27: 3034052766962573",
+  "17:46:53 FAILED post facebook@Vijayendra-Singh 4b6bdf27: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetCwTBMTB_DoRCoFxEkahlvU_09WlU9Kmd9EQVc6j4fGSe7wMMrDK4R8CV6-OgoVTF-6_KXC-SuevPURS6wkSnoP8WYLC-YMsQl9EKq5gNxNOBdOd64-OUcIMCgLPrz9eBXBdciFLEzwejE43Zs_4diC2um1P_3FeZheGmZrdlHgxGXj8lgYJ9TEQYKvv7v3aem6K9JSuLjgpXq5MXPbPtuYggane_LQDjanioUR3Ltlc5V3v46d7Dr4BDrqDEVZsfNKCFYWobUkCobUmrilQsorpFAAily0xkbxWLz9nkHudFP_u2CSqpbcABFC7r38g9i\",\"help_cent",
+  "17:47:23 STORY POSTED instagram@Vinzap-Finds 4b6bdf27",
+  "17:47:32 STORY POSTED facebook@Vinzap-Finds 4b6bdf27"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793619938.671337,
-  "facebook@Vinzap-Finds": 1793619938.671337,
-  "facebook@Vijayendra-Singh": 1793619938.671337,
+  "instagram@Vinzap-Finds": 1793621779.2048352,
+  "facebook@Vinzap-Finds": 1793621779.2048352,
+  "facebook@Vijayendra-Singh": 1793621779.2048352,
   "youtube": 1793614556.4237585
  },
- "n": 318
+ "n": 319
 }
