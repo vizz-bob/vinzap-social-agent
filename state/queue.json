@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "54f4ebbf",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Non-Slip Decorative Serving Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Multi-purpose use – can be used",
-     "Non-slip surface for stability",
-     "Durable plastic construction"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Non-Slip Decorative Serving Tray | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Non-Slip Decorative Serving Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nNon-Slip Decorative Serving Tray\n✔ Multi-purpose use – can be used\n✔ Non-slip surface for stability\n✔ Durable plastic construction\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Non-Slip Decorative Serving Tray | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793343685.0027359,
-     "id": "18130365091885696",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793343685.0027359,
-     "id": "1109905338509980",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793343685.0027359,
-     "id": "1148501274430091",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793343685.0027359,
-     "id": "iwfaseOg6Ec",
-     "dry": false
-    }
-   },
-   "created": 1793343658.2596655,
-   "after": 0,
-   "handle": "decorative-non-slip-plastic-serving-tray-with-stand-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/decorative-non-slip-plastic-serving-tray-with-stand-1-pc",
-   "file": "54f4ebbf.mp4",
-   "thumb": "54f4ebbf_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18223106491353753"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1882037819822684"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1316399431565913"
-    }
-   }
-  },
-  {
    "id": "0a6f7b6c",
    "status": "posted",
    "kind": "image",
@@ -5528,16 +5445,82 @@
    "product_url": "https://www.vinzapstore.in/products/smart-leak-proof-lunch-box-with-3-compartments-and-spoon-set-1-set",
    "file": "7e7effae.jpg",
    "thumb": "7e7effae.jpg"
+  },
+  {
+   "id": "b7ef3d8c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Square Ice Cube Mould Set of 4",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Set of 4 moulds with snap-on lids",
+     "One large square cube per mould",
+     "Lids keep freezer smells out"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Square Ice Cube Mould Set of 4 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Square Ice Cube Mould Set of 4"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSquare Ice Cube Mould Set of 4\n✔ Set of 4 moulds with snap-on lids\n✔ One large square cube per mould\n✔ Lids keep freezer smells out\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Square Ice Cube Mould Set of 4 | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793628966.425549,
+     "id": "17985965088066605",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793628966.425549,
+     "id": "3337075389815000",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793628966.425549,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesew7W65ui6NqpabEAguPHptY"
+    }
+   },
+   "created": 1793628939.5611484,
+   "after": 0,
+   "handle": "square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
+   "product_url": "https://www.vinzapstore.in/products/square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
+   "file": "b7ef3d8c.mp4",
+   "thumb": "b7ef3d8c_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18111902630608357"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1650820896725511"
+    }
+   }
   }
  ],
- "last_post": 1793627139.9918826,
+ "last_post": 1793628966.425549,
  "log": [
-  "22:31:48 POSTED instagram@Vinzap-Finds 2af0e750: 18222474217354187",
-  "22:31:52 POSTED facebook@Vinzap-Finds 2af0e750: 4643013212642774",
-  "22:31:53 FAILED post facebook@Vijayendra-Singh 2af0e750: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevOedncQty8pJNBSM4KdVsMog2ZEQ4ykJVVIB4mBF13vlaxOTO1qJaQ6FGnvDwp64yjIC0CSQW2IDvuCSXpadJ8mp4DU7ochBtZU7I9OVeTHUCTaCFl7CBqFrjxRxaGVZLBD9NOrfzYLNEVRNNjOjRCOwNJQ54Kv-16YNKWgZCwP0g63IyVI9OKz5ILGKsu4OLHz4pOpfTLKPAiVF35HVI4-AVIwjIEHH3VxB4ZlM0kRc55lueMWdtoympMXQAyEZHvnx8cDInWDKiHqP5KcMUX1IoMKAhfvhpSE1jYOOkdrqaE1hhQBf8ktb_VuoUXHZyM\",\"help_cent",
-  "22:32:23 STORY POSTED instagram@Vinzap-Finds 2af0e750",
-  "22:32:30 STORY POSTED facebook@Vinzap-Finds 2af0e750",
-  "12:00:51 READY 7e93e026 Leak Proof Plastic Water Bottle 900ml (auto-approved)",
   "12:01:00 POSTED instagram@Vinzap-Finds 7e93e026: 18132186763704844",
   "12:01:03 POSTED facebook@Vinzap-Finds 7e93e026: 1428352113685678_122114549025501659",
   "12:01:08 POSTED facebook@Vijayendra-Singh 7e93e026: 1317760538089559_122125101759480728",
@@ -5731,13 +5714,19 @@
   "19:15:39 READY 7e7effae Leak Proof Lunch Box (auto-approved)",
   "19:15:51 POSTED instagram@Vinzap-Finds 7e7effae: 17940192396404397",
   "19:15:54 POSTED facebook@Vinzap-Finds 7e7effae: 1428352113685678_122114947713501659",
-  "19:15:59 POSTED facebook@Vijayendra-Singh 7e7effae: 1317760538089559_122125544943480728"
+  "19:15:59 POSTED facebook@Vijayendra-Singh 7e7effae: 1317760538089559_122125544943480728",
+  "19:46:06 READY b7ef3d8c Square Ice Cube Mould Set of 4 | Kitchen Organization (auto-approved)",
+  "19:46:37 POSTED instagram@Vinzap-Finds b7ef3d8c: 17985965088066605",
+  "19:46:42 POSTED facebook@Vinzap-Finds b7ef3d8c: 3337075389815000",
+  "19:46:42 FAILED post facebook@Vijayendra-Singh b7ef3d8c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesew7W65ui6NqpabEAguPHptYh2Zs016tJ65_j54GzVixTCd5OrazPyp5I7xbuE6mGEmKdJPE6niXvLM1BM63t1obRZNciuzgDNSzBm3ThwRcSRyUqZtTD5A0FJb5MNVqejaA4k7HIo-HnU6iRm-JnIwO04hskM4i3tn6Uah6Zoxx8XEl1gO61v1sHhaj6Qkasli4VOvOgxZuyC8WGq47cvYxlYivJFUyhZr5iTMRvI40Dk780boAsTKcaquvLvdGxg0eoMbGnZbDp7x01xHo3A_KkSYlZcsl8-UVyL_wFbh-eJDUX0ISvp9iy8MwAgtzmC\",\"help_cent",
+  "19:47:11 STORY POSTED instagram@Vinzap-Finds b7ef3d8c",
+  "19:47:20 STORY POSTED facebook@Vinzap-Finds b7ef3d8c"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793627139.9918826,
-  "facebook@Vinzap-Finds": 1793627139.9918826,
-  "facebook@Vijayendra-Singh": 1793627139.9918826,
+  "instagram@Vinzap-Finds": 1793628966.425549,
+  "facebook@Vinzap-Finds": 1793628966.425549,
+  "facebook@Vijayendra-Singh": 1793628966.425549,
   "youtube": 1793625385.2266517
  },
- "n": 322
+ "n": 323
 }
