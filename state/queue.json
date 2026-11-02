@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "f50a564b",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "5-in-1 Stainless Steel Grater and Slicer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "5-in-1 multifunctional grater",
-     "High-quality food-grade stainless",
-     "Sharp blades for smooth"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "5-in-1 Stainless Steel Grater and Slicer | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "5-in-1 Stainless Steel Grater and Slicer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n5-in-1 Stainless Steel Grater and Slicer\n✔ 5-in-1 multifunctional grater\n✔ High-quality food-grade stainless\n✔ Sharp blades for smooth\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "5-in-1 Stainless Steel Grater and Slicer | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793350892.775524,
-     "id": "18156121270538534",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793350892.775524,
-     "id": "1111986681605771",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793350892.775524,
-     "id": "1813165026500835",
-     "dry": false
-    }
-   },
-   "created": 1793350866.0517294,
-   "after": 0,
-   "handle": "supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
-   "file": "f50a564b.mp4",
-   "thumb": "f50a564b_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18061020974641528"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1083836561189536"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1131891429529673"
-    }
-   }
-  },
-  {
    "id": "80b8b82f",
    "status": "posted",
    "kind": "image",
@@ -5513,18 +5436,93 @@
    "product_url": "https://www.vinzapstore.in/products/576-multi-function-collapsible-self-defense-stick-extended",
    "file": "91dae7de.jpg",
    "thumb": "91dae7de.jpg"
+  },
+  {
+   "id": "a20f3de7",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "4-in-1 Silicone Bottle Cleaning Brush",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "4-in-1 bottle and nipple brush",
+     "Soft sturdy silicone bristle head",
+     "Cleans without scratching surfaces"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "4-in-1 Silicone Bottle Cleaning Brush | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "4-in-1 Silicone Bottle Cleaning Brush"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n4-in-1 Silicone Bottle Cleaning Brush\n✔ 4-in-1 bottle and nipple brush\n✔ Soft sturdy silicone bristle head\n✔ Cleans without scratching surfaces\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
+   "title": "4-in-1 Silicone Bottle Cleaning Brush | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793636178.259489,
+     "id": "18195486328397203",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793636178.259489,
+     "id": "1809324776980630",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793636178.259489,
+     "id": "1442681997385785",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793636178.259489,
+     "id": "B5kAhVZMNYo",
+     "dry": false
+    }
+   },
+   "created": 1793636151.5788298,
+   "after": 0,
+   "handle": "4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
+   "file": "a20f3de7.mp4",
+   "thumb": "a20f3de7_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18123873218292486"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1677546460597204"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2195994674315347"
+    }
+   }
   }
  ],
- "last_post": 1793634338.9820852,
+ "last_post": 1793636178.259489,
  "log": [
-  "13:32:03 POSTED instagram@Vinzap-Finds e825a3ac: 17964548862229858",
-  "13:32:08 POSTED facebook@Vinzap-Finds e825a3ac: 983762501447419",
-  "13:32:10 FAILED post facebook@Vijayendra-Singh e825a3ac: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuqqeZVRaIp0pmVfvqERehngUL8s3zoeW82iGQGxGglvRxF2Xttsl1RA1VuMW3gJqbcm7hkUJJBEFiRegZ7n-4IMS04vH5jUAE-KluHR6SNDUCIDjy2jXyn7Y16E4g_gNHeLwKvPOl66AQdsgVV-3AH72rl_Leb5l9Ylo7JRCy9Xga49lJP-f2m18k6Spt5zzdvtmmM1uJdbtHzmMKFLtlRYqxhRRjDPxvCiW0Y_K_uq4nyiBjEr-xtCYaaw7SDWP6ZzfpT-fUCq2v0-nrVlEVBbuJVCHcTGQvPgtKruoxEddsaqb0oRVtppfcAGwsPSQ\",\"help_center",
-  "13:32:39 STORY POSTED instagram@Vinzap-Finds e825a3ac",
-  "13:32:49 STORY POSTED facebook@Vinzap-Finds e825a3ac",
-  "14:00:54 READY 99871aaf Stainless Steel Double Wall Vacuum Water (auto-approved)",
-  "14:01:05 POSTED instagram@Vinzap-Finds 99871aaf: 18099226568534987",
-  "14:01:08 POSTED facebook@Vinzap-Finds 99871aaf: 1428352113685678_122114571483501659",
   "14:01:12 POSTED facebook@Vijayendra-Singh 99871aaf: 1317760538089559_122125126413480728",
   "14:31:06 READY af32b039 Supermom Stainless Steel Carrot Grater | Kitchen Organization (auto-approved)",
   "14:31:41 POSTED instagram@Vinzap-Finds af32b039: 18185876359419386",
@@ -5716,13 +5714,21 @@
   "21:15:38 READY 91dae7de Multifunction Collapsible Extendable Stick (auto-approved)",
   "21:15:51 POSTED instagram@Vinzap-Finds 91dae7de: 18137256553709332",
   "21:15:55 POSTED facebook@Vinzap-Finds 91dae7de: 1428352113685678_122114989341501659",
-  "21:15:59 POSTED facebook@Vijayendra-Singh 91dae7de: 1317760538089559_122125582443480728"
+  "21:15:59 POSTED facebook@Vijayendra-Singh 91dae7de: 1317760538089559_122125582443480728",
+  "21:46:18 READY a20f3de7 4-in-1 Silicone Bottle Cleaning Brush | Kitchen Gadgets (auto-approved)",
+  "21:46:58 POSTED instagram@Vinzap-Finds a20f3de7: 18195486328397203",
+  "21:47:04 POSTED facebook@Vinzap-Finds a20f3de7: 1809324776980630",
+  "21:47:08 POSTED facebook@Vijayendra-Singh a20f3de7: 1442681997385785",
+  "21:47:14 POSTED youtube a20f3de7: B5kAhVZMNYo",
+  "21:47:49 STORY POSTED instagram@Vinzap-Finds a20f3de7",
+  "21:48:01 STORY POSTED facebook@Vinzap-Finds a20f3de7",
+  "21:48:11 STORY POSTED facebook@Vijayendra-Singh a20f3de7"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793634338.9820852,
-  "facebook@Vinzap-Finds": 1793634338.9820852,
-  "facebook@Vijayendra-Singh": 1793634338.9820852,
-  "youtube": 1793624965.2266517
+  "instagram@Vinzap-Finds": 1793636178.259489,
+  "facebook@Vinzap-Finds": 1793636178.259489,
+  "facebook@Vijayendra-Singh": 1793636178.259489,
+  "youtube": 1793636178.259489
  },
- "n": 326
+ "n": 327
 }
