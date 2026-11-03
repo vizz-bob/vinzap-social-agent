@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "4bba6145",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Knife Sharpener",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Rotating sharpening wheels",
-     "Peel-and-stick adhesive base",
-     "Stable one-hand operation keeps"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Knife Sharpener | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Knife Sharpener"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKnife Sharpener\n✔ Rotating sharpening wheels\n✔ Peel-and-stick adhesive base\n✔ Stable one-hand operation keeps\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Knife Sharpener | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793358080.700348,
-     "id": "18093271670679634",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793358080.700348,
-     "id": "1165388909503223",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793358080.700348,
-     "id": "1773719510574553",
-     "dry": false
-    }
-   },
-   "created": 1793358059.537993,
-   "after": 0,
-   "handle": "compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
-   "file": "4bba6145.mp4",
-   "thumb": "4bba6145_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18119952208777124"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1527672092663118"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1906386050731788"
-    }
-   }
-  },
-  {
    "id": "3389788b",
    "status": "posted",
    "kind": "image",
@@ -5508,17 +5431,88 @@
    "product_url": "https://www.vinzapstore.in/products/1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
    "file": "847da7d4.jpg",
    "thumb": "847da7d4.jpg"
+  },
+  {
+   "id": "f9635760",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Portable Foldable Rotating Clothes Hanger",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "This unique clothes hanger by is",
+     "【Durable Material】These kids",
+     "【Non-Slip and No Deformation】The"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Portable Foldable Rotating Clothes Hanger | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Portable Foldable Rotating Clothes Hanger"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Foldable Rotating Clothes Hanger\n✔ This unique clothes hanger by is\n✔ 【Durable Material】These kids\n✔ 【Non-Slip and No Deformation】The\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Portable Foldable Rotating Clothes Hanger | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793689272.1976802,
+     "id": "17909485383571477",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793689272.1976802,
+     "id": "977637888749824",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793689272.1976802,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuSpstXpul2MuYRhjYxIvam0P"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793689272.1976802,
+     "id": "-n7g_YOyDuo",
+     "dry": false
+    }
+   },
+   "created": 1793689254.8330832,
+   "after": 0,
+   "handle": "0279-portable-folding-360-degree-rotating-clothes-hangers-travel-foldable-adjustable-accessories-foldable-clothes-hangers-drying-rack-for-travel-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/0279-portable-folding-360-degree-rotating-clothes-hangers-travel-foldable-adjustable-accessories-foldable-clothes-hangers-drying-rack-for-travel-1-pc",
+   "file": "f9635760.mp4",
+   "thumb": "f9635760_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18127619374883524"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2239241539970837"
+    }
+   }
   }
  ],
- "last_post": 1793687447.921958,
+ "last_post": 1793689272.1976802,
  "log": [
-  "15:31:56 POSTED facebook@Vinzap-Finds 711046be: 1153073604132852",
-  "15:32:00 POSTED facebook@Vijayendra-Singh 711046be: 1473079921395427",
-  "15:32:08 POSTED youtube 711046be: 3_wS576NV_8",
-  "15:32:39 STORY POSTED instagram@Vinzap-Finds 711046be",
-  "15:32:48 STORY POSTED facebook@Vinzap-Finds 711046be",
-  "15:32:56 STORY POSTED facebook@Vijayendra-Singh 711046be",
-  "16:01:05 READY 717f28d0 Silicone Ice Cube Maker Cup (auto-approved)",
   "16:01:21 POSTED instagram@Vinzap-Finds 717f28d0: 17962555224011207",
   "16:01:25 POSTED facebook@Vinzap-Finds 717f28d0: 1428352113685678_122114604939501659",
   "16:01:29 POSTED facebook@Vijayendra-Singh 717f28d0: 1317760538089559_122125163847480728",
@@ -5711,13 +5705,20 @@
   "12:00:47 READY 847da7d4 Reusable Airtight Mason Jar Zipper Pouch (auto-approved)",
   "12:01:01 POSTED instagram@Vinzap-Finds 847da7d4: 18133905862768660",
   "12:01:05 POSTED facebook@Vinzap-Finds 847da7d4: 1428352113685678_122115162087501659",
-  "12:01:09 POSTED facebook@Vijayendra-Singh 847da7d4: 1317760538089559_122125752963480728"
+  "12:01:09 POSTED facebook@Vijayendra-Singh 847da7d4: 1317760538089559_122125752963480728",
+  "12:31:12 READY f9635760 Portable Foldable Rotating Clothes Hanger | Kitchen Gadgets (auto-approved)",
+  "12:31:48 POSTED instagram@Vinzap-Finds f9635760: 17909485383571477",
+  "12:31:52 POSTED facebook@Vinzap-Finds f9635760: 977637888749824",
+  "12:31:53 FAILED post facebook@Vijayendra-Singh f9635760: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuSpstXpul2MuYRhjYxIvam0P9UHMmFK4oSAMnKP9DWjiqgY0uD-DIiy3X9v75VFLuxp3zXkyPSDeaBdFDf4R2RIg8mZlY13jvpVRe7LOiZCCEM3hHzGWait3MoAzxsJBDI4653rsQvOWbBZj96xYhTf7FeFpjFrjgWU4i_AZil80bJlB1s6ARFcvmOmS46G3xn1L9AOikpgKwE6EGdke_RoaF9u06lzFEGmSzqQ0xXm9cpXk7B5KWlt8tnDsQUXcglkqIZKj2lMNzlE8V4JTSe_msP1HtK4bxXwPOPBG2ApI3cVdgd4fp8SNppp3xRUcpp\",\"help_cent",
+  "12:31:57 POSTED youtube f9635760: -n7g_YOyDuo",
+  "12:32:29 STORY POSTED instagram@Vinzap-Finds f9635760",
+  "12:32:39 STORY POSTED facebook@Vinzap-Finds f9635760"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793687447.921958,
-  "facebook@Vinzap-Finds": 1793687447.921958,
-  "facebook@Vijayendra-Singh": 1793687447.921958,
-  "youtube": 1793635758.259489
+  "instagram@Vinzap-Finds": 1793689272.1976802,
+  "facebook@Vinzap-Finds": 1793689272.1976802,
+  "facebook@Vijayendra-Singh": 1793689272.1976802,
+  "youtube": 1793689272.1976802
  },
- "n": 330
+ "n": 331
 }
