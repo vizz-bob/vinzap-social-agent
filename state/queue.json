@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "b1053852",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Bagasse Clamshell Food Box 9x6 Inch",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 249,
-    "was": 0,
-    "feats": [
-     "Premium bagasse clamshell food",
-     "Pack of 10 pieces for restaurant",
-     "9x6 inch size ideal for lunch"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Bagasse Clamshell Food Box 9x6 Inch | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Bagasse Clamshell Food Box 9x6 Inch"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nBagasse Clamshell Food Box 9x6 Inch\n✔ Premium bagasse clamshell food\n✔ Pack of 10 pieces for restaurant\n✔ 9x6 inch size ideal for lunch\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Bagasse Clamshell Food Box 9x6 Inch | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793365287.0615463,
-     "id": "18110858446924341",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793365287.0615463,
-     "id": "3612262932265079",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793365287.0615463,
-     "id": "1577450414498941",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793365287.0615463,
-     "id": "CdheMgZeay8",
-     "dry": false
-    }
-   },
-   "created": 1793365263.6095886,
-   "after": 0,
-   "handle": "vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
-   "product_url": "https://www.vinzapstore.in/products/vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
-   "file": "b1053852.mp4",
-   "thumb": "b1053852_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18121347710071563"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4479430015633968"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1546247670858595"
-    }
-   }
-  },
-  {
    "id": "2a665031",
    "status": "posted",
    "kind": "image",
@@ -5504,16 +5421,82 @@
    "product_url": "https://www.vinzapstore.in/products/500-ml-leakproof-portable-sports-water-bottle-1-pc",
    "file": "a947ea5e.jpg",
    "thumb": "a947ea5e.jpg"
+  },
+  {
+   "id": "d9dd96b2",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stylish Plastic Kitchen Dustbin",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 639,
+    "was": 0,
+    "feats": [
+     "Stylish and modern kitchen",
+     "Wall mounted and cabinet door",
+     "Space saving waste disposal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Stylish Plastic Kitchen Dustbin | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stylish Plastic Kitchen Dustbin"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStylish Plastic Kitchen Dustbin\n✔ Stylish and modern kitchen\n✔ Wall mounted and cabinet door\n✔ Space saving waste disposal\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Stylish Plastic Kitchen Dustbin | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793696468.6552243,
+     "id": "18398082583166226",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793696468.6552243,
+     "id": "1573740957841158",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793696468.6552243,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJ9a3wnV2U4_3q6ojP9id0FE"
+    }
+   },
+   "created": 1793696452.0494456,
+   "after": 0,
+   "handle": "stylish-plastic-kitchen-dustbin-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stylish-plastic-kitchen-dustbin-1-pc",
+   "file": "d9dd96b2.mp4",
+   "thumb": "d9dd96b2_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17927896146199914"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1202454652104427"
+    }
+   }
   }
  ],
- "last_post": 1793694662.3821163,
+ "last_post": 1793696468.6552243,
  "log": [
-  "17:31:18 READY b128a8f6 Large Travel Tumbler 1800ml | Kitchen Organization (auto-approved)",
-  "17:31:51 POSTED instagram@Vinzap-Finds b128a8f6: 17876899458586231",
-  "17:31:55 POSTED facebook@Vinzap-Finds b128a8f6: 1084324627941721",
-  "17:31:59 POSTED facebook@Vijayendra-Singh b128a8f6: 1462738292721735",
-  "17:32:28 STORY POSTED instagram@Vinzap-Finds b128a8f6",
-  "17:32:38 STORY POSTED facebook@Vinzap-Finds b128a8f6",
   "17:32:47 STORY POSTED facebook@Vijayendra-Singh b128a8f6",
   "18:00:48 READY bd3e1e60 Heart Shaped Kumkum Holder Kankavati (auto-approved)",
   "18:01:01 POSTED instagram@Vinzap-Finds bd3e1e60: 18218984782357860",
@@ -5707,13 +5690,19 @@
   "14:01:01 READY a947ea5e Leakproof Sports Water Bottle 500 ml (auto-approved)",
   "14:01:15 POSTED instagram@Vinzap-Finds a947ea5e: 18099615893122086",
   "14:01:19 POSTED facebook@Vinzap-Finds a947ea5e: 1428352113685678_122115189105501659",
-  "14:01:23 POSTED facebook@Vijayendra-Singh a947ea5e: 1317760538089559_122125772481480728"
+  "14:01:23 POSTED facebook@Vijayendra-Singh a947ea5e: 1317760538089559_122125772481480728",
+  "14:31:08 READY d9dd96b2 Stylish Plastic Kitchen Dustbin | Kitchen Organization (auto-approved)",
+  "14:31:45 POSTED instagram@Vinzap-Finds d9dd96b2: 18398082583166226",
+  "14:31:50 POSTED facebook@Vinzap-Finds d9dd96b2: 1573740957841158",
+  "14:31:51 FAILED post facebook@Vijayendra-Singh d9dd96b2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJ9a3wnV2U4_3q6ojP9id0FEtshiodBn4NwDnvNcUEW10GBajMYS3qf0PXL_YwhzHBHhqmJHHDCZuDNaC0R6wxFOw8JUbJ0HmQKroUVjW0tGGOfq28RMHZmWoATglFBH3aeWhceVyjBjYeg7pD4j-lUcjqkWlj7_-p3yhM7wyeEAnE36oN13zbxlRCYailc0Me2q6iWsGZt2URjfXscnE7r_GHRT3AMmNl6omXPb4AgT0Y1TFwyN9vHF0MdYRqlr92buE3AK9IZMg_nkJiBIqqM5Xk3z4Yz9W3iXxS8VyG6KfTA5hKPmdzY7mQ7eXeI4s\",\"help_cente",
+  "14:32:24 STORY POSTED instagram@Vinzap-Finds d9dd96b2",
+  "14:32:33 STORY POSTED facebook@Vinzap-Finds d9dd96b2"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793694662.3821163,
-  "facebook@Vinzap-Finds": 1793694662.3821163,
-  "facebook@Vijayendra-Singh": 1793694662.3821163,
+  "instagram@Vinzap-Finds": 1793696468.6552243,
+  "facebook@Vinzap-Finds": 1793696468.6552243,
+  "facebook@Vijayendra-Singh": 1793696468.6552243,
   "youtube": 1793689272.1976802
  },
- "n": 334
+ "n": 335
 }
