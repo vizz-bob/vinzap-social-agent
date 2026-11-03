@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "9f7827e8",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Electric Oven 12 Litre 600W Mini OTG",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 5999,
-    "was": 0,
-    "feats": [
-     "Compact 12 litre capacity",
-     "600W heating for baking",
-     "Adjustable temperature control"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Oven 12 Litre 600W Mini OTG"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Oven 12 Litre 600W Mini OTG\n✔ Compact 12 litre capacity\n✔ 600W heating for baking\n✔ Adjustable temperature control\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Electric Oven 12 Litre 600W Mini OTG | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793437272.8182812,
-     "id": "18650833603036992",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793437272.8182812,
-     "id": "2558303671317922",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793437272.8182812,
-     "id": "1477654394258904",
-     "dry": false
-    }
-   },
-   "created": 1793437246.9217145,
-   "after": 0,
-   "handle": "electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/electric-oven-12-litre-600w-mini-otg-oven-toaster-griller-for-baking-1-pc",
-   "file": "9f7827e8.mp4",
-   "thumb": "9f7827e8_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18123430771994050"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1186464330616162"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2838333579894825"
-    }
-   }
-  },
-  {
    "id": "6cad3d90",
    "status": "posted",
    "kind": "image",
@@ -5471,17 +5394,88 @@
    "product_url": "https://www.vinzapstore.in/products/soft-facial-tissue-paper-napkins-set-50-pcs-set",
    "file": "fe3231d4.jpg",
    "thumb": "fe3231d4.jpg"
+  },
+  {
+   "id": "eb8ed184",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Plastic Fruit Fork",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Clear transparent plastic fruit",
+     "2-tine design for easy fruit",
+     "Decorative beaded handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Disposable Plastic Fruit Fork | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Plastic Fruit Fork"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Plastic Fruit Fork\n✔ Clear transparent plastic fruit\n✔ 2-tine design for easy fruit\n✔ Decorative beaded handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Disposable Plastic Fruit Fork | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793721687.5367951,
+     "id": "18373162105208273",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793721687.5367951,
+     "id": "29919078134361864",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793721687.5367951,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetVeWtlWDKOePb6-SBHJSPUe_"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793721687.5367951,
+     "id": "RutQpPH6ooA",
+     "dry": false
+    }
+   },
+   "created": 1793721661.586311,
+   "after": 0,
+   "handle": "mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
+   "product_url": "https://www.vinzapstore.in/products/mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
+   "file": "eb8ed184.mp4",
+   "thumb": "eb8ed184_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18128600425909630"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1463196639094197"
+    }
+   }
   }
  ],
- "last_post": 1793719860.056961,
+ "last_post": 1793721687.5367951,
  "log": [
-  "13:01:22 POSTED facebook@Vinzap-Finds 4429a807: 1428352113685678_122114859393501659",
-  "13:01:26 POSTED facebook@Vijayendra-Singh 4429a807: 1317760538089559_122125442997480728",
-  "13:31:21 READY 51f2adc0 Diamond Pattern Leakproof Water Bottle | Diwali (auto-approved)",
-  "13:31:52 POSTED instagram@Vinzap-Finds 51f2adc0: 18109965395347345",
-  "13:31:55 POSTED facebook@Vinzap-Finds 51f2adc0: 2341806653025209",
-  "13:31:56 FAILED post facebook@Vijayendra-Singh 51f2adc0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu3V76g7TyBaW-NJ3UKJkHDIXZxQwv0vjQz3C9V8S4H3dtCC1ISBWSLXlNkK6FPs0KTxvxsPlU9K1Cp3fOfY7olnIy8sJbRf54Bm8ftbIaFGRYufvwKULxAdlkq9HybAlT7w6OJ8RszFMCMh5vbwXE_9_6LYsVMgYHIPyQEuNsztowIVfY732kAQCBXP0UK0bSTqOoDHLpUzqg2Vx4vU70IkcfJFogDJeIlgCKQUb4dboNLmjBY2w6K32P_rDKkGegAgjoZHea-5wvdxP7uKI28utaESkiuvYz2-9NTS7kH_Jj_MiH2zwAnpbwxHQ4I-IvU\",\"help_cent",
-  "13:32:25 STORY POSTED instagram@Vinzap-Finds 51f2adc0",
   "13:32:32 STORY POSTED facebook@Vinzap-Finds 51f2adc0",
   "14:01:11 READY b5ce68ec Kids Tumbler 900ml (auto-approved)",
   "14:01:28 POSTED instagram@Vinzap-Finds b5ce68ec: 18018565205748223",
@@ -5674,13 +5668,20 @@
   "21:01:00 READY fe3231d4 Soft Facial Tissue Paper Napkins Set (auto-approved)",
   "21:01:13 POSTED instagram@Vinzap-Finds fe3231d4: 18497806981103165",
   "21:01:17 POSTED facebook@Vinzap-Finds fe3231d4: 1428352113685678_122115300279501659",
-  "21:01:20 POSTED facebook@Vijayendra-Singh fe3231d4: 1317760538089559_122125898175480728"
+  "21:01:20 POSTED facebook@Vijayendra-Singh fe3231d4: 1317760538089559_122125898175480728",
+  "21:31:27 READY eb8ed184 Disposable Plastic Fruit Fork | Trending Shorts (auto-approved)",
+  "21:31:56 POSTED instagram@Vinzap-Finds eb8ed184: 18373162105208273",
+  "21:32:01 POSTED facebook@Vinzap-Finds eb8ed184: 29919078134361864",
+  "21:32:02 FAILED post facebook@Vijayendra-Singh eb8ed184: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetVeWtlWDKOePb6-SBHJSPUe_krb3l9CblJoA72MAbXysUW7b6OvOLEU09e00QoLpOj_8UHGtQkBP8TvwZ__QsvTcVG8mQuOiJmgS5x4IH1IKhbDPSWJAvoLe75AQHuA_Dv8W0aU0FmQ7px7WmuNOWKSfgweFBK_lzNt3eVmZXJ-jg2LvJTNVS1pbT0ACrDTEZjN8dPaQl3H4AsVbdY44pJfofNKStUAduS_nQr0fcWRx325Oa5tWQOwRZ2CRcOeTMDN-P1KRpavIES-L6jJYs2-nHEowdwnUG_mTsy-FZsFTa43xURemjdW5CSFe4A4QSc\",\"help_cent",
+  "21:32:08 POSTED youtube eb8ed184: RutQpPH6ooA",
+  "21:32:38 STORY POSTED instagram@Vinzap-Finds eb8ed184",
+  "21:32:46 STORY POSTED facebook@Vinzap-Finds eb8ed184"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793719860.056961,
-  "facebook@Vinzap-Finds": 1793719860.056961,
-  "facebook@Vijayendra-Singh": 1793719860.056961,
-  "youtube": 1793710468.5299478
+  "instagram@Vinzap-Finds": 1793721687.5367951,
+  "facebook@Vinzap-Finds": 1793721687.5367951,
+  "facebook@Vijayendra-Singh": 1793721687.5367951,
+  "youtube": 1793721687.5367951
  },
- "n": 348
+ "n": 349
 }
