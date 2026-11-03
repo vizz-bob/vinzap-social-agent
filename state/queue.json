@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "8b9f3957",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Ice Cream Scoop",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Trigger release lever pushes out",
-     "Sturdy stainless steel build is",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Ice Cream Scoop | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Ice Cream Scoop"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Ice Cream Scoop\n✔ Trigger release lever pushes out\n✔ Sturdy stainless steel build is\n✔ Comfortable handle gives a firm\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Ice Cream Scoop | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793361685.229231,
-     "id": "18091814270294871",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793361685.229231,
-     "id": "1103202792332730",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793361685.229231,
-     "id": "1437120964492167",
-     "dry": false
-    }
-   },
-   "created": 1793361657.3725357,
-   "after": 0,
-   "handle": "stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
-   "file": "8b9f3957.mp4",
-   "thumb": "8b9f3957_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18109042925153349"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2054428231875364"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2287328601840861"
-    }
-   }
-  },
-  {
    "id": "554e9f87",
    "status": "posted",
    "kind": "image",
@@ -5509,16 +5432,82 @@
    "product_url": "https://www.vinzapstore.in/products/compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
    "file": "5d95fa14.jpg",
    "thumb": "5d95fa14.jpg"
+  },
+  {
+   "id": "d915c667",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Tortoise Shape Kankavati Kumkum Holder",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Tortoise-shaped decorative",
+     "Twin compartments for kumkum",
+     "Golden finish with red and green"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Tortoise Shape Kankavati Kumkum Holder"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTortoise Shape Kankavati Kumkum Holder\n✔ Tortoise-shaped decorative\n✔ Twin compartments for kumkum\n✔ Golden finish with red and green\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793692870.384059,
+     "id": "18271939924305346",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793692870.384059,
+     "id": "1021295017658746",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793692870.384059,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes7k--97CMgB8EKx69SoePcyj"
+    }
+   },
+   "created": 1793692853.8172748,
+   "after": 0,
+   "handle": "tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
+   "file": "d915c667.mp4",
+   "thumb": "d915c667_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18093377705698026"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1655291142860793"
+    }
+   }
   }
  ],
- "last_post": 1793691071.3392065,
+ "last_post": 1793692870.384059,
  "log": [
-  "16:31:59 POSTED instagram@Vinzap-Finds f2665a05: 17929956666427858",
-  "16:32:05 POSTED facebook@Vinzap-Finds f2665a05: 1554744306368933",
-  "16:32:12 POSTED facebook@Vijayendra-Singh f2665a05: 1643544244061737",
-  "16:32:43 STORY POSTED instagram@Vinzap-Finds f2665a05",
-  "16:32:52 STORY POSTED facebook@Vinzap-Finds f2665a05",
-  "16:33:02 STORY POSTED facebook@Vijayendra-Singh f2665a05",
   "17:00:44 READY e9c21cdb Teak Wood Chopping Board (auto-approved)",
   "17:00:56 POSTED instagram@Vinzap-Finds e9c21cdb: 17887069431505282",
   "17:00:59 POSTED facebook@Vinzap-Finds e9c21cdb: 1428352113685678_122114617047501659",
@@ -5712,13 +5701,19 @@
   "13:01:11 READY 5d95fa14 Knife Sharpener (auto-approved)",
   "13:01:23 POSTED instagram@Vinzap-Finds 5d95fa14: 18118119613826422",
   "13:01:27 POSTED facebook@Vinzap-Finds 5d95fa14: 1428352113685678_122115173121501659",
-  "13:01:31 POSTED facebook@Vijayendra-Singh 5d95fa14: 1317760538089559_122125762521480728"
+  "13:01:31 POSTED facebook@Vijayendra-Singh 5d95fa14: 1317760538089559_122125762521480728",
+  "13:31:10 READY d915c667 Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas (auto-approved)",
+  "13:31:46 POSTED instagram@Vinzap-Finds d915c667: 18271939924305346",
+  "13:31:51 POSTED facebook@Vinzap-Finds d915c667: 1021295017658746",
+  "13:31:53 FAILED post facebook@Vijayendra-Singh d915c667: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes7k--97CMgB8EKx69SoePcyjGAmGW0_0px3qpBviEh4pgbz0jMfCKtX4cCW1QLSM2JKU0EnO0ZXW5eMevu3jbl6uYnQ1IL1Tx3GsMnN9cUvMC4MA4RwW3G2wq419RaneKaF9yx1ZPhCX-VyIsUCCT0KlUCOpm1m_roYcxYC7-l1r5kWHpJExlhpAMal51zEuzBYBVcIIJnFtZ4erlYntpDtLwWTh94UThOteCslOS0PUbFo0cNTgHmNmhO05NIxOtvvuQtspCv6H2_kdAFzVNoT9AdUwMMt8a5bCm5ajmftSvYpmtsWtbEe0CSmiff5xQ\",\"help_cente",
+  "13:32:26 STORY POSTED instagram@Vinzap-Finds d915c667",
+  "13:32:37 STORY POSTED facebook@Vinzap-Finds d915c667"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793691071.3392065,
-  "facebook@Vinzap-Finds": 1793691071.3392065,
-  "facebook@Vijayendra-Singh": 1793691071.3392065,
+  "instagram@Vinzap-Finds": 1793692870.384059,
+  "facebook@Vinzap-Finds": 1793692870.384059,
+  "facebook@Vijayendra-Singh": 1793692870.384059,
   "youtube": 1793689272.1976802
  },
- "n": 332
+ "n": 333
 }
