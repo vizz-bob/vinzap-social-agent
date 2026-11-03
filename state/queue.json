@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "7e6f4a94",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Gas Stove Burner Stand, Stainless Steel Wok",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 269,
-    "was": 0,
-    "feats": [
-     "Gives a stable base for small pots",
-     "Holds round-bottom and small",
-     "Concentrates flame and heat"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Gas Stove Burner Stand, Stainless Steel Wok | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Gas Stove Burner Stand, Stainless Steel Wok"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGas Stove Burner Stand, Stainless Steel Wok\n✔ Gives a stable base for small pots\n✔ Holds round-bottom and small\n✔ Concentrates flame and heat\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Gas Stove Burner Stand, Stainless Steel Wok | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": false,
-     "ts": 1793376078.395273,
-     "error": "HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793376078.395273,
-     "id": "1429125128737836",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793376078.395273,
-     "id": "1527206672574071",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793376078.395273,
-     "id": "_Tu3Ttor2d8",
-     "dry": false
-    }
-   },
-   "created": 1793376056.2793136,
-   "after": 0,
-   "handle": "gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
-   "file": "7e6f4a94.mp4",
-   "thumb": "7e6f4a94_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1682120700156271"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1992584274765083"
-    }
-   }
-  },
-  {
    "id": "dad65399",
    "status": "posted",
    "kind": "image",
@@ -5499,16 +5421,80 @@
    "product_url": "https://www.vinzapstore.in/products/6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
    "file": "2195a2fe.jpg",
    "thumb": "2195a2fe.jpg"
+  },
+  {
+   "id": "9b17bf8f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Push Soap Dispenser 300ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "Apex Push It! Soap Dispenser |"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Push Soap Dispenser 300ml | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Push Soap Dispenser 300ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPush Soap Dispenser 300ml\n✔ Apex Push It! Soap Dispenser |\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#trendingshorts #kitchengadgets",
+   "title": "Push Soap Dispenser 300ml | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793707274.5480595,
+     "id": "17890357581622703",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793707274.5480595,
+     "id": "1118511830777972",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793707274.5480595,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuo3FBQrLLqKyTimALKJc3lvV"
+    }
+   },
+   "created": 1793707258.2655482,
+   "after": 0,
+   "handle": "apex-push-it-soap-dispenser-approx-300ml-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-push-it-soap-dispenser-approx-300ml-1-pc",
+   "file": "9b17bf8f.mp4",
+   "thumb": "9b17bf8f_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18072947795505787"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1123101817144327"
+    }
+   }
   }
  ],
- "last_post": 1793705494.7245786,
+ "last_post": 1793707274.5480595,
  "log": [
-  "20:01:24 POSTED facebook@Vijayendra-Singh ffaed909: 1317760538089559_122125233279480728",
-  "20:32:28 READY 141377bb Manual Hand Crank Ice Crusher and Snow | Trending Shorts (auto-approved)",
-  "20:33:03 POSTED instagram@Vinzap-Finds 141377bb: 18053255921814529",
-  "20:33:06 POSTED facebook@Vinzap-Finds 141377bb: 1642135904259234",
-  "20:33:07 FAILED post facebook@Vijayendra-Singh 141377bb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeval7mdCRiBLbs9Y7udHOkPTSS2VRAi4atP7-g2f34Zg4BQe2tC6-KY4VSBXFibSZERBFUI07vCXZzO9ydR1148E5RbYQfLuODk0X2oxh_0CzzNRYU1FtkfXUBDhBqoBKufsQ98XKWBnhVVExMGBEmDr0Cle2y4duJi23sUKr0LWqi4HFKw-UpUhEA108T33fDtGAK_3E_xDym5M-T0_l0iEc2d5ZZ0kyJJ07Nl3lAHb7M24tche5ukv-kem4E_LflzpFiYtD7nRw9p_ZcwhguI4QLVvHcdVBjE4r6HjRTBZm9W_JQ_mE3zc3lGh-Q4AgZ8\",\"help_cent",
-  "20:33:42 STORY POSTED instagram@Vinzap-Finds 141377bb",
   "20:33:52 STORY POSTED facebook@Vinzap-Finds 141377bb",
   "21:00:45 READY ee813219 Kitchen Sink Corner Filter Holder Compact (auto-approved)",
   "21:00:56 POSTED instagram@Vinzap-Finds ee813219: 17881818747549129",
@@ -5702,13 +5688,19 @@
   "17:01:34 READY 2195a2fe Professional Kitchen Knife Set (auto-approved)",
   "17:01:53 POSTED instagram@Vinzap-Finds 2195a2fe: 17960209779015919",
   "17:01:58 POSTED facebook@Vinzap-Finds 2195a2fe: 1428352113685678_122115230037501659",
-  "17:02:04 POSTED facebook@Vijayendra-Singh 2195a2fe: 1317760538089559_122125842273480728"
+  "17:02:04 POSTED facebook@Vijayendra-Singh 2195a2fe: 1317760538089559_122125842273480728",
+  "17:31:14 READY 9b17bf8f Push Soap Dispenser 300ml | Trending Shorts (auto-approved)",
+  "17:31:50 POSTED instagram@Vinzap-Finds 9b17bf8f: 17890357581622703",
+  "17:31:54 POSTED facebook@Vinzap-Finds 9b17bf8f: 1118511830777972",
+  "17:31:55 FAILED post facebook@Vijayendra-Singh 9b17bf8f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuo3FBQrLLqKyTimALKJc3lvVUi8rdWILyKcoOH8b8ZFdcreO-ZG0eHzElEaRzRPrh2N-lV5BB-tOwaB6BV8O12rpeKJ3Pe1sM0SX-91JXhLvPMt7L4SXBdjqnD1-N-b52y78WpO0o9AuXOj21IzlNusJzMwwMXt6NMGKfXbGhox8-gGvDQ01CPjraOsIEdK1KBKArXNGU04HX8n7YN6-mTSnFqdrUX9zk984sFvuWqyZ4tA8lm70syT8FklbwIpNK9DoM0KI-CbyTUpOfUBDvW-EF0U3xDI1O0_POpfI_roKfjpUOnUYuq83G0LiFV0VhJ\",\"help_cent",
+  "17:32:26 STORY POSTED instagram@Vinzap-Finds 9b17bf8f",
+  "17:32:34 STORY POSTED facebook@Vinzap-Finds 9b17bf8f"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793705494.7245786,
-  "facebook@Vinzap-Finds": 1793705494.7245786,
-  "facebook@Vijayendra-Singh": 1793705494.7245786,
+  "instagram@Vinzap-Finds": 1793707274.5480595,
+  "facebook@Vinzap-Finds": 1793707274.5480595,
+  "facebook@Vijayendra-Singh": 1793707274.5480595,
   "youtube": 1793700081.024816
  },
- "n": 340
+ "n": 341
 }
