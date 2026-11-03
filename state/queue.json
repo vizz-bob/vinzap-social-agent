@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "b107287d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Dual compartment design",
-     "Secure locking lid to help",
-     "Matching water bottle with easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Plastic Lunch Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Lunch Box\n✔ Dual compartment design\n✔ Secure locking lid to help\n✔ Matching water bottle with easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #bottle #homeessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
-   "title": "Plastic Lunch Box | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793368876.830246,
-     "id": "18030451622693155",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793368876.830246,
-     "id": "1644026473976209",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793368876.830246,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes3DROe7YdMW9Bmpe3uJ1LUiK"
-    }
-   },
-   "created": 1793368852.3927884,
-   "after": 0,
-   "handle": "plastic-lunch-box-with-water-bottle-combo-set-1-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-lunch-box-with-water-bottle-combo-set-1-set",
-   "file": "b107287d.mp4",
-   "thumb": "b107287d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18132483130831686"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1791602428752575"
-    }
-   }
-  },
-  {
    "id": "07503658",
    "status": "posted",
    "kind": "image",
@@ -5493,17 +5421,88 @@
    "product_url": "https://www.vinzapstore.in/products/fancy-shape-chalkboard-sticker-labels-with-marker-pen-jar-labels-1-set",
    "file": "8d03566b.jpg",
    "thumb": "8d03566b.jpg"
+  },
+  {
+   "id": "032ed322",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Green Tea Strainer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 109,
+    "was": 0,
+    "feats": [
+     "High-Quality Wire Mesh : Fine",
+     "Ergonomic Plastic Handle :",
+     "Compact and Lightweight : Easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Green Tea Strainer | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Green Tea Strainer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGreen Tea Strainer\n✔ High-Quality Wire Mesh : Fine\n✔ Ergonomic Plastic Handle :\n✔ Compact and Lightweight : Easy\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Green Tea Strainer | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793700081.024816,
+     "id": "18117970862045210",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793700081.024816,
+     "id": "2283985185791629",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793700081.024816,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuc8DRcKMq4vl6viGszn1qWAZ"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793700081.024816,
+     "id": "ijG5XO__9YE",
+     "dry": false
+    }
+   },
+   "created": 1793700054.5957422,
+   "after": 0,
+   "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
+   "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
+   "file": "032ed322.mp4",
+   "thumb": "032ed322_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18120168328943846"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1141082371701500"
+    }
+   }
   }
  ],
- "last_post": 1793698247.8546398,
+ "last_post": 1793700081.024816,
  "log": [
-  "18:01:06 POSTED facebook@Vijayendra-Singh bd3e1e60: 1317760538089559_122125201065480728",
-  "18:31:14 READY 8aa705fe Fresca Stainless Steel Lunch Box | Kitchen Gadgets (auto-approved)",
-  "18:31:45 POSTED instagram@Vinzap-Finds 8aa705fe: 18134250388683921",
-  "18:31:50 POSTED facebook@Vinzap-Finds 8aa705fe: 4539654316350769",
-  "18:31:51 FAILED post facebook@Vijayendra-Singh 8aa705fe: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuvOfxdLOtV2RlF6WawHHjtQCaRDpwzF2QMxASl3Unn-rWgkeUCp7kewuAI0LH5yJOjn2jymCqYNNq6fDfrzO9ayHy5vM79TqmRsVkP4TFjP55TuhsFwxhhKguDcXNeurFwQvL7zvCg_sQRrXseBoioxTkTt-y33L1j0ML6vXeUZJtmp-fQ0ENIqlOGJ-tNb1Wv3S7ALaO9NzboYPbMH7pWUUgEabzPTI19IC9RLyrtwdbDhBZU9qDhy2lT4u0Y9ICPXc99_4pNr6cNMVOE-a_ifOQBNxkbUmYs13aUmAqF7QF4QojbY-g_NsUBCZmrTGM\",\"help_cente",
-  "18:31:55 POSTED youtube 8aa705fe: bSeayeQn-_8",
-  "18:32:25 STORY POSTED instagram@Vinzap-Finds 8aa705fe",
   "18:32:34 STORY POSTED facebook@Vinzap-Finds 8aa705fe",
   "19:00:51 READY bd681400 18 Grid Pop Up Ice Tray (auto-approved)",
   "19:01:07 POSTED instagram@Vinzap-Finds bd681400: 17952736740301734",
@@ -5696,13 +5695,20 @@
   "15:00:47 READY 8d03566b Chalkboard Sticker Labels (auto-approved)",
   "15:00:57 POSTED instagram@Vinzap-Finds 8d03566b: 18099494615387302",
   "15:01:05 POSTED facebook@Vinzap-Finds 8d03566b: 1428352113685678_122115201855501659",
-  "15:01:09 POSTED facebook@Vijayendra-Singh 8d03566b: 1317760538089559_122125818567480728"
+  "15:01:09 POSTED facebook@Vijayendra-Singh 8d03566b: 1317760538089559_122125818567480728",
+  "15:31:21 READY 032ed322 Green Tea Strainer | Kitchen Gadgets (auto-approved)",
+  "15:31:56 POSTED instagram@Vinzap-Finds 032ed322: 18117970862045210",
+  "15:32:00 POSTED facebook@Vinzap-Finds 032ed322: 2283985185791629",
+  "15:32:01 FAILED post facebook@Vijayendra-Singh 032ed322: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuc8DRcKMq4vl6viGszn1qWAZg95V6cYBbZPvs7jYI2V-6_jl_LmeIVndW9Pl0vCYBYnBzp1s1bm9TPdo_mi4lnjV7xtfiD7iMwGrlsFbWhttZsH3yEkYHd8JPU-96NtmrNNsD2G7369hhYNBctdgLb8YJqD4JEaX5ZQrCD2uJ455nWK3cH2oOUAHDHf6iXbTCOmNU4cRNCObigWiDTvvM9gjcIOv0Zw8O_dM_p-MB1aoMyGAjPx2Z9-NTEarDRA9U0uf3kwyx3K5omwenXEGeZvXw0Ek1-zsa3o12B4zEyCJbAWzBJsg8Zez19ek0W3Q\",\"help_center",
+  "15:32:06 POSTED youtube 032ed322: ijG5XO__9YE",
+  "15:32:36 STORY POSTED instagram@Vinzap-Finds 032ed322",
+  "15:32:45 STORY POSTED facebook@Vinzap-Finds 032ed322"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793698247.8546398,
-  "facebook@Vinzap-Finds": 1793698247.8546398,
-  "facebook@Vijayendra-Singh": 1793698247.8546398,
-  "youtube": 1793688852.1976802
+  "instagram@Vinzap-Finds": 1793700081.024816,
+  "facebook@Vinzap-Finds": 1793700081.024816,
+  "facebook@Vijayendra-Singh": 1793700081.024816,
+  "youtube": 1793700081.024816
  },
- "n": 336
+ "n": 337
 }
