@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "1b76e2dc",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3 Layer Wall Mounted Food Organizer Rack",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1059,
-    "was": 0,
-    "feats": [
-     "High quality and Eco-friendly pp",
-     "Perfect solution many vegetable",
-     "Multi-function for Pantry Storage"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "3 Layer Wall Mounted Food Organizer Rack | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3 Layer Wall Mounted Food Organizer Rack"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 Layer Wall Mounted Food Organizer Rack\n✔ High quality and Eco-friendly pp\n✔ Perfect solution many vegetable\n✔ Multi-function for Pantry Storage\n\nOnly ₹1059. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecor #homedecorideas",
-   "title": "3 Layer Wall Mounted Food Organizer Rack | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793430078.591145,
-     "id": "18641976073018489",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793430078.591145,
-     "id": "1838083923889395",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793430078.591145,
-     "id": "2470978350103242",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793430078.591145,
-     "id": "EPUtT8knO0Y",
-     "dry": false
-    }
-   },
-   "created": 1793430053.1714022,
-   "after": 0,
-   "handle": "plastic-3-layer-wall-mounted-food-organizer-rack-1-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-3-layer-wall-mounted-food-organizer-rack-1-set",
-   "file": "1b76e2dc.mp4",
-   "thumb": "1b76e2dc_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18121224838755463"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2344972222932398"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2344520462962086"
-    }
-   }
-  },
-  {
    "id": "798e2af7",
    "status": "posted",
    "kind": "image",
@@ -5487,16 +5404,82 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-premium-curve-garlic-press-crusher-1-pc",
    "file": "d931d287.jpg",
    "thumb": "d931d287.jpg"
+  },
+  {
+   "id": "988a316d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Electric Glass Kettle 2 Litre",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 4999,
+    "was": 0,
+    "feats": [
+     "Large 2 litre capacity",
+     "Transparent glass body lets you",
+     "Stainless steel heating plate"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Electric Glass Kettle 2 Litre | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Glass Kettle 2 Litre"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Glass Kettle 2 Litre\n✔ Large 2 litre capacity\n✔ Transparent glass body lets you\n✔ Stainless steel heating plate\n\nOnly ₹4999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Electric Glass Kettle 2 Litre | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793714480.701852,
+     "id": "18131636617760531",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793714480.701852,
+     "id": "1686089943035205",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793714480.701852,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetLPk8qwkGFfEPQgKbPwxmnJu"
+    }
+   },
+   "created": 1793714458.2283359,
+   "after": 0,
+   "handle": "suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
+   "file": "988a316d.mp4",
+   "thumb": "988a316d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18010209603004471"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1638836164638322"
+    }
+   }
   }
  ],
- "last_post": 1793712666.0755832,
+ "last_post": 1793714480.701852,
  "log": [
-  "22:01:13 POSTED facebook@Vijayendra-Singh a159618d: 1317760538089559_122125267467480728",
-  "22:31:10 READY 15a7cc36 Disposable Small Plastic Gloves | Home Decor (auto-approved)",
-  "22:31:46 POSTED instagram@Vinzap-Finds 15a7cc36: 17926446639438904",
-  "22:31:52 POSTED facebook@Vinzap-Finds 15a7cc36: 28667603332912153",
-  "22:31:53 FAILED post facebook@Vijayendra-Singh 15a7cc36: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPX4UPbq7HMjT7pdyeF4sHsFn0e1t2XYayNLw-Cy70BsYMGHwst6SAbY2I67kNxYG5Fa3_-UvAw9k1R7XloA9_OJps23TT37kDykljq9qb0ypilBHd_s1sWl0aKtvZd0kMKQAmkzRfQPO9AUe0LhXGCkquvmN8h65brj18hBtwUSjHFcB6WKclcUxo6O77bQryFYcsVdxwdYGkScllg2zbDjobMgWdwtMIAnk-IoanRZolPpPwGY42QqPPfJkaFEeMg0PeU8W-bcl9KNNQx0tAoJRRUhd4Cj89vi2g0S0xlH99vc0jqyT3XdrXfHxALvo\",\"help_cente",
-  "22:32:28 STORY POSTED instagram@Vinzap-Finds 15a7cc36",
   "22:32:36 STORY POSTED facebook@Vinzap-Finds 15a7cc36",
   "12:00:59 READY 280bcf38 Masala Box (auto-approved)",
   "12:01:17 POSTED instagram@Vinzap-Finds 280bcf38: 17965106439210787",
@@ -5690,13 +5673,19 @@
   "19:01:06 READY d931d287 Supermom Premium Curve Garlic Press Crusher (auto-approved)",
   "19:01:18 POSTED instagram@Vinzap-Finds d931d287: 18130126690893181",
   "19:01:23 POSTED facebook@Vinzap-Finds d931d287: 1428352113685678_122115259851501659",
-  "19:01:27 POSTED facebook@Vijayendra-Singh d931d287: 1317760538089559_122125871745480728"
+  "19:01:27 POSTED facebook@Vijayendra-Singh d931d287: 1317760538089559_122125871745480728",
+  "19:31:20 READY 988a316d Electric Glass Kettle 2 Litre | Trending Shorts (auto-approved)",
+  "19:31:55 POSTED instagram@Vinzap-Finds 988a316d: 18131636617760531",
+  "19:32:00 POSTED facebook@Vinzap-Finds 988a316d: 1686089943035205",
+  "19:32:01 FAILED post facebook@Vijayendra-Singh 988a316d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetLPk8qwkGFfEPQgKbPwxmnJu5WdVSn4I38-hQg0KBETPytqjMH656hK3bazxyKhhHtAYc1SErRHuOdoezlveYhdqd_caqNgvt7hmpELHz1zFK7vzsFgOhyUZ3ujN0NhTAMKh5sdm5pBktGnpuZC2G-yUku7RxpZBO56dTCYpSBdF7J5ZLa4z1ADEh97vxha-W25dqBlGSahn7-03U28Yw_iCXjBIBCXvJ21bwj5g_vgwQ8vZYTeo_cFJuA7IZJhWdcYae9iMr0uiwX_F3ZeAIb_jDyGyJoMTyB94_-HAkbjLSTtswr6Lq4FsdJzBibLnk\",\"help_cente",
+  "19:32:33 STORY POSTED instagram@Vinzap-Finds 988a316d",
+  "19:32:41 STORY POSTED facebook@Vinzap-Finds 988a316d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793712666.0755832,
-  "facebook@Vinzap-Finds": 1793712666.0755832,
-  "facebook@Vijayendra-Singh": 1793712666.0755832,
+  "instagram@Vinzap-Finds": 1793714480.701852,
+  "facebook@Vinzap-Finds": 1793714480.701852,
+  "facebook@Vijayendra-Singh": 1793714480.701852,
   "youtube": 1793710888.5299478
  },
- "n": 344
+ "n": 345
 }
