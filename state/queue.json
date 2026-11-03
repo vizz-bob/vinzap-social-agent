@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "428e8e80",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ritu Unbreakable Plastic Khal Batta Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 390,
-    "was": 0,
-    "feats": [
-     "Traditional Kitchen Tool: Perfect",
-     "Unbreakable Construction: Made",
-     "Rust-Free Stainless Steel Base:"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Ritu Unbreakable Plastic Khal Batta Set | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ritu Unbreakable Plastic Khal Batta Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nRitu Unbreakable Plastic Khal Batta Set\n✔ Traditional Kitchen Tool: Perfect\n✔ Unbreakable Construction: Made\n✔ Rust-Free Stainless Steel Base:\n\nOnly ₹390. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Ritu Unbreakable Plastic Khal Batta Set | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793379677.759214,
-     "id": "17903577546671451",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793379677.759214,
-     "id": "1868378897515301",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793379677.759214,
-     "id": "1144082914978151",
-     "dry": false
-    }
-   },
-   "created": 1793379661.4396472,
-   "after": 0,
-   "handle": "ritu-heavy-duty-unbreakable-plastic-khal-batta-set-2-pcs-set",
-   "product_url": "https://www.vinzapstore.in/products/ritu-heavy-duty-unbreakable-plastic-khal-batta-set-2-pcs-set",
-   "file": "428e8e80.mp4",
-   "thumb": "428e8e80_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17969055066076250"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1506290661364508"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2044920729557465"
-    }
-   }
-  },
-  {
    "id": "1738a41b",
    "status": "posted",
    "kind": "image",
@@ -5490,17 +5413,86 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
    "file": "baf3a3c9.jpg",
    "thumb": "baf3a3c9.jpg"
+  },
+  {
+   "id": "be508921",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Natural Bamboo Skewers",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 56.76,
+    "was": 0,
+    "feats": [
+     "\" Natural Bamboo Wooden"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Natural Bamboo Skewers | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Natural Bamboo Skewers"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nNatural Bamboo Skewers\n✔ \" Natural Bamboo Wooden\n\nOnly ₹56.76. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Natural Bamboo Skewers | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793710888.5299478,
+     "id": "17995262244060436",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793710888.5299478,
+     "id": "2519628998442662",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793710888.5299478,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev9InW34kd3kM1pRq246knwR6"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793710888.5299478,
+     "id": "HUyR2oJlj9A",
+     "dry": false
+    }
+   },
+   "created": 1793710868.655149,
+   "after": 0,
+   "handle": "1116-natural-bamboo-wooden-skewersbbq-sticks-for-barbeque-and-grilling",
+   "product_url": "https://www.vinzapstore.in/products/1116-natural-bamboo-wooden-skewersbbq-sticks-for-barbeque-and-grilling",
+   "file": "be508921.mp4",
+   "thumb": "be508921_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18122786578958612"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1102263359376807"
+    }
+   }
   }
  ],
- "last_post": 1793709049.8061337,
+ "last_post": 1793710888.5299478,
  "log": [
-  "21:01:02 POSTED facebook@Vijayendra-Singh ee813219: 1317760538089559_122125254927480728",
-  "21:31:18 READY 3935402c Glass Jug | Diwali (auto-approved)",
-  "21:31:50 POSTED instagram@Vinzap-Finds 3935402c: 18141293188616722",
-  "21:31:55 POSTED facebook@Vinzap-Finds 3935402c: 1383143930560489",
-  "21:31:57 FAILED post facebook@Vijayendra-Singh 3935402c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesRsHmha945MDEPVoxsBp9eKwflrWd9ueq3_KBMWrDPOTpuIEYrCRt8FCtFyVqUZuh1u-3m6iAApo-ODqbqCpq0R7AB8fQt4P70pAHkCe2ewESnAZKFdPtIz-ZU76GzFuepvdBTFLzZMyOk2xtsTFl7-NRzDF4W2oYGleHtwsf6SYsD0mqhYfuyuy9FcXP0r02WQpIOs0xclkd-GRsx26o_395DjIx_4gdQ_GhhmCZaqIiOcJBMQY0dOsGn5G3vrEPk_weV9W5wVDlaNRB1rZMUpNAHBG25Fatb2VGX8opVhWHnSc1D1xFgWedX7AESC6A8\",\"help_cent",
-  "21:32:02 POSTED youtube 3935402c: kXG3bu6Vksc",
-  "21:32:34 STORY POSTED instagram@Vinzap-Finds 3935402c",
   "21:32:43 STORY POSTED facebook@Vinzap-Finds 3935402c",
   "22:00:49 READY a159618d 3 Section Snack Serving Tray (auto-approved)",
   "22:01:04 POSTED instagram@Vinzap-Finds a159618d: 18086605325329520",
@@ -5693,13 +5685,20 @@
   "18:00:49 READY baf3a3c9 Disposable Small Plastic Gloves (auto-approved)",
   "18:00:55 FAILED post instagram@Vinzap-Finds baf3a3c9: HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"Aqn1FOJ1SZh6XNZwq9y1iFT\"}}",
   "18:00:59 POSTED facebook@Vinzap-Finds baf3a3c9: 1428352113685678_122115245475501659",
-  "18:01:02 POSTED facebook@Vijayendra-Singh baf3a3c9: 1317760538089559_122125856001480728"
+  "18:01:02 POSTED facebook@Vijayendra-Singh baf3a3c9: 1317760538089559_122125856001480728",
+  "18:31:28 READY be508921 Natural Bamboo Skewers | Home Decor Ideas (auto-approved)",
+  "18:32:09 POSTED instagram@Vinzap-Finds be508921: 17995262244060436",
+  "18:32:14 POSTED facebook@Vinzap-Finds be508921: 2519628998442662",
+  "18:32:14 FAILED post facebook@Vijayendra-Singh be508921: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev9InW34kd3kM1pRq246knwR6gsh7Jsq-iYPOQ9gaRTm-vIvLv2rXNju-ymVy97sEo59iFAbMEBJA64hcnCticGIsMTsEMY2f2jiXqT6wbqL7fRYXmOBfACN0CMezi5wh6CPOijeYilZq2sRlz_LfxsiCrCiCtsXxGKGJjjyvMGXMH5pA3qFZKh5unjgDFPpDT-6P6eiUS7Lkf21RRRsF11PR3HoDj3RoiMxrfz_I_WthJYxkO93vT0vmOou545dw0VwLdvJOkALmN6o_HThtcffStCChW6HTDxq4-qLWtxC9EevoS55DaAQ6XcmxHSY9Pa\",\"help_cent",
+  "18:32:20 POSTED youtube be508921: HUyR2oJlj9A",
+  "18:32:55 STORY POSTED instagram@Vinzap-Finds be508921",
+  "18:33:08 STORY POSTED facebook@Vinzap-Finds be508921"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793709049.8061337,
-  "facebook@Vinzap-Finds": 1793709049.8061337,
-  "facebook@Vijayendra-Singh": 1793709049.8061337,
-  "youtube": 1793699661.024816
+  "instagram@Vinzap-Finds": 1793710888.5299478,
+  "facebook@Vinzap-Finds": 1793710888.5299478,
+  "facebook@Vijayendra-Singh": 1793710888.5299478,
+  "youtube": 1793710888.5299478
  },
- "n": 342
+ "n": 343
 }
