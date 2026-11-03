@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "dad65399",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Tear-Off Microfiber Cleaning Cloth Roll",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 409,
-    "was": 0,
-    "feats": [
-     "Tear-off roll design gives",
-     "Soft microfiber-style fabric",
-     "Cleans counters"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Tear-Off Microfiber Cleaning Cloth Roll | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Tear-Off Microfiber Cleaning Cloth Roll"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTear-Off Microfiber Cleaning Cloth Roll\n✔ Tear-off roll design gives\n✔ Soft microfiber-style fabric\n✔ Cleans counters\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
-   "title": "Tear-Off Microfiber Cleaning Cloth Roll",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793377849.4123123,
-     "id": "17943560886386767",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793377849.4123123,
-     "id": "1428352113685678_122114060481501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793377849.4123123,
-     "id": "1317760538089559_122124581943480728",
-     "dry": false
-    }
-   },
-   "created": 1793377846.7822757,
-   "after": 0,
-   "handle": "disposable-cleaning-cloth-roll-reusable-microfiber-kitchen-towel-tear-off-1-roll",
-   "product_url": "https://www.vinzapstore.in/products/disposable-cleaning-cloth-roll-reusable-microfiber-kitchen-towel-tear-off-1-roll",
-   "file": "dad65399.jpg",
-   "thumb": "dad65399.jpg"
-  },
-  {
    "id": "428e8e80",
    "status": "scheduled",
    "kind": "reel",
@@ -5491,14 +5429,71 @@
      "id": "1123101817144327"
     }
    }
+  },
+  {
+   "id": "baf3a3c9",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Small Plastic Gloves",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "100 disposable gloves per pack",
+     "size for a comfortable fit",
+     "Transparent design for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Disposable Small Plastic Gloves | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Small Plastic Gloves"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Small Plastic Gloves\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#diwali #trendingshorts",
+   "title": "Disposable Small Plastic Gloves",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": false,
+     "ts": 1793709049.8061337,
+     "error": "HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"Aqn1FOJ1SZh6XNZwq9y1iFT\"}}"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793709049.8061337,
+     "id": "1428352113685678_122115245475501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793709049.8061337,
+     "id": "1317760538089559_122125856001480728",
+     "dry": false
+    }
+   },
+   "created": 1793709046.8926823,
+   "after": 0,
+   "handle": "disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
+   "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
+   "file": "baf3a3c9.jpg",
+   "thumb": "baf3a3c9.jpg"
   }
  ],
- "last_post": 1793707274.5480595,
+ "last_post": 1793709049.8061337,
  "log": [
-  "20:33:52 STORY POSTED facebook@Vinzap-Finds 141377bb",
-  "21:00:45 READY ee813219 Kitchen Sink Corner Filter Holder Compact (auto-approved)",
-  "21:00:56 POSTED instagram@Vinzap-Finds ee813219: 17881818747549129",
-  "21:00:58 POSTED facebook@Vinzap-Finds ee813219: 1428352113685678_122114672859501659",
   "21:01:02 POSTED facebook@Vijayendra-Singh ee813219: 1317760538089559_122125254927480728",
   "21:31:18 READY 3935402c Glass Jug | Diwali (auto-approved)",
   "21:31:50 POSTED instagram@Vinzap-Finds 3935402c: 18141293188616722",
@@ -5694,13 +5689,17 @@
   "17:31:54 POSTED facebook@Vinzap-Finds 9b17bf8f: 1118511830777972",
   "17:31:55 FAILED post facebook@Vijayendra-Singh 9b17bf8f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuo3FBQrLLqKyTimALKJc3lvVUi8rdWILyKcoOH8b8ZFdcreO-ZG0eHzElEaRzRPrh2N-lV5BB-tOwaB6BV8O12rpeKJ3Pe1sM0SX-91JXhLvPMt7L4SXBdjqnD1-N-b52y78WpO0o9AuXOj21IzlNusJzMwwMXt6NMGKfXbGhox8-gGvDQ01CPjraOsIEdK1KBKArXNGU04HX8n7YN6-mTSnFqdrUX9zk984sFvuWqyZ4tA8lm70syT8FklbwIpNK9DoM0KI-CbyTUpOfUBDvW-EF0U3xDI1O0_POpfI_roKfjpUOnUYuq83G0LiFV0VhJ\",\"help_cent",
   "17:32:26 STORY POSTED instagram@Vinzap-Finds 9b17bf8f",
-  "17:32:34 STORY POSTED facebook@Vinzap-Finds 9b17bf8f"
+  "17:32:34 STORY POSTED facebook@Vinzap-Finds 9b17bf8f",
+  "18:00:49 READY baf3a3c9 Disposable Small Plastic Gloves (auto-approved)",
+  "18:00:55 FAILED post instagram@Vinzap-Finds baf3a3c9: HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"Aqn1FOJ1SZh6XNZwq9y1iFT\"}}",
+  "18:00:59 POSTED facebook@Vinzap-Finds baf3a3c9: 1428352113685678_122115245475501659",
+  "18:01:02 POSTED facebook@Vijayendra-Singh baf3a3c9: 1317760538089559_122125856001480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793707274.5480595,
-  "facebook@Vinzap-Finds": 1793707274.5480595,
-  "facebook@Vijayendra-Singh": 1793707274.5480595,
-  "youtube": 1793700081.024816
+  "instagram@Vinzap-Finds": 1793709049.8061337,
+  "facebook@Vinzap-Finds": 1793709049.8061337,
+  "facebook@Vijayendra-Singh": 1793709049.8061337,
+  "youtube": 1793699661.024816
  },
- "n": 341
+ "n": 342
 }
