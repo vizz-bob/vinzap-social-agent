@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "37a51244",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Knife Organizer Stand",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "SPACE SAVING: The angled slots",
-     "ORGANIZATION: The space saving",
-     "NON-SLIP: The organizer has"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Plastic Knife Organizer Stand | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Knife Organizer Stand"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Knife Organizer Stand\n✔ SPACE SAVING: The angled slots\n✔ ORGANIZATION: The space saving\n✔ NON-SLIP: The organizer has\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Plastic Knife Organizer Stand | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793440882.4610548,
-     "id": "17941234524384620",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793440882.4610548,
-     "id": "946880541558364",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793440882.4610548,
-     "id": "4146550818971246",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793440882.4610548,
-     "id": "xDsG7wfcxW4",
-     "dry": false
-    }
-   },
-   "created": 1793440855.3314693,
-   "after": 0,
-   "handle": "5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
-   "product_url": "https://www.vinzapstore.in/products/5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
-   "file": "37a51244.mp4",
-   "thumb": "37a51244_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18132000112705964"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2007072053291589"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1638613014669059"
-    }
-   }
-  },
-  {
    "id": "31c01cee",
    "status": "posted",
    "kind": "image",
@@ -5472,16 +5389,82 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-sink-caddy-organizer-rack-holder-kitchen-sponge-stand-1-pc",
    "file": "67103501.jpg",
    "thumb": "67103501.jpg"
+  },
+  {
+   "id": "66854536",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Ice Cream Scoop",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Trigger release lever pushes out",
+     "Sturdy stainless steel build is",
+     "Comfortable handle gives a firm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Ice Cream Scoop | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Ice Cream Scoop"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Ice Cream Scoop\n✔ Trigger release lever pushes out\n✔ Sturdy stainless steel build is\n✔ Comfortable handle gives a firm\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Ice Cream Scoop | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793725286.079194,
+     "id": "18074967173488120",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793725286.079194,
+     "id": "1355338366529686",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793725286.079194,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuLoLq99iWIP2H4NkNRil7D2d"
+    }
+   },
+   "created": 1793725264.8916106,
+   "after": 0,
+   "handle": "stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
+   "file": "66854536.mp4",
+   "thumb": "66854536_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18156729046460644"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "28142170135456076"
+    }
+   }
   }
  ],
- "last_post": 1793723455.6580849,
+ "last_post": 1793725286.079194,
  "log": [
-  "14:01:38 POSTED facebook@Vijayendra-Singh b5ce68ec: 1317760538089559_122125462755480728",
-  "14:46:36 READY 3d8d6d23 Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets (auto-approved)",
-  "14:47:12 POSTED instagram@Vinzap-Finds 3d8d6d23: 18115179185032974",
-  "14:47:18 POSTED facebook@Vinzap-Finds 3d8d6d23: 1147718464454830",
-  "14:47:19 FAILED post facebook@Vijayendra-Singh 3d8d6d23: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevA134El3mfErNipo34A8Z5Ti1q7Tze1yWVde6SYbJd_-JfBl9rhY-mm5FHkvSwoTUzdQoXR-vNxh9Oebm50inrqRitYrGfrDoOlnZQOx-t9rX22CMULFQGlnn6NpQ94T1USFlVCPrywKvb1aD6yxcMXKhODxpsRz80L6lqw5gQbX420ienPiovKIf9Bitwsv6SIu7aQEGrUwJGsWfFDQHwgu_hWABPI6p3AyUOFbKcwZcYzhM8rsCwo05N5uTkOxFU4MzI3vqVNECN0U6OfzYO3JT8lob4Esmd_1NIBzQd5uXXFr8J8NnSe7CrjHA0jcU\",\"help_cente",
-  "14:47:49 STORY POSTED instagram@Vinzap-Finds 3d8d6d23",
   "14:47:57 STORY POSTED facebook@Vinzap-Finds 3d8d6d23",
   "15:16:35 READY e7f7bf56 Finger Guard Protector (auto-approved)",
   "15:16:47 POSTED instagram@Vinzap-Finds e7f7bf56: 18114252185154028",
@@ -5675,13 +5658,19 @@
   "22:00:55 READY 67103501 Stainless Steel Sink Caddy Organizer (auto-approved)",
   "22:01:06 POSTED instagram@Vinzap-Finds 67103501: 18125316547698980",
   "22:01:10 POSTED facebook@Vinzap-Finds 67103501: 1428352113685678_122115315243501659",
-  "22:01:14 POSTED facebook@Vijayendra-Singh 67103501: 1317760538089559_122125907043480728"
+  "22:01:14 POSTED facebook@Vijayendra-Singh 67103501: 1317760538089559_122125907043480728",
+  "22:31:26 READY 66854536 Stainless Steel Ice Cream Scoop | Home Decor (auto-approved)",
+  "22:32:01 POSTED instagram@Vinzap-Finds 66854536: 18074967173488120",
+  "22:32:07 POSTED facebook@Vinzap-Finds 66854536: 1355338366529686",
+  "22:32:08 FAILED post facebook@Vijayendra-Singh 66854536: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuLoLq99iWIP2H4NkNRil7D2dtdI199sgOfhtSQSwgXlbOpVrSVa3JHory01-CfMwjr0D574U6wbXjekxdPWe2eogJ0mcLNGgmA09EUDIwSh2SaURnErvmq-nDdEBqqQyYCbBjgWdVxB3opnOgrhWas4QmbMv-L9loL8d_pWxTrhppOdtF-ZqxwZxJ3qhBhTiHEn632e0d9-878w5HAsfqu8Kh2gQHnYxKDKhfiqp_3wOZNclfrSbKGhJ09HXWpxLnTd6nv4bpAGlBq8fSOExmbSkdIo_gl3c6bxbSHU4SsYJ9ByDSJWLI-T6i_wETeeLmh\",\"help_cent",
+  "22:32:39 STORY POSTED instagram@Vinzap-Finds 66854536",
+  "22:32:48 STORY POSTED facebook@Vinzap-Finds 66854536"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793723455.6580849,
-  "facebook@Vinzap-Finds": 1793723455.6580849,
-  "facebook@Vijayendra-Singh": 1793723455.6580849,
+  "instagram@Vinzap-Finds": 1793725286.079194,
+  "facebook@Vinzap-Finds": 1793725286.079194,
+  "facebook@Vijayendra-Singh": 1793725286.079194,
   "youtube": 1793721687.5367951
  },
- "n": 350
+ "n": 351
 }
