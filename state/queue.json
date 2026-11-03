@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "96a29715",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Coconut Scraper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 579,
-    "was": 0,
-    "feats": [
-     "Stainless Steel Construction –",
-     "Vacuum Base for Stability –",
-     "Effortless Hand Operation –"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Coconut Scraper | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Coconut Scraper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Coconut Scraper\n✔ Stainless Steel Construction –\n✔ Vacuum Base for Stability –\n✔ Effortless Hand Operation –\n\nOnly ₹579. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Coconut Scraper | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793433667.201247,
-     "id": "18097952921448864",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793433667.201247,
-     "id": "1655405642609719",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793433667.201247,
-     "id": "1475774857732578",
-     "dry": false
-    }
-   },
-   "created": 1793433647.6021936,
-   "after": 0,
-   "handle": "supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
-   "file": "96a29715.mp4",
-   "thumb": "96a29715_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18360595519223972"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1154314810679061"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "29246887521599651"
-    }
-   }
-  },
-  {
    "id": "e0caae58",
    "status": "posted",
    "kind": "image",
@@ -5476,16 +5399,82 @@
    "product_url": "https://www.vinzapstore.in/products/metal-sink-drain-mesh-strainer-filter-basket-food-catcher-for-kitchen-1-pc",
    "file": "288fdd07.jpg",
    "thumb": "288fdd07.jpg"
+  },
+  {
+   "id": "01ebca65",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3 in 1 Anti Slip Bathroom Mat Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1369,
+    "was": 0,
+    "feats": [
+     "Complete 3-piece set includes",
+     "Soft flannel surface feels warm",
+     "Anti-slip backing keeps mats"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "3 in 1 Anti Slip Bathroom Mat Set | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3 in 1 Anti Slip Bathroom Mat Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 in 1 Anti Slip Bathroom Mat Set\n✔ Complete 3-piece set includes\n✔ Soft flannel surface feels warm\n✔ Anti-slip backing keeps mats\n\nOnly ₹1369. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#homedecor #homedecorideas",
+   "title": "3 in 1 Anti Slip Bathroom Mat Set | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793718094.6910193,
+     "id": "18342027598274656",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793718094.6910193,
+     "id": "1145147771190394",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793718094.6910193,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeteWIWgqHIRe1piYvmfA6muYb"
+    }
+   },
+   "created": 1793718066.3495378,
+   "after": 0,
+   "handle": "3-in-1-anti-slip-bathroom-mat-set-with-contour-mat-and-lid-cover-3-pc-set-mix-color",
+   "product_url": "https://www.vinzapstore.in/products/3-in-1-anti-slip-bathroom-mat-set-with-contour-mat-and-lid-cover-3-pc-set-mix-color",
+   "file": "01ebca65.mp4",
+   "thumb": "01ebca65_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18125236906906516"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1112078901416071"
+    }
+   }
   }
  ],
- "last_post": 1793716254.1317058,
+ "last_post": 1793718094.6910193,
  "log": [
-  "12:01:27 POSTED facebook@Vijayendra-Singh 280bcf38: 1317760538089559_122125433517480728",
-  "12:31:11 READY b6156d14 Stainless Steel Oil Pourer 750ml | Kitchen Organization (auto-approved)",
-  "12:31:45 POSTED instagram@Vinzap-Finds b6156d14: 18097182632689329",
-  "12:31:48 POSTED facebook@Vinzap-Finds b6156d14: 1139974958478908",
-  "12:31:49 FAILED post facebook@Vijayendra-Singh b6156d14: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevIc6_JVULBvcv2JnqocGTXySRTfG-7CMnZMy2JVpLaUg6jZx8B2chXoFHp-WaQ6hTvj5jv3XG68xznUdYGMfcIAFomymUhLUg9PkrsVh_8ThBYYNCDNSv5ktM2U1B63GkhOVkuCdtIxqZ7ayyQJaCiPggzxnix33ZdcJ7As8VfUZ92cafqyCooUSjfT001hR-Zaopf7CfJaBYSMJvU5rbiu06SiCPwu-PepaA6Prns9WXQ2AvzM1fX8x7SjXhKovy9w3iaLdEwMKDC4avCtTZ_sa4YNVpXraZ8Fas2mIMqGvRFiu8BR8D6BgEssp6Hkh0\",\"help_cente",
-  "12:31:54 POSTED youtube b6156d14: 3Mdms8Tdrck",
   "12:32:27 STORY POSTED instagram@Vinzap-Finds b6156d14",
   "12:32:34 STORY POSTED facebook@Vinzap-Finds b6156d14",
   "13:01:02 READY 4429a807 Plastic Tea and Coffee Cups (auto-approved)",
@@ -5679,13 +5668,19 @@
   "20:00:54 READY 288fdd07 Metal Sink Drain Mesh Strainer Basket (auto-approved)",
   "20:01:03 POSTED instagram@Vinzap-Finds 288fdd07: 18009230246999641",
   "20:01:07 POSTED facebook@Vinzap-Finds 288fdd07: 1428352113685678_122115284943501659",
-  "20:01:11 POSTED facebook@Vijayendra-Singh 288fdd07: 1317760538089559_122125884789480728"
+  "20:01:11 POSTED facebook@Vijayendra-Singh 288fdd07: 1317760538089559_122125884789480728",
+  "20:31:34 READY 01ebca65 3 in 1 Anti Slip Bathroom Mat Set | Home Decor (auto-approved)",
+  "20:32:08 POSTED instagram@Vinzap-Finds 01ebca65: 18342027598274656",
+  "20:32:13 POSTED facebook@Vinzap-Finds 01ebca65: 1145147771190394",
+  "20:32:14 FAILED post facebook@Vijayendra-Singh 01ebca65: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeteWIWgqHIRe1piYvmfA6muYbEy-4qcwwhSKTd60zYWIBe1rTeyknt71QoA84Ed-RmMxLUFvWrCbs6FnaAcTvkPFVbe-_P8lq8lor44mprDAP9kffa8ZmXUZbl2qykLxw5gShUbg6Kr_XPVNMeUQQSyVTY5cg7hDdPsoUSf5KEcPMsVerC5aF7uRb5w9v5kNMIGkb8VCo2yRA_CwRyaXM1Vp5A1ktPC-pS-OseR3EAPRnKNqp4bVFJd2r16jjPR-skdYZTO5pLy2iLpgDbSGrkQpKIUn1kVSrXm7YAzoD3OI2oVSho-opamX6ECTiW6H2XK\",\"help_cent",
+  "20:32:44 STORY POSTED instagram@Vinzap-Finds 01ebca65",
+  "20:32:52 STORY POSTED facebook@Vinzap-Finds 01ebca65"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793716254.1317058,
-  "facebook@Vinzap-Finds": 1793716254.1317058,
-  "facebook@Vijayendra-Singh": 1793716254.1317058,
+  "instagram@Vinzap-Finds": 1793718094.6910193,
+  "facebook@Vinzap-Finds": 1793718094.6910193,
+  "facebook@Vijayendra-Singh": 1793718094.6910193,
   "youtube": 1793710888.5299478
  },
- "n": 346
+ "n": 347
 }
