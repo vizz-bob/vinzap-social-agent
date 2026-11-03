@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "11380256",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Unbreakable Plastic Juice Glass Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Set of 6 juice glasses",
-     "Looks like real glass",
-     "Unbreakable food-grade plastic"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Unbreakable Plastic Juice Glass Set | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Unbreakable Plastic Juice Glass Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUnbreakable Plastic Juice Glass Set\n✔ Set of 6 juice glasses\n✔ Looks like real glass\n✔ Unbreakable food-grade plastic\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Unbreakable Plastic Juice Glass Set | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793372552.124569,
-     "id": "17936791212408795",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793372552.124569,
-     "id": "1587883099329499",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793372552.124569,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYNTEw4uaZ-VqfwPYL4UJW9B"
-    }
-   },
-   "created": 1793372526.0756516,
-   "after": 0,
-   "handle": "classic-plastic-juice-glass-set-unbreakable-water-tumbler-for-home-6-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/classic-plastic-juice-glass-set-unbreakable-water-tumbler-for-home-6-pc-set",
-   "file": "11380256.mp4",
-   "thumb": "11380256_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18431001847146510"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3438014769726703"
-    }
-   }
-  },
-  {
    "id": "fc4706db",
    "status": "posted",
    "kind": "image",
@@ -5499,16 +5427,82 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-pet-food-scoop-with-bag-clip",
    "file": "a274fa7d.jpg",
    "thumb": "a274fa7d.jpg"
+  },
+  {
+   "id": "e9418d98",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Decorative Silver Serving Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Elegant embossed floral design",
+     "Decorative lattice border adds",
+     "Rich silver finish for timeless"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Decorative Silver Serving Tray | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Decorative Silver Serving Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDecorative Silver Serving Tray\n✔ Elegant embossed floral design\n✔ Decorative lattice border adds\n✔ Rich silver finish for timeless\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Decorative Silver Serving Tray | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793703680.3746736,
+     "id": "18102100433566125",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793703680.3746736,
+     "id": "981825581114414",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793703680.3746736,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesCgDRRm2XOUwXoNC6v1wP3Ky"
+    }
+   },
+   "created": 1793703653.8852446,
+   "after": 0,
+   "handle": "decorative-silver-serving-tray-elegant-round-floral-design",
+   "product_url": "https://www.vinzapstore.in/products/decorative-silver-serving-tray-elegant-round-floral-design",
+   "file": "e9418d98.mp4",
+   "thumb": "e9418d98_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18074986529760396"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1147597434620383"
+    }
+   }
   }
  ],
- "last_post": 1793701857.185502,
+ "last_post": 1793703680.3746736,
  "log": [
-  "19:01:15 POSTED facebook@Vijayendra-Singh bd681400: 1317760538089559_122125217769480728",
-  "19:31:09 READY 6ab180e1 Konvex Duo Grater | Home Decor (auto-approved)",
-  "19:31:46 POSTED instagram@Vinzap-Finds 6ab180e1: 18643861501008098",
-  "19:31:50 POSTED facebook@Vinzap-Finds 6ab180e1: 2133512920571062",
-  "19:31:52 FAILED post facebook@Vijayendra-Singh 6ab180e1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevB-pM37tKz9uByYck_vLaBSar8z4K5pijd-aj_0NUMQwDaXAu6Vd1dXko1zE69o19x9dvxNedLi-NLfv46iccA_6wjvv-LP7JCpWpc2XOpYnFolEPkO9ztUzyQZ89m-jQZPNW_BX0PUQLt6-gAQqfHzF62740F7H5OODuSU79Yc-GfwisFir44z-3YULCFBs6bcQu3d11p0yyZv6jp986Fb7b71xzlSHb0afAcUCpwIFHBuG_ab_YzFHH_ShbJLXg0CRSahXFJG_gqtvBucteDyKXy90bqFBB-yVFzzAgljJlyMtTWEAAStJHADtH61cKq\",\"help_cent",
-  "19:32:22 STORY POSTED instagram@Vinzap-Finds 6ab180e1",
   "19:32:29 STORY POSTED facebook@Vinzap-Finds 6ab180e1",
   "20:00:53 READY ffaed909 Glass Oil Dispenser Bottle 400ml (auto-approved)",
   "20:01:16 POSTED instagram@Vinzap-Finds ffaed909: 18097425758441042",
@@ -5702,13 +5696,19 @@
   "16:00:57 READY a274fa7d 2-in-1 Pet Food Scoop (auto-approved)",
   "16:01:13 POSTED instagram@Vinzap-Finds a274fa7d: 17965762053078732",
   "16:01:17 POSTED facebook@Vinzap-Finds a274fa7d: 1428352113685678_122115214557501659",
-  "16:01:22 POSTED facebook@Vijayendra-Singh a274fa7d: 1317760538089559_122125829193480728"
+  "16:01:22 POSTED facebook@Vijayendra-Singh a274fa7d: 1317760538089559_122125829193480728",
+  "16:31:20 READY e9418d98 Decorative Silver Serving Tray | Home Decor (auto-approved)",
+  "16:31:52 POSTED instagram@Vinzap-Finds e9418d98: 18102100433566125",
+  "16:31:57 POSTED facebook@Vinzap-Finds e9418d98: 981825581114414",
+  "16:31:58 FAILED post facebook@Vijayendra-Singh e9418d98: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesCgDRRm2XOUwXoNC6v1wP3Ky-Un4Pawgs5xILVrG6gaR_1gjurhCMNVHIWPxX6_vEL8nX5y7WgUNac3of0s5YdxrNnGI11CfqIt6PZnY21XzQutfa5Y3lx_7_VEXuGvS1HEsj-RpRLwIH-GAlncbPsUn3LxVrFrxFuBzPkZGuGClrA1Ug_1eHdbLIdoc5bxDU-TXp-lmt-2gT-lxEFYNquN9NIgxaFDJHukaTGRO9OhW6XDh__y8sd1c7zfG_E80Y4NT5jCrCLss4HQFtxLGnEKbA_hYgRvCnFdjEjFILPUpq--E4JF68rX_QieSrW5Cp4\",\"help_cent",
+  "16:32:33 STORY POSTED instagram@Vinzap-Finds e9418d98",
+  "16:32:41 STORY POSTED facebook@Vinzap-Finds e9418d98"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793701857.185502,
-  "facebook@Vinzap-Finds": 1793701857.185502,
-  "facebook@Vijayendra-Singh": 1793701857.185502,
+  "instagram@Vinzap-Finds": 1793703680.3746736,
+  "facebook@Vinzap-Finds": 1793703680.3746736,
+  "facebook@Vijayendra-Singh": 1793703680.3746736,
   "youtube": 1793700081.024816
  },
- "n": 338
+ "n": 339
 }
