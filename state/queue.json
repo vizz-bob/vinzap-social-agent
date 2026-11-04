@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "37229454",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Squeeze Sauce Bottle",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Easy squeeze design",
-     "Leak-proof cap for safe",
-     "Ideal for pizza sauce"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Plastic Squeeze Sauce Bottle | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Squeeze Sauce Bottle"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Squeeze Sauce Bottle\n✔ Easy squeeze design\n✔ Leak-proof cap for safe\n✔ Ideal for pizza sauce\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
-   "title": "Plastic Squeeze Sauce Bottle",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793453445.743663,
-     "id": "17867340399678264",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793453445.743663,
-     "id": "1428352113685678_122114341947501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793453445.743663,
-     "id": "1317760538089559_122124886455480728",
-     "dry": false
-    }
-   },
-   "created": 1793453443.5321233,
-   "after": 0,
-   "handle": "small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
-   "file": "37229454.jpg",
-   "thumb": "37229454.jpg"
-  },
-  {
    "id": "da8d2774",
    "status": "scheduled",
    "kind": "reel",
@@ -5461,14 +5399,70 @@
      "id": "1467776798618642"
     }
    }
+  },
+  {
+   "id": "8baa2a2b",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Lollipop Candy Maker Machine, Pink",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Lollipop Candy Maker and Lollipop"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Lollipop Candy Maker Machine, Pink | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Lollipop Candy Maker Machine, Pink"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLollipop Candy Maker Machine, Pink\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Lollipop Candy Maker Machine, Pink",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793784653.4675052,
+     "id": "18681776518004181",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793784653.4675052,
+     "id": "1428352113685678_122115496719501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793784653.4675052,
+     "id": "1317760538089559_122126149047480728",
+     "dry": false
+    }
+   },
+   "created": 1793784650.5852964,
+   "after": 0,
+   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
+   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
+   "file": "8baa2a2b.jpg",
+   "thumb": "8baa2a2b.jpg"
   }
  ],
- "last_post": 1793782900.5026011,
+ "last_post": 1793784653.4675052,
  "log": [
-  "18:15:41 READY 898372a4 Snack Caddy Tray (auto-approved)",
-  "18:15:45 FAILED post instagram@Vinzap-Finds 898372a4: HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"A95zHJo8hKVXK9zay1Y4PAz\"}}",
-  "18:15:48 POSTED facebook@Vinzap-Finds 898372a4: 1428352113685678_122114933253501659",
-  "18:15:51 POSTED facebook@Vijayendra-Singh 898372a4: 1317760538089559_122125526955480728",
   "18:46:25 READY 4fabd71a Supermom Plastic Faluda Glass Set 300ml Set | Home Decor (auto-approved)",
   "18:47:04 POSTED instagram@Vinzap-Finds 4fabd71a: 18137728573641071",
   "18:47:09 POSTED facebook@Vinzap-Finds 4fabd71a: 2370757300402709",
@@ -5664,13 +5658,17 @@
   "14:32:25 POSTED facebook@Vinzap-Finds 971d53e0: 1485595436790707",
   "14:32:25 FAILED post facebook@Vijayendra-Singh 971d53e0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4XqoCz1HKpoOgg9akR8f-nPHeH2dxcgHNoCeEPgZA8eeJHlSKdMQaFQGCrR3g0K4STX2yA_uSnwo5CFC63D-AUw89i4JIUY30fKMQyfaE689vYwyIq8iRbw4gSYdn8dhZsYcpU0mn1WXVLDdNYVbS76wj67WES3l3yFrovJXPqVV0f-SgLeR-V8hB4QfO2gZB4lxCUiPkvUr4Fk8GgdfCsmXXCMbUFdAFWGBL5CqsDzjGwTQTEEDvDVz9BYgW4VFn9qOq-j2HH-Wd9Z0D23qgBbJXFz8ZXrvKVBdd81AVl6G9V5O31P593EGA860QMug\",\"help_cente",
   "14:33:01 STORY POSTED instagram@Vinzap-Finds 971d53e0",
-  "14:33:10 STORY POSTED facebook@Vinzap-Finds 971d53e0"
+  "14:33:10 STORY POSTED facebook@Vinzap-Finds 971d53e0",
+  "15:00:53 READY 8baa2a2b Lollipop Candy Maker Machine, Pink (auto-approved)",
+  "15:01:07 POSTED instagram@Vinzap-Finds 8baa2a2b: 18681776518004181",
+  "15:01:11 POSTED facebook@Vinzap-Finds 8baa2a2b: 1428352113685678_122115496719501659",
+  "15:01:15 POSTED facebook@Vijayendra-Singh 8baa2a2b: 1317760538089559_122126149047480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793782900.5026011,
-  "facebook@Vinzap-Finds": 1793782900.5026011,
-  "facebook@Vijayendra-Singh": 1793782900.5026011,
-  "youtube": 1793775686.2657635
+  "instagram@Vinzap-Finds": 1793784653.4675052,
+  "facebook@Vinzap-Finds": 1793784653.4675052,
+  "facebook@Vijayendra-Singh": 1793784653.4675052,
+  "youtube": 1793775266.2657635
  },
- "n": 357
+ "n": 358
 }
