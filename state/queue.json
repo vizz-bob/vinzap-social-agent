@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "2af0e750",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel BBQ Skewers",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Durable and reusable skewer design",
-     "Comfortable handles for easy grip",
-     "Ideal for grilling vegetables"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel BBQ Skewers | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel BBQ Skewers"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel BBQ Skewers\n✔ Durable and reusable skewer design\n✔ Comfortable handles for easy grip\n✔ Ideal for grilling vegetables\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel BBQ Skewers | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793466078.2044528,
-     "id": "18222474217354187",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793466078.2044528,
-     "id": "4643013212642774",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793466078.2044528,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevOedncQty8pJNBSM4KdVsMog"
-    }
-   },
-   "created": 1793466051.8237062,
-   "after": 0,
-   "handle": "stainless-steel-bbq-skewers-with-wooden-handle-12-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-bbq-skewers-with-wooden-handle-12-pc",
-   "file": "2af0e750.mp4",
-   "thumb": "2af0e750_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18112748891077524"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4629624844025827"
-    }
-   }
-  },
-  {
    "id": "7e93e026",
    "status": "posted",
    "kind": "image",
@@ -5459,17 +5387,87 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-square-food-serving-tray-set-10-pc",
    "file": "9f7f6024.jpg",
    "thumb": "9f7f6024.jpg"
+  },
+  {
+   "id": "aa670b65",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Reusable Bamboo Chopsticks",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 49,
+    "was": 0,
+    "feats": [
+     "Set of 2 premium reusable bamboo",
+     "Made from eco-friendly natural",
+     "Smooth polished bamboo lower"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Reusable Bamboo Chopsticks | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Bamboo Chopsticks"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Bamboo Chopsticks\n✔ Set of 2 premium reusable bamboo\n✔ Made from eco-friendly natural\n✔ Smooth polished bamboo lower\n\nOnly ₹49. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Reusable Bamboo Chopsticks | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793797330.837635,
+     "id": "18389127277236210",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793797330.837635,
+     "id": "999694612466573",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793797330.837635,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetI2ZFBcGNtii4s1Kg2Oq7Pdb"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1793797330.837635,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1793797308.305214,
+   "after": 0,
+   "handle": "reusable-bamboo-chopsticks-with-blue-chinese-print-design-2-pc",
+   "product_url": "https://www.vinzapstore.in/products/reusable-bamboo-chopsticks-with-blue-chinese-print-design-2-pc",
+   "file": "aa670b65.mp4",
+   "thumb": "aa670b65_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18133852360683356"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1132821726063688"
+    }
+   }
   }
  ],
- "last_post": 1793795446.5905871,
+ "last_post": 1793797330.837635,
  "log": [
-  "21:15:59 POSTED facebook@Vijayendra-Singh 91dae7de: 1317760538089559_122125582443480728",
-  "21:46:18 READY a20f3de7 4-in-1 Silicone Bottle Cleaning Brush | Kitchen Gadgets (auto-approved)",
-  "21:46:58 POSTED instagram@Vinzap-Finds a20f3de7: 18195486328397203",
-  "21:47:04 POSTED facebook@Vinzap-Finds a20f3de7: 1809324776980630",
-  "21:47:08 POSTED facebook@Vijayendra-Singh a20f3de7: 1442681997385785",
-  "21:47:14 POSTED youtube a20f3de7: B5kAhVZMNYo",
-  "21:47:49 STORY POSTED instagram@Vinzap-Finds a20f3de7",
   "21:48:01 STORY POSTED facebook@Vinzap-Finds a20f3de7",
   "21:48:11 STORY POSTED facebook@Vijayendra-Singh a20f3de7",
   "22:15:45 READY 84ef3711 Cute Cartoon Double Layer Lunch Box (auto-approved)",
@@ -5662,13 +5660,20 @@
   "18:00:46 READY 9f7f6024 Disposable Square Serving Trays (auto-approved)",
   "18:00:56 POSTED instagram@Vinzap-Finds 9f7f6024: 17936022600144716",
   "18:01:00 POSTED facebook@Vinzap-Finds 9f7f6024: 1428352113685678_122115537597501659",
-  "18:01:05 POSTED facebook@Vijayendra-Singh 9f7f6024: 1317760538089559_122126193555480728"
+  "18:01:05 POSTED facebook@Vijayendra-Singh 9f7f6024: 1317760538089559_122126193555480728",
+  "18:32:10 READY aa670b65 Reusable Bamboo Chopsticks | Trending Shorts (auto-approved)",
+  "18:32:44 POSTED instagram@Vinzap-Finds aa670b65: 18389127277236210",
+  "18:32:51 POSTED facebook@Vinzap-Finds aa670b65: 999694612466573",
+  "18:32:54 FAILED post facebook@Vijayendra-Singh aa670b65: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetI2ZFBcGNtii4s1Kg2Oq7PdbIWLT6denDBYe22U9_AbY3RgbIAGMcfMNSLGjMmy2Pv-z2uPAWLkltQvWZMZaR_hcNAKHyrqDwAllRpv2aO2BeDMFe2Lh6Nq0vgM11QPxGNPsCXd0lL9PxO7YQ-DmYYo1VvaF7_Z7emOZEi8V_D9uCxL9EAbB3KfPhCYwDlgJx0VmwU70QKVeyU4AwLlOVcx4frtldux628X2TYX61junUNBivVjHv0IqsIv1pmXV2khjcMFAFTMpm5LIQModRJ2EPVA6T_2XUEWGJimE7cHBAQhDev6OGIhKK8r1Kw1iak\",\"help_cent",
+  "18:32:54 FAILED post youtube aa670b65: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "18:33:27 STORY POSTED instagram@Vinzap-Finds aa670b65",
+  "18:33:38 STORY POSTED facebook@Vinzap-Finds aa670b65"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793795446.5905871,
-  "facebook@Vinzap-Finds": 1793795446.5905871,
-  "facebook@Vijayendra-Singh": 1793795446.5905871,
-  "youtube": 1793786065.3952687
+  "instagram@Vinzap-Finds": 1793797330.837635,
+  "facebook@Vinzap-Finds": 1793797330.837635,
+  "facebook@Vijayendra-Singh": 1793797330.837635,
+  "youtube": 1793797330.837635
  },
- "n": 364
+ "n": 365
 }
