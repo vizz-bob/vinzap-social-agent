@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "e825a3ac",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Manual Egg Beater",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 179,
-    "was": 0,
-    "feats": [
-     "Food-grade plastic",
-     "Long handle with a hanging hole",
-     "Use for eggs"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Manual Egg Beater | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Manual Egg Beater"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Egg Beater\n✔ Food-grade plastic\n✔ Long handle with a hanging hole\n✔ Use for eggs\n\nOnly ₹179. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Manual Egg Beater | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793520087.2490652,
-     "id": "17964548862229858",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793520087.2490652,
-     "id": "983762501447419",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793520087.2490652,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuqqeZVRaIp0pmVfvqERehngU"
-    }
-   },
-   "created": 1793520061.9594526,
-   "after": 0,
-   "handle": "manual-egg-beater-versatile-kitchen-mixing-tool-for-eggs-batters",
-   "product_url": "https://www.vinzapstore.in/products/manual-egg-beater-versatile-kitchen-mixing-tool-for-eggs-batters",
-   "file": "e825a3ac.mp4",
-   "thumb": "e825a3ac_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17956185774038522"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2085203052155251"
-    }
-   }
-  },
-  {
    "id": "99871aaf",
    "status": "posted",
    "kind": "image",
@@ -5458,16 +5386,82 @@
    "product_url": "https://www.vinzapstore.in/products/collapsible-travel-electric-kettle-600ml-foldable-silicone-water-boiler-1-pc",
    "file": "602c4602.jpg",
    "thumb": "602c4602.jpg"
+  },
+  {
+   "id": "cf4c0e0c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "5 in 1 Multipurpose Kitchen Tool Combo Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 509,
+    "was": 0,
+    "feats": [
+     "Complete 5-in-1 kitchen utility",
+     "Includes knife",
+     "Suitable for cutting"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "5 in 1 Multipurpose Kitchen Tool Combo Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n5 in 1 Multipurpose Kitchen Tool Combo Set\n✔ Complete 5-in-1 kitchen utility\n✔ Includes knife\n✔ Suitable for cutting\n\nOnly ₹509. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#kitchenorganization #cooking",
+   "title": "5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793804514.8736603,
+     "id": "18024689990925385",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793804514.8736603,
+     "id": "1575981690880394",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793804514.8736603,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetMJE3J8hhiFvHKR9e7T5fq2Q"
+    }
+   },
+   "created": 1793804495.0046964,
+   "after": 0,
+   "handle": "5-in-1-multipurpose-kitchen-tool-combo-set-1-set",
+   "product_url": "https://www.vinzapstore.in/products/5-in-1-multipurpose-kitchen-tool-combo-set-1-set",
+   "file": "cf4c0e0c.mp4",
+   "thumb": "cf4c0e0c_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17912370972308982"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2391563901653342"
+    }
+   }
   }
  ],
- "last_post": 1793802673.2815473,
+ "last_post": 1793804514.8736603,
  "log": [
-  "12:01:05 POSTED facebook@Vinzap-Finds 847da7d4: 1428352113685678_122115162087501659",
-  "12:01:09 POSTED facebook@Vijayendra-Singh 847da7d4: 1317760538089559_122125752963480728",
-  "12:31:12 READY f9635760 Portable Foldable Rotating Clothes Hanger | Kitchen Gadgets (auto-approved)",
-  "12:31:48 POSTED instagram@Vinzap-Finds f9635760: 17909485383571477",
-  "12:31:52 POSTED facebook@Vinzap-Finds f9635760: 977637888749824",
-  "12:31:53 FAILED post facebook@Vijayendra-Singh f9635760: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuSpstXpul2MuYRhjYxIvam0P9UHMmFK4oSAMnKP9DWjiqgY0uD-DIiy3X9v75VFLuxp3zXkyPSDeaBdFDf4R2RIg8mZlY13jvpVRe7LOiZCCEM3hHzGWait3MoAzxsJBDI4653rsQvOWbBZj96xYhTf7FeFpjFrjgWU4i_AZil80bJlB1s6ARFcvmOmS46G3xn1L9AOikpgKwE6EGdke_RoaF9u06lzFEGmSzqQ0xXm9cpXk7B5KWlt8tnDsQUXcglkqIZKj2lMNzlE8V4JTSe_msP1HtK4bxXwPOPBG2ApI3cVdgd4fp8SNppp3xRUcpp\",\"help_cent",
   "12:31:57 POSTED youtube f9635760: -n7g_YOyDuo",
   "12:32:29 STORY POSTED instagram@Vinzap-Finds f9635760",
   "12:32:39 STORY POSTED facebook@Vinzap-Finds f9635760",
@@ -5661,13 +5655,19 @@
   "20:01:13 READY 602c4602 Collapsible Electric Kettle 600ml, Foldable (auto-approved)",
   "20:01:35 POSTED instagram@Vinzap-Finds 602c4602: 18082731851364401",
   "20:01:40 POSTED facebook@Vinzap-Finds 602c4602: 1428352113685678_122115564291501659",
-  "20:01:45 POSTED facebook@Vijayendra-Singh 602c4602: 1317760538089559_122126228631480728"
+  "20:01:45 POSTED facebook@Vijayendra-Singh 602c4602: 1317760538089559_122126228631480728",
+  "20:31:54 READY cf4c0e0c 5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization (auto-approved)",
+  "20:32:33 POSTED instagram@Vinzap-Finds cf4c0e0c: 18024689990925385",
+  "20:32:40 POSTED facebook@Vinzap-Finds cf4c0e0c: 1575981690880394",
+  "20:32:41 FAILED post facebook@Vijayendra-Singh cf4c0e0c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetMJE3J8hhiFvHKR9e7T5fq2QEuljRRjWQETSKg38nYmXgrGvkm-aByTHxt4FZs3cM876W-1DoVzuji_d-ZPa5jzQswNICcZkUB_PEBq-Qi6Y73OXoGKiRPGGZHiKw11s7CB6CH2Ob_rWYvH2FQCCp93uB-tqFfo6B4T0jZQj_3A-1c_JLDbism3irjIcU800skdxnzOnKu054JvfbkRQ2GkpG7wwWW5zxkaMUZlBVQJ4vKzRJJ0iiU8w1lSdKHQ3jOzby2RsTt4Ar_V3g_4dDwMphAQ4VGSM5FyNoXu043sX7mijOnqWJHKk2JwE5eL_U\",\"help_cente",
+  "20:33:13 STORY POSTED instagram@Vinzap-Finds cf4c0e0c",
+  "20:33:23 STORY POSTED facebook@Vinzap-Finds cf4c0e0c"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793802673.2815473,
-  "facebook@Vinzap-Finds": 1793802673.2815473,
-  "facebook@Vijayendra-Singh": 1793802673.2815473,
+  "instagram@Vinzap-Finds": 1793804514.8736603,
+  "facebook@Vinzap-Finds": 1793804514.8736603,
+  "facebook@Vijayendra-Singh": 1793804514.8736603,
   "youtube": 1793797330.837635
  },
- "n": 368
+ "n": 369
 }
