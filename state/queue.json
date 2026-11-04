@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "497eb695",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Cutlery Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 999,
-    "was": 0,
-    "feats": [
-     "Complete 24 piece dining set",
-     "Includes 6 dinner spoons",
-     "Includes 6 forks"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Stainless Steel Cutlery Set | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Cutlery Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Cutlery Set\n✔ Complete 24 piece dining set\n✔ Includes 6 dinner spoons\n✔ Includes 6 forks\n\nOnly ₹999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Stainless Steel Cutlery Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793457081.1053011,
-     "id": "17915790153507582",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793457081.1053011,
-     "id": "1428352113685678_122114360745501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793457081.1053011,
-     "id": "1317760538089559_122124905229480728",
-     "dry": false
-    }
-   },
-   "created": 1793457078.5234115,
-   "after": 0,
-   "handle": "premium-stainless-steel-kitchen-plastic-handle-cutlery-set-with-tray-24-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-kitchen-plastic-handle-cutlery-set-with-tray-24-pc-set",
-   "file": "497eb695.jpg",
-   "thumb": "497eb695.jpg"
-  },
-  {
    "id": "bfc8a4c4",
    "status": "scheduled",
    "kind": "reel",
@@ -5465,14 +5403,72 @@
      "id": "3521850067990368"
     }
    }
+  },
+  {
+   "id": "5562c6fa",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Unbreakable Plastic Mug",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Durable unbreakable plastic",
+     "Elegant ribbed vertical design",
+     "Comfortable ergonomic handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Unbreakable Plastic Mug | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Unbreakable Plastic Mug"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUnbreakable Plastic Mug\n✔ Durable unbreakable plastic\n✔ Elegant ribbed vertical design\n✔ Comfortable ergonomic handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#kitchengadgets #kitchenorganization",
+   "title": "Unbreakable Plastic Mug",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793788278.071754,
+     "id": "18100240220098108",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793788278.071754,
+     "id": "1428352113685678_122115511101501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793788278.071754,
+     "id": "1317760538089559_122126161401480728",
+     "dry": false
+    }
+   },
+   "created": 1793788275.7142317,
+   "after": 0,
+   "handle": "unbreakable-plastic-drinking-mug-with-handle-for-coffee-tea-and-milk-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/unbreakable-plastic-drinking-mug-with-handle-for-coffee-tea-and-milk-1-pc",
+   "file": "5562c6fa.jpg",
+   "thumb": "5562c6fa.jpg"
   }
  ],
- "last_post": 1793786485.3952687,
+ "last_post": 1793788278.071754,
  "log": [
-  "19:15:39 READY 7e7effae Leak Proof Lunch Box (auto-approved)",
-  "19:15:51 POSTED instagram@Vinzap-Finds 7e7effae: 17940192396404397",
-  "19:15:54 POSTED facebook@Vinzap-Finds 7e7effae: 1428352113685678_122114947713501659",
-  "19:15:59 POSTED facebook@Vijayendra-Singh 7e7effae: 1317760538089559_122125544943480728",
   "19:46:06 READY b7ef3d8c Square Ice Cube Mould Set of 4 | Kitchen Organization (auto-approved)",
   "19:46:37 POSTED instagram@Vinzap-Finds b7ef3d8c: 17985965088066605",
   "19:46:42 POSTED facebook@Vinzap-Finds b7ef3d8c: 3337075389815000",
@@ -5668,13 +5664,17 @@
   "15:32:06 FAILED post facebook@Vijayendra-Singh 3f820062: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6D9hQEgJd2vF3cl85w28CfnrIDPmCRG5Wac7fKXqDykt97CkmwHfyZJWDHCN0iQ6NLXljBvFXYXp63UToZ6V2tZ5wz6QW5G-702Fosx-S2-I29jwdQ_nQ0aa87irq5oJIE79NrAphK9qK3qMYPyWDjRaphXLRdkFBRBGPKzHfXAHH6CuInPFR9OectQXQDtGJU_90jrGqYWQT2B2W5jVsJhPdmxdB0qVRc3sJDW71cXpPpgsBZ0ypazSYVtw4B5udVOFSZXE5xD32eb4PYekLU-EB55HYlIPpPO5mE_pIzPeXkfSLblsR5UuBcM-SZ3_\",\"help_cent",
   "15:32:12 POSTED youtube 3f820062: tJiUAUOYwoU",
   "15:32:46 STORY POSTED instagram@Vinzap-Finds 3f820062",
-  "15:32:57 STORY POSTED facebook@Vinzap-Finds 3f820062"
+  "15:32:57 STORY POSTED facebook@Vinzap-Finds 3f820062",
+  "16:01:18 READY 5562c6fa Unbreakable Plastic Mug (auto-approved)",
+  "16:01:30 POSTED instagram@Vinzap-Finds 5562c6fa: 18100240220098108",
+  "16:01:35 POSTED facebook@Vinzap-Finds 5562c6fa: 1428352113685678_122115511101501659",
+  "16:01:39 POSTED facebook@Vijayendra-Singh 5562c6fa: 1317760538089559_122126161401480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793786485.3952687,
-  "facebook@Vinzap-Finds": 1793786485.3952687,
-  "facebook@Vijayendra-Singh": 1793786485.3952687,
+  "instagram@Vinzap-Finds": 1793788278.071754,
+  "facebook@Vinzap-Finds": 1793788278.071754,
+  "facebook@Vijayendra-Singh": 1793788278.071754,
   "youtube": 1793786485.3952687
  },
- "n": 359
+ "n": 360
 }
