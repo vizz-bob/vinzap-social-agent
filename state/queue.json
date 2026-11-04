@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "d0bb2602",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "4-Tier Plastic Storage Trolley",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 5999,
-    "was": 0,
-    "feats": [
-     "4 spacious pull-out drawers",
-     "Smooth-rolling wheels to move it",
-     "Sturdy frame with a comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "4-Tier Plastic Storage Trolley | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "4-Tier Plastic Storage Trolley"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n4-Tier Plastic Storage Trolley\n✔ 4 spacious pull-out drawers\n✔ Smooth-rolling wheels to move it\n✔ Sturdy frame with a comfortable\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchenorganization #cooking",
-   "title": "4-Tier Plastic Storage Trolley | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793448075.8668554,
-     "id": "18100778756536536",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793448075.8668554,
-     "id": "1114446917623483",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793448075.8668554,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetqd-VBWQ3k8Bi1COd4mOYd6u"
-    }
-   },
-   "created": 1793448050.015015,
-   "after": 0,
-   "handle": "4-tier-plastic-storage-trolley-with-wheels-rolling-drawer-organizer-cart-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/4-tier-plastic-storage-trolley-with-wheels-rolling-drawer-organizer-cart-1-pc",
-   "file": "d0bb2602.mp4",
-   "thumb": "d0bb2602_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17978456421137863"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4259807527644534"
-    }
-   }
-  },
-  {
    "id": "71cf43d8",
    "status": "posted",
    "kind": "image",
@@ -5462,17 +5390,87 @@
    "product_url": "https://www.vinzapstore.in/products/manual-garlic-press-crusher-tool-1-pc",
    "file": "8a2f8c87.jpg",
    "thumb": "8a2f8c87.jpg"
+  },
+  {
+   "id": "18d4aa49",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Skull Shape Ice Cube Tray 8 Grid",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "8 grid design makes multiple",
+     "Fun skull shape adds a cool",
+     "Flexible base makes it easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Skull Shape Ice Cube Tray 8 Grid | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Skull Shape Ice Cube Tray 8 Grid"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSkull Shape Ice Cube Tray 8 Grid\n✔ 8 grid design makes multiple\n✔ Fun skull shape adds a cool\n✔ Flexible base makes it easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Skull Shape Ice Cube Tray 8 Grid | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793779280.9665072,
+     "id": "18125391572286788",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793779280.9665072,
+     "id": "1530364055566593",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793779280.9665072,
+     "id": "1819393085850318",
+     "dry": false
+    }
+   },
+   "created": 1793779256.4244862,
+   "after": 0,
+   "handle": "plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
+   "file": "18d4aa49.mp4",
+   "thumb": "18d4aa49_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17962382805255583"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2366682607487139"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1091024960586365"
+    }
+   }
   }
  ],
- "last_post": 1793777449.4522598,
+ "last_post": 1793779280.9665072,
  "log": [
-  "16:16:09 POSTED facebook@Vijayendra-Singh c53f6f97: 1317760538089559_122125495557480728",
-  "16:46:03 READY 377a1783 1 Litre Sports Sipper Water Bottle | Kitchen Gadgets (auto-approved)",
-  "16:46:40 POSTED instagram@Vinzap-Finds 377a1783: 18157252306521823",
-  "16:46:44 POSTED facebook@Vinzap-Finds 377a1783: 1124313167005817",
-  "16:46:45 FAILED post facebook@Vijayendra-Singh 377a1783: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev5BzOU8FhK6XUFjH8sytKFrBU_cXYfvF0fam-UZofZ-U68qSPsf3tQgNFnclWXPtyCDEWdULQoUMiyMYCoAz2VpVjeeavRvywLz3yfVlrhxOMvP1TKuS6S2h6l3xaa4-Kwmee7chxLFc7_Oq_Fczeea19uU2d2dEgRZrKaRepAoUep8O7HOXWp4DVmhNQxZIZcsrqbuoViM96CrAKvo6GeqI5Ij3SD-ki7W9foDLBDbmMKd_LK5kTjx8i_86LniRr3xpIypHKIdlFuKyWHDD1hCBsEIITe3p-OF6Iu7z7d3WP48Ht_AnDyxAxWIKzI63Mu\",\"help_cent",
-  "16:47:17 STORY POSTED instagram@Vinzap-Finds 377a1783",
-  "16:47:24 STORY POSTED facebook@Vinzap-Finds 377a1783",
   "17:15:38 READY 5b08daa8 Disposable Clear Plastic Gloves Large (auto-approved)",
   "17:15:47 POSTED instagram@Vinzap-Finds 5b08daa8: 18470512153186103",
   "17:15:50 POSTED facebook@Vinzap-Finds 5b08daa8: 1428352113685678_122114920077501659",
@@ -5665,13 +5663,20 @@
   "13:00:49 READY 8a2f8c87 Manual Garlic Press Crusher (auto-approved)",
   "13:01:02 POSTED instagram@Vinzap-Finds 8a2f8c87: 18416855671085893",
   "13:01:05 POSTED facebook@Vinzap-Finds 8a2f8c87: 1428352113685678_122115473637501659",
-  "13:01:09 POSTED facebook@Vijayendra-Singh 8a2f8c87: 1317760538089559_122126123463480728"
+  "13:01:09 POSTED facebook@Vijayendra-Singh 8a2f8c87: 1317760538089559_122126123463480728",
+  "13:31:20 READY 18d4aa49 Skull Shape Ice Cube Tray 8 Grid | Kitchen Gadgets (auto-approved)",
+  "13:31:54 POSTED instagram@Vinzap-Finds 18d4aa49: 18125391572286788",
+  "13:31:58 POSTED facebook@Vinzap-Finds 18d4aa49: 1530364055566593",
+  "13:32:03 POSTED facebook@Vijayendra-Singh 18d4aa49: 1819393085850318",
+  "13:32:33 STORY POSTED instagram@Vinzap-Finds 18d4aa49",
+  "13:32:42 STORY POSTED facebook@Vinzap-Finds 18d4aa49",
+  "13:32:50 STORY POSTED facebook@Vijayendra-Singh 18d4aa49"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793777449.4522598,
-  "facebook@Vinzap-Finds": 1793777449.4522598,
-  "facebook@Vijayendra-Singh": 1793777449.4522598,
+  "instagram@Vinzap-Finds": 1793779280.9665072,
+  "facebook@Vinzap-Finds": 1793779280.9665072,
+  "facebook@Vijayendra-Singh": 1793779280.9665072,
   "youtube": 1793775686.2657635
  },
- "n": 354
+ "n": 355
 }
