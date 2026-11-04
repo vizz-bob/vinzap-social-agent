@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "af32b039",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Supermom Stainless Steel Carrot Grater",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 349,
-    "was": 0,
-    "feats": [
-     "Stainless steel",
-     "Fine grating surface for carrot",
-     "Ergonomic handle for a steady grip"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Supermom Stainless Steel Carrot Grater | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Stainless Steel Carrot Grater"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Stainless Steel Carrot Grater\n✔ Stainless steel\n✔ Fine grating surface for carrot\n✔ Ergonomic handle for a steady grip\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Supermom Stainless Steel Carrot Grater | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793523666.604724,
-     "id": "18185876359419386",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793523666.604724,
-     "id": "1084490031070283",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793523666.604724,
-     "id": "2295434461190289",
-     "dry": false
-    }
-   },
-   "created": 1793523649.6638813,
-   "after": 0,
-   "handle": "supermom-supermom-stainless-steel-carrot-grater-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-supermom-stainless-steel-carrot-grater-1-pc",
-   "file": "af32b039.mp4",
-   "thumb": "af32b039_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17995945346846772"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1133035985778181"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1461890275824711"
-    }
-   }
-  },
-  {
    "id": "fc2e5cbf",
    "status": "posted",
    "kind": "image",
@@ -5458,17 +5381,87 @@
    "product_url": "https://www.vinzapstore.in/products/kitchen-prep-combo-of-3",
    "file": "64336ac6.jpg",
    "thumb": "64336ac6.jpg"
+  },
+  {
+   "id": "91cab64d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Dish Brush Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "9-piece set",
+     "3 interchangeable brush heads",
+     "Long handle with an angled head"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Dish Brush Set | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Dish Brush Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDish Brush Set\n✔ 9-piece set\n✔ 3 interchangeable brush heads\n✔ Long handle with an angled head\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#cooking #homedecor",
+   "title": "Dish Brush Set | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793808113.2255058,
+     "id": "17941145484388095",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793808113.2255058,
+     "id": "1843380813350512",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793808113.2255058,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetgNBSO7B4pRESi0sBQSP-oaf"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1793808113.2255058,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1793808090.9745526,
+   "after": 0,
+   "handle": "dish-brush-set-with-handle-replacement-heads-drain-tray-in-kitchen-9-pcs-set",
+   "product_url": "https://www.vinzapstore.in/products/dish-brush-set-with-handle-replacement-heads-drain-tray-in-kitchen-9-pcs-set",
+   "file": "91cab64d.mp4",
+   "thumb": "91cab64d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18105493982638974"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4584948485119438"
+    }
+   }
   }
  ],
- "last_post": 1793806248.2113533,
+ "last_post": 1793808113.2255058,
  "log": [
-  "13:01:23 POSTED instagram@Vinzap-Finds 5d95fa14: 18118119613826422",
-  "13:01:27 POSTED facebook@Vinzap-Finds 5d95fa14: 1428352113685678_122115173121501659",
-  "13:01:31 POSTED facebook@Vijayendra-Singh 5d95fa14: 1317760538089559_122125762521480728",
-  "13:31:10 READY d915c667 Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas (auto-approved)",
-  "13:31:46 POSTED instagram@Vinzap-Finds d915c667: 18271939924305346",
-  "13:31:51 POSTED facebook@Vinzap-Finds d915c667: 1021295017658746",
-  "13:31:53 FAILED post facebook@Vijayendra-Singh d915c667: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes7k--97CMgB8EKx69SoePcyjGAmGW0_0px3qpBviEh4pgbz0jMfCKtX4cCW1QLSM2JKU0EnO0ZXW5eMevu3jbl6uYnQ1IL1Tx3GsMnN9cUvMC4MA4RwW3G2wq419RaneKaF9yx1ZPhCX-VyIsUCCT0KlUCOpm1m_roYcxYC7-l1r5kWHpJExlhpAMal51zEuzBYBVcIIJnFtZ4erlYntpDtLwWTh94UThOteCslOS0PUbFo0cNTgHmNmhO05NIxOtvvuQtspCv6H2_kdAFzVNoT9AdUwMMt8a5bCm5ajmftSvYpmtsWtbEe0CSmiff5xQ\",\"help_cente",
   "13:32:26 STORY POSTED instagram@Vinzap-Finds d915c667",
   "13:32:37 STORY POSTED facebook@Vinzap-Finds d915c667",
   "14:01:01 READY a947ea5e Leakproof Sports Water Bottle 500 ml (auto-approved)",
@@ -5661,13 +5654,20 @@
   "21:00:48 READY 64336ac6 Kitchen Prep Combo of 3 (auto-approved)",
   "21:00:59 POSTED instagram@Vinzap-Finds 64336ac6: 18107396006243566",
   "21:01:03 POSTED facebook@Vinzap-Finds 64336ac6: 1428352113685678_122115577041501659",
-  "21:01:06 POSTED facebook@Vijayendra-Singh 64336ac6: 1317760538089559_122126252625480728"
+  "21:01:06 POSTED facebook@Vijayendra-Singh 64336ac6: 1317760538089559_122126252625480728",
+  "21:31:53 READY 91cab64d Dish Brush Set | Cooking (auto-approved)",
+  "21:32:28 POSTED instagram@Vinzap-Finds 91cab64d: 17941145484388095",
+  "21:32:32 POSTED facebook@Vinzap-Finds 91cab64d: 1843380813350512",
+  "21:32:33 FAILED post facebook@Vijayendra-Singh 91cab64d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetgNBSO7B4pRESi0sBQSP-oafu01nlFvyGqDhqkDwiYNAZ9NKPDmKrbBQydshtHo6Kwn9UeUe311AuHCBMPyNhwcOhFpP_vFrQsr2S9Bc6UCPEd3XRj-e5Ji81KMoJy-eh7rmebyua-K1_Fv1bFcjmHne7lgKTcTvuEvHwT7vkOPMaHyhWTirhNzjBSpXqTDfcUeZQhmg80e0HTqBpr8RA5NDZ3hZmbosM8uuwMr5IMUs0M4NbwYHvHTy3TCLUB5paWW0ENGlwtaH3HbSpNDnSGXjB5eh6uNfsHaaQnlmJ62PTAmwGW1oHEkd5_MRZx-eOQ\",\"help_cent",
+  "21:32:33 FAILED post youtube 91cab64d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "21:33:04 STORY POSTED instagram@Vinzap-Finds 91cab64d",
+  "21:33:13 STORY POSTED facebook@Vinzap-Finds 91cab64d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793806248.2113533,
-  "facebook@Vinzap-Finds": 1793806248.2113533,
-  "facebook@Vijayendra-Singh": 1793806248.2113533,
-  "youtube": 1793796910.837635
+  "instagram@Vinzap-Finds": 1793808113.2255058,
+  "facebook@Vinzap-Finds": 1793808113.2255058,
+  "facebook@Vijayendra-Singh": 1793808113.2255058,
+  "youtube": 1793808113.2255058
  },
- "n": 370
+ "n": 371
 }
