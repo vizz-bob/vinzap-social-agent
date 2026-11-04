@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "bfc8a4c4",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Car Shape Kids Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Cute car shape with rolling wheels",
-     "Complete set with spoon and fork",
-     "Transparent inner tray included"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Car Shape Kids Lunch Box | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Car Shape Kids Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCar Shape Kids Lunch Box\n✔ Cute car shape with rolling wheels\n✔ Complete set with spoon and fork\n✔ Transparent inner tray included\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#cooking #homedecor",
-   "title": "Car Shape Kids Lunch Box | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793458874.848694,
-     "id": "17908993269570914",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793458874.848694,
-     "id": "1755576465516254",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793458874.848694,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetv3DBmBBd4a8It9vw6eMNpep"
-    }
-   },
-   "created": 1793458853.237495,
-   "after": 0,
-   "handle": "car-shape-kids-lunch-box-with-wheels-spoon-and-fork-for-school-tiffin-1-set",
-   "product_url": "https://www.vinzapstore.in/products/car-shape-kids-lunch-box-with-wheels-spoon-and-fork-for-school-tiffin-1-set",
-   "file": "bfc8a4c4.mp4",
-   "thumb": "bfc8a4c4_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18111555893525051"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2134478307434813"
-    }
-   }
-  },
-  {
    "id": "647603d6",
    "status": "posted",
    "kind": "image",
@@ -5465,16 +5393,82 @@
    "product_url": "https://www.vinzapstore.in/products/unbreakable-plastic-drinking-mug-with-handle-for-coffee-tea-and-milk-1-pc",
    "file": "5562c6fa.jpg",
    "thumb": "5562c6fa.jpg"
+  },
+  {
+   "id": "65ede5ff",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ganesh Classic Glass Set of 6, 350 ml Each",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 429,
+    "was": 0,
+    "feats": [
+     "6 Pieces of Transparent ABS",
+     "Colour: Transparent",
+     "Content : 6 pieces"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Ganesh Classic Glass Set of 6, 350 ml Each | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ganesh Classic Glass Set of 6, 350 ml Each"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGanesh Classic Glass Set of 6, 350 ml Each\n✔ 6 Pieces of Transparent ABS\n✔ Colour: Transparent\n✔ Content : 6 pieces\n\nOnly ₹429. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Ganesh Classic Glass Set of 6, 350 ml Each | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793790082.5346184,
+     "id": "17993926632051181",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793790082.5346184,
+     "id": "1307358098183014",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793790082.5346184,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetyYUAV8IeaELYhornNMQqpFR"
+    }
+   },
+   "created": 1793790056.5465958,
+   "after": 0,
+   "handle": "ganesh-classic-glass-set-of-6-each-glass-350ml",
+   "product_url": "https://www.vinzapstore.in/products/ganesh-classic-glass-set-of-6-each-glass-350ml",
+   "file": "65ede5ff.mp4",
+   "thumb": "65ede5ff_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18063105404573872"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4506929932904367"
+    }
+   }
   }
  ],
- "last_post": 1793788278.071754,
+ "last_post": 1793790082.5346184,
  "log": [
-  "19:46:06 READY b7ef3d8c Square Ice Cube Mould Set of 4 | Kitchen Organization (auto-approved)",
-  "19:46:37 POSTED instagram@Vinzap-Finds b7ef3d8c: 17985965088066605",
-  "19:46:42 POSTED facebook@Vinzap-Finds b7ef3d8c: 3337075389815000",
-  "19:46:42 FAILED post facebook@Vijayendra-Singh b7ef3d8c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesew7W65ui6NqpabEAguPHptYh2Zs016tJ65_j54GzVixTCd5OrazPyp5I7xbuE6mGEmKdJPE6niXvLM1BM63t1obRZNciuzgDNSzBm3ThwRcSRyUqZtTD5A0FJb5MNVqejaA4k7HIo-HnU6iRm-JnIwO04hskM4i3tn6Uah6Zoxx8XEl1gO61v1sHhaj6Qkasli4VOvOgxZuyC8WGq47cvYxlYivJFUyhZr5iTMRvI40Dk780boAsTKcaquvLvdGxg0eoMbGnZbDp7x01xHo3A_KkSYlZcsl8-UVyL_wFbh-eJDUX0ISvp9iy8MwAgtzmC\",\"help_cent",
-  "19:47:11 STORY POSTED instagram@Vinzap-Finds b7ef3d8c",
-  "19:47:20 STORY POSTED facebook@Vinzap-Finds b7ef3d8c",
   "20:17:50 READY aec58ad2 Foldable Cloth Organizer Basket (auto-approved)",
   "20:18:06 POSTED instagram@Vinzap-Finds aec58ad2: 18467148331188302",
   "20:18:08 POSTED facebook@Vinzap-Finds aec58ad2: 1428352113685678_122114969385501659",
@@ -5668,13 +5662,19 @@
   "16:01:18 READY 5562c6fa Unbreakable Plastic Mug (auto-approved)",
   "16:01:30 POSTED instagram@Vinzap-Finds 5562c6fa: 18100240220098108",
   "16:01:35 POSTED facebook@Vinzap-Finds 5562c6fa: 1428352113685678_122115511101501659",
-  "16:01:39 POSTED facebook@Vijayendra-Singh 5562c6fa: 1317760538089559_122126161401480728"
+  "16:01:39 POSTED facebook@Vijayendra-Singh 5562c6fa: 1317760538089559_122126161401480728",
+  "16:31:22 READY 65ede5ff Ganesh Classic Glass Set of 6, 350 ml Each | Kitchen Gadgets (auto-approved)",
+  "16:31:58 POSTED instagram@Vinzap-Finds 65ede5ff: 17993926632051181",
+  "16:32:03 POSTED facebook@Vinzap-Finds 65ede5ff: 1307358098183014",
+  "16:32:05 FAILED post facebook@Vijayendra-Singh 65ede5ff: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetyYUAV8IeaELYhornNMQqpFR5ZJm3BktXdo0H5T34jQfPZDbxocwVoqynkzmLpvUEcu_7ObU2XXuybIK-PAJmySGkg2kqu_sRhCt2xgiqfVsxq-ZdSwsI_5-V-ehp-j1a2by0LeM8xmwaIVcylF8PJTKOdk9b0VHivpA__xiJVqGk58tYaJo_4nzok9ZQsuBaAWJ8h_FUILBK5B5uj9gi23pCGeoq2nAZpzwEr-2jZ7IpM7obt0YEpZY1p1KflhS01tDVqwDALweWLwgvh4ZwmLgVg_GS4bCuSK7UNsivKpvH6aRrSctZM3t61iHycy3L4\",\"help_cent",
+  "16:32:36 STORY POSTED instagram@Vinzap-Finds 65ede5ff",
+  "16:32:45 STORY POSTED facebook@Vinzap-Finds 65ede5ff"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793788278.071754,
-  "facebook@Vinzap-Finds": 1793788278.071754,
-  "facebook@Vijayendra-Singh": 1793788278.071754,
+  "instagram@Vinzap-Finds": 1793790082.5346184,
+  "facebook@Vinzap-Finds": 1793790082.5346184,
+  "facebook@Vijayendra-Singh": 1793790082.5346184,
   "youtube": 1793786485.3952687
  },
- "n": 360
+ "n": 361
 }
