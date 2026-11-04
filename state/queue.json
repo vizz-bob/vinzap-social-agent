@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "711046be",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Fish Scaler Scraper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Sharp serrated scraper removes",
-     "Attached lid acts as a scale",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Fish Scaler Scraper | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fish Scaler Scraper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFish Scaler Scraper\n✔ Sharp serrated scraper removes\n✔ Attached lid acts as a scale\n✔ Comfortable handle gives a firm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#trendingshorts #kitchengadgets",
-   "title": "Fish Scaler Scraper | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793527277.2231061,
-     "id": "17924541462220360",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793527277.2231061,
-     "id": "1153073604132852",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793527277.2231061,
-     "id": "1473079921395427",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793527277.2231061,
-     "id": "3_wS576NV_8",
-     "dry": false
-    }
-   },
-   "created": 1793527250.3167264,
-   "after": 0,
-   "handle": "fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "file": "711046be.mp4",
-   "thumb": "711046be_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18097114985660409"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1659808245642147"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2965909850441969"
-    }
-   }
-  },
-  {
    "id": "717f28d0",
    "status": "posted",
    "kind": "image",
@@ -5458,16 +5375,82 @@
    "product_url": "https://www.vinzapstore.in/products/kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
    "file": "1078943c.jpg",
    "thumb": "1078943c.jpg"
+  },
+  {
+   "id": "9dc39e3e",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "LED Glow Drink Cup",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 439,
+    "was": 0,
+    "feats": [
+     "Colorful LED light effect",
+     "Comes with lid and straw for easy",
+     "Reusable and durable design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "LED Glow Drink Cup | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "LED Glow Drink Cup"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLED Glow Drink Cup\n✔ Colorful LED light effect\n✔ Comes with lid and straw for easy\n✔ Reusable and durable design\n\nOnly ₹439. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "LED Glow Drink Cup | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793811684.6930463,
+     "id": "18116808878035640",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793811684.6930463,
+     "id": "4730338373861246",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793811684.6930463,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuL1z1AJLcoB_wEHh9KRvfcXD"
+    }
+   },
+   "created": 1793811661.6958065,
+   "after": 0,
+   "handle": "led-glow-drink-cup-with-straw-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/led-glow-drink-cup-with-straw-1-pc",
+   "file": "9dc39e3e.mp4",
+   "thumb": "9dc39e3e_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18103194020568857"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1130480269461843"
+    }
+   }
   }
  ],
- "last_post": 1793809878.6596556,
+ "last_post": 1793811684.6930463,
  "log": [
-  "14:01:19 POSTED facebook@Vinzap-Finds a947ea5e: 1428352113685678_122115189105501659",
-  "14:01:23 POSTED facebook@Vijayendra-Singh a947ea5e: 1317760538089559_122125772481480728",
-  "14:31:08 READY d9dd96b2 Stylish Plastic Kitchen Dustbin | Kitchen Organization (auto-approved)",
-  "14:31:45 POSTED instagram@Vinzap-Finds d9dd96b2: 18398082583166226",
-  "14:31:50 POSTED facebook@Vinzap-Finds d9dd96b2: 1573740957841158",
-  "14:31:51 FAILED post facebook@Vijayendra-Singh d9dd96b2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJ9a3wnV2U4_3q6ojP9id0FEtshiodBn4NwDnvNcUEW10GBajMYS3qf0PXL_YwhzHBHhqmJHHDCZuDNaC0R6wxFOw8JUbJ0HmQKroUVjW0tGGOfq28RMHZmWoATglFBH3aeWhceVyjBjYeg7pD4j-lUcjqkWlj7_-p3yhM7wyeEAnE36oN13zbxlRCYailc0Me2q6iWsGZt2URjfXscnE7r_GHRT3AMmNl6omXPb4AgT0Y1TFwyN9vHF0MdYRqlr92buE3AK9IZMg_nkJiBIqqM5Xk3z4Yz9W3iXxS8VyG6KfTA5hKPmdzY7mQ7eXeI4s\",\"help_cente",
   "14:32:24 STORY POSTED instagram@Vinzap-Finds d9dd96b2",
   "14:32:33 STORY POSTED facebook@Vinzap-Finds d9dd96b2",
   "15:00:47 READY 8d03566b Chalkboard Sticker Labels (auto-approved)",
@@ -5661,13 +5644,19 @@
   "22:01:18 READY 1078943c Kitchen Dishwashing Glove (auto-approved)",
   "22:01:36 POSTED instagram@Vinzap-Finds 1078943c: 18123944251944075",
   "22:01:41 POSTED facebook@Vinzap-Finds 1078943c: 1428352113685678_122115590841501659",
-  "22:01:46 POSTED facebook@Vijayendra-Singh 1078943c: 1317760538089559_122126269509480728"
+  "22:01:46 POSTED facebook@Vijayendra-Singh 1078943c: 1317760538089559_122126269509480728",
+  "22:31:24 READY 9dc39e3e LED Glow Drink Cup | Trending Shorts (auto-approved)",
+  "22:32:02 POSTED instagram@Vinzap-Finds 9dc39e3e: 18116808878035640",
+  "22:32:08 POSTED facebook@Vinzap-Finds 9dc39e3e: 4730338373861246",
+  "22:32:09 FAILED post facebook@Vijayendra-Singh 9dc39e3e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuL1z1AJLcoB_wEHh9KRvfcXD9pUNI8aUkUy0qJOY-BJ1tO1kQc0q_8EI92zfB3vym_YnptSckfYl9aZ8Zi84mN3wUUpF2iHI7h3uoNrpm0D3y_J-ZERjfRg-BD39x8FaThg_JPe-WdVKA9NStGGKNDutzGaMixDYyuKtuRQdoVoTSJzAtgdfDAZywOFpi8rNh09QTEC2hZgeINHFKU5CpSh8gzp8tNYgUJ1PPTWMlMqvs4Oi1n9s5Kno2iBXajVf5mUvXeGiQoaw3cve1X6cbMou8nXxVThUeHrbu9iPNTKk8IJEEKBeSpY_VWljG1jOPD\",\"help_cent",
+  "22:32:45 STORY POSTED instagram@Vinzap-Finds 9dc39e3e",
+  "22:32:57 STORY POSTED facebook@Vinzap-Finds 9dc39e3e"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793809878.6596556,
-  "facebook@Vinzap-Finds": 1793809878.6596556,
-  "facebook@Vijayendra-Singh": 1793809878.6596556,
+  "instagram@Vinzap-Finds": 1793811684.6930463,
+  "facebook@Vinzap-Finds": 1793811684.6930463,
+  "facebook@Vijayendra-Singh": 1793811684.6930463,
   "youtube": 1793808113.2255058
  },
- "n": 372
+ "n": 373
 }
