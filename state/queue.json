@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "9580a8b7",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Egg Steamer Rack, Folding",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 269,
-    "was": 0,
-    "feats": [
-     "Sturdy stainless steel rack",
-     "Folding legs adjust between two",
-     "Fold height about 3.2 cm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Egg Steamer Rack, Folding"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Egg Steamer Rack, Folding\n✔ Sturdy stainless steel rack\n✔ Folding legs adjust between two\n✔ Fold height about 3.2 cm\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793451692.3340342,
-     "id": "18149061163539859",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793451692.3340342,
-     "id": "1459030256372305",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793451692.3340342,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesJhF_H24AdS9MUcuT2E6JRpf"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793451692.3340342,
-     "id": "XwXmXkA6giY",
-     "dry": false
-    }
-   },
-   "created": 1793451666.705768,
-   "after": 0,
-   "handle": "stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
-   "file": "9580a8b7.mp4",
-   "thumb": "9580a8b7_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17909558820330096"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1125409573469129"
-    }
-   }
-  },
-  {
    "id": "37229454",
    "status": "posted",
    "kind": "image",
@@ -5467,16 +5389,82 @@
    "product_url": "https://www.vinzapstore.in/products/apex-slant-lid-kitchen-storage-jar-set-2-pc",
    "file": "4e197694.jpg",
    "thumb": "4e197694.jpg"
+  },
+  {
+   "id": "971d53e0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Reusable Pizza Storage Container",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 699,
+    "was": 0,
+    "feats": [
+     "【Space Saving】The pizza storage",
+     "【Sealing & Keep Fresh】Each pizza",
+     "【Multifunction】Pizza container"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Reusable Pizza Storage Container | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Pizza Storage Container"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Pizza Storage Container\n✔ 【Space Saving】The pizza storage\n✔ 【Sealing & Keep Fresh】Each pizza\n✔ 【Multifunction】Pizza container\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
+   "title": "Reusable Pizza Storage Container | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793782900.5026011,
+     "id": "18642261334038715",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793782900.5026011,
+     "id": "1485595436790707",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793782900.5026011,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4XqoCz1HKpoOgg9akR8f-nP"
+    }
+   },
+   "created": 1793782881.354583,
+   "after": 0,
+   "handle": "10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
+   "product_url": "https://www.vinzapstore.in/products/10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
+   "file": "971d53e0.mp4",
+   "thumb": "971d53e0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18100904690387127"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1467776798618642"
+    }
+   }
   }
  ],
- "last_post": 1793781049.9445858,
+ "last_post": 1793782900.5026011,
  "log": [
-  "17:46:19 READY 4b6bdf27 20 Litre Water Can Dispenser Stand | Kitchen Organization (auto-approved)",
-  "17:46:47 POSTED instagram@Vinzap-Finds 4b6bdf27: 18387101773230479",
-  "17:46:52 POSTED facebook@Vinzap-Finds 4b6bdf27: 3034052766962573",
-  "17:46:53 FAILED post facebook@Vijayendra-Singh 4b6bdf27: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetCwTBMTB_DoRCoFxEkahlvU_09WlU9Kmd9EQVc6j4fGSe7wMMrDK4R8CV6-OgoVTF-6_KXC-SuevPURS6wkSnoP8WYLC-YMsQl9EKq5gNxNOBdOd64-OUcIMCgLPrz9eBXBdciFLEzwejE43Zs_4diC2um1P_3FeZheGmZrdlHgxGXj8lgYJ9TEQYKvv7v3aem6K9JSuLjgpXq5MXPbPtuYggane_LQDjanioUR3Ltlc5V3v46d7Dr4BDrqDEVZsfNKCFYWobUkCobUmrilQsorpFAAily0xkbxWLz9nkHudFP_u2CSqpbcABFC7r38g9i\",\"help_cent",
-  "17:47:23 STORY POSTED instagram@Vinzap-Finds 4b6bdf27",
-  "17:47:32 STORY POSTED facebook@Vinzap-Finds 4b6bdf27",
   "18:15:41 READY 898372a4 Snack Caddy Tray (auto-approved)",
   "18:15:45 FAILED post instagram@Vinzap-Finds 898372a4: HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"A95zHJo8hKVXK9zay1Y4PAz\"}}",
   "18:15:48 POSTED facebook@Vinzap-Finds 898372a4: 1428352113685678_122114933253501659",
@@ -5670,13 +5658,19 @@
   "14:00:49 READY 4e197694 Slant Lid Kitchen Storage Jar Set (auto-approved)",
   "14:01:01 POSTED instagram@Vinzap-Finds 4e197694: 18174931582462496",
   "14:01:05 POSTED facebook@Vinzap-Finds 4e197694: 1428352113685678_122115484779501659",
-  "14:01:09 POSTED facebook@Vijayendra-Singh 4e197694: 1317760538089559_122126133651480728"
+  "14:01:09 POSTED facebook@Vijayendra-Singh 4e197694: 1317760538089559_122126133651480728",
+  "14:31:40 READY 971d53e0 Reusable Pizza Storage Container | Trending Shorts (auto-approved)",
+  "14:32:20 POSTED instagram@Vinzap-Finds 971d53e0: 18642261334038715",
+  "14:32:25 POSTED facebook@Vinzap-Finds 971d53e0: 1485595436790707",
+  "14:32:25 FAILED post facebook@Vijayendra-Singh 971d53e0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4XqoCz1HKpoOgg9akR8f-nPHeH2dxcgHNoCeEPgZA8eeJHlSKdMQaFQGCrR3g0K4STX2yA_uSnwo5CFC63D-AUw89i4JIUY30fKMQyfaE689vYwyIq8iRbw4gSYdn8dhZsYcpU0mn1WXVLDdNYVbS76wj67WES3l3yFrovJXPqVV0f-SgLeR-V8hB4QfO2gZB4lxCUiPkvUr4Fk8GgdfCsmXXCMbUFdAFWGBL5CqsDzjGwTQTEEDvDVz9BYgW4VFn9qOq-j2HH-Wd9Z0D23qgBbJXFz8ZXrvKVBdd81AVl6G9V5O31P593EGA860QMug\",\"help_cente",
+  "14:33:01 STORY POSTED instagram@Vinzap-Finds 971d53e0",
+  "14:33:10 STORY POSTED facebook@Vinzap-Finds 971d53e0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793781049.9445858,
-  "facebook@Vinzap-Finds": 1793781049.9445858,
-  "facebook@Vijayendra-Singh": 1793781049.9445858,
+  "instagram@Vinzap-Finds": 1793782900.5026011,
+  "facebook@Vinzap-Finds": 1793782900.5026011,
+  "facebook@Vijayendra-Singh": 1793782900.5026011,
   "youtube": 1793775686.2657635
  },
- "n": 356
+ "n": 357
 }
