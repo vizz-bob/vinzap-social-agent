@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "304366ee",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Extra Large Leakproof Water Bottle 1700ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "Extra large 1700 ML capacity",
-     "Leakproof screw cap lid to avoid",
-     "Carry strap for easy handling"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Extra Large Leakproof Water Bottle 1700ml | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Extra Large Leakproof Water Bottle 1700ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nExtra Large Leakproof Water Bottle 1700ml\n✔ Extra large 1700 ML capacity\n✔ Leakproof screw cap lid to avoid\n✔ Carry strap for easy handling\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#cooking #homedecor",
-   "title": "Extra Large Leakproof Water Bottle 1700ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793446267.3971498,
-     "id": "18112652978183490",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793446267.3971498,
-     "id": "1428352113685678_122114314803501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793446267.3971498,
-     "id": "1317760538089559_122124851583480728",
-     "dry": false
-    }
-   },
-   "created": 1793446264.8055112,
-   "after": 0,
-   "handle": "extra-large-leakproof-water-bottle-1-pc-1700ml-approx",
-   "product_url": "https://www.vinzapstore.in/products/extra-large-leakproof-water-bottle-1-pc-1700ml-approx",
-   "file": "304366ee.jpg",
-   "thumb": "304366ee.jpg"
-  },
-  {
    "id": "d0bb2602",
    "status": "scheduled",
    "kind": "reel",
@@ -5462,14 +5400,72 @@
      "id": "1838140063981413"
     }
    }
+  },
+  {
+   "id": "8a2f8c87",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Manual Garlic Press Crusher",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Efficient garlic crushing",
+     "Ergonomic handle for comfortable",
+     "Manual press mechanism"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Manual Garlic Press Crusher | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Garlic Press Crusher"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Garlic Press Crusher\n✔ Efficient garlic crushing\n✔ Ergonomic handle for comfortable\n✔ Manual press mechanism\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Manual Garlic Press Crusher",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793777449.4522598,
+     "id": "18416855671085893",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793777449.4522598,
+     "id": "1428352113685678_122115473637501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793777449.4522598,
+     "id": "1317760538089559_122126123463480728",
+     "dry": false
+    }
+   },
+   "created": 1793777446.764495,
+   "after": 0,
+   "handle": "manual-garlic-press-crusher-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/manual-garlic-press-crusher-tool-1-pc",
+   "file": "8a2f8c87.jpg",
+   "thumb": "8a2f8c87.jpg"
   }
  ],
- "last_post": 1793775686.2657635,
+ "last_post": 1793777449.4522598,
  "log": [
-  "15:47:15 STORY POSTED facebook@Vinzap-Finds 3bb6cb2d",
-  "16:15:47 READY c53f6f97 Food Grade Cling Wrap Bags,  300x300mm (auto-approved)",
-  "16:16:02 POSTED instagram@Vinzap-Finds c53f6f97: 18416688322086206",
-  "16:16:06 POSTED facebook@Vinzap-Finds c53f6f97: 1428352113685678_122114903559501659",
   "16:16:09 POSTED facebook@Vijayendra-Singh c53f6f97: 1317760538089559_122125495557480728",
   "16:46:03 READY 377a1783 1 Litre Sports Sipper Water Bottle | Kitchen Gadgets (auto-approved)",
   "16:46:40 POSTED instagram@Vinzap-Finds 377a1783: 18157252306521823",
@@ -5665,13 +5661,17 @@
   "12:32:10 FAILED post facebook@Vijayendra-Singh 132eeb15: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu47I8u0w-ijZ4xk8opUXAId_RHhZqBQnJf_9NkNxK7EcNze5zhpVwTWyJz3lbWiFbZZCmCqGzlr189jTyIBIpyUn2Cp-K8MZtcI88U2WrvBvE5rNIWxamQf8eAaY_PzG8nnK6qDCQMIu91k1ewpyKeHW-w2lbdrbxfv8M7XaBv2FVubP9kWldJbJ02T_6jQ9KkeSeambnoLrX8KgiiJwBSGn44dv8jQnUNXRpawpEzKhYYlqBA9h4xvJmpJSUD-HtK473htSQN_VT3zOg7iGb8eqtlkJBsvMlXbg9A33Z4-N9fTDNu3xRSCAFWklGv4Q\",\"help_center",
   "12:32:16 POSTED youtube 132eeb15: EVGFz5P0FpU",
   "12:32:47 STORY POSTED instagram@Vinzap-Finds 132eeb15",
-  "12:32:54 STORY POSTED facebook@Vinzap-Finds 132eeb15"
+  "12:32:54 STORY POSTED facebook@Vinzap-Finds 132eeb15",
+  "13:00:49 READY 8a2f8c87 Manual Garlic Press Crusher (auto-approved)",
+  "13:01:02 POSTED instagram@Vinzap-Finds 8a2f8c87: 18416855671085893",
+  "13:01:05 POSTED facebook@Vinzap-Finds 8a2f8c87: 1428352113685678_122115473637501659",
+  "13:01:09 POSTED facebook@Vijayendra-Singh 8a2f8c87: 1317760538089559_122126123463480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793775686.2657635,
-  "facebook@Vinzap-Finds": 1793775686.2657635,
-  "facebook@Vijayendra-Singh": 1793775686.2657635,
+  "instagram@Vinzap-Finds": 1793777449.4522598,
+  "facebook@Vinzap-Finds": 1793777449.4522598,
+  "facebook@Vijayendra-Singh": 1793777449.4522598,
   "youtube": 1793775686.2657635
  },
- "n": 353
+ "n": 354
 }
