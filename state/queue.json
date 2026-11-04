@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "da8d2774",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Paring Knife",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Surgical-grade stainless steel",
-     "Serrated edge ensures smooth",
-     "Ergonomic handle for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Paring Knife | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Paring Knife"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Paring Knife\n✔ Surgical-grade stainless steel\n✔ Serrated edge ensures smooth\n✔ Ergonomic handle for comfortable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Paring Knife | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793455283.3418052,
-     "id": "18147671164553351",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793455283.3418052,
-     "id": "1057471290676289",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793455283.3418052,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuxeuKw7pMpC1-rvaMWZu-Y9Q"
-    }
-   },
-   "created": 1793455257.4711397,
-   "after": 0,
-   "handle": "supermom-premium-stainless-steel-paring-knife-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-stainless-steel-paring-knife-1-pc",
-   "file": "da8d2774.mp4",
-   "thumb": "da8d2774_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17899866552395792"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1119897584235393"
-    }
-   }
-  },
-  {
    "id": "497eb695",
    "status": "posted",
    "kind": "image",
@@ -5459,17 +5387,88 @@
    "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
    "file": "8baa2a2b.jpg",
    "thumb": "8baa2a2b.jpg"
+  },
+  {
+   "id": "3f820062",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Manual Melon Slicer Cutter",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Wide slotted head slices soft",
+     "Doubles as a scoop that lifts out",
+     "Long ergonomic handle keeps hands"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Manual Melon Slicer Cutter | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Melon Slicer Cutter"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Melon Slicer Cutter\n✔ Wide slotted head slices soft\n✔ Doubles as a scoop that lifts out\n✔ Long ergonomic handle keeps hands\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Manual Melon Slicer Cutter | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793786485.3952687,
+     "id": "18135622804774607",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793786485.3952687,
+     "id": "1511258297496770",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793786485.3952687,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6D9hQEgJd2vF3cl85w28Cf"
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1793786485.3952687,
+     "id": "tJiUAUOYwoU",
+     "dry": false
+    }
+   },
+   "created": 1793786459.2897124,
+   "after": 0,
+   "handle": "manual-melon-slicer-cutter-tool-for-watermelon-avocado-and-fruits-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/manual-melon-slicer-cutter-tool-for-watermelon-avocado-and-fruits-1-pc",
+   "file": "3f820062.mp4",
+   "thumb": "3f820062_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18122341873946124"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3521850067990368"
+    }
+   }
   }
  ],
- "last_post": 1793784653.4675052,
+ "last_post": 1793786485.3952687,
  "log": [
-  "18:46:25 READY 4fabd71a Supermom Plastic Faluda Glass Set 300ml Set | Home Decor (auto-approved)",
-  "18:47:04 POSTED instagram@Vinzap-Finds 4fabd71a: 18137728573641071",
-  "18:47:09 POSTED facebook@Vinzap-Finds 4fabd71a: 2370757300402709",
-  "18:47:11 FAILED post facebook@Vijayendra-Singh 4fabd71a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesxaVds7j4ih7pX1GRPspImi2iCDkEpp2zbLjNL1Jxs_kA16yjcRDsAa3f90i6Xt7cd-AeJm99UAbsrusaIn6uHvqBoJXvgazxnfzNMBoxjtAYBI4BgodRZF2C0lFlUiz7W7wZ0M7jjP5kYUG30PJYoPYV1dwblMkJ4mlE9Z6M7VSEKhL5JtTjyanE6u3_pouvILs4Ep8mTktH35JfJRaWT-OXBA29e830Wl59XwI606RJ3HE4yH7fcWSb_B30A4l2VW-CzET6OeUalbEnSZL5XZd0v-EUOtjfF60dUpWmVhhwRzCocqwMf8Cgafa4vaTk\",\"help_cente",
-  "18:47:16 POSTED youtube 4fabd71a: wUG_dXeto7Y",
-  "18:47:51 STORY POSTED instagram@Vinzap-Finds 4fabd71a",
-  "18:48:03 STORY POSTED facebook@Vinzap-Finds 4fabd71a",
   "19:15:39 READY 7e7effae Leak Proof Lunch Box (auto-approved)",
   "19:15:51 POSTED instagram@Vinzap-Finds 7e7effae: 17940192396404397",
   "19:15:54 POSTED facebook@Vinzap-Finds 7e7effae: 1428352113685678_122114947713501659",
@@ -5662,13 +5661,20 @@
   "15:00:53 READY 8baa2a2b Lollipop Candy Maker Machine, Pink (auto-approved)",
   "15:01:07 POSTED instagram@Vinzap-Finds 8baa2a2b: 18681776518004181",
   "15:01:11 POSTED facebook@Vinzap-Finds 8baa2a2b: 1428352113685678_122115496719501659",
-  "15:01:15 POSTED facebook@Vijayendra-Singh 8baa2a2b: 1317760538089559_122126149047480728"
+  "15:01:15 POSTED facebook@Vijayendra-Singh 8baa2a2b: 1317760538089559_122126149047480728",
+  "15:31:25 READY 3f820062 Manual Melon Slicer Cutter | Kitchen Gadgets (auto-approved)",
+  "15:31:59 POSTED instagram@Vinzap-Finds 3f820062: 18135622804774607",
+  "15:32:05 POSTED facebook@Vinzap-Finds 3f820062: 1511258297496770",
+  "15:32:06 FAILED post facebook@Vijayendra-Singh 3f820062: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6D9hQEgJd2vF3cl85w28CfnrIDPmCRG5Wac7fKXqDykt97CkmwHfyZJWDHCN0iQ6NLXljBvFXYXp63UToZ6V2tZ5wz6QW5G-702Fosx-S2-I29jwdQ_nQ0aa87irq5oJIE79NrAphK9qK3qMYPyWDjRaphXLRdkFBRBGPKzHfXAHH6CuInPFR9OectQXQDtGJU_90jrGqYWQT2B2W5jVsJhPdmxdB0qVRc3sJDW71cXpPpgsBZ0ypazSYVtw4B5udVOFSZXE5xD32eb4PYekLU-EB55HYlIPpPO5mE_pIzPeXkfSLblsR5UuBcM-SZ3_\",\"help_cent",
+  "15:32:12 POSTED youtube 3f820062: tJiUAUOYwoU",
+  "15:32:46 STORY POSTED instagram@Vinzap-Finds 3f820062",
+  "15:32:57 STORY POSTED facebook@Vinzap-Finds 3f820062"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793784653.4675052,
-  "facebook@Vinzap-Finds": 1793784653.4675052,
-  "facebook@Vijayendra-Singh": 1793784653.4675052,
-  "youtube": 1793775266.2657635
+  "instagram@Vinzap-Finds": 1793786485.3952687,
+  "facebook@Vinzap-Finds": 1793786485.3952687,
+  "facebook@Vijayendra-Singh": 1793786485.3952687,
+  "youtube": 1793786485.3952687
  },
- "n": 358
+ "n": 359
 }
