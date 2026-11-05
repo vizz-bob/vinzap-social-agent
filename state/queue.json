@@ -1,82 +1,6 @@
 {
  "items": [
   {
-   "id": "8aa705fe",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Fresca Stainless Steel Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 879,
-    "was": 0,
-    "feats": [
-     "Fresca Stainless Steel 3"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Fresca Stainless Steel Lunch Box | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fresca Stainless Steel Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFresca Stainless Steel Lunch Box\n✔ Fresca Stainless Steel 3\n\nOnly ₹879. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchengadgets #kitchenorganization",
-   "title": "Fresca Stainless Steel Lunch Box | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793538074.088842,
-     "id": "18134250388683921",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793538074.088842,
-     "id": "4539654316350769",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793538074.088842,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuvOfxdLOtV2RlF6WawHHjtQC"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793538074.088842,
-     "id": "bSeayeQn-_8",
-     "dry": false
-    }
-   },
-   "created": 1793538052.534418,
-   "after": 0,
-   "handle": "fresca-stainless-steel-3-compartment-lunch-box-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/fresca-stainless-steel-3-compartment-lunch-box-1-pc",
-   "file": "8aa705fe.mp4",
-   "thumb": "8aa705fe_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18001998066031791"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "987363807755216"
-    }
-   }
-  },
-  {
    "id": "bd681400",
    "status": "posted",
    "kind": "image",
@@ -5447,16 +5371,82 @@
    "product_url": "https://www.vinzapstore.in/products/flexible-kitchen-water-faucet-sprayer-with-rotating-tap-head-for-sink-use-1-pc",
    "file": "33accc00.jpg",
    "thumb": "33accc00.jpg"
+  },
+  {
+   "id": "d0062d47",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Premium Plastic Tea and Coffee Cup Mug",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "【ENJOY YOUR MUGS】 - Plastic cup",
+     "【MULTI PURPOSES】 - Perfect",
+     "【HIGH QUANTITY】 - Premium plastic"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Premium Plastic Tea and Coffee Cup Mug | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Premium Plastic Tea and Coffee Cup Mug"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Plastic Tea and Coffee Cup Mug\n✔ 【ENJOY YOUR MUGS】 - Plastic cup\n✔ 【MULTI PURPOSES】 - Perfect\n✔ 【HIGH QUANTITY】 - Premium plastic\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#diwali #trendingshorts",
+   "title": "Premium Plastic Tea and Coffee Cup Mug | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": false,
+     "ts": 1793869269.3712502,
+     "error": "HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793869269.3712502,
+     "id": "1524044156224358",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793869269.3712502,
+     "id": "1426098805807005",
+     "dry": false
+    }
+   },
+   "created": 1793869252.033958,
+   "after": 0,
+   "handle": "premium-plastic-coffee-tea-cups-mug-with-handle-1-pc-with-color-box-mix-color",
+   "product_url": "https://www.vinzapstore.in/products/premium-plastic-coffee-tea-cups-mug-with-handle-1-pc-with-color-box-mix-color",
+   "file": "d0062d47.mp4",
+   "thumb": "d0062d47_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1051327024650423"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2072024513518288"
+    }
+   }
   }
  ],
- "last_post": 1793867461.0886288,
+ "last_post": 1793869269.3712502,
  "log": [
-  "17:02:04 POSTED facebook@Vijayendra-Singh 2195a2fe: 1317760538089559_122125842273480728",
-  "17:31:14 READY 9b17bf8f Push Soap Dispenser 300ml | Trending Shorts (auto-approved)",
-  "17:31:50 POSTED instagram@Vinzap-Finds 9b17bf8f: 17890357581622703",
-  "17:31:54 POSTED facebook@Vinzap-Finds 9b17bf8f: 1118511830777972",
-  "17:31:55 FAILED post facebook@Vijayendra-Singh 9b17bf8f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuo3FBQrLLqKyTimALKJc3lvVUi8rdWILyKcoOH8b8ZFdcreO-ZG0eHzElEaRzRPrh2N-lV5BB-tOwaB6BV8O12rpeKJ3Pe1sM0SX-91JXhLvPMt7L4SXBdjqnD1-N-b52y78WpO0o9AuXOj21IzlNusJzMwwMXt6NMGKfXbGhox8-gGvDQ01CPjraOsIEdK1KBKArXNGU04HX8n7YN6-mTSnFqdrUX9zk984sFvuWqyZ4tA8lm70syT8FklbwIpNK9DoM0KI-CbyTUpOfUBDvW-EF0U3xDI1O0_POpfI_roKfjpUOnUYuq83G0LiFV0VhJ\",\"help_cent",
-  "17:32:26 STORY POSTED instagram@Vinzap-Finds 9b17bf8f",
   "17:32:34 STORY POSTED facebook@Vinzap-Finds 9b17bf8f",
   "18:00:49 READY baf3a3c9 Disposable Small Plastic Gloves (auto-approved)",
   "18:00:55 FAILED post instagram@Vinzap-Finds baf3a3c9: HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"Aqn1FOJ1SZh6XNZwq9y1iFT\"}}",
@@ -5650,13 +5640,19 @@
   "14:01:01 READY 33accc00 Kitchen Faucet Sprayer (auto-approved)",
   "14:01:09 POSTED instagram@Vinzap-Finds 33accc00: 17989986168116295",
   "14:01:12 POSTED facebook@Vinzap-Finds 33accc00: 1428352113685678_122115777045501659",
-  "14:01:16 POSTED facebook@Vijayendra-Singh 33accc00: 1317760538089559_122126509881480728"
+  "14:01:16 POSTED facebook@Vijayendra-Singh 33accc00: 1317760538089559_122126509881480728",
+  "14:31:09 READY d0062d47 Premium Plastic Tea and Coffee Cup Mug | Diwali (auto-approved)",
+  "14:31:45 FAILED post instagram@Vinzap-Finds d0062d47: HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
+  "14:31:50 POSTED facebook@Vinzap-Finds d0062d47: 1524044156224358",
+  "14:31:53 POSTED facebook@Vijayendra-Singh d0062d47: 1426098805807005",
+  "14:32:04 STORY POSTED facebook@Vinzap-Finds d0062d47",
+  "14:32:15 STORY POSTED facebook@Vijayendra-Singh d0062d47"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793867461.0886288,
-  "facebook@Vinzap-Finds": 1793867461.0886288,
-  "facebook@Vijayendra-Singh": 1793867461.0886288,
+  "instagram@Vinzap-Finds": 1793869269.3712502,
+  "facebook@Vinzap-Finds": 1793869269.3712502,
+  "facebook@Vijayendra-Singh": 1793869269.3712502,
   "youtube": 1793862080.425796
  },
- "n": 378
+ "n": 379
 }
