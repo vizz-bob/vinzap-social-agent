@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "bd681400",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "18 Grid Pop Up Ice Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "18 cubes per tray",
-     "Flexible silicone base",
-     "Lid helps stop freezer odours"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "18 Grid Pop Up Ice Tray | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "18 Grid Pop Up Ice Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n18 Grid Pop Up Ice Tray\n✔ 18 cubes per tray\n✔ Flexible silicone base\n✔ Lid helps stop freezer odours\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "18 Grid Pop Up Ice Tray",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793539851.5345817,
-     "id": "17952736740301734",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793539851.5345817,
-     "id": "1428352113685678_122114648067501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793539851.5345817,
-     "id": "1317760538089559_122125217769480728",
-     "dry": false
-    }
-   },
-   "created": 1793539849.2917666,
-   "after": 0,
-   "handle": "premium-18grid-pop-up-ice-tray-with-lid-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/premium-18grid-pop-up-ice-tray-with-lid-1-pc",
-   "file": "bd681400.jpg",
-   "thumb": "bd681400.jpg"
-  },
-  {
    "id": "6ab180e1",
    "status": "scheduled",
    "kind": "reel",
@@ -5443,14 +5381,72 @@
      "id": "2072024513518288"
     }
    }
+  },
+  {
+   "id": "8d960c66",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Serving Bowls 360ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Disposable design for quick",
+     "Suitable for dry and semi-liquid",
+     "Sturdy structure helps prevent"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Disposable Serving Bowls 360ml | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Serving Bowls 360ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Serving Bowls 360ml\n✔ Disposable design for quick\n✔ Suitable for dry and semi-liquid\n✔ Sturdy structure helps prevent\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Disposable Serving Bowls 360ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793871066.589961,
+     "id": "18024506927943617",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793871066.589961,
+     "id": "1428352113685678_122115790365501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793871066.589961,
+     "id": "1317760538089559_122126543013480728",
+     "dry": false
+    }
+   },
+   "created": 1793871064.1765158,
+   "after": 0,
+   "handle": "vegnar-disposable-food-serving-bowl-set-of-10-pieces-360-ml-capacity",
+   "product_url": "https://www.vinzapstore.in/products/vegnar-disposable-food-serving-bowl-set-of-10-pieces-360-ml-capacity",
+   "file": "8d960c66.jpg",
+   "thumb": "8d960c66.jpg"
   }
  ],
- "last_post": 1793869269.3712502,
+ "last_post": 1793871066.589961,
  "log": [
-  "17:32:34 STORY POSTED facebook@Vinzap-Finds 9b17bf8f",
-  "18:00:49 READY baf3a3c9 Disposable Small Plastic Gloves (auto-approved)",
-  "18:00:55 FAILED post instagram@Vinzap-Finds baf3a3c9: HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"Aqn1FOJ1SZh6XNZwq9y1iFT\"}}",
-  "18:00:59 POSTED facebook@Vinzap-Finds baf3a3c9: 1428352113685678_122115245475501659",
   "18:01:02 POSTED facebook@Vijayendra-Singh baf3a3c9: 1317760538089559_122125856001480728",
   "18:31:28 READY be508921 Natural Bamboo Skewers | Home Decor Ideas (auto-approved)",
   "18:32:09 POSTED instagram@Vinzap-Finds be508921: 17995262244060436",
@@ -5646,13 +5642,17 @@
   "14:31:50 POSTED facebook@Vinzap-Finds d0062d47: 1524044156224358",
   "14:31:53 POSTED facebook@Vijayendra-Singh d0062d47: 1426098805807005",
   "14:32:04 STORY POSTED facebook@Vinzap-Finds d0062d47",
-  "14:32:15 STORY POSTED facebook@Vijayendra-Singh d0062d47"
+  "14:32:15 STORY POSTED facebook@Vijayendra-Singh d0062d47",
+  "15:01:06 READY 8d960c66 Disposable Serving Bowls 360ml (auto-approved)",
+  "15:01:21 POSTED instagram@Vinzap-Finds 8d960c66: 18024506927943617",
+  "15:01:25 POSTED facebook@Vinzap-Finds 8d960c66: 1428352113685678_122115790365501659",
+  "15:01:29 POSTED facebook@Vijayendra-Singh 8d960c66: 1317760538089559_122126543013480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793869269.3712502,
-  "facebook@Vinzap-Finds": 1793869269.3712502,
-  "facebook@Vijayendra-Singh": 1793869269.3712502,
-  "youtube": 1793862080.425796
+  "instagram@Vinzap-Finds": 1793871066.589961,
+  "facebook@Vinzap-Finds": 1793871066.589961,
+  "facebook@Vijayendra-Singh": 1793871066.589961,
+  "youtube": 1793861660.425796
  },
- "n": 379
+ "n": 380
 }
