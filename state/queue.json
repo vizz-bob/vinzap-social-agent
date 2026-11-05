@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "3935402c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Glass Jug",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 719,
-    "was": 0,
-    "feats": [
-     "Large 1500ml Capacity Perfect",
-     "Crystal-Clear Body Offers",
-     "Unbreakable & Lightweight Durable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Glass Jug | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Glass Jug"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGlass Jug\n✔ Large 1500ml Capacity Perfect\n✔ Crystal-Clear Body Offers\n✔ Unbreakable & Lightweight Durable\n\nOnly ₹719. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Glass Jug | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793548878.5878348,
-     "id": "18141293188616722",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793548878.5878348,
-     "id": "1383143930560489",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793548878.5878348,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesRsHmha945MDEPVoxsBp9eKw"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793548878.5878348,
-     "id": "kXG3bu6Vksc",
-     "dry": false
-    }
-   },
-   "created": 1793548857.4614925,
-   "after": 0,
-   "handle": "apex-crystal-premium-jug-with-lid-4-pcs-glass-1500-ml-300-ml-approx-5-pcs-set",
-   "product_url": "https://www.vinzapstore.in/products/apex-crystal-premium-jug-with-lid-4-pcs-glass-1500-ml-300-ml-approx-5-pcs-set",
-   "file": "3935402c.mp4",
-   "thumb": "3935402c_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17980685040122900"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1142404358359588"
-    }
-   }
-  },
-  {
    "id": "a159618d",
    "status": "posted",
    "kind": "image",
@@ -5453,16 +5375,82 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
    "file": "a75c272c.jpg",
    "thumb": "a75c272c.jpg"
+  },
+  {
+   "id": "a8dbbf9d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Dinner Spoon",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Stainless steel dinner spoon",
+     "Decorative scalloped handle design",
+     "Rust-resistant and durable build"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Stainless Steel Dinner Spoon | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Dinner Spoon"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Dinner Spoon\n✔ Stainless steel dinner spoon\n✔ Decorative scalloped handle design\n✔ Rust-resistant and durable build\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Stainless Steel Dinner Spoon | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793880079.050335,
+     "id": "18196782865401253",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793880079.050335,
+     "id": "1157395576686998",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793880079.050335,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes10PlbBh2ds-7NlKwYoGOtpS"
+    }
+   },
+   "created": 1793880053.2382202,
+   "after": 0,
+   "handle": "stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
+   "file": "a8dbbf9d.mp4",
+   "thumb": "a8dbbf9d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18114523286147630"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "991783550028238"
+    }
+   }
   }
  ],
- "last_post": 1793878318.8072143,
+ "last_post": 1793880079.050335,
  "log": [
-  "20:31:34 READY 01ebca65 3 in 1 Anti Slip Bathroom Mat Set | Home Decor (auto-approved)",
-  "20:32:08 POSTED instagram@Vinzap-Finds 01ebca65: 18342027598274656",
-  "20:32:13 POSTED facebook@Vinzap-Finds 01ebca65: 1145147771190394",
-  "20:32:14 FAILED post facebook@Vijayendra-Singh 01ebca65: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeteWIWgqHIRe1piYvmfA6muYbEy-4qcwwhSKTd60zYWIBe1rTeyknt71QoA84Ed-RmMxLUFvWrCbs6FnaAcTvkPFVbe-_P8lq8lor44mprDAP9kffa8ZmXUZbl2qykLxw5gShUbg6Kr_XPVNMeUQQSyVTY5cg7hDdPsoUSf5KEcPMsVerC5aF7uRb5w9v5kNMIGkb8VCo2yRA_CwRyaXM1Vp5A1ktPC-pS-OseR3EAPRnKNqp4bVFJd2r16jjPR-skdYZTO5pLy2iLpgDbSGrkQpKIUn1kVSrXm7YAzoD3OI2oVSho-opamX6ECTiW6H2XK\",\"help_cent",
-  "20:32:44 STORY POSTED instagram@Vinzap-Finds 01ebca65",
-  "20:32:52 STORY POSTED facebook@Vinzap-Finds 01ebca65",
   "21:01:00 READY fe3231d4 Soft Facial Tissue Paper Napkins Set (auto-approved)",
   "21:01:13 POSTED instagram@Vinzap-Finds fe3231d4: 18497806981103165",
   "21:01:17 POSTED facebook@Vinzap-Finds fe3231d4: 1428352113685678_122115300279501659",
@@ -5656,13 +5644,19 @@
   "17:01:58 READY a75c272c 2-in-1 Oil Dispenser Bottle (auto-approved)",
   "17:02:10 POSTED instagram@Vinzap-Finds a75c272c: 18037620191849040",
   "17:02:14 POSTED facebook@Vinzap-Finds a75c272c: 1428352113685678_122115818925501659",
-  "17:02:20 POSTED facebook@Vijayendra-Singh a75c272c: 1317760538089559_122126574087480728"
+  "17:02:20 POSTED facebook@Vijayendra-Singh a75c272c: 1317760538089559_122126574087480728",
+  "17:31:19 READY a8dbbf9d Stainless Steel Dinner Spoon | Home Decor Ideas (auto-approved)",
+  "17:31:54 POSTED instagram@Vinzap-Finds a8dbbf9d: 18196782865401253",
+  "17:31:58 POSTED facebook@Vinzap-Finds a8dbbf9d: 1157395576686998",
+  "17:31:59 FAILED post facebook@Vijayendra-Singh a8dbbf9d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes10PlbBh2ds-7NlKwYoGOtpSjcu9gRiXivsvgsZDMPjV4VH64jnDNXoky7pIDHQnIOHg1rIlm7FTox-QaAsnexRq5MAL1wdmSL5ckQwWUk58ZrE85hxlYFZLKcyrymDM94KLWIuSCaIP34WgAvJ02Ui-BD5nVXh4_kf_2cyw7ba6yjgV2ydRxcyxijV_TLz-mtL2hrTMdTfSuMVBTNaybymL8klCRL5SW1OzQTp_7Fel2B_IPPyiNHYHMNXfOIeQ55SAscKEFZjsNadEUG0bfgELwZ_eVa5tqGlPdUSxbx345Ix6IxxwOv6VLLeqKPeTc\",\"help_cente",
+  "17:32:28 STORY POSTED instagram@Vinzap-Finds a8dbbf9d",
+  "17:32:37 STORY POSTED facebook@Vinzap-Finds a8dbbf9d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793878318.8072143,
-  "facebook@Vinzap-Finds": 1793878318.8072143,
-  "facebook@Vijayendra-Singh": 1793878318.8072143,
+  "instagram@Vinzap-Finds": 1793880079.050335,
+  "facebook@Vinzap-Finds": 1793880079.050335,
+  "facebook@Vijayendra-Singh": 1793880079.050335,
   "youtube": 1793872884.8677025
  },
- "n": 384
+ "n": 385
 }
