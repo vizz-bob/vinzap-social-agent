@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "3bb6cb2d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Transparent Stand-Up Zipper Pouch Jar Shape",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 239,
-    "was": 0,
-    "feats": [
-     "Large jar bags",
-     "Medium jar bags",
-     "Small jar bags"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Transparent Stand-Up Zipper Pouch Jar Shape"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Stand-Up Zipper Pouch Jar Shape\n✔ Large jar bags\n✔ Medium jar bags\n✔ Small jar bags\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchengadgets #kitchenorganization",
-   "title": "Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793614556.4237585,
-     "id": "17966323629212738",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793614556.4237585,
-     "id": "1790414235340087",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793614556.4237585,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeudwvqlJQ4Aev3YPK9aT0gdZ8"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793614556.4237585,
-     "id": "xxlXaKvht90",
-     "dry": false
-    }
-   },
-   "created": 1793614543.1286747,
-   "after": 0,
-   "handle": "0855-plastics-transparent-jar-shaped-stand-up-pouch-with-zipper",
-   "product_url": "https://www.vinzapstore.in/products/0855-plastics-transparent-jar-shaped-stand-up-pouch-with-zipper",
-   "file": "3bb6cb2d.mp4",
-   "thumb": "3bb6cb2d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17916366459535817"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1533646341931567"
-    }
-   }
-  },
-  {
    "id": "c53f6f97",
    "status": "posted",
    "kind": "image",
@@ -5458,17 +5380,87 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
    "file": "2039cc54.jpg",
    "thumb": "2039cc54.jpg"
+  },
+  {
+   "id": "2e70bba8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel House Shape Cookie Cutter",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "3 Pc mix design set",
+     "Stainless steel body",
+     "Creates clean and sharp cookie"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Stainless Steel House Shape Cookie Cutter | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel House Shape Cookie Cutter"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel House Shape Cookie Cutter\n✔ 3 Pc mix design set\n✔ Stainless steel body\n✔ Creates clean and sharp cookie\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Stainless Steel House Shape Cookie Cutter | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793898964.46203,
+     "id": "17959804383017650",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793898964.46203,
+     "id": "1922206119148395",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793898964.46203,
+     "id": "1509633804349580",
+     "dry": false
+    }
+   },
+   "created": 1793898942.721682,
+   "after": 0,
+   "handle": "stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
+   "file": "2e70bba8.mp4",
+   "thumb": "2e70bba8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18502528357111184"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1896356044683262"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1589252025857921"
+    }
+   }
   }
  ],
- "last_post": 1793897228.8241756,
+ "last_post": 1793898964.46203,
  "log": [
-  "14:31:40 READY 971d53e0 Reusable Pizza Storage Container | Trending Shorts (auto-approved)",
-  "14:32:20 POSTED instagram@Vinzap-Finds 971d53e0: 18642261334038715",
-  "14:32:25 POSTED facebook@Vinzap-Finds 971d53e0: 1485595436790707",
-  "14:32:25 FAILED post facebook@Vijayendra-Singh 971d53e0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev4XqoCz1HKpoOgg9akR8f-nPHeH2dxcgHNoCeEPgZA8eeJHlSKdMQaFQGCrR3g0K4STX2yA_uSnwo5CFC63D-AUw89i4JIUY30fKMQyfaE689vYwyIq8iRbw4gSYdn8dhZsYcpU0mn1WXVLDdNYVbS76wj67WES3l3yFrovJXPqVV0f-SgLeR-V8hB4QfO2gZB4lxCUiPkvUr4Fk8GgdfCsmXXCMbUFdAFWGBL5CqsDzjGwTQTEEDvDVz9BYgW4VFn9qOq-j2HH-Wd9Z0D23qgBbJXFz8ZXrvKVBdd81AVl6G9V5O31P593EGA860QMug\",\"help_cente",
-  "14:33:01 STORY POSTED instagram@Vinzap-Finds 971d53e0",
-  "14:33:10 STORY POSTED facebook@Vinzap-Finds 971d53e0",
-  "15:00:53 READY 8baa2a2b Lollipop Candy Maker Machine, Pink (auto-approved)",
   "15:01:07 POSTED instagram@Vinzap-Finds 8baa2a2b: 18681776518004181",
   "15:01:11 POSTED facebook@Vinzap-Finds 8baa2a2b: 1428352113685678_122115496719501659",
   "15:01:15 POSTED facebook@Vijayendra-Singh 8baa2a2b: 1317760538089559_122126149047480728",
@@ -5661,13 +5653,20 @@
   "22:17:08 READY 2039cc54 Masala Box (auto-approved)",
   "22:17:22 POSTED instagram@Vinzap-Finds 2039cc54: 17909515464332110",
   "22:17:26 POSTED facebook@Vinzap-Finds 2039cc54: 1428352113685678_122115897477501659",
-  "22:17:30 POSTED facebook@Vijayendra-Singh 2039cc54: 1317760538089559_122126663001480728"
+  "22:17:30 POSTED facebook@Vijayendra-Singh 2039cc54: 1317760538089559_122126663001480728",
+  "22:46:04 READY 2e70bba8 Stainless Steel House Shape Cookie Cutter | Kitchen Organization (auto-approved)",
+  "22:46:44 POSTED instagram@Vinzap-Finds 2e70bba8: 17959804383017650",
+  "22:46:50 POSTED facebook@Vinzap-Finds 2e70bba8: 1922206119148395",
+  "22:46:55 POSTED facebook@Vijayendra-Singh 2e70bba8: 1509633804349580",
+  "22:47:27 STORY POSTED instagram@Vinzap-Finds 2e70bba8",
+  "22:47:36 STORY POSTED facebook@Vinzap-Finds 2e70bba8",
+  "22:47:44 STORY POSTED facebook@Vijayendra-Singh 2e70bba8"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793897228.8241756,
-  "facebook@Vinzap-Finds": 1793897228.8241756,
-  "facebook@Vijayendra-Singh": 1793897228.8241756,
+  "instagram@Vinzap-Finds": 1793898964.46203,
+  "facebook@Vinzap-Finds": 1793898964.46203,
+  "facebook@Vijayendra-Singh": 1793898964.46203,
   "youtube": 1793895370.5957656
  },
- "n": 394
+ "n": 395
 }
