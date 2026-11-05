@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "51f2adc0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Diamond Pattern Leakproof Water Bottle",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Large 1000 ML capacity",
-     "Diamond texture body for stylish",
-     "Flip-top lid for easy one-hand"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Diamond Pattern Leakproof Water Bottle | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Diamond Pattern Leakproof Water Bottle"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDiamond Pattern Leakproof Water Bottle\n✔ Large 1000 ML capacity\n✔ Diamond texture body for stylish\n✔ Flip-top lid for easy one-hand\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
-   "title": "Diamond Pattern Leakproof Water Bottle | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793606481.035882,
-     "id": "18109965395347345",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793606481.035882,
-     "id": "2341806653025209",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793606481.035882,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu3V76g7TyBaW-NJ3UKJkHDIX"
-    }
-   },
-   "created": 1793606453.5276518,
-   "after": 0,
-   "handle": "plastic-1000-ml-approxdiamond-pattern-leakproof-water-bottle-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/plastic-1000-ml-approxdiamond-pattern-leakproof-water-bottle-1-pc",
-   "file": "51f2adc0.mp4",
-   "thumb": "51f2adc0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18644933137048588"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2655038564937558"
-    }
-   }
-  },
-  {
    "id": "b5ce68ec",
    "status": "posted",
    "kind": "image",
@@ -5448,16 +5376,82 @@
    "product_url": "https://www.vinzapstore.in/products/3-in-1-multipurpose-water-bottle-set2000-ml-900-ml-500-ml-3-pc-set",
    "file": "885a2057.jpg",
    "thumb": "885a2057.jpg"
+  },
+  {
+   "id": "4ab0f7cf",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Vegetable Cutter",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Convenient and easy to use",
+     "Adept at both chopping and slicing",
+     "Stainless steel rotating blade"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel Vegetable Cutter | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Vegetable Cutter"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vegetable Cutter\n✔ Convenient and easy to use\n✔ Adept at both chopping and slicing\n✔ Stainless steel rotating blade\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Stainless Steel Vegetable Cutter | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793891756.8510637,
+     "id": "18140217301567530",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793891756.8510637,
+     "id": "2183488859215446",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793891756.8510637,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesUedfZw98ls_nnh75zhssy2-"
+    }
+   },
+   "created": 1793891739.7306316,
+   "after": 0,
+   "handle": "2841c-steel-vegetable-cutter-premium-quality-cutter-for-fruit-vegetable-meat-cutting-use-color-box",
+   "product_url": "https://www.vinzapstore.in/products/2841c-steel-vegetable-cutter-premium-quality-cutter-for-fruit-vegetable-meat-cutting-use-color-box",
+   "file": "4ab0f7cf.mp4",
+   "thumb": "4ab0f7cf_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18118641608043716"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1492256116129169"
+    }
+   }
   }
  ],
- "last_post": 1793889943.1366248,
+ "last_post": 1793891756.8510637,
  "log": [
-  "12:31:26 READY 132eeb15 Multipurpose Cheese and Vegetable Grater | Kitchen Gadgets (auto-approved)",
-  "12:32:04 POSTED instagram@Vinzap-Finds 132eeb15: 18078121154746451",
-  "12:32:09 POSTED facebook@Vinzap-Finds 132eeb15: 1104318659253552",
-  "12:32:10 FAILED post facebook@Vijayendra-Singh 132eeb15: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu47I8u0w-ijZ4xk8opUXAId_RHhZqBQnJf_9NkNxK7EcNze5zhpVwTWyJz3lbWiFbZZCmCqGzlr189jTyIBIpyUn2Cp-K8MZtcI88U2WrvBvE5rNIWxamQf8eAaY_PzG8nnK6qDCQMIu91k1ewpyKeHW-w2lbdrbxfv8M7XaBv2FVubP9kWldJbJ02T_6jQ9KkeSeambnoLrX8KgiiJwBSGn44dv8jQnUNXRpawpEzKhYYlqBA9h4xvJmpJSUD-HtK473htSQN_VT3zOg7iGb8eqtlkJBsvMlXbg9A33Z4-N9fTDNu3xRSCAFWklGv4Q\",\"help_center",
-  "12:32:16 POSTED youtube 132eeb15: EVGFz5P0FpU",
-  "12:32:47 STORY POSTED instagram@Vinzap-Finds 132eeb15",
   "12:32:54 STORY POSTED facebook@Vinzap-Finds 132eeb15",
   "13:00:49 READY 8a2f8c87 Manual Garlic Press Crusher (auto-approved)",
   "13:01:02 POSTED instagram@Vinzap-Finds 8a2f8c87: 18416855671085893",
@@ -5651,13 +5645,19 @@
   "20:15:43 READY 885a2057 3 in 1 Water Bottle Set 2000 ml, 900 ml and (auto-approved)",
   "20:15:54 POSTED instagram@Vinzap-Finds 885a2057: 18120992980980487",
   "20:15:57 POSTED facebook@Vinzap-Finds 885a2057: 1428352113685678_122115873807501659",
-  "20:16:00 POSTED facebook@Vijayendra-Singh 885a2057: 1317760538089559_122126628441480728"
+  "20:16:00 POSTED facebook@Vijayendra-Singh 885a2057: 1317760538089559_122126628441480728",
+  "20:45:56 READY 4ab0f7cf Stainless Steel Vegetable Cutter | Kitchen Gadgets (auto-approved)",
+  "20:46:30 POSTED instagram@Vinzap-Finds 4ab0f7cf: 18140217301567530",
+  "20:46:34 POSTED facebook@Vinzap-Finds 4ab0f7cf: 2183488859215446",
+  "20:46:34 FAILED post facebook@Vijayendra-Singh 4ab0f7cf: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesUedfZw98ls_nnh75zhssy2-0XCLkXvduE9LKMwnku_AJZtQECt4zlwkoZNoN9nATHJyGNkUIUAVx9K3WtY_xYscSFRjWvaMUyTLWBKQBiDH2t4t0Qu9YLo1JQmfiUH0sCmfUy5NRu8v-2PkMei9ediHhG804jw8EBye4niwpl7I8_00yKIig8ngRFNkbfrkLBpsNNmfcUkpEDpwoH2lS7ZU6c5eOg3hA6_H47coJ88VTCcbyPrUMhRLIRpc9FNME8rPsQOtZ-uZ_poZfReqozixpW7qDg0ktmUyZ0RK4rM_tMLHUMGxj219-67ibnC3zj\",\"help_cent",
+  "20:47:05 STORY POSTED instagram@Vinzap-Finds 4ab0f7cf",
+  "20:47:11 STORY POSTED facebook@Vinzap-Finds 4ab0f7cf"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793889943.1366248,
-  "facebook@Vinzap-Finds": 1793889943.1366248,
-  "facebook@Vijayendra-Singh": 1793889943.1366248,
+  "instagram@Vinzap-Finds": 1793891756.8510637,
+  "facebook@Vinzap-Finds": 1793891756.8510637,
+  "facebook@Vijayendra-Singh": 1793891756.8510637,
   "youtube": 1793883687.2530925
  },
- "n": 390
+ "n": 391
 }
