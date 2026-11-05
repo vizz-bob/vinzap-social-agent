@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "a159618d",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3 Section Snack Serving Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "3-section design for separating",
-     "Individual lids to keep contents",
-     "Multipurpose use for snacks"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "3 Section Snack Serving Tray | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3 Section Snack Serving Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 Section Snack Serving Tray\n✔ 3-section design for separating\n✔ Individual lids to keep contents\n✔ Multipurpose use for snacks\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "3 Section Snack Serving Tray",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793550649.0618227,
-     "id": "18086605325329520",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793550649.0618227,
-     "id": "1428352113685678_122114684895501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793550649.0618227,
-     "id": "1317760538089559_122125267467480728",
-     "dry": false
-    }
-   },
-   "created": 1793550646.7931166,
-   "after": 0,
-   "handle": "multipurpose-3-section-snack-serving-tray-with-lid-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-3-section-snack-serving-tray-with-lid-1-pc",
-   "file": "a159618d.jpg",
-   "thumb": "a159618d.jpg"
-  },
-  {
    "id": "15a7cc36",
    "status": "scheduled",
    "kind": "reel",
@@ -5447,14 +5385,72 @@
      "id": "991783550028238"
     }
    }
+  },
+  {
+   "id": "6b23e447",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Mini Tabletop Dustbin 1200ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 239,
+    "was": 0,
+    "feats": [
+     "Modern & Space-Saving Design:",
+     "Durable & Sturdy Build: Made from",
+     "Versatile Usage: Suitable for home"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Mini Tabletop Dustbin 1200ml | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Mini Tabletop Dustbin 1200ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMini Tabletop Dustbin 1200ml\n✔ Modern & Space-Saving Design:\n✔ Durable & Sturdy Build: Made from\n✔ Versatile Usage: Suitable for home\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Mini Tabletop Dustbin 1200ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793881849.5179963,
+     "id": "18110908337250565",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793881849.5179963,
+     "id": "1428352113685678_122115842457501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793881849.5179963,
+     "id": "1317760538089559_122126589837480728",
+     "dry": false
+    }
+   },
+   "created": 1793881847.129948,
+   "after": 0,
+   "handle": "apex-mini-tabletop-dustbin-1-pc-1200-ml-mix-color",
+   "product_url": "https://www.vinzapstore.in/products/apex-mini-tabletop-dustbin-1-pc-1200-ml-mix-color",
+   "file": "6b23e447.jpg",
+   "thumb": "6b23e447.jpg"
   }
  ],
- "last_post": 1793880079.050335,
+ "last_post": 1793881849.5179963,
  "log": [
-  "21:01:00 READY fe3231d4 Soft Facial Tissue Paper Napkins Set (auto-approved)",
-  "21:01:13 POSTED instagram@Vinzap-Finds fe3231d4: 18497806981103165",
-  "21:01:17 POSTED facebook@Vinzap-Finds fe3231d4: 1428352113685678_122115300279501659",
-  "21:01:20 POSTED facebook@Vijayendra-Singh fe3231d4: 1317760538089559_122125898175480728",
   "21:31:27 READY eb8ed184 Disposable Plastic Fruit Fork | Trending Shorts (auto-approved)",
   "21:31:56 POSTED instagram@Vinzap-Finds eb8ed184: 18373162105208273",
   "21:32:01 POSTED facebook@Vinzap-Finds eb8ed184: 29919078134361864",
@@ -5650,13 +5646,17 @@
   "17:31:58 POSTED facebook@Vinzap-Finds a8dbbf9d: 1157395576686998",
   "17:31:59 FAILED post facebook@Vijayendra-Singh a8dbbf9d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes10PlbBh2ds-7NlKwYoGOtpSjcu9gRiXivsvgsZDMPjV4VH64jnDNXoky7pIDHQnIOHg1rIlm7FTox-QaAsnexRq5MAL1wdmSL5ckQwWUk58ZrE85hxlYFZLKcyrymDM94KLWIuSCaIP34WgAvJ02Ui-BD5nVXh4_kf_2cyw7ba6yjgV2ydRxcyxijV_TLz-mtL2hrTMdTfSuMVBTNaybymL8klCRL5SW1OzQTp_7Fel2B_IPPyiNHYHMNXfOIeQ55SAscKEFZjsNadEUG0bfgELwZ_eVa5tqGlPdUSxbx345Ix6IxxwOv6VLLeqKPeTc\",\"help_cente",
   "17:32:28 STORY POSTED instagram@Vinzap-Finds a8dbbf9d",
-  "17:32:37 STORY POSTED facebook@Vinzap-Finds a8dbbf9d"
+  "17:32:37 STORY POSTED facebook@Vinzap-Finds a8dbbf9d",
+  "18:00:49 READY 6b23e447 Mini Tabletop Dustbin 1200ml (auto-approved)",
+  "18:01:00 POSTED instagram@Vinzap-Finds 6b23e447: 18110908337250565",
+  "18:01:03 POSTED facebook@Vinzap-Finds 6b23e447: 1428352113685678_122115842457501659",
+  "18:01:06 POSTED facebook@Vijayendra-Singh 6b23e447: 1317760538089559_122126589837480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793880079.050335,
-  "facebook@Vinzap-Finds": 1793880079.050335,
-  "facebook@Vijayendra-Singh": 1793880079.050335,
-  "youtube": 1793872884.8677025
+  "instagram@Vinzap-Finds": 1793881849.5179963,
+  "facebook@Vinzap-Finds": 1793881849.5179963,
+  "facebook@Vijayendra-Singh": 1793881849.5179963,
+  "youtube": 1793872464.8677025
  },
- "n": 385
+ "n": 386
 }
