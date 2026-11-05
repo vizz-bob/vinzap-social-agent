@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "3d8d6d23",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Hot Pot Gripper Clamp Pan",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Strong stainless steel gripping",
-     "Heat-resistant anti-slip handle",
-     "Multi-purpose design suitable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Hot Pot Gripper Clamp Pan"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Hot Pot Gripper Clamp Pan\n✔ Strong stainless steel gripping\n✔ Heat-resistant anti-slip handle\n✔ Multi-purpose design suitable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Stainless Steel Hot Pot Gripper Clamp Pan | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793610996.3686814,
-     "id": "18115179185032974",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793610996.3686814,
-     "id": "1147718464454830",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793610996.3686814,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevA134El3mfErNipo34A8Z5Ti"
-    }
-   },
-   "created": 1793610975.0997412,
-   "after": 0,
-   "handle": "multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
-   "file": "3d8d6d23.mp4",
-   "thumb": "3d8d6d23_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18017316458976896"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1120952643641770"
-    }
-   }
-  },
-  {
    "id": "e7f7bf56",
    "status": "posted",
    "kind": "image",
@@ -5448,18 +5376,92 @@
    "product_url": "https://www.vinzapstore.in/products/apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
    "file": "367182bf.jpg",
    "thumb": "367182bf.jpg"
+  },
+  {
+   "id": "01519a52",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable 4 Compartment Serving Plates",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Four separate compartments",
+     "Helps keep different food items",
+     "Strong and stable disposable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Disposable 4 Compartment Serving Plates | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable 4 Compartment Serving Plates"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable 4 Compartment Serving Plates\n✔ Four separate compartments\n✔ Helps keep different food items\n✔ Strong and stable disposable\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Disposable 4 Compartment Serving Plates | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793895370.5957656,
+     "id": "17938300020400494",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793895370.5957656,
+     "id": "2416520225545600",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793895370.5957656,
+     "id": "4633579493630305",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1793895370.5957656,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1793895344.353469,
+   "after": 0,
+   "handle": "vegnar-4-compartment-disposable-food-serving-plate-set-10-pc",
+   "product_url": "https://www.vinzapstore.in/products/vegnar-4-compartment-disposable-food-serving-plate-set-10-pc",
+   "file": "01519a52.mp4",
+   "thumb": "01519a52_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17876966886588166"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1463894099213427"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1647121736763467"
+    }
+   }
   }
  ],
- "last_post": 1793893550.47164,
+ "last_post": 1793895370.5957656,
  "log": [
-  "13:01:09 POSTED facebook@Vijayendra-Singh 8a2f8c87: 1317760538089559_122126123463480728",
-  "13:31:20 READY 18d4aa49 Skull Shape Ice Cube Tray 8 Grid | Kitchen Gadgets (auto-approved)",
-  "13:31:54 POSTED instagram@Vinzap-Finds 18d4aa49: 18125391572286788",
-  "13:31:58 POSTED facebook@Vinzap-Finds 18d4aa49: 1530364055566593",
-  "13:32:03 POSTED facebook@Vijayendra-Singh 18d4aa49: 1819393085850318",
-  "13:32:33 STORY POSTED instagram@Vinzap-Finds 18d4aa49",
-  "13:32:42 STORY POSTED facebook@Vinzap-Finds 18d4aa49",
-  "13:32:50 STORY POSTED facebook@Vijayendra-Singh 18d4aa49",
   "14:00:49 READY 4e197694 Slant Lid Kitchen Storage Jar Set (auto-approved)",
   "14:01:01 POSTED instagram@Vinzap-Finds 4e197694: 18174931582462496",
   "14:01:05 POSTED facebook@Vinzap-Finds 4e197694: 1428352113685678_122115484779501659",
@@ -5651,13 +5653,21 @@
   "21:15:50 READY 367182bf Apex Flexi Stainless Steel Lunch Box (auto-approved)",
   "21:16:01 POSTED instagram@Vinzap-Finds 367182bf: 17874699909639973",
   "21:16:04 POSTED facebook@Vinzap-Finds 367182bf: 1428352113685678_122115885657501659",
-  "21:16:07 POSTED facebook@Vijayendra-Singh 367182bf: 1317760538089559_122126643861480728"
+  "21:16:07 POSTED facebook@Vijayendra-Singh 367182bf: 1317760538089559_122126643861480728",
+  "21:46:10 READY 01519a52 Disposable 4 Compartment Serving Plates | Kitchen Organization (auto-approved)",
+  "21:46:54 POSTED instagram@Vinzap-Finds 01519a52: 17938300020400494",
+  "21:47:01 POSTED facebook@Vinzap-Finds 01519a52: 2416520225545600",
+  "21:47:07 POSTED facebook@Vijayendra-Singh 01519a52: 4633579493630305",
+  "21:47:07 FAILED post youtube 01519a52: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "21:47:47 STORY POSTED instagram@Vinzap-Finds 01519a52",
+  "21:48:00 STORY POSTED facebook@Vinzap-Finds 01519a52",
+  "21:48:13 STORY POSTED facebook@Vijayendra-Singh 01519a52"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793893550.47164,
-  "facebook@Vinzap-Finds": 1793893550.47164,
-  "facebook@Vijayendra-Singh": 1793893550.47164,
-  "youtube": 1793883267.2530925
+  "instagram@Vinzap-Finds": 1793895370.5957656,
+  "facebook@Vinzap-Finds": 1793895370.5957656,
+  "facebook@Vijayendra-Singh": 1793895370.5957656,
+  "youtube": 1793895370.5957656
  },
- "n": 392
+ "n": 393
 }
