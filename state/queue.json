@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "141377bb",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Manual Hand Crank Ice Crusher and Snow",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 999,
-    "was": 0,
-    "feats": [
-     "Manual hand crank mechanism",
-     "Converts ice cubes into fine snow",
-     "No electricity required"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Manual Hand Crank Ice Crusher and Snow | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Manual Hand Crank Ice Crusher and Snow"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Hand Crank Ice Crusher and Snow\n✔ Manual hand crank mechanism\n✔ Converts ice cubes into fine snow\n✔ No electricity required\n\nOnly ₹999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Manual Hand Crank Ice Crusher and Snow | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793545348.4050972,
-     "id": "18053255921814529",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793545348.4050972,
-     "id": "1642135904259234",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793545348.4050972,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeval7mdCRiBLbs9Y7udHOkPTS"
-    }
-   },
-   "created": 1793545322.3376267,
-   "after": 0,
-   "handle": "manual-hand-crank-ice-crusher-snow-maker-machine-1-set-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/manual-hand-crank-ice-crusher-snow-maker-machine-1-set-mix-color",
-   "file": "141377bb.mp4",
-   "thumb": "141377bb_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17903261340606734"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1130990176082872"
-    }
-   }
-  },
-  {
    "id": "ee813219",
    "status": "posted",
    "kind": "image",
@@ -5453,16 +5381,82 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-spring-omasher-heavy-duty-stainless-steel-vegetable-potato-masher",
    "file": "c35a095d.jpg",
    "thumb": "c35a095d.jpg"
+  },
+  {
+   "id": "0ddb3819",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "White Enamel Mug Custom Printed",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 450,
+    "was": 0,
+    "feats": [
+     "Material: enamel-coated stainless",
+     "Capacity: 11 oz",
+     "Silver rim"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "White Enamel Mug Custom Printed | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "White Enamel Mug Custom Printed"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWhite Enamel Mug Custom Printed\n✔ Material: enamel-coated stainless\n✔ Capacity: 11 oz\n✔ Silver rim\n\nOnly ₹450. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #mug #giftideas #festivegifts\n#homedecorideas #diwali",
+   "title": "White Enamel Mug Custom Printed | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793876472.879778,
+     "id": "18120579034964925",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793876472.879778,
+     "id": "1711031544009847",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793876472.879778,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes_lMLEgk1y6RTXvZND_D2s-p"
+    }
+   },
+   "created": 1793876451.8890996,
+   "after": 0,
+   "handle": "white-enamel-mugs",
+   "product_url": "https://www.vinzapstore.in/products/white-enamel-mugs",
+   "file": "0ddb3819.mp4",
+   "thumb": "0ddb3819_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18646708147049170"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1814832729848147"
+    }
+   }
   }
  ],
- "last_post": 1793874647.157563,
+ "last_post": 1793876472.879778,
  "log": [
-  "19:31:20 READY 988a316d Electric Glass Kettle 2 Litre | Trending Shorts (auto-approved)",
-  "19:31:55 POSTED instagram@Vinzap-Finds 988a316d: 18131636617760531",
-  "19:32:00 POSTED facebook@Vinzap-Finds 988a316d: 1686089943035205",
-  "19:32:01 FAILED post facebook@Vijayendra-Singh 988a316d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetLPk8qwkGFfEPQgKbPwxmnJu5WdVSn4I38-hQg0KBETPytqjMH656hK3bazxyKhhHtAYc1SErRHuOdoezlveYhdqd_caqNgvt7hmpELHz1zFK7vzsFgOhyUZ3ujN0NhTAMKh5sdm5pBktGnpuZC2G-yUku7RxpZBO56dTCYpSBdF7J5ZLa4z1ADEh97vxha-W25dqBlGSahn7-03U28Yw_iCXjBIBCXvJ21bwj5g_vgwQ8vZYTeo_cFJuA7IZJhWdcYae9iMr0uiwX_F3ZeAIb_jDyGyJoMTyB94_-HAkbjLSTtswr6Lq4FsdJzBibLnk\",\"help_cente",
-  "19:32:33 STORY POSTED instagram@Vinzap-Finds 988a316d",
-  "19:32:41 STORY POSTED facebook@Vinzap-Finds 988a316d",
   "20:00:54 READY 288fdd07 Metal Sink Drain Mesh Strainer Basket (auto-approved)",
   "20:01:03 POSTED instagram@Vinzap-Finds 288fdd07: 18009230246999641",
   "20:01:07 POSTED facebook@Vinzap-Finds 288fdd07: 1428352113685678_122115284943501659",
@@ -5656,13 +5650,19 @@
   "16:00:47 READY c35a095d Supermom Spring Masher Stainless Steel (auto-approved)",
   "16:00:58 POSTED instagram@Vinzap-Finds c35a095d: 18074131283770177",
   "16:01:01 POSTED facebook@Vinzap-Finds c35a095d: 1428352113685678_122115802077501659",
-  "16:01:04 POSTED facebook@Vijayendra-Singh c35a095d: 1317760538089559_122126561103480728"
+  "16:01:04 POSTED facebook@Vijayendra-Singh c35a095d: 1317760538089559_122126561103480728",
+  "16:31:12 READY 0ddb3819 White Enamel Mug Custom Printed | Home Decor Ideas (auto-approved)",
+  "16:31:46 POSTED instagram@Vinzap-Finds 0ddb3819: 18120579034964925",
+  "16:31:51 POSTED facebook@Vinzap-Finds 0ddb3819: 1711031544009847",
+  "16:31:52 FAILED post facebook@Vijayendra-Singh 0ddb3819: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes_lMLEgk1y6RTXvZND_D2s-p8lV9i13Toi4GlH1ZPa7maXsMgAuTb7em_vWZonAWUvOAO8HqhTBUMvyxVsNKI-q1o4ebYClSlDJQddqo3eZ3Yb49zyEkQ9D5Nyb-G_t_n6Ke8UOO3NvoxlLaIYNLfeYQPslwG_DGzvls5UU1i59SklawM125u6oFuK7m5EopPaAVqtiET9m1ROMsXyH7CSABj1zqgaa_kphphzFPRCy5G9fzcVFC1qGbASNzI_22fdni7YPuHc9Jo0JuWheul3J09qDkWxiwP6tQKip6oF5rKx-I6EKn53X-vPOUs-VkWU\",\"help_cent",
+  "16:32:21 STORY POSTED instagram@Vinzap-Finds 0ddb3819",
+  "16:32:31 STORY POSTED facebook@Vinzap-Finds 0ddb3819"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793874647.157563,
-  "facebook@Vinzap-Finds": 1793874647.157563,
-  "facebook@Vijayendra-Singh": 1793874647.157563,
+  "instagram@Vinzap-Finds": 1793876472.879778,
+  "facebook@Vinzap-Finds": 1793876472.879778,
+  "facebook@Vijayendra-Singh": 1793876472.879778,
   "youtube": 1793872884.8677025
  },
- "n": 382
+ "n": 383
 }
