@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "6ab180e1",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Konvex Duo Grater",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 309,
-    "was": 0,
-    "feats": [
-     "Duo grating surface suitable",
-     "Built-in container collects",
-     "Lid allows easy storage of grated"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Konvex Duo Grater | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Konvex Duo Grater"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKonvex Duo Grater\n✔ Duo grating surface suitable\n✔ Built-in container collects\n✔ Lid allows easy storage of grated\n\nOnly ₹309. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Konvex Duo Grater | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793541669.3351054,
-     "id": "18643861501008098",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793541669.3351054,
-     "id": "2133512920571062",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793541669.3351054,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevB-pM37tKz9uByYck_vLaBSa"
-    }
-   },
-   "created": 1793541652.0585504,
-   "after": 0,
-   "handle": "konvex-duo-grater-with-container-and-lid-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/konvex-duo-grater-with-container-and-lid-1-pc",
-   "file": "6ab180e1.mp4",
-   "thumb": "6ab180e1_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18108600367967789"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1484526970210354"
-    }
-   }
-  },
-  {
    "id": "ffaed909",
    "status": "posted",
    "kind": "image",
@@ -5443,18 +5371,92 @@
    "product_url": "https://www.vinzapstore.in/products/vegnar-disposable-food-serving-bowl-set-of-10-pieces-360-ml-capacity",
    "file": "8d960c66.jpg",
    "thumb": "8d960c66.jpg"
+  },
+  {
+   "id": "a1148dac",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Oval Chalkboard Sticker Labels",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Classic oval chalkboard style",
+     "Write",
+     "Strong self adhesive backing"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Oval Chalkboard Sticker Labels | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Oval Chalkboard Sticker Labels"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOval Chalkboard Sticker Labels\n✔ Classic oval chalkboard style\n✔ Write\n✔ Strong self adhesive backing\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Oval Chalkboard Sticker Labels | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793872884.8677025,
+     "id": "18115011809124481",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793872884.8677025,
+     "id": "1827662721706884",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793872884.8677025,
+     "id": "2159525007977155",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1793872884.8677025,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1793872859.5251875,
+   "after": 0,
+   "handle": "oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
+   "product_url": "https://www.vinzapstore.in/products/oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
+   "file": "a1148dac.mp4",
+   "thumb": "a1148dac_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18110123294187689"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3864368337037391"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1830492314771833"
+    }
+   }
   }
  ],
- "last_post": 1793871066.589961,
+ "last_post": 1793872884.8677025,
  "log": [
-  "18:01:02 POSTED facebook@Vijayendra-Singh baf3a3c9: 1317760538089559_122125856001480728",
-  "18:31:28 READY be508921 Natural Bamboo Skewers | Home Decor Ideas (auto-approved)",
-  "18:32:09 POSTED instagram@Vinzap-Finds be508921: 17995262244060436",
-  "18:32:14 POSTED facebook@Vinzap-Finds be508921: 2519628998442662",
-  "18:32:14 FAILED post facebook@Vijayendra-Singh be508921: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev9InW34kd3kM1pRq246knwR6gsh7Jsq-iYPOQ9gaRTm-vIvLv2rXNju-ymVy97sEo59iFAbMEBJA64hcnCticGIsMTsEMY2f2jiXqT6wbqL7fRYXmOBfACN0CMezi5wh6CPOijeYilZq2sRlz_LfxsiCrCiCtsXxGKGJjjyvMGXMH5pA3qFZKh5unjgDFPpDT-6P6eiUS7Lkf21RRRsF11PR3HoDj3RoiMxrfz_I_WthJYxkO93vT0vmOou545dw0VwLdvJOkALmN6o_HThtcffStCChW6HTDxq4-qLWtxC9EevoS55DaAQ6XcmxHSY9Pa\",\"help_cent",
-  "18:32:20 POSTED youtube be508921: HUyR2oJlj9A",
-  "18:32:55 STORY POSTED instagram@Vinzap-Finds be508921",
-  "18:33:08 STORY POSTED facebook@Vinzap-Finds be508921",
   "19:01:06 READY d931d287 Supermom Premium Curve Garlic Press Crusher (auto-approved)",
   "19:01:18 POSTED instagram@Vinzap-Finds d931d287: 18130126690893181",
   "19:01:23 POSTED facebook@Vinzap-Finds d931d287: 1428352113685678_122115259851501659",
@@ -5646,13 +5648,21 @@
   "15:01:06 READY 8d960c66 Disposable Serving Bowls 360ml (auto-approved)",
   "15:01:21 POSTED instagram@Vinzap-Finds 8d960c66: 18024506927943617",
   "15:01:25 POSTED facebook@Vinzap-Finds 8d960c66: 1428352113685678_122115790365501659",
-  "15:01:29 POSTED facebook@Vijayendra-Singh 8d960c66: 1317760538089559_122126543013480728"
+  "15:01:29 POSTED facebook@Vijayendra-Singh 8d960c66: 1317760538089559_122126543013480728",
+  "15:31:24 READY a1148dac Oval Chalkboard Sticker Labels | Home Decor Ideas (auto-approved)",
+  "15:31:56 POSTED instagram@Vinzap-Finds a1148dac: 18115011809124481",
+  "15:32:01 POSTED facebook@Vinzap-Finds a1148dac: 1827662721706884",
+  "15:32:04 POSTED facebook@Vijayendra-Singh a1148dac: 2159525007977155",
+  "15:32:04 FAILED post youtube a1148dac: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "15:32:32 STORY POSTED instagram@Vinzap-Finds a1148dac",
+  "15:32:40 STORY POSTED facebook@Vinzap-Finds a1148dac",
+  "15:32:47 STORY POSTED facebook@Vijayendra-Singh a1148dac"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793871066.589961,
-  "facebook@Vinzap-Finds": 1793871066.589961,
-  "facebook@Vijayendra-Singh": 1793871066.589961,
-  "youtube": 1793861660.425796
+  "instagram@Vinzap-Finds": 1793872884.8677025,
+  "facebook@Vinzap-Finds": 1793872884.8677025,
+  "facebook@Vijayendra-Singh": 1793872884.8677025,
+  "youtube": 1793872884.8677025
  },
- "n": 380
+ "n": 381
 }
