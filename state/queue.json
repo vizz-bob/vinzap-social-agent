@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "b7ef3d8c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Square Ice Cube Mould Set of 4",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Set of 4 moulds with snap-on lids",
-     "One large square cube per mould",
-     "Lids keep freezer smells out"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Square Ice Cube Mould Set of 4 | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Square Ice Cube Mould Set of 4"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSquare Ice Cube Mould Set of 4\n✔ Set of 4 moulds with snap-on lids\n✔ One large square cube per mould\n✔ Lids keep freezer smells out\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Square Ice Cube Mould Set of 4 | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793628966.425549,
-     "id": "17985965088066605",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793628966.425549,
-     "id": "3337075389815000",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793628966.425549,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesew7W65ui6NqpabEAguPHptY"
-    }
-   },
-   "created": 1793628939.5611484,
-   "after": 0,
-   "handle": "square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
-   "product_url": "https://www.vinzapstore.in/products/square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
-   "file": "b7ef3d8c.mp4",
-   "thumb": "b7ef3d8c_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18111902630608357"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1650820896725511"
-    }
-   }
-  },
-  {
    "id": "aec58ad2",
    "status": "posted",
    "kind": "image",
@@ -5473,18 +5401,92 @@
    "product_url": "https://www.vinzapstore.in/products/heavy-duty-soap-dispensing-dishwand-scrubber-brush-1-pc",
    "file": "f409529f.jpg",
    "thumb": "f409529f.jpg"
+  },
+  {
+   "id": "ab5f169d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Fish Scaler Scraper",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Sharp serrated scraper removes",
+     "Attached lid acts as a scale",
+     "Comfortable handle gives a firm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Fish Scaler Scraper | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fish Scaler Scraper"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFish Scaler Scraper\n✔ Sharp serrated scraper removes\n✔ Attached lid acts as a scale\n✔ Comfortable handle gives a firm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#trendingshorts #kitchengadgets",
+   "title": "Fish Scaler Scraper | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793961385.0027592,
+     "id": "18105746399368304",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793961385.0027592,
+     "id": "1152224367273713",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793961385.0027592,
+     "id": "1784794596124704",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1793961385.0027592,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1793961359.360082,
+   "after": 0,
+   "handle": "fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
+   "file": "ab5f169d.mp4",
+   "thumb": "ab5f169d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17916099666280481"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1772340297151817"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn Mo"
+    }
+   }
   }
  ],
- "last_post": 1793958669.0632348,
+ "last_post": 1793961385.0027592,
  "log": [
-  "18:32:54 FAILED post youtube aa670b65: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "18:33:27 STORY POSTED instagram@Vinzap-Finds aa670b65",
-  "18:33:38 STORY POSTED facebook@Vinzap-Finds aa670b65",
-  "19:00:51 READY c4e486fe Portable Plastic Kitchen Dustbin Hanging (auto-approved)",
-  "19:01:03 POSTED instagram@Vinzap-Finds c4e486fe: 17951935176339682",
-  "19:01:07 POSTED facebook@Vinzap-Finds c4e486fe: 1428352113685678_122115553161501659",
-  "19:01:11 POSTED facebook@Vijayendra-Singh c4e486fe: 1317760538089559_122126210025480728",
-  "19:31:18 READY bb11da09 Wall Mounted Stainless Steel Cup and Mug | Cooking (auto-approved)",
   "19:32:00 POSTED instagram@Vinzap-Finds bb11da09: 18134404303666486",
   "19:32:07 POSTED facebook@Vinzap-Finds bb11da09: 1133847909227078",
   "19:32:08 FAILED post facebook@Vijayendra-Singh bb11da09: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesRQJt62XfIlnRpJPEyuqI7sqfRU2D2Zl0bawS6UzUV-xC7dTG6h-MsVrnRVA_SY6ZhR6BbqBPGccfae9B_guO_d8-UL6zWwDepPfcZF_WjrOiDlQ1sz5uDsFkApGzuCnBAQPw02yQUoaiyzrJyzaCbh9bL2kDFQwO1T8XORVB8aPrZM4nwOkfq8hRen1lUH5X4pDaIfPqDypERx-mzKSiWvJHV-qytBgZ1Q5gauY7lqEuLXbtBxFsZ2YkmHpNJ31vrE1rLrSluyXu7iP2UV__N6-KuXLxJKhBoObXj2Y9gCsfewhc4kMoigtCCIgp5uyM\",\"help_cente",
@@ -5676,13 +5678,21 @@
   "15:21:09 READY f409529f Soap Dispensing Dishwand Scrubber Brush, (auto-approved)",
   "15:21:19 POSTED instagram@Vinzap-Finds f409529f: 18133707598767344",
   "15:21:22 POSTED facebook@Vinzap-Finds f409529f: 1428352113685678_122116083411501659",
-  "15:21:25 POSTED facebook@Vijayendra-Singh f409529f: 1317760538089559_122126866833480728"
+  "15:21:25 POSTED facebook@Vijayendra-Singh f409529f: 1317760538089559_122126866833480728",
+  "16:06:24 READY ab5f169d Fish Scaler Scraper | Trending Shorts (auto-approved)",
+  "16:07:02 POSTED instagram@Vinzap-Finds ab5f169d: 18105746399368304",
+  "16:07:07 POSTED facebook@Vinzap-Finds ab5f169d: 1152224367273713",
+  "16:07:11 POSTED facebook@Vijayendra-Singh ab5f169d: 1784794596124704",
+  "16:07:11 FAILED post youtube ab5f169d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "16:07:45 STORY POSTED instagram@Vinzap-Finds ab5f169d",
+  "16:07:55 STORY POSTED facebook@Vinzap-Finds ab5f169d",
+  "16:07:56 STORY FAILED facebook@Vijayendra-Singh ab5f169d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793958669.0632348,
-  "facebook@Vinzap-Finds": 1793958669.0632348,
-  "facebook@Vijayendra-Singh": 1793958669.0632348,
-  "youtube": 1793948061.0244365
+  "instagram@Vinzap-Finds": 1793961385.0027592,
+  "facebook@Vinzap-Finds": 1793961385.0027592,
+  "facebook@Vijayendra-Singh": 1793961385.0027592,
+  "youtube": 1793961385.0027592
  },
- "n": 402
+ "n": 403
 }
