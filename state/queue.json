@@ -1,66 +1,6 @@
 {
  "items": [
   {
-   "id": "91dae7de",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Multifunction Collapsible Extendable Stick",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 739,
-    "was": 0,
-    "feats": [
-     "Multi-Function Collapsible"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Multifunction Collapsible Extendable Stick | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multifunction Collapsible Extendable Stick"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultifunction Collapsible Extendable Stick\n✔ Multi-Function Collapsible\n\nOnly ₹739. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Multifunction Collapsible Extendable Stick",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793634338.9820852,
-     "id": "18137256553709332",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793634338.9820852,
-     "id": "1428352113685678_122114989341501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793634338.9820852,
-     "id": "1317760538089559_122125582443480728",
-     "dry": false
-    }
-   },
-   "created": 1793634337.4746587,
-   "after": 0,
-   "handle": "576-multi-function-collapsible-self-defense-stick-extended",
-   "product_url": "https://www.vinzapstore.in/products/576-multi-function-collapsible-self-defense-stick-extended",
-   "file": "91dae7de.jpg",
-   "thumb": "91dae7de.jpg"
-  },
-  {
    "id": "a20f3de7",
    "status": "posted",
    "kind": "reel",
@@ -5480,14 +5420,72 @@
      "id": "1126697036410656"
     }
    }
+  },
+  {
+   "id": "b05fe6ea",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Cartoon Self Adhesive Hooks, Set of 2",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "【Durable Materials】 The carefully",
+     "The hooks are very easy",
+     "Suitable for hanging small items"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Cartoon Self Adhesive Hooks, Set of 2 | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Cartoon Self Adhesive Hooks, Set of 2"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCartoon Self Adhesive Hooks, Set of 2\n✔ 【Durable Materials】 The carefully\n✔ The hooks are very easy\n✔ Suitable for hanging small items\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Cartoon Self Adhesive Hooks, Set of 2",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793967338.0820065,
+     "id": "17959394295267478",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793967338.0820065,
+     "id": "1428352113685678_122116113273501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793967338.0820065,
+     "id": "1317760538089559_122126906733480728",
+     "dry": false
+    }
+   },
+   "created": 1793967335.9847653,
+   "after": 0,
+   "handle": "multipurpose-strong-cartoon-hook-self-adhesive-hooks-2-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-strong-cartoon-hook-self-adhesive-hooks-2-pc-set",
+   "file": "b05fe6ea.jpg",
+   "thumb": "b05fe6ea.jpg"
   }
  ],
- "last_post": 1793965565.3784063,
+ "last_post": 1793967338.0820065,
  "log": [
-  "20:32:33 POSTED instagram@Vinzap-Finds cf4c0e0c: 18024689990925385",
-  "20:32:40 POSTED facebook@Vinzap-Finds cf4c0e0c: 1575981690880394",
-  "20:32:41 FAILED post facebook@Vijayendra-Singh cf4c0e0c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetMJE3J8hhiFvHKR9e7T5fq2QEuljRRjWQETSKg38nYmXgrGvkm-aByTHxt4FZs3cM876W-1DoVzuji_d-ZPa5jzQswNICcZkUB_PEBq-Qi6Y73OXoGKiRPGGZHiKw11s7CB6CH2Ob_rWYvH2FQCCp93uB-tqFfo6B4T0jZQj_3A-1c_JLDbism3irjIcU800skdxnzOnKu054JvfbkRQ2GkpG7wwWW5zxkaMUZlBVQJ4vKzRJJ0iiU8w1lSdKHQ3jOzby2RsTt4Ar_V3g_4dDwMphAQ4VGSM5FyNoXu043sX7mijOnqWJHKk2JwE5eL_U\",\"help_cente",
-  "20:33:13 STORY POSTED instagram@Vinzap-Finds cf4c0e0c",
   "20:33:23 STORY POSTED facebook@Vinzap-Finds cf4c0e0c",
   "21:00:48 READY 64336ac6 Kitchen Prep Combo of 3 (auto-approved)",
   "21:00:59 POSTED instagram@Vinzap-Finds 64336ac6: 18107396006243566",
@@ -5683,13 +5681,17 @@
   "17:16:45 POSTED facebook@Vinzap-Finds dc9ebaed: 4058709101098697",
   "17:16:47 FAILED post facebook@Vijayendra-Singh dc9ebaed: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesI5IYAXAM1-5wu7EZWWUsu15XIQ4PLQo6YI7De9oY32fLVQT0bP_hY914R0hPTz6wEFTPIuPztFbOexrPgC7J-11WI2MuIrpz7sFDA6LsnsGqUtovoluwgVNjyQt7PAzM93fu5Ky6GMBqeAui9yCK77XoHDydIM1i5wIfR0Ry9Hso7ViWhNwMSsVYuBYDvsUE5g-1UYCle6dTDnwoscc2NApVQAOEmyif6sdmEXPXFnD_LlAfgo_zXkVxC0lSwq9ynmVYFV0DBhLWX-Nh4ohwApENGhrIt0u_HLrsrorEkKS8s7VpDm_p6fpTT99Gzswmu\",\"help_cent",
   "17:17:16 STORY POSTED instagram@Vinzap-Finds dc9ebaed",
-  "17:17:26 STORY POSTED facebook@Vinzap-Finds dc9ebaed"
+  "17:17:26 STORY POSTED facebook@Vinzap-Finds dc9ebaed",
+  "17:45:38 READY b05fe6ea Cartoon Self Adhesive Hooks, Set of 2 (auto-approved)",
+  "17:45:47 POSTED instagram@Vinzap-Finds b05fe6ea: 17959394295267478",
+  "17:45:51 POSTED facebook@Vinzap-Finds b05fe6ea: 1428352113685678_122116113273501659",
+  "17:45:54 POSTED facebook@Vijayendra-Singh b05fe6ea: 1317760538089559_122126906733480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793965565.3784063,
-  "facebook@Vinzap-Finds": 1793965565.3784063,
-  "facebook@Vijayendra-Singh": 1793965565.3784063,
+  "instagram@Vinzap-Finds": 1793967338.0820065,
+  "facebook@Vinzap-Finds": 1793967338.0820065,
+  "facebook@Vijayendra-Singh": 1793967338.0820065,
   "youtube": 1793961385.0027592
  },
- "n": 405
+ "n": 406
 }
