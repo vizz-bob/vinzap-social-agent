@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "84ef3711",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Cute Cartoon Double Layer Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1999,
-    "was": 0,
-    "feats": [
-     "Double layer for separate food",
-     "Cartoon-themed look",
-     "Side locks and a carry handle"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Cute Cartoon Double Layer Lunch Box | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Cute Cartoon Double Layer Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCute Cartoon Double Layer Lunch Box\n✔ Double layer for separate food\n✔ Cartoon-themed look\n✔ Side locks and a carry handle\n\nOnly ₹1999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
-   "title": "Cute Cartoon Double Layer Lunch Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793637946.0152504,
-     "id": "18095217470264876",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793637946.0152504,
-     "id": "1428352113685678_122115002277501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793637946.0152504,
-     "id": "1317760538089559_122125597623480728",
-     "dry": false
-    }
-   },
-   "created": 1793637943.3404262,
-   "after": 0,
-   "handle": "cute-cartoon-double-layer-lunch-box-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/cute-cartoon-double-layer-lunch-box-1-pc",
-   "file": "84ef3711.jpg",
-   "thumb": "84ef3711.jpg"
-  },
-  {
    "id": "c5fade19",
    "status": "scheduled",
    "kind": "reel",
@@ -5471,14 +5409,72 @@
      "id": "1790656033065951"
     }
    }
+  },
+  {
+   "id": "1e004b2e",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Flexible Long Reach Drain Cleaning Brush",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Extra-long design for deep",
+     "Flexible wire body reaches curved",
+     "Dual-length functionality"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Flexible Long Reach Drain Cleaning Brush | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Flexible Long Reach Drain Cleaning Brush"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFlexible Long Reach Drain Cleaning Brush\n✔ Extra-long design for deep\n✔ Flexible wire body reaches curved\n✔ Dual-length functionality\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bathroomaccessories\n#diwali #trendingshorts",
+   "title": "Flexible Long Reach Drain Cleaning Brush",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793970964.9550903,
+     "id": "17895645471616949",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793970964.9550903,
+     "id": "1428352113685678_122116125987501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793970964.9550903,
+     "id": "1317760538089559_122126926731480728",
+     "dry": false
+    }
+   },
+   "created": 1793970962.9076114,
+   "after": 0,
+   "handle": "flexible-long-reach-drain-cleaning-brush-1-pc-45-to-45-5-cm",
+   "product_url": "https://www.vinzapstore.in/products/flexible-long-reach-drain-cleaning-brush-1-pc-45-to-45-5-cm",
+   "file": "1e004b2e.jpg",
+   "thumb": "1e004b2e.jpg"
   }
  ],
- "last_post": 1793969164.801394,
+ "last_post": 1793970964.9550903,
  "log": [
-  "21:32:28 POSTED instagram@Vinzap-Finds 91cab64d: 17941145484388095",
-  "21:32:32 POSTED facebook@Vinzap-Finds 91cab64d: 1843380813350512",
-  "21:32:33 FAILED post facebook@Vijayendra-Singh 91cab64d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetgNBSO7B4pRESi0sBQSP-oafu01nlFvyGqDhqkDwiYNAZ9NKPDmKrbBQydshtHo6Kwn9UeUe311AuHCBMPyNhwcOhFpP_vFrQsr2S9Bc6UCPEd3XRj-e5Ji81KMoJy-eh7rmebyua-K1_Fv1bFcjmHne7lgKTcTvuEvHwT7vkOPMaHyhWTirhNzjBSpXqTDfcUeZQhmg80e0HTqBpr8RA5NDZ3hZmbosM8uuwMr5IMUs0M4NbwYHvHTy3TCLUB5paWW0ENGlwtaH3HbSpNDnSGXjB5eh6uNfsHaaQnlmJ62PTAmwGW1oHEkd5_MRZx-eOQ\",\"help_cent",
-  "21:32:33 FAILED post youtube 91cab64d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "21:33:04 STORY POSTED instagram@Vinzap-Finds 91cab64d",
   "21:33:13 STORY POSTED facebook@Vinzap-Finds 91cab64d",
   "22:01:18 READY 1078943c Kitchen Dishwashing Glove (auto-approved)",
@@ -5674,13 +5670,17 @@
   "18:16:41 POSTED facebook@Vinzap-Finds a9224b03: 4482253065323315",
   "18:16:42 FAILED post facebook@Vijayendra-Singh a9224b03: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNqAHqajzlzmcFsGGTqBI2c2-mp8GoUKI-Os_p8e1JY-Pkr_J-VzG29ihSxXEVaFR1KkMZPM1M85kDQMu0ofeQ1YUEAyqomIb67xhQIKOhZoANkrqrGSDTkcqjATjbl1QBXzFsXI1g8PzGeh3JLDFiUKmodDui2Rg5qAKXR-v9iizgVVh5Y5wfSuSyyDsZ8-dbKjkcXCre9-Qsie2F8s3en-akks5MbAtytMfbvzDj9IsJex0n-YZqwFaqm5FiXkLnbDsuEeUbVP2cZtsL0qMat_DYyRSGTUlE-7s7SbTv0UCwmeekl3lqjwyuTTV-JhM\",\"help_cente",
   "18:17:10 STORY POSTED instagram@Vinzap-Finds a9224b03",
-  "18:17:18 STORY POSTED facebook@Vinzap-Finds a9224b03"
+  "18:17:18 STORY POSTED facebook@Vinzap-Finds a9224b03",
+  "18:46:04 READY 1e004b2e Flexible Long Reach Drain Cleaning Brush (auto-approved)",
+  "18:46:20 POSTED instagram@Vinzap-Finds 1e004b2e: 17895645471616949",
+  "18:46:25 POSTED facebook@Vinzap-Finds 1e004b2e: 1428352113685678_122116125987501659",
+  "18:46:29 POSTED facebook@Vijayendra-Singh 1e004b2e: 1317760538089559_122126926731480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793969164.801394,
-  "facebook@Vinzap-Finds": 1793969164.801394,
-  "facebook@Vijayendra-Singh": 1793969164.801394,
-  "youtube": 1793961385.0027592
+  "instagram@Vinzap-Finds": 1793970964.9550903,
+  "facebook@Vinzap-Finds": 1793970964.9550903,
+  "facebook@Vijayendra-Singh": 1793970964.9550903,
+  "youtube": 1793960965.0027592
  },
- "n": 407
+ "n": 408
 }
