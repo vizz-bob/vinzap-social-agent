@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "aec58ad2",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Foldable Cloth Organizer Basket",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Foldable collapsible space saving",
-     "Sturdy frame holds its shape",
-     "Durable easy clean fabric"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Foldable Cloth Organizer Basket | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Foldable Cloth Organizer Basket"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFoldable Cloth Organizer Basket\n✔ Foldable collapsible space saving\n✔ Sturdy frame holds its shape\n✔ Durable easy clean fabric\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
-   "title": "Foldable Cloth Organizer Basket",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793630870.7225194,
-     "id": "18467148331188302",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793630870.7225194,
-     "id": "1428352113685678_122114969385501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793630870.7225194,
-     "id": "1317760538089559_122125565085480728",
-     "dry": false
-    }
-   },
-   "created": 1793630867.2054985,
-   "after": 0,
-   "handle": "foldable-cloth-organizer-basket-fabric-storage-box-for-clothes-toys-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/foldable-cloth-organizer-basket-fabric-storage-box-for-clothes-toys-1-pc",
-   "file": "aec58ad2.jpg",
-   "thumb": "aec58ad2.jpg"
-  },
-  {
    "id": "0d0fd347",
    "status": "scheduled",
    "kind": "reel",
@@ -5483,14 +5421,72 @@
      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn Mo"
     }
    }
+  },
+  {
+   "id": "efd915e8",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3 Section Snack Serving Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "3-section design for separating",
+     "Individual lids to keep contents",
+     "Multipurpose use for snacks"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "3 Section Snack Serving Tray | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3 Section Snack Serving Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 Section Snack Serving Tray\n✔ 3-section design for separating\n✔ Individual lids to keep contents\n✔ Multipurpose use for snacks\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "3 Section Snack Serving Tray",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793964081.5214043,
+     "id": "17945445930090919",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793964081.5214043,
+     "id": "1428352113685678_122116101483501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793964081.5214043,
+     "id": "1317760538089559_122126893749480728",
+     "dry": false
+    }
+   },
+   "created": 1793964079.40823,
+   "after": 0,
+   "handle": "multipurpose-3-section-snack-serving-tray-with-lid-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-3-section-snack-serving-tray-with-lid-1-pc",
+   "file": "efd915e8.jpg",
+   "thumb": "efd915e8.jpg"
   }
  ],
- "last_post": 1793961385.0027592,
+ "last_post": 1793964081.5214043,
  "log": [
-  "19:32:00 POSTED instagram@Vinzap-Finds bb11da09: 18134404303666486",
-  "19:32:07 POSTED facebook@Vinzap-Finds bb11da09: 1133847909227078",
-  "19:32:08 FAILED post facebook@Vijayendra-Singh bb11da09: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesRQJt62XfIlnRpJPEyuqI7sqfRU2D2Zl0bawS6UzUV-xC7dTG6h-MsVrnRVA_SY6ZhR6BbqBPGccfae9B_guO_d8-UL6zWwDepPfcZF_WjrOiDlQ1sz5uDsFkApGzuCnBAQPw02yQUoaiyzrJyzaCbh9bL2kDFQwO1T8XORVB8aPrZM4nwOkfq8hRen1lUH5X4pDaIfPqDypERx-mzKSiWvJHV-qytBgZ1Q5gauY7lqEuLXbtBxFsZ2YkmHpNJ31vrE1rLrSluyXu7iP2UV__N6-KuXLxJKhBoObXj2Y9gCsfewhc4kMoigtCCIgp5uyM\",\"help_cente",
-  "19:32:42 STORY POSTED instagram@Vinzap-Finds bb11da09",
   "19:32:51 STORY POSTED facebook@Vinzap-Finds bb11da09",
   "20:01:13 READY 602c4602 Collapsible Electric Kettle 600ml, Foldable (auto-approved)",
   "20:01:35 POSTED instagram@Vinzap-Finds 602c4602: 18082731851364401",
@@ -5686,13 +5682,17 @@
   "16:07:11 FAILED post youtube ab5f169d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "16:07:45 STORY POSTED instagram@Vinzap-Finds ab5f169d",
   "16:07:55 STORY POSTED facebook@Vinzap-Finds ab5f169d",
-  "16:07:56 STORY FAILED facebook@Vijayendra-Singh ab5f169d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from"
+  "16:07:56 STORY FAILED facebook@Vijayendra-Singh ab5f169d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from",
+  "16:51:21 READY efd915e8 3 Section Snack Serving Tray (auto-approved)",
+  "16:51:30 POSTED instagram@Vinzap-Finds efd915e8: 17945445930090919",
+  "16:51:33 POSTED facebook@Vinzap-Finds efd915e8: 1428352113685678_122116101483501659",
+  "16:51:37 POSTED facebook@Vijayendra-Singh efd915e8: 1317760538089559_122126893749480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793961385.0027592,
-  "facebook@Vinzap-Finds": 1793961385.0027592,
-  "facebook@Vijayendra-Singh": 1793961385.0027592,
+  "instagram@Vinzap-Finds": 1793964081.5214043,
+  "facebook@Vinzap-Finds": 1793964081.5214043,
+  "facebook@Vijayendra-Singh": 1793964081.5214043,
   "youtube": 1793961385.0027592
  },
- "n": 403
+ "n": 404
 }
