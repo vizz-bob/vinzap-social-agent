@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "377a1783",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "1 Litre Sports Sipper Water Bottle",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Capacity: approx. 1000 ml",
-     "Flip-lock sipper cap",
-     "Carry strap for easy holding"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "1 Litre Sports Sipper Water Bottle | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "1 Litre Sports Sipper Water Bottle"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n1 Litre Sports Sipper Water Bottle\n✔ Capacity: approx. 1000 ml\n✔ Flip-lock sipper cap\n✔ Carry strap for easy holding\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
-   "title": "1 Litre Sports Sipper Water Bottle | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793618163.0290835,
-     "id": "18157252306521823",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793618163.0290835,
-     "id": "1124313167005817",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793618163.0290835,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev5BzOU8FhK6XUFjH8sytKFrB"
-    }
-   },
-   "created": 1793618136.9393446,
-   "after": 0,
-   "handle": "aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
-   "product_url": "https://www.vinzapstore.in/products/aqua-sports-sipper-water-bottle-1-pc-1000-ml-approx",
-   "file": "377a1783.mp4",
-   "thumb": "377a1783_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18022742171947581"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2288760438577521"
-    }
-   }
-  },
-  {
    "id": "5b08daa8",
    "status": "posted",
    "kind": "image",
@@ -5457,18 +5385,92 @@
    "product_url": "https://www.vinzapstore.in/products/premium-unbreakable-plastic-drinking-glass-1-pc-mix-design",
    "file": "69d59587.jpg",
    "thumb": "69d59587.jpg"
+  },
+  {
+   "id": "3ade1afa",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Premium Silicone Drink Coaster, Mixed",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 49,
+    "was": 0,
+    "feats": [
+     "Made from premium",
+     "Heat-resistant surface protects",
+     "Anti-slip design keeps cups"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Premium Silicone Drink Coaster, Mixed | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Premium Silicone Drink Coaster, Mixed"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Silicone Drink Coaster, Mixed\n✔ Made from premium\n✔ Heat-resistant surface protects\n✔ Anti-slip design keeps cups\n\nOnly ₹49. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Premium Silicone Drink Coaster, Mixed | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793948481.0244365,
+     "id": "18358318786170795",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793948481.0244365,
+     "id": "1485517820162878",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793948481.0244365,
+     "id": "1113185864750072",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1793948481.0244365,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1793948454.973009,
+   "after": 0,
+   "handle": "premium-silicone-drink-coaster-1-pc-88-cm-mix-design",
+   "product_url": "https://www.vinzapstore.in/products/premium-silicone-drink-coaster-1-pc-88-cm-mix-design",
+   "file": "3ade1afa.mp4",
+   "thumb": "3ade1afa_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18383370964242052"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1791671331884800"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2172359937045830"
+    }
+   }
   }
  ],
- "last_post": 1793946658.485568,
+ "last_post": 1793948481.0244365,
  "log": [
-  "15:31:59 POSTED instagram@Vinzap-Finds 3f820062: 18135622804774607",
-  "15:32:05 POSTED facebook@Vinzap-Finds 3f820062: 1511258297496770",
-  "15:32:06 FAILED post facebook@Vijayendra-Singh 3f820062: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6D9hQEgJd2vF3cl85w28CfnrIDPmCRG5Wac7fKXqDykt97CkmwHfyZJWDHCN0iQ6NLXljBvFXYXp63UToZ6V2tZ5wz6QW5G-702Fosx-S2-I29jwdQ_nQ0aa87irq5oJIE79NrAphK9qK3qMYPyWDjRaphXLRdkFBRBGPKzHfXAHH6CuInPFR9OectQXQDtGJU_90jrGqYWQT2B2W5jVsJhPdmxdB0qVRc3sJDW71cXpPpgsBZ0ypazSYVtw4B5udVOFSZXE5xD32eb4PYekLU-EB55HYlIPpPO5mE_pIzPeXkfSLblsR5UuBcM-SZ3_\",\"help_cent",
-  "15:32:12 POSTED youtube 3f820062: tJiUAUOYwoU",
-  "15:32:46 STORY POSTED instagram@Vinzap-Finds 3f820062",
-  "15:32:57 STORY POSTED facebook@Vinzap-Finds 3f820062",
-  "16:01:18 READY 5562c6fa Unbreakable Plastic Mug (auto-approved)",
-  "16:01:30 POSTED instagram@Vinzap-Finds 5562c6fa: 18100240220098108",
   "16:01:35 POSTED facebook@Vinzap-Finds 5562c6fa: 1428352113685678_122115511101501659",
   "16:01:39 POSTED facebook@Vijayendra-Singh 5562c6fa: 1317760538089559_122126161401480728",
   "16:31:22 READY 65ede5ff Ganesh Classic Glass Set of 6, 350 ml Each | Kitchen Gadgets (auto-approved)",
@@ -5660,13 +5662,21 @@
   "12:00:58 READY 69d59587 Unbreakable Plastic Drinking Glass (auto-approved)",
   "12:01:12 POSTED instagram@Vinzap-Finds 69d59587: 17953382484342535",
   "12:01:16 POSTED facebook@Vinzap-Finds 69d59587: 1428352113685678_122116033005501659",
-  "12:01:19 POSTED facebook@Vijayendra-Singh 69d59587: 1317760538089559_122126833959480728"
+  "12:01:19 POSTED facebook@Vijayendra-Singh 69d59587: 1317760538089559_122126833959480728",
+  "12:31:21 READY 3ade1afa Premium Silicone Drink Coaster, Mixed | Trending Shorts (auto-approved)",
+  "12:31:57 POSTED instagram@Vinzap-Finds 3ade1afa: 18358318786170795",
+  "12:32:01 POSTED facebook@Vinzap-Finds 3ade1afa: 1485517820162878",
+  "12:32:05 POSTED facebook@Vijayendra-Singh 3ade1afa: 1113185864750072",
+  "12:32:05 FAILED post youtube 3ade1afa: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:32:36 STORY POSTED instagram@Vinzap-Finds 3ade1afa",
+  "12:32:46 STORY POSTED facebook@Vinzap-Finds 3ade1afa",
+  "12:32:54 STORY POSTED facebook@Vijayendra-Singh 3ade1afa"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793946658.485568,
-  "facebook@Vinzap-Finds": 1793946658.485568,
-  "facebook@Vijayendra-Singh": 1793946658.485568,
-  "youtube": 1793894950.5957656
+  "instagram@Vinzap-Finds": 1793948481.0244365,
+  "facebook@Vinzap-Finds": 1793948481.0244365,
+  "facebook@Vijayendra-Singh": 1793948481.0244365,
+  "youtube": 1793948481.0244365
  },
- "n": 396
+ "n": 397
 }
