@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "5b08daa8",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Clear Plastic Gloves Large",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "100 disposable gloves per pack",
-     "size for a comfortable fit",
-     "Transparent design for easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Disposable Clear Plastic Gloves Large | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Clear Plastic Gloves Large"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Clear Plastic Gloves Large\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Disposable Clear Plastic Gloves Large",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793619938.671337,
-     "id": "18470512153186103",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793619938.671337,
-     "id": "1428352113685678_122114920077501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793619938.671337,
-     "id": "1317760538089559_122125511193480728",
-     "dry": false
-    }
-   },
-   "created": 1793619936.5922322,
-   "after": 0,
-   "handle": "disposable-clear-plastic-gloves-100-pc-large-1",
-   "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-large-1",
-   "file": "5b08daa8.jpg",
-   "thumb": "5b08daa8.jpg"
-  },
-  {
    "id": "4b6bdf27",
    "status": "scheduled",
    "kind": "reel",
@@ -5467,14 +5405,72 @@
      "id": "2172359937045830"
     }
    }
+  },
+  {
+   "id": "06a0a146",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Wall Mount Liquid Soap and Hand Wash",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "Manual push-button dispensing",
+     "Transparent body for easy liquid",
+     "Wall-mounted design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Wall Mount Liquid Soap and Hand Wash | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Wall Mount Liquid Soap and Hand Wash"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mount Liquid Soap and Hand Wash\n✔ Manual push-button dispensing\n✔ Transparent body for easy liquid\n✔ Wall-mounted design\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#diwali #trendingshorts",
+   "title": "Wall Mount Liquid Soap and Hand Wash",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793950245.2264936,
+     "id": "18132340324698912",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793950245.2264936,
+     "id": "1428352113685678_122116045395501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793950245.2264936,
+     "id": "1317760538089559_122126843847480728",
+     "dry": false
+    }
+   },
+   "created": 1793950242.7236912,
+   "after": 0,
+   "handle": "wall-mount-liquid-soap-and-hand-wash-dispenser-500-ml-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/wall-mount-liquid-soap-and-hand-wash-dispenser-500-ml-1-pc",
+   "file": "06a0a146.jpg",
+   "thumb": "06a0a146.jpg"
   }
  ],
- "last_post": 1793948481.0244365,
+ "last_post": 1793950245.2264936,
  "log": [
-  "16:01:35 POSTED facebook@Vinzap-Finds 5562c6fa: 1428352113685678_122115511101501659",
-  "16:01:39 POSTED facebook@Vijayendra-Singh 5562c6fa: 1317760538089559_122126161401480728",
-  "16:31:22 READY 65ede5ff Ganesh Classic Glass Set of 6, 350 ml Each | Kitchen Gadgets (auto-approved)",
-  "16:31:58 POSTED instagram@Vinzap-Finds 65ede5ff: 17993926632051181",
   "16:32:03 POSTED facebook@Vinzap-Finds 65ede5ff: 1307358098183014",
   "16:32:05 FAILED post facebook@Vijayendra-Singh 65ede5ff: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetyYUAV8IeaELYhornNMQqpFR5ZJm3BktXdo0H5T34jQfPZDbxocwVoqynkzmLpvUEcu_7ObU2XXuybIK-PAJmySGkg2kqu_sRhCt2xgiqfVsxq-ZdSwsI_5-V-ehp-j1a2by0LeM8xmwaIVcylF8PJTKOdk9b0VHivpA__xiJVqGk58tYaJo_4nzok9ZQsuBaAWJ8h_FUILBK5B5uj9gi23pCGeoq2nAZpzwEr-2jZ7IpM7obt0YEpZY1p1KflhS01tDVqwDALweWLwgvh4ZwmLgVg_GS4bCuSK7UNsivKpvH6aRrSctZM3t61iHycy3L4\",\"help_cent",
   "16:32:36 STORY POSTED instagram@Vinzap-Finds 65ede5ff",
@@ -5670,13 +5666,17 @@
   "12:32:05 FAILED post youtube 3ade1afa: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "12:32:36 STORY POSTED instagram@Vinzap-Finds 3ade1afa",
   "12:32:46 STORY POSTED facebook@Vinzap-Finds 3ade1afa",
-  "12:32:54 STORY POSTED facebook@Vijayendra-Singh 3ade1afa"
+  "12:32:54 STORY POSTED facebook@Vijayendra-Singh 3ade1afa",
+  "13:00:45 READY 06a0a146 Wall Mount Liquid Soap and Hand Wash (auto-approved)",
+  "13:00:56 POSTED instagram@Vinzap-Finds 06a0a146: 18132340324698912",
+  "13:01:00 POSTED facebook@Vinzap-Finds 06a0a146: 1428352113685678_122116045395501659",
+  "13:01:03 POSTED facebook@Vijayendra-Singh 06a0a146: 1317760538089559_122126843847480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793948481.0244365,
-  "facebook@Vinzap-Finds": 1793948481.0244365,
-  "facebook@Vijayendra-Singh": 1793948481.0244365,
+  "instagram@Vinzap-Finds": 1793950245.2264936,
+  "facebook@Vinzap-Finds": 1793950245.2264936,
+  "facebook@Vijayendra-Singh": 1793950245.2264936,
   "youtube": 1793948481.0244365
  },
- "n": 397
+ "n": 398
 }
