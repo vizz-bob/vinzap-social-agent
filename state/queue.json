@@ -1,89 +1,6 @@
 {
  "items": [
   {
-   "id": "a20f3de7",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "4-in-1 Silicone Bottle Cleaning Brush",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "4-in-1 bottle and nipple brush",
-     "Soft sturdy silicone bristle head",
-     "Cleans without scratching surfaces"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "4-in-1 Silicone Bottle Cleaning Brush | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "4-in-1 Silicone Bottle Cleaning Brush"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n4-in-1 Silicone Bottle Cleaning Brush\n✔ 4-in-1 bottle and nipple brush\n✔ Soft sturdy silicone bristle head\n✔ Cleans without scratching surfaces\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
-   "title": "4-in-1 Silicone Bottle Cleaning Brush | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793636178.259489,
-     "id": "18195486328397203",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793636178.259489,
-     "id": "1809324776980630",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793636178.259489,
-     "id": "1442681997385785",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793636178.259489,
-     "id": "B5kAhVZMNYo",
-     "dry": false
-    }
-   },
-   "created": 1793636151.5788298,
-   "after": 0,
-   "handle": "4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
-   "file": "a20f3de7.mp4",
-   "thumb": "a20f3de7_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18123873218292486"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1677546460597204"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2195994674315347"
-    }
-   }
-  },
-  {
    "id": "84ef3711",
    "status": "posted",
    "kind": "image",
@@ -5482,16 +5399,82 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-strong-cartoon-hook-self-adhesive-hooks-2-pc-set",
    "file": "b05fe6ea.jpg",
    "thumb": "b05fe6ea.jpg"
+  },
+  {
+   "id": "a9224b03",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Ovel Manual Chilli and Dry Fruit",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 329,
+    "was": 0,
+    "feats": [
+     "High-Performance Stainless Steel",
+     "Durable Virgin Plastic Body:",
+     "Manual Hand Crank Design:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Ovel Manual Chilli and Dry Fruit"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Ovel Manual Chilli and Dry Fruit\n✔ High-Performance Stainless Steel\n✔ Durable Virgin Plastic Body:\n✔ Manual Hand Crank Design:\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793969164.801394,
+     "id": "18037250921899370",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793969164.801394,
+     "id": "4482253065323315",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793969164.801394,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNqAHqajzlzmcFsGGTqBI2c2"
+    }
+   },
+   "created": 1793969140.1092622,
+   "after": 0,
+   "handle": "apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
+   "product_url": "https://www.vinzapstore.in/products/apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
+   "file": "a9224b03.mp4",
+   "thumb": "a9224b03_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18093431648289410"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1790656033065951"
+    }
+   }
   }
  ],
- "last_post": 1793967338.0820065,
+ "last_post": 1793969164.801394,
  "log": [
-  "20:33:23 STORY POSTED facebook@Vinzap-Finds cf4c0e0c",
-  "21:00:48 READY 64336ac6 Kitchen Prep Combo of 3 (auto-approved)",
-  "21:00:59 POSTED instagram@Vinzap-Finds 64336ac6: 18107396006243566",
-  "21:01:03 POSTED facebook@Vinzap-Finds 64336ac6: 1428352113685678_122115577041501659",
-  "21:01:06 POSTED facebook@Vijayendra-Singh 64336ac6: 1317760538089559_122126252625480728",
-  "21:31:53 READY 91cab64d Dish Brush Set | Cooking (auto-approved)",
   "21:32:28 POSTED instagram@Vinzap-Finds 91cab64d: 17941145484388095",
   "21:32:32 POSTED facebook@Vinzap-Finds 91cab64d: 1843380813350512",
   "21:32:33 FAILED post facebook@Vijayendra-Singh 91cab64d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetgNBSO7B4pRESi0sBQSP-oafu01nlFvyGqDhqkDwiYNAZ9NKPDmKrbBQydshtHo6Kwn9UeUe311AuHCBMPyNhwcOhFpP_vFrQsr2S9Bc6UCPEd3XRj-e5Ji81KMoJy-eh7rmebyua-K1_Fv1bFcjmHne7lgKTcTvuEvHwT7vkOPMaHyhWTirhNzjBSpXqTDfcUeZQhmg80e0HTqBpr8RA5NDZ3hZmbosM8uuwMr5IMUs0M4NbwYHvHTy3TCLUB5paWW0ENGlwtaH3HbSpNDnSGXjB5eh6uNfsHaaQnlmJ62PTAmwGW1oHEkd5_MRZx-eOQ\",\"help_cent",
@@ -5685,13 +5668,19 @@
   "17:45:38 READY b05fe6ea Cartoon Self Adhesive Hooks, Set of 2 (auto-approved)",
   "17:45:47 POSTED instagram@Vinzap-Finds b05fe6ea: 17959394295267478",
   "17:45:51 POSTED facebook@Vinzap-Finds b05fe6ea: 1428352113685678_122116113273501659",
-  "17:45:54 POSTED facebook@Vijayendra-Singh b05fe6ea: 1317760538089559_122126906733480728"
+  "17:45:54 POSTED facebook@Vijayendra-Singh b05fe6ea: 1317760538089559_122126906733480728",
+  "18:16:04 READY a9224b03 Apex Ovel Manual Chilli and Dry Fruit | Home Decor (auto-approved)",
+  "18:16:38 POSTED instagram@Vinzap-Finds a9224b03: 18037250921899370",
+  "18:16:41 POSTED facebook@Vinzap-Finds a9224b03: 4482253065323315",
+  "18:16:42 FAILED post facebook@Vijayendra-Singh a9224b03: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNqAHqajzlzmcFsGGTqBI2c2-mp8GoUKI-Os_p8e1JY-Pkr_J-VzG29ihSxXEVaFR1KkMZPM1M85kDQMu0ofeQ1YUEAyqomIb67xhQIKOhZoANkrqrGSDTkcqjATjbl1QBXzFsXI1g8PzGeh3JLDFiUKmodDui2Rg5qAKXR-v9iizgVVh5Y5wfSuSyyDsZ8-dbKjkcXCre9-Qsie2F8s3en-akks5MbAtytMfbvzDj9IsJex0n-YZqwFaqm5FiXkLnbDsuEeUbVP2cZtsL0qMat_DYyRSGTUlE-7s7SbTv0UCwmeekl3lqjwyuTTV-JhM\",\"help_cente",
+  "18:17:10 STORY POSTED instagram@Vinzap-Finds a9224b03",
+  "18:17:18 STORY POSTED facebook@Vinzap-Finds a9224b03"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793967338.0820065,
-  "facebook@Vinzap-Finds": 1793967338.0820065,
-  "facebook@Vijayendra-Singh": 1793967338.0820065,
+  "instagram@Vinzap-Finds": 1793969164.801394,
+  "facebook@Vinzap-Finds": 1793969164.801394,
+  "facebook@Vijayendra-Singh": 1793969164.801394,
   "youtube": 1793961385.0027592
  },
- "n": 406
+ "n": 407
 }
