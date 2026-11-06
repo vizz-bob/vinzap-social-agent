@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "d9dd96b2",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stylish Plastic Kitchen Dustbin",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 639,
-    "was": 0,
-    "feats": [
-     "Stylish and modern kitchen",
-     "Wall mounted and cabinet door",
-     "Space saving waste disposal"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Stylish Plastic Kitchen Dustbin | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stylish Plastic Kitchen Dustbin"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStylish Plastic Kitchen Dustbin\n✔ Stylish and modern kitchen\n✔ Wall mounted and cabinet door\n✔ Space saving waste disposal\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Stylish Plastic Kitchen Dustbin | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793696468.6552243,
-     "id": "18398082583166226",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793696468.6552243,
-     "id": "1573740957841158",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793696468.6552243,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJ9a3wnV2U4_3q6ojP9id0FE"
-    }
-   },
-   "created": 1793696452.0494456,
-   "after": 0,
-   "handle": "stylish-plastic-kitchen-dustbin-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stylish-plastic-kitchen-dustbin-1-pc",
-   "file": "d9dd96b2.mp4",
-   "thumb": "d9dd96b2_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17927896146199914"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1202454652104427"
-    }
-   }
-  },
-  {
    "id": "8d03566b",
    "status": "posted",
    "kind": "image",
@@ -5479,18 +5407,92 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-vegetable-sharpener-peeler-tool-1-pc",
    "file": "8e1483e8.jpg",
    "thumb": "8e1483e8.jpg"
+  },
+  {
+   "id": "31297179",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Black Coffee Mug Custom Printed",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 432,
+    "was": 0,
+    "feats": [
+     "Material: glossy ceramic",
+     "Capacity: 11 oz",
+     "Clean black finish"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Black Coffee Mug Custom Printed | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Black Coffee Mug Custom Printed"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nBlack Coffee Mug Custom Printed\n✔ Material: glossy ceramic\n✔ Capacity: 11 oz\n✔ Clean black finish\n\nOnly ₹432. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #mug #giftideas #festivegifts\n#diwali #trendingshorts",
+   "title": "Black Coffee Mug Custom Printed | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793984490.9645276,
+     "id": "18057012446589088",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793984490.9645276,
+     "id": "2170642823535101",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1793984490.9645276,
+     "id": "1688331356050581",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1793984490.9645276,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1793984470.1026702,
+   "after": 0,
+   "handle": "black-coffee-mug",
+   "product_url": "https://www.vinzapstore.in/products/black-coffee-mug",
+   "file": "31297179.mp4",
+   "thumb": "31297179_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18347546509250765"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1438430161711411"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1136247799273941"
+    }
+   }
   }
  ],
- "last_post": 1793982160.161544,
+ "last_post": 1793984490.9645276,
  "log": [
-  "13:32:47 STORY POSTED facebook@Vijayendra-Singh d49a6a18",
-  "14:01:01 READY 33accc00 Kitchen Faucet Sprayer (auto-approved)",
-  "14:01:09 POSTED instagram@Vinzap-Finds 33accc00: 17989986168116295",
-  "14:01:12 POSTED facebook@Vinzap-Finds 33accc00: 1428352113685678_122115777045501659",
-  "14:01:16 POSTED facebook@Vijayendra-Singh 33accc00: 1317760538089559_122126509881480728",
-  "14:31:09 READY d0062d47 Premium Plastic Tea and Coffee Cup Mug | Diwali (auto-approved)",
-  "14:31:45 FAILED post instagram@Vinzap-Finds d0062d47: HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
-  "14:31:50 POSTED facebook@Vinzap-Finds d0062d47: 1524044156224358",
   "14:31:53 POSTED facebook@Vijayendra-Singh d0062d47: 1426098805807005",
   "14:32:04 STORY POSTED facebook@Vinzap-Finds d0062d47",
   "14:32:15 STORY POSTED facebook@Vijayendra-Singh d0062d47",
@@ -5682,13 +5684,21 @@
   "21:52:40 READY 8e1483e8 Multipurpose Vegetable Sharpener and Peeler (auto-approved)",
   "21:52:53 POSTED instagram@Vinzap-Finds 8e1483e8: 18111459863350997",
   "21:52:57 POSTED facebook@Vinzap-Finds 8e1483e8: 1428352113685678_122116170843501659",
-  "21:53:01 POSTED facebook@Vijayendra-Singh 8e1483e8: 1317760538089559_122126973273480728"
+  "21:53:01 POSTED facebook@Vijayendra-Singh 8e1483e8: 1317760538089559_122126973273480728",
+  "22:31:30 READY 31297179 Black Coffee Mug Custom Printed | Diwali (auto-approved)",
+  "22:32:09 POSTED instagram@Vinzap-Finds 31297179: 18057012446589088",
+  "22:32:14 POSTED facebook@Vinzap-Finds 31297179: 2170642823535101",
+  "22:32:18 POSTED facebook@Vijayendra-Singh 31297179: 1688331356050581",
+  "22:32:18 FAILED post youtube 31297179: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "22:32:49 STORY POSTED instagram@Vinzap-Finds 31297179",
+  "22:32:58 STORY POSTED facebook@Vinzap-Finds 31297179",
+  "22:33:07 STORY POSTED facebook@Vijayendra-Singh 31297179"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793982160.161544,
-  "facebook@Vinzap-Finds": 1793982160.161544,
-  "facebook@Vijayendra-Singh": 1793982160.161544,
-  "youtube": 1793972483.485419
+  "instagram@Vinzap-Finds": 1793984490.9645276,
+  "facebook@Vinzap-Finds": 1793984490.9645276,
+  "facebook@Vijayendra-Singh": 1793984490.9645276,
+  "youtube": 1793984490.9645276
  },
- "n": 414
+ "n": 415
 }
