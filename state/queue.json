@@ -1,81 +1,6 @@
 {
  "items": [
   {
-   "id": "0d0fd347",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Moisturizing Feet Socks Gel, 1 Pair",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 329,
-    "was": 0,
-    "feats": [
-     "Everyday home essential"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Silicone Moisturizing Feet Socks Gel, 1 Pair | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Moisturizing Feet Socks Gel, 1 Pair"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Moisturizing Feet Socks Gel, 1 Pair\n✔ Everyday home essential\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Silicone Moisturizing Feet Socks Gel, 1 Pair | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793632572.6110828,
-     "id": "17972140566211115",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793632572.6110828,
-     "id": "28917853927825704",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793632572.6110828,
-     "id": "1765997291370406",
-     "dry": false
-    }
-   },
-   "created": 1793632552.706592,
-   "after": 0,
-   "handle": "503-silicone-moisturizing-feet-socks-gel-1-pair",
-   "product_url": "https://www.vinzapstore.in/products/503-silicone-moisturizing-feet-socks-gel-1-pair",
-   "file": "0d0fd347.mp4",
-   "thumb": "0d0fd347_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18109772138250993"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "985879634572273"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "927344173643082"
-    }
-   }
-  },
-  {
    "id": "91dae7de",
    "status": "posted",
    "kind": "image",
@@ -5483,16 +5408,82 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-3-section-snack-serving-tray-with-lid-1-pc",
    "file": "efd915e8.jpg",
    "thumb": "efd915e8.jpg"
+  },
+  {
+   "id": "dc9ebaed",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "14-grid design for making",
+     "Comes with a lid to keep ice",
+     "Easy release design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Ice Cube Tray | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Ice Cube Tray | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793965565.3784063,
+     "id": "18100035179659521",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1793965565.3784063,
+     "id": "4058709101098697",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1793965565.3784063,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesI5IYAXAM1-5wu7EZWWUsu15"
+    }
+   },
+   "created": 1793965541.3913758,
+   "after": 0,
+   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
+   "file": "dc9ebaed.mp4",
+   "thumb": "dc9ebaed_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18206619625373133"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1126697036410656"
+    }
+   }
   }
  ],
- "last_post": 1793964081.5214043,
+ "last_post": 1793965565.3784063,
  "log": [
-  "19:32:51 STORY POSTED facebook@Vinzap-Finds bb11da09",
-  "20:01:13 READY 602c4602 Collapsible Electric Kettle 600ml, Foldable (auto-approved)",
-  "20:01:35 POSTED instagram@Vinzap-Finds 602c4602: 18082731851364401",
-  "20:01:40 POSTED facebook@Vinzap-Finds 602c4602: 1428352113685678_122115564291501659",
-  "20:01:45 POSTED facebook@Vijayendra-Singh 602c4602: 1317760538089559_122126228631480728",
-  "20:31:54 READY cf4c0e0c 5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization (auto-approved)",
   "20:32:33 POSTED instagram@Vinzap-Finds cf4c0e0c: 18024689990925385",
   "20:32:40 POSTED facebook@Vinzap-Finds cf4c0e0c: 1575981690880394",
   "20:32:41 FAILED post facebook@Vijayendra-Singh cf4c0e0c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetMJE3J8hhiFvHKR9e7T5fq2QEuljRRjWQETSKg38nYmXgrGvkm-aByTHxt4FZs3cM876W-1DoVzuji_d-ZPa5jzQswNICcZkUB_PEBq-Qi6Y73OXoGKiRPGGZHiKw11s7CB6CH2Ob_rWYvH2FQCCp93uB-tqFfo6B4T0jZQj_3A-1c_JLDbism3irjIcU800skdxnzOnKu054JvfbkRQ2GkpG7wwWW5zxkaMUZlBVQJ4vKzRJJ0iiU8w1lSdKHQ3jOzby2RsTt4Ar_V3g_4dDwMphAQ4VGSM5FyNoXu043sX7mijOnqWJHKk2JwE5eL_U\",\"help_cente",
@@ -5686,13 +5677,19 @@
   "16:51:21 READY efd915e8 3 Section Snack Serving Tray (auto-approved)",
   "16:51:30 POSTED instagram@Vinzap-Finds efd915e8: 17945445930090919",
   "16:51:33 POSTED facebook@Vinzap-Finds efd915e8: 1428352113685678_122116101483501659",
-  "16:51:37 POSTED facebook@Vijayendra-Singh efd915e8: 1317760538089559_122126893749480728"
+  "16:51:37 POSTED facebook@Vijayendra-Singh efd915e8: 1317760538089559_122126893749480728",
+  "17:16:05 READY dc9ebaed Ice Cube Tray | Home Decor (auto-approved)",
+  "17:16:39 POSTED instagram@Vinzap-Finds dc9ebaed: 18100035179659521",
+  "17:16:45 POSTED facebook@Vinzap-Finds dc9ebaed: 4058709101098697",
+  "17:16:47 FAILED post facebook@Vijayendra-Singh dc9ebaed: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesI5IYAXAM1-5wu7EZWWUsu15XIQ4PLQo6YI7De9oY32fLVQT0bP_hY914R0hPTz6wEFTPIuPztFbOexrPgC7J-11WI2MuIrpz7sFDA6LsnsGqUtovoluwgVNjyQt7PAzM93fu5Ky6GMBqeAui9yCK77XoHDydIM1i5wIfR0Ry9Hso7ViWhNwMSsVYuBYDvsUE5g-1UYCle6dTDnwoscc2NApVQAOEmyif6sdmEXPXFnD_LlAfgo_zXkVxC0lSwq9ynmVYFV0DBhLWX-Nh4ohwApENGhrIt0u_HLrsrorEkKS8s7VpDm_p6fpTT99Gzswmu\",\"help_cent",
+  "17:17:16 STORY POSTED instagram@Vinzap-Finds dc9ebaed",
+  "17:17:26 STORY POSTED facebook@Vinzap-Finds dc9ebaed"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1793964081.5214043,
-  "facebook@Vinzap-Finds": 1793964081.5214043,
-  "facebook@Vijayendra-Singh": 1793964081.5214043,
+  "instagram@Vinzap-Finds": 1793965565.3784063,
+  "facebook@Vinzap-Finds": 1793965565.3784063,
+  "facebook@Vijayendra-Singh": 1793965565.3784063,
   "youtube": 1793961385.0027592
  },
- "n": 404
+ "n": 405
 }
