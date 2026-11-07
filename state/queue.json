@@ -1,67 +1,6 @@
 {
  "items": [
   {
-   "id": "baf3a3c9",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Small Plastic Gloves",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "100 disposable gloves per pack",
-     "size for a comfortable fit",
-     "Transparent design for easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Disposable Small Plastic Gloves | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Small Plastic Gloves"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Small Plastic Gloves\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#diwali #trendingshorts",
-   "title": "Disposable Small Plastic Gloves",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": false,
-     "ts": 1793709049.8061337,
-     "error": "HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"Aqn1FOJ1SZh6XNZwq9y1iFT\"}}"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793709049.8061337,
-     "id": "1428352113685678_122115245475501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793709049.8061337,
-     "id": "1317760538089559_122125856001480728",
-     "dry": false
-    }
-   },
-   "created": 1793709046.8926823,
-   "after": 0,
-   "handle": "disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
-   "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
-   "file": "baf3a3c9.jpg",
-   "thumb": "baf3a3c9.jpg"
-  },
-  {
    "id": "be508921",
    "status": "scheduled",
    "kind": "reel",
@@ -5505,14 +5444,70 @@
      "id": "1820683542302840"
     }
    }
+  },
+  {
+   "id": "bae02229",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Scalloped Disposable Paper Napkins 23x23cm",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 209,
+    "was": 0,
+    "feats": [
+     "Royal Scalloped Disposable Paper"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Scalloped Disposable Paper Napkins 23x23cm | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Scalloped Disposable Paper Napkins 23x23cm"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nScalloped Disposable Paper Napkins 23x23cm\n✔ Royal Scalloped Disposable Paper\n\nOnly ₹209. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Scalloped Disposable Paper Napkins 23x23cm",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794043844.312252,
+     "id": "18205164940343403",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794043844.312252,
+     "id": "1428352113685678_122116386141501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794043844.312252,
+     "id": "1317760538089559_122127153579480728",
+     "dry": false
+    }
+   },
+   "created": 1794043842.3442807,
+   "after": 0,
+   "handle": "royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
+   "product_url": "https://www.vinzapstore.in/products/royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
+   "file": "bae02229.jpg",
+   "thumb": "bae02229.jpg"
   }
  ],
- "last_post": 1794042075.0510561,
+ "last_post": 1794043844.312252,
  "log": [
-  "17:32:37 STORY POSTED facebook@Vinzap-Finds a8dbbf9d",
-  "18:00:49 READY 6b23e447 Mini Tabletop Dustbin 1200ml (auto-approved)",
-  "18:01:00 POSTED instagram@Vinzap-Finds 6b23e447: 18110908337250565",
-  "18:01:03 POSTED facebook@Vinzap-Finds 6b23e447: 1428352113685678_122115842457501659",
   "18:01:06 POSTED facebook@Vijayendra-Singh 6b23e447: 1317760538089559_122126589837480728",
   "18:31:27 READY 2f4ad42b Adjustable Kitchen Cooking Apron | Kitchen Gadgets (auto-approved)",
   "18:32:03 POSTED instagram@Vinzap-Finds 2f4ad42b: 17989307558880176",
@@ -5708,13 +5703,17 @@
   "14:31:57 POSTED facebook@Vijayendra-Singh 38df8441: 990920354073299",
   "14:32:25 STORY POSTED instagram@Vinzap-Finds 38df8441",
   "14:32:33 STORY POSTED facebook@Vinzap-Finds 38df8441",
-  "14:32:40 STORY POSTED facebook@Vijayendra-Singh 38df8441"
+  "14:32:40 STORY POSTED facebook@Vijayendra-Singh 38df8441",
+  "15:00:44 READY bae02229 Scalloped Disposable Paper Napkins 23x23cm (auto-approved)",
+  "15:00:56 POSTED instagram@Vinzap-Finds bae02229: 18205164940343403",
+  "15:00:59 POSTED facebook@Vinzap-Finds bae02229: 1428352113685678_122116386141501659",
+  "15:01:02 POSTED facebook@Vijayendra-Singh bae02229: 1317760538089559_122127153579480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794042075.0510561,
-  "facebook@Vinzap-Finds": 1794042075.0510561,
-  "facebook@Vijayendra-Singh": 1794042075.0510561,
-  "youtube": 1794034880.4780483
+  "instagram@Vinzap-Finds": 1794043844.312252,
+  "facebook@Vinzap-Finds": 1794043844.312252,
+  "facebook@Vijayendra-Singh": 1794043844.312252,
+  "youtube": 1794034460.4780483
  },
- "n": 421
+ "n": 422
 }
