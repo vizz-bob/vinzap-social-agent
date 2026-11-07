@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "eb8ed184",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Plastic Fruit Fork",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Clear transparent plastic fruit",
-     "2-tine design for easy fruit",
-     "Decorative beaded handle"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Disposable Plastic Fruit Fork | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Plastic Fruit Fork"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Plastic Fruit Fork\n✔ Clear transparent plastic fruit\n✔ 2-tine design for easy fruit\n✔ Decorative beaded handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Disposable Plastic Fruit Fork | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793721687.5367951,
-     "id": "18373162105208273",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793721687.5367951,
-     "id": "29919078134361864",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793721687.5367951,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetVeWtlWDKOePb6-SBHJSPUe_"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793721687.5367951,
-     "id": "RutQpPH6ooA",
-     "dry": false
-    }
-   },
-   "created": 1793721661.586311,
-   "after": 0,
-   "handle": "mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
-   "product_url": "https://www.vinzapstore.in/products/mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
-   "file": "eb8ed184.mp4",
-   "thumb": "eb8ed184_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18128600425909630"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1463196639094197"
-    }
-   }
-  },
-  {
    "id": "67103501",
    "status": "posted",
    "kind": "image",
@@ -5512,18 +5434,92 @@
    "product_url": "https://www.vinzapstore.in/products/microfiber-chenille-hanging-hand-towel-for-bathroom-and-kitchen-cleaning-1-pc",
    "file": "e92f9808.jpg",
    "thumb": "e92f9808.jpg"
+  },
+  {
+   "id": "5d5a1016",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Natural Wood Chopping Board",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 459,
+    "was": 0,
+    "feats": [
+     "Wooden cutting board is made from",
+     "It is Ideal for chopping",
+     "Thick Bamboo that can withstand"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Natural Wood Chopping Board | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Natural Wood Chopping Board"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nNatural Wood Chopping Board\n✔ Wooden cutting board is made from\n✔ It is Ideal for chopping\n✔ Thick Bamboo that can withstand\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Natural Wood Chopping Board | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794056483.7660336,
+     "id": "17897423082612584",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794056483.7660336,
+     "id": "2154729208584972",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794056483.7660336,
+     "id": "1683381736737919",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794056483.7660336,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794056458.1418426,
+   "after": 0,
+   "handle": "2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
+   "product_url": "https://www.vinzapstore.in/products/2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
+   "file": "5d5a1016.mp4",
+   "thumb": "5d5a1016_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17913248712473177"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1681548946822767"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "3297940203929768"
+    }
+   }
   }
  ],
- "last_post": 1794054551.1597545,
+ "last_post": 1794056483.7660336,
  "log": [
-  "21:46:10 READY 01519a52 Disposable 4 Compartment Serving Plates | Kitchen Organization (auto-approved)",
-  "21:46:54 POSTED instagram@Vinzap-Finds 01519a52: 17938300020400494",
-  "21:47:01 POSTED facebook@Vinzap-Finds 01519a52: 2416520225545600",
-  "21:47:07 POSTED facebook@Vijayendra-Singh 01519a52: 4633579493630305",
-  "21:47:07 FAILED post youtube 01519a52: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "21:47:47 STORY POSTED instagram@Vinzap-Finds 01519a52",
-  "21:48:00 STORY POSTED facebook@Vinzap-Finds 01519a52",
-  "21:48:13 STORY POSTED facebook@Vijayendra-Singh 01519a52",
   "22:17:08 READY 2039cc54 Masala Box (auto-approved)",
   "22:17:22 POSTED instagram@Vinzap-Finds 2039cc54: 17909515464332110",
   "22:17:26 POSTED facebook@Vinzap-Finds 2039cc54: 1428352113685678_122115897477501659",
@@ -5715,13 +5711,21 @@
   "17:59:11 READY e92f9808 Microfiber Chenille Hanging Hand Towel (auto-approved)",
   "17:59:22 POSTED instagram@Vinzap-Finds e92f9808: 18079489532738038",
   "17:59:26 POSTED facebook@Vinzap-Finds e92f9808: 1428352113685678_122116425969501659",
-  "17:59:30 POSTED facebook@Vijayendra-Singh e92f9808: 1317760538089559_122127196803480728"
+  "17:59:30 POSTED facebook@Vijayendra-Singh e92f9808: 1317760538089559_122127196803480728",
+  "18:31:23 READY 5d5a1016 Natural Wood Chopping Board | Trending Shorts (auto-approved)",
+  "18:31:58 POSTED instagram@Vinzap-Finds 5d5a1016: 17897423082612584",
+  "18:32:03 POSTED facebook@Vinzap-Finds 5d5a1016: 2154729208584972",
+  "18:32:09 POSTED facebook@Vijayendra-Singh 5d5a1016: 1683381736737919",
+  "18:32:09 FAILED post youtube 5d5a1016: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "18:32:43 STORY POSTED instagram@Vinzap-Finds 5d5a1016",
+  "18:32:52 STORY POSTED facebook@Vinzap-Finds 5d5a1016",
+  "18:33:03 STORY POSTED facebook@Vijayendra-Singh 5d5a1016"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794054551.1597545,
-  "facebook@Vinzap-Finds": 1794054551.1597545,
-  "facebook@Vijayendra-Singh": 1794054551.1597545,
-  "youtube": 1794045255.3279743
+  "instagram@Vinzap-Finds": 1794056483.7660336,
+  "facebook@Vinzap-Finds": 1794056483.7660336,
+  "facebook@Vijayendra-Singh": 1794056483.7660336,
+  "youtube": 1794056483.7660336
  },
- "n": 428
+ "n": 429
 }
