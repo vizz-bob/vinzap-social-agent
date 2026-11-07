@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "8a2f8c87",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Manual Garlic Press Crusher",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Efficient garlic crushing",
-     "Ergonomic handle for comfortable",
-     "Manual press mechanism"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Manual Garlic Press Crusher | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Manual Garlic Press Crusher"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Garlic Press Crusher\n✔ Efficient garlic crushing\n✔ Ergonomic handle for comfortable\n✔ Manual press mechanism\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Manual Garlic Press Crusher",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793777449.4522598,
-     "id": "18416855671085893",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793777449.4522598,
-     "id": "1428352113685678_122115473637501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793777449.4522598,
-     "id": "1317760538089559_122126123463480728",
-     "dry": false
-    }
-   },
-   "created": 1793777446.764495,
-   "after": 0,
-   "handle": "manual-garlic-press-crusher-tool-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/manual-garlic-press-crusher-tool-1-pc",
-   "file": "8a2f8c87.jpg",
-   "thumb": "8a2f8c87.jpg"
-  },
-  {
    "id": "18d4aa49",
    "status": "scheduled",
    "kind": "reel",
@@ -5518,14 +5456,72 @@
      "id": "1074229285649474"
     }
    }
+  },
+  {
+   "id": "959ca043",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Heart Shape Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Add water",
+     "DIY & Reserve dessert",
+     "The cubes fit your small diameter"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Heart Shape Ice Cube Tray | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Heart Shape Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nHeart Shape Ice Cube Tray\n✔ Add water\n✔ DIY & Reserve dessert\n✔ The cubes fit your small diameter\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Heart Shape Ice Cube Tray",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794065448.7900941,
+     "id": "17996728094843521",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794065448.7900941,
+     "id": "1428352113685678_122116467105501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794065448.7900941,
+     "id": "1317760538089559_122127229857480728",
+     "dry": false
+    }
+   },
+   "created": 1794065446.9657307,
+   "after": 0,
+   "handle": "1133-heart-shape-ice-cube-tray",
+   "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
+   "file": "959ca043.jpg",
+   "thumb": "959ca043.jpg"
   }
  ],
- "last_post": 1794063672.8927424,
+ "last_post": 1794065448.7900941,
  "log": [
-  "12:32:54 STORY POSTED facebook@Vijayendra-Singh 3ade1afa",
-  "13:00:45 READY 06a0a146 Wall Mount Liquid Soap and Hand Wash (auto-approved)",
-  "13:00:56 POSTED instagram@Vinzap-Finds 06a0a146: 18132340324698912",
-  "13:01:00 POSTED facebook@Vinzap-Finds 06a0a146: 1428352113685678_122116045395501659",
   "13:01:03 POSTED facebook@Vijayendra-Singh 06a0a146: 1317760538089559_122126843847480728",
   "13:31:22 READY 1559f142 Liger Multipurpose Dry Fruit and Ginger | Diwali (auto-approved)",
   "13:31:58 POSTED instagram@Vinzap-Finds 1559f142: 18113432297604355",
@@ -5721,13 +5717,17 @@
   "20:31:58 POSTED facebook@Vijayendra-Singh 3412923d: 1881961642971726",
   "20:32:30 STORY POSTED instagram@Vinzap-Finds 3412923d",
   "20:32:39 STORY POSTED facebook@Vinzap-Finds 3412923d",
-  "20:32:46 STORY POSTED facebook@Vijayendra-Singh 3412923d"
+  "20:32:46 STORY POSTED facebook@Vijayendra-Singh 3412923d",
+  "21:00:48 READY 959ca043 Heart Shape Ice Cube Tray (auto-approved)",
+  "21:00:58 POSTED instagram@Vinzap-Finds 959ca043: 17996728094843521",
+  "21:01:01 POSTED facebook@Vinzap-Finds 959ca043: 1428352113685678_122116467105501659",
+  "21:01:05 POSTED facebook@Vijayendra-Singh 959ca043: 1317760538089559_122127229857480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794063672.8927424,
-  "facebook@Vinzap-Finds": 1794063672.8927424,
-  "facebook@Vijayendra-Singh": 1794063672.8927424,
-  "youtube": 1794056483.7660336
+  "instagram@Vinzap-Finds": 1794065448.7900941,
+  "facebook@Vinzap-Finds": 1794065448.7900941,
+  "facebook@Vijayendra-Singh": 1794065448.7900941,
+  "youtube": 1794056063.7660336
  },
- "n": 433
+ "n": 434
 }
