@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "18d4aa49",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Skull Shape Ice Cube Tray 8 Grid",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "8 grid design makes multiple",
-     "Fun skull shape adds a cool",
-     "Flexible base makes it easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Skull Shape Ice Cube Tray 8 Grid | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Skull Shape Ice Cube Tray 8 Grid"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSkull Shape Ice Cube Tray 8 Grid\n✔ 8 grid design makes multiple\n✔ Fun skull shape adds a cool\n✔ Flexible base makes it easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Skull Shape Ice Cube Tray 8 Grid | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793779280.9665072,
-     "id": "18125391572286788",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793779280.9665072,
-     "id": "1530364055566593",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793779280.9665072,
-     "id": "1819393085850318",
-     "dry": false
-    }
-   },
-   "created": 1793779256.4244862,
-   "after": 0,
-   "handle": "plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
-   "file": "18d4aa49.mp4",
-   "thumb": "18d4aa49_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17962382805255583"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2366682607487139"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1091024960586365"
-    }
-   }
-  },
-  {
    "id": "4e197694",
    "status": "posted",
    "kind": "image",
@@ -5518,18 +5441,92 @@
    "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
    "file": "959ca043.jpg",
    "thumb": "959ca043.jpg"
+  },
+  {
+   "id": "24b109f0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Chopping Board",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 409,
+    "was": 0,
+    "feats": [
+     "【 Material 】：The cutting board is",
+     "【 Advantage 】：Not easy to crack",
+     "【Maintenance】：The surface"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Stainless Steel Chopping Board | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Chopping Board"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Chopping Board\n✔ 【 Material 】：The cutting board is\n✔ 【 Advantage 】：Not easy to crack\n✔ 【Maintenance】：The surface\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Stainless Steel Chopping Board | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794067279.9901824,
+     "id": "18125818342924177",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794067279.9901824,
+     "id": "1464419418973067",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794067279.9901824,
+     "id": "1124737923645144",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794067279.9901824,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794067258.3847842,
+   "after": 0,
+   "handle": "stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
+   "file": "24b109f0.mp4",
+   "thumb": "24b109f0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17988490004892328"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3027612477617327"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "889857444150238"
+    }
+   }
   }
  ],
- "last_post": 1794065448.7900941,
+ "last_post": 1794067279.9901824,
  "log": [
-  "13:01:03 POSTED facebook@Vijayendra-Singh 06a0a146: 1317760538089559_122126843847480728",
-  "13:31:22 READY 1559f142 Liger Multipurpose Dry Fruit and Ginger | Diwali (auto-approved)",
-  "13:31:58 POSTED instagram@Vinzap-Finds 1559f142: 18113432297604355",
-  "13:32:03 POSTED facebook@Vinzap-Finds 1559f142: 1815699499748183",
-  "13:32:07 POSTED facebook@Vijayendra-Singh 1559f142: 1063658806726143",
-  "13:32:37 STORY POSTED instagram@Vinzap-Finds 1559f142",
-  "13:32:46 STORY POSTED facebook@Vinzap-Finds 1559f142",
-  "13:32:54 STORY POSTED facebook@Vijayendra-Singh 1559f142",
   "14:00:46 READY 863b13f1 Silicone Ice Cube Maker Cup (auto-approved)",
   "14:01:01 POSTED instagram@Vinzap-Finds 863b13f1: 18602002489071637",
   "14:01:06 POSTED facebook@Vinzap-Finds 863b13f1: 1428352113685678_122116064817501659",
@@ -5721,13 +5718,21 @@
   "21:00:48 READY 959ca043 Heart Shape Ice Cube Tray (auto-approved)",
   "21:00:58 POSTED instagram@Vinzap-Finds 959ca043: 17996728094843521",
   "21:01:01 POSTED facebook@Vinzap-Finds 959ca043: 1428352113685678_122116467105501659",
-  "21:01:05 POSTED facebook@Vijayendra-Singh 959ca043: 1317760538089559_122127229857480728"
+  "21:01:05 POSTED facebook@Vijayendra-Singh 959ca043: 1317760538089559_122127229857480728",
+  "21:31:19 READY 24b109f0 Stainless Steel Chopping Board | Home Decor Ideas (auto-approved)",
+  "21:31:49 POSTED instagram@Vinzap-Finds 24b109f0: 18125818342924177",
+  "21:31:54 POSTED facebook@Vinzap-Finds 24b109f0: 1464419418973067",
+  "21:31:59 POSTED facebook@Vijayendra-Singh 24b109f0: 1124737923645144",
+  "21:31:59 FAILED post youtube 24b109f0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "21:32:31 STORY POSTED instagram@Vinzap-Finds 24b109f0",
+  "21:32:40 STORY POSTED facebook@Vinzap-Finds 24b109f0",
+  "21:32:49 STORY POSTED facebook@Vijayendra-Singh 24b109f0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794065448.7900941,
-  "facebook@Vinzap-Finds": 1794065448.7900941,
-  "facebook@Vijayendra-Singh": 1794065448.7900941,
-  "youtube": 1794056063.7660336
+  "instagram@Vinzap-Finds": 1794067279.9901824,
+  "facebook@Vinzap-Finds": 1794067279.9901824,
+  "facebook@Vijayendra-Singh": 1794067279.9901824,
+  "youtube": 1794067279.9901824
  },
- "n": 434
+ "n": 435
 }
