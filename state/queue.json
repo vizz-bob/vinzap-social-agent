@@ -1,76 +1,6 @@
 {
  "items": [
   {
-   "id": "9b17bf8f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Push Soap Dispenser 300ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 249,
-    "was": 0,
-    "feats": [
-     "Apex Push It! Soap Dispenser |"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Push Soap Dispenser 300ml | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Push Soap Dispenser 300ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPush Soap Dispenser 300ml\n✔ Apex Push It! Soap Dispenser |\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#trendingshorts #kitchengadgets",
-   "title": "Push Soap Dispenser 300ml | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793707274.5480595,
-     "id": "17890357581622703",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793707274.5480595,
-     "id": "1118511830777972",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793707274.5480595,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuo3FBQrLLqKyTimALKJc3lvV"
-    }
-   },
-   "created": 1793707258.2655482,
-   "after": 0,
-   "handle": "apex-push-it-soap-dispenser-approx-300ml-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-push-it-soap-dispenser-approx-300ml-1-pc",
-   "file": "9b17bf8f.mp4",
-   "thumb": "9b17bf8f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18072947795505787"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1123101817144327"
-    }
-   }
-  },
-  {
    "id": "baf3a3c9",
    "status": "scheduled",
    "kind": "image",
@@ -5498,17 +5428,87 @@
    "product_url": "https://www.vinzapstore.in/products/silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-4",
    "file": "cdce8fb2.jpg",
    "thumb": "cdce8fb2.jpg"
+  },
+  {
+   "id": "38df8441",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Potato Masher 17cm",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Premium food-grade stainless",
+     "Wide mashing plate",
+     "Ergonomic handle with anti-slip"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Stainless Steel Potato Masher 17cm | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Potato Masher 17cm"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Potato Masher 17cm\n✔ Premium food-grade stainless\n✔ Wide mashing plate\n✔ Ergonomic handle with anti-slip\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Stainless Steel Potato Masher 17cm | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794042075.0510561,
+     "id": "17918949315496612",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794042075.0510561,
+     "id": "3137969923073910",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794042075.0510561,
+     "id": "990920354073299",
+     "dry": false
+    }
+   },
+   "created": 1794042050.4828594,
+   "after": 0,
+   "handle": "stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
+   "file": "38df8441.mp4",
+   "thumb": "38df8441_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18189734035423526"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3671523166339539"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1820683542302840"
+    }
+   }
   }
  ],
- "last_post": 1794040247.343231,
+ "last_post": 1794042075.0510561,
  "log": [
-  "17:02:14 POSTED facebook@Vinzap-Finds a75c272c: 1428352113685678_122115818925501659",
-  "17:02:20 POSTED facebook@Vijayendra-Singh a75c272c: 1317760538089559_122126574087480728",
-  "17:31:19 READY a8dbbf9d Stainless Steel Dinner Spoon | Home Decor Ideas (auto-approved)",
-  "17:31:54 POSTED instagram@Vinzap-Finds a8dbbf9d: 18196782865401253",
-  "17:31:58 POSTED facebook@Vinzap-Finds a8dbbf9d: 1157395576686998",
-  "17:31:59 FAILED post facebook@Vijayendra-Singh a8dbbf9d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes10PlbBh2ds-7NlKwYoGOtpSjcu9gRiXivsvgsZDMPjV4VH64jnDNXoky7pIDHQnIOHg1rIlm7FTox-QaAsnexRq5MAL1wdmSL5ckQwWUk58ZrE85hxlYFZLKcyrymDM94KLWIuSCaIP34WgAvJ02Ui-BD5nVXh4_kf_2cyw7ba6yjgV2ydRxcyxijV_TLz-mtL2hrTMdTfSuMVBTNaybymL8klCRL5SW1OzQTp_7Fel2B_IPPyiNHYHMNXfOIeQ55SAscKEFZjsNadEUG0bfgELwZ_eVa5tqGlPdUSxbx345Ix6IxxwOv6VLLeqKPeTc\",\"help_cente",
-  "17:32:28 STORY POSTED instagram@Vinzap-Finds a8dbbf9d",
   "17:32:37 STORY POSTED facebook@Vinzap-Finds a8dbbf9d",
   "18:00:49 READY 6b23e447 Mini Tabletop Dustbin 1200ml (auto-approved)",
   "18:01:00 POSTED instagram@Vinzap-Finds 6b23e447: 18110908337250565",
@@ -5701,13 +5701,20 @@
   "14:00:47 READY cdce8fb2 Silicone Ice Cube Tray (auto-approved)",
   "14:00:59 POSTED instagram@Vinzap-Finds cdce8fb2: 17954326875301669",
   "14:01:03 POSTED facebook@Vinzap-Finds cdce8fb2: 1428352113685678_122116371729501659",
-  "14:01:06 POSTED facebook@Vijayendra-Singh cdce8fb2: 1317760538089559_122127135165480728"
+  "14:01:06 POSTED facebook@Vijayendra-Singh cdce8fb2: 1317760538089559_122127135165480728",
+  "14:31:15 READY 38df8441 Stainless Steel Potato Masher 17cm | Cooking (auto-approved)",
+  "14:31:48 POSTED instagram@Vinzap-Finds 38df8441: 17918949315496612",
+  "14:31:53 POSTED facebook@Vinzap-Finds 38df8441: 3137969923073910",
+  "14:31:57 POSTED facebook@Vijayendra-Singh 38df8441: 990920354073299",
+  "14:32:25 STORY POSTED instagram@Vinzap-Finds 38df8441",
+  "14:32:33 STORY POSTED facebook@Vinzap-Finds 38df8441",
+  "14:32:40 STORY POSTED facebook@Vijayendra-Singh 38df8441"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794040247.343231,
-  "facebook@Vinzap-Finds": 1794040247.343231,
-  "facebook@Vijayendra-Singh": 1794040247.343231,
+  "instagram@Vinzap-Finds": 1794042075.0510561,
+  "facebook@Vinzap-Finds": 1794042075.0510561,
+  "facebook@Vijayendra-Singh": 1794042075.0510561,
   "youtube": 1794034880.4780483
  },
- "n": 420
+ "n": 421
 }
