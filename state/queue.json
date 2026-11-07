@@ -1,82 +1,6 @@
 {
  "items": [
   {
-   "id": "be508921",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Natural Bamboo Skewers",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 56.76,
-    "was": 0,
-    "feats": [
-     "\" Natural Bamboo Wooden"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Natural Bamboo Skewers | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Natural Bamboo Skewers"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nNatural Bamboo Skewers\n✔ \" Natural Bamboo Wooden\n\nOnly ₹56.76. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Natural Bamboo Skewers | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793710888.5299478,
-     "id": "17995262244060436",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793710888.5299478,
-     "id": "2519628998442662",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793710888.5299478,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev9InW34kd3kM1pRq246knwR6"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793710888.5299478,
-     "id": "HUyR2oJlj9A",
-     "dry": false
-    }
-   },
-   "created": 1793710868.655149,
-   "after": 0,
-   "handle": "1116-natural-bamboo-wooden-skewersbbq-sticks-for-barbeque-and-grilling",
-   "product_url": "https://www.vinzapstore.in/products/1116-natural-bamboo-wooden-skewersbbq-sticks-for-barbeque-and-grilling",
-   "file": "be508921.mp4",
-   "thumb": "be508921_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18122786578958612"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1102263359376807"
-    }
-   }
-  },
-  {
    "id": "d931d287",
    "status": "posted",
    "kind": "image",
@@ -5504,17 +5428,87 @@
    "product_url": "https://www.vinzapstore.in/products/royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
    "file": "bae02229.jpg",
    "thumb": "bae02229.jpg"
+  },
+  {
+   "id": "1eb88ceb",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Plastic Forks",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 89,
+    "was": 0,
+    "feats": [
+     "Bold Design: Bright",
+     "Strong Build: Durable plastic",
+     "Versatile Use: Great for pasta"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Disposable Plastic Forks | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Plastic Forks"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Plastic Forks\n✔ Bold Design: Bright\n✔ Strong Build: Durable plastic\n✔ Versatile Use: Great for pasta\n\nOnly ₹89. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Disposable Plastic Forks | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794045675.3279743,
+     "id": "18129527329876013",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794045675.3279743,
+     "id": "2186957612224075",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794045675.3279743,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesZxgRA4LHdw4ZgWhVdw2aKoc"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794045675.3279743,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794045654.347597,
+   "after": 0,
+   "handle": "premium-disposable-plastic-forks-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/premium-disposable-plastic-forks-1-pc",
+   "file": "1eb88ceb.mp4",
+   "thumb": "1eb88ceb_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18094249157694123"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1106687918667024"
+    }
+   }
   }
  ],
- "last_post": 1794043844.312252,
+ "last_post": 1794045675.3279743,
  "log": [
-  "18:01:06 POSTED facebook@Vijayendra-Singh 6b23e447: 1317760538089559_122126589837480728",
-  "18:31:27 READY 2f4ad42b Adjustable Kitchen Cooking Apron | Kitchen Gadgets (auto-approved)",
-  "18:32:03 POSTED instagram@Vinzap-Finds 2f4ad42b: 17989307558880176",
-  "18:32:07 POSTED facebook@Vinzap-Finds 2f4ad42b: 1842297946927491",
-  "18:32:08 FAILED post facebook@Vijayendra-Singh 2f4ad42b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevvmh8LuPMghdPDde9IbGVfmku9RscT37tq9d_pXqoTtq3R-9EFT2LPNA62OHLhBiwty4kz_TpVXpDgiN2sEkYSNIoSlh3ICA86zi-rR7iLRjDLk4tMaIWnDHbYHXFsWmQdwFY_tHpJiYYHRS-zPHMLkoVh8ulf0I3lLDxTatiSyrs9-GEl_HVD8bj7q50_rp9dn0ywdSjuG-sGfA8bUzODptOEhGqH5yewUT0Z5i6CaiblCSUGK57qB5o-DEvEPNd6fwqr8yh2duVcUywj8TUigNXHLyn1ulMyElB8--PVs-RUVSLRmP3i89CQCdEJKWXf\",\"help_cent",
-  "18:32:08 FAILED post youtube 2f4ad42b: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "18:32:40 STORY POSTED instagram@Vinzap-Finds 2f4ad42b",
   "18:32:48 STORY POSTED facebook@Vinzap-Finds 2f4ad42b",
   "19:00:47 READY 753096a0 Plastic Knife Organizer Stand (auto-approved)",
   "19:00:59 POSTED instagram@Vinzap-Finds 753096a0: 18111232480899617",
@@ -5707,13 +5701,20 @@
   "15:00:44 READY bae02229 Scalloped Disposable Paper Napkins 23x23cm (auto-approved)",
   "15:00:56 POSTED instagram@Vinzap-Finds bae02229: 18205164940343403",
   "15:00:59 POSTED facebook@Vinzap-Finds bae02229: 1428352113685678_122116386141501659",
-  "15:01:02 POSTED facebook@Vijayendra-Singh bae02229: 1317760538089559_122127153579480728"
+  "15:01:02 POSTED facebook@Vijayendra-Singh bae02229: 1317760538089559_122127153579480728",
+  "15:31:15 READY 1eb88ceb Disposable Plastic Forks | Diwali (auto-approved)",
+  "15:32:01 POSTED instagram@Vinzap-Finds 1eb88ceb: 18129527329876013",
+  "15:32:07 POSTED facebook@Vinzap-Finds 1eb88ceb: 2186957612224075",
+  "15:32:09 FAILED post facebook@Vijayendra-Singh 1eb88ceb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesZxgRA4LHdw4ZgWhVdw2aKocue-Qsa5DeofMw2IsNArZ5yS2QI4iAsbX0zvOizb5Qj_lReOQme0GOZ6X9pMJJcDSt30kM4NeYocCW1EXDd3LX5-arENIuomzB0GLRYk9MUes04ahijObAMY6epxE7Lo5W7415B6NfS0pxj5gWBUXjVF8Tiw6uPa0ZijFLMLaMGnF375hVoBy4eLpFI_-D8GXYpxFj3jt74PKJSpTVYGWnVZNdrdJKe9nhRYOTndCJWWzKZ-pKQa11TdVXI4Q_9_RJ5Trage6PEARwL492liyET3jhxG8PZgvZCviBSM8Jz\",\"help_cent",
+  "15:32:09 FAILED post youtube 1eb88ceb: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "15:32:45 STORY POSTED instagram@Vinzap-Finds 1eb88ceb",
+  "15:32:57 STORY POSTED facebook@Vinzap-Finds 1eb88ceb"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794043844.312252,
-  "facebook@Vinzap-Finds": 1794043844.312252,
-  "facebook@Vijayendra-Singh": 1794043844.312252,
-  "youtube": 1794034460.4780483
+  "instagram@Vinzap-Finds": 1794045675.3279743,
+  "facebook@Vinzap-Finds": 1794045675.3279743,
+  "facebook@Vijayendra-Singh": 1794045675.3279743,
+  "youtube": 1794045675.3279743
  },
- "n": 422
+ "n": 423
 }
