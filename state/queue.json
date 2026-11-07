@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "132eeb15",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Multipurpose Cheese and Vegetable Grater",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 79,
-    "was": 0,
-    "feats": [
-     "High-quality stainless steel",
-     "Strong plastic frame",
-     "Ideal for grating cheese"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Multipurpose Cheese and Vegetable Grater | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multipurpose Cheese and Vegetable Grater"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultipurpose Cheese and Vegetable Grater\n✔ High-quality stainless steel\n✔ Strong plastic frame\n✔ Ideal for grating cheese\n\nOnly ₹79. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Multipurpose Cheese and Vegetable Grater | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793775686.2657635,
-     "id": "18078121154746451",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793775686.2657635,
-     "id": "1104318659253552",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793775686.2657635,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu47I8u0w-ijZ4xk8opUXAId_"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793775686.2657635,
-     "id": "EVGFz5P0FpU",
-     "dry": false
-    }
-   },
-   "created": 1793775663.567754,
-   "after": 0,
-   "handle": "multipurpose-cheese-vegetable-grater-1-pc-1",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-cheese-vegetable-grater-1-pc-1",
-   "file": "132eeb15.mp4",
-   "thumb": "132eeb15_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18017540396977971"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1838140063981413"
-    }
-   }
-  },
-  {
    "id": "8a2f8c87",
    "status": "posted",
    "kind": "image",
@@ -5519,17 +5441,87 @@
    "product_url": "https://www.vinzapstore.in/products/ketchup-dispenser-mustard-bottle-gun-1-pc",
    "file": "9c043b45.jpg",
    "thumb": "9c043b45.jpg"
+  },
+  {
+   "id": "3412923d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Snap Sink Dispenser Clear Pump Lotion Bottle",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Clear body",
+     "Refillable and reusable pump",
+     "Works for soap"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Snap Sink Dispenser Clear Pump Lotion Bottle"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSnap Sink Dispenser Clear Pump Lotion Bottle\n✔ Clear body\n✔ Refillable and reusable pump\n✔ Works for soap\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
+   "title": "Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794063672.8927424,
+     "id": "17968285737208276",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794063672.8927424,
+     "id": "1698437345242733",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794063672.8927424,
+     "id": "1881961642971726",
+     "dry": false
+    }
+   },
+   "created": 1794063651.433777,
+   "after": 0,
+   "handle": "snap-sink-dispenser-plastic-clear-empty-pump-lotion-bottles-1-set",
+   "product_url": "https://www.vinzapstore.in/products/snap-sink-dispenser-plastic-clear-empty-pump-lotion-bottles-1-set",
+   "file": "3412923d.mp4",
+   "thumb": "3412923d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17921177970460156"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1698363411959152"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1074229285649474"
+    }
+   }
   }
  ],
- "last_post": 1794061848.802147,
+ "last_post": 1794063672.8927424,
  "log": [
-  "12:31:21 READY 3ade1afa Premium Silicone Drink Coaster, Mixed | Trending Shorts (auto-approved)",
-  "12:31:57 POSTED instagram@Vinzap-Finds 3ade1afa: 18358318786170795",
-  "12:32:01 POSTED facebook@Vinzap-Finds 3ade1afa: 1485517820162878",
-  "12:32:05 POSTED facebook@Vijayendra-Singh 3ade1afa: 1113185864750072",
-  "12:32:05 FAILED post youtube 3ade1afa: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "12:32:36 STORY POSTED instagram@Vinzap-Finds 3ade1afa",
-  "12:32:46 STORY POSTED facebook@Vinzap-Finds 3ade1afa",
   "12:32:54 STORY POSTED facebook@Vijayendra-Singh 3ade1afa",
   "13:00:45 READY 06a0a146 Wall Mount Liquid Soap and Hand Wash (auto-approved)",
   "13:00:56 POSTED instagram@Vinzap-Finds 06a0a146: 18132340324698912",
@@ -5722,13 +5714,20 @@
   "20:00:48 READY 9c043b45 Ketchup and Mustard Dispenser Bottle Gun (auto-approved)",
   "20:01:04 POSTED instagram@Vinzap-Finds 9c043b45: 18120622990952546",
   "20:01:09 POSTED facebook@Vinzap-Finds 9c043b45: 1428352113685678_122116450419501659",
-  "20:01:12 POSTED facebook@Vijayendra-Singh 9c043b45: 1317760538089559_122127219963480728"
+  "20:01:12 POSTED facebook@Vijayendra-Singh 9c043b45: 1317760538089559_122127219963480728",
+  "20:31:12 READY 3412923d Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali (auto-approved)",
+  "20:31:50 POSTED instagram@Vinzap-Finds 3412923d: 17968285737208276",
+  "20:31:54 POSTED facebook@Vinzap-Finds 3412923d: 1698437345242733",
+  "20:31:58 POSTED facebook@Vijayendra-Singh 3412923d: 1881961642971726",
+  "20:32:30 STORY POSTED instagram@Vinzap-Finds 3412923d",
+  "20:32:39 STORY POSTED facebook@Vinzap-Finds 3412923d",
+  "20:32:46 STORY POSTED facebook@Vijayendra-Singh 3412923d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794061848.802147,
-  "facebook@Vinzap-Finds": 1794061848.802147,
-  "facebook@Vijayendra-Singh": 1794061848.802147,
+  "instagram@Vinzap-Finds": 1794063672.8927424,
+  "facebook@Vinzap-Finds": 1794063672.8927424,
+  "facebook@Vijayendra-Singh": 1794063672.8927424,
   "youtube": 1794056483.7660336
  },
- "n": 432
+ "n": 433
 }
