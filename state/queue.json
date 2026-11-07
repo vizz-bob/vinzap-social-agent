@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "988a316d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Electric Glass Kettle 2 Litre",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 4999,
-    "was": 0,
-    "feats": [
-     "Large 2 litre capacity",
-     "Transparent glass body lets you",
-     "Stainless steel heating plate"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Electric Glass Kettle 2 Litre | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Glass Kettle 2 Litre"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Glass Kettle 2 Litre\n✔ Large 2 litre capacity\n✔ Transparent glass body lets you\n✔ Stainless steel heating plate\n\nOnly ₹4999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Electric Glass Kettle 2 Litre | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793714480.701852,
-     "id": "18131636617760531",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793714480.701852,
-     "id": "1686089943035205",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793714480.701852,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetLPk8qwkGFfEPQgKbPwxmnJu"
-    }
-   },
-   "created": 1793714458.2283359,
-   "after": 0,
-   "handle": "suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
-   "file": "988a316d.mp4",
-   "thumb": "988a316d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18010209603004471"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1638836164638322"
-    }
-   }
-  },
-  {
    "id": "288fdd07",
    "status": "posted",
    "kind": "image",
@@ -5507,16 +5435,82 @@
    "product_url": "https://www.vinzapstore.in/products/heavy-duty-stainless-steel-apple-cutter-slicer-1-pc",
    "file": "27ac3834.jpg",
    "thumb": "27ac3834.jpg"
+  },
+  {
+   "id": "00e80730",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Tortoise Shape Kankavati Kumkum Holder",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Tortoise-shaped decorative",
+     "Twin compartments for kumkum",
+     "Golden finish with red and green"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Tortoise Shape Kankavati Kumkum Holder"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTortoise Shape Kankavati Kumkum Holder\n✔ Tortoise-shaped decorative\n✔ Twin compartments for kumkum\n✔ Golden finish with red and green\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794049265.1295636,
+     "id": "17916357636544787",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794049265.1295636,
+     "id": "2439529953522651",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794049265.1295636,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevh4WMxKncWhYmSXNMaFvMZAC"
+    }
+   },
+   "created": 1794049249.7716804,
+   "after": 0,
+   "handle": "tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
+   "file": "00e80730.mp4",
+   "thumb": "00e80730_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18153725275468565"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2319066731999708"
+    }
+   }
   }
  ],
- "last_post": 1794047445.954849,
+ "last_post": 1794049265.1295636,
  "log": [
-  "19:01:07 POSTED facebook@Vijayendra-Singh 753096a0: 1317760538089559_122126603841480728",
-  "19:50:59 READY c996c178 Plastic Squeeze Sauce Bottle | Home Decor Ideas (auto-approved)",
-  "19:51:28 POSTED instagram@Vinzap-Finds c996c178: 17978311443166686",
-  "19:51:33 POSTED facebook@Vinzap-Finds c996c178: 1405940617963797",
-  "19:51:34 FAILED post facebook@Vijayendra-Singh c996c178: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev6ATlQ-8kXEvupEgZYZzMx7NTB8XNm1ihX8j6j0LGThQ0xJi3Bb1jhIFivdBPMhHQ7atb2vSqMmKmPxWMFkAOthDITqxKOHswjKTCX2exgU54WX58Q2aHW_WXDEOBhMgrszkathYVTTsvL8NXNj4OOVFiWu5L6oTEj6qmmKzatZ6UiGEGihlwjmSOBCoVLeci-JDMHGqTc0EewhKcu12XsIi_zoEhJEqZuQzEBv-_fwIZzQkC-QtFUjk8zgDmke0B8zzGSUwGyEDmxkABeiFxLwbKcs5e4fybjQHO5j458rNeaaARgIIx4lLHz4e4vOvU\",\"help_cente",
-  "19:52:06 STORY POSTED instagram@Vinzap-Finds c996c178",
   "19:52:16 STORY POSTED facebook@Vinzap-Finds c996c178",
   "20:15:43 READY 885a2057 3 in 1 Water Bottle Set 2000 ml, 900 ml and (auto-approved)",
   "20:15:54 POSTED instagram@Vinzap-Finds 885a2057: 18120992980980487",
@@ -5710,13 +5704,19 @@
   "16:00:45 READY 27ac3834 Stainless Steel Apple Cutter and Slicer, (auto-approved)",
   "16:00:58 POSTED instagram@Vinzap-Finds 27ac3834: 17978378127152926",
   "16:01:02 POSTED facebook@Vinzap-Finds 27ac3834: 1428352113685678_122116399137501659",
-  "16:01:06 POSTED facebook@Vijayendra-Singh 27ac3834: 1317760538089559_122127167877480728"
+  "16:01:06 POSTED facebook@Vijayendra-Singh 27ac3834: 1317760538089559_122127167877480728",
+  "16:31:05 READY 00e80730 Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas (auto-approved)",
+  "16:31:44 POSTED instagram@Vinzap-Finds 00e80730: 17916357636544787",
+  "16:31:50 POSTED facebook@Vinzap-Finds 00e80730: 2439529953522651",
+  "16:31:52 FAILED post facebook@Vijayendra-Singh 00e80730: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevh4WMxKncWhYmSXNMaFvMZACZ0EJXjU03RzxG0lVqc64-m-NQry51Xf-DoqaWU0SLIWkR7Zl9zbNDc0wtjgwTjER7ipB1C0MwyrLN9AitAHAF4yF2a74QeSrIx-O6UDem4LxKI5-dYaKXgWHQG4B7DlQltskQZSuguJ65Yu9j89q4zkJHXaofiGL_wGAulAwF_0U9ofpSOyI_mEjCqHCpen7jno4IXz3sjeGfxEjaR87BLW7YlOrDdc0vyFjdvTUe2zLAz_8fLiSX_9sV0YPFTqC8Tl8u18g1WlBn6bGGZiG2IxYRS9nroUciRf9dHd0g\",\"help_cente",
+  "16:32:23 STORY POSTED instagram@Vinzap-Finds 00e80730",
+  "16:32:32 STORY POSTED facebook@Vinzap-Finds 00e80730"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794047445.954849,
-  "facebook@Vinzap-Finds": 1794047445.954849,
-  "facebook@Vijayendra-Singh": 1794047445.954849,
+  "instagram@Vinzap-Finds": 1794049265.1295636,
+  "facebook@Vinzap-Finds": 1794049265.1295636,
+  "facebook@Vijayendra-Singh": 1794049265.1295636,
   "youtube": 1794045675.3279743
  },
- "n": 424
+ "n": 425
 }
