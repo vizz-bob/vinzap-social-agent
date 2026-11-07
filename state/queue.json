@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "66854536",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Ice Cream Scoop",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Trigger release lever pushes out",
-     "Sturdy stainless steel build is",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Ice Cream Scoop | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Ice Cream Scoop"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Ice Cream Scoop\n✔ Trigger release lever pushes out\n✔ Sturdy stainless steel build is\n✔ Comfortable handle gives a firm\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Ice Cream Scoop | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793725286.079194,
-     "id": "18074967173488120",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793725286.079194,
-     "id": "1355338366529686",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793725286.079194,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuLoLq99iWIP2H4NkNRil7D2d"
-    }
-   },
-   "created": 1793725264.8916106,
-   "after": 0,
-   "handle": "stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
-   "file": "66854536.mp4",
-   "thumb": "66854536_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18156729046460644"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "28142170135456076"
-    }
-   }
-  },
-  {
    "id": "98d7b1be",
    "status": "posted",
    "kind": "image",
@@ -5514,17 +5442,87 @@
    "product_url": "https://www.vinzapstore.in/products/1383-all-pipe-safe-drain-cleaner-powder-clear-clogged-sinks-pipes-50-gram-pack",
    "file": "991dcec1.jpg",
    "thumb": "991dcec1.jpg"
+  },
+  {
+   "id": "f85cf2c3",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ice Candy Popsicle Maker 8 Mould Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "✅ 8 Mold Capacity – Make 8",
+     "✅ Food-Grade Plastic – Safe",
+     "✅ Easy-Release Design – Smooth"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Ice Candy Popsicle Maker 8 Mould Set | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Candy Popsicle Maker 8 Mould Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Candy Popsicle Maker 8 Mould Set\n✔ ✅ 8 Mold Capacity – Make 8\n✔ ✅ Food-Grade Plastic – Safe\n✔ ✅ Easy-Release Design – Smooth\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Ice Candy Popsicle Maker 8 Mould Set | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794060066.886922,
+     "id": "17899221870681031",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794060066.886922,
+     "id": "998292596013254",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794060066.886922,
+     "id": "2608460966278949",
+     "dry": false
+    }
+   },
+   "created": 1794060049.8070037,
+   "after": 0,
+   "handle": "plastic-ice-candy-popsicle-maker-8-mold-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-ice-candy-popsicle-maker-8-mold-1-set",
+   "file": "f85cf2c3.mp4",
+   "thumb": "f85cf2c3_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17999403636030035"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2229610371308089"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "3033739840301132"
+    }
+   }
   }
  ],
- "last_post": 1794058246.6307847,
+ "last_post": 1794060066.886922,
  "log": [
-  "22:46:04 READY 2e70bba8 Stainless Steel House Shape Cookie Cutter | Kitchen Organization (auto-approved)",
-  "22:46:44 POSTED instagram@Vinzap-Finds 2e70bba8: 17959804383017650",
-  "22:46:50 POSTED facebook@Vinzap-Finds 2e70bba8: 1922206119148395",
-  "22:46:55 POSTED facebook@Vijayendra-Singh 2e70bba8: 1509633804349580",
-  "22:47:27 STORY POSTED instagram@Vinzap-Finds 2e70bba8",
-  "22:47:36 STORY POSTED facebook@Vinzap-Finds 2e70bba8",
-  "22:47:44 STORY POSTED facebook@Vijayendra-Singh 2e70bba8",
   "12:00:58 READY 69d59587 Unbreakable Plastic Drinking Glass (auto-approved)",
   "12:01:12 POSTED instagram@Vinzap-Finds 69d59587: 17953382484342535",
   "12:01:16 POSTED facebook@Vinzap-Finds 69d59587: 1428352113685678_122116033005501659",
@@ -5717,13 +5715,20 @@
   "19:00:46 READY 991dcec1 Drain Cleaner Powder (auto-approved)",
   "19:00:54 POSTED instagram@Vinzap-Finds 991dcec1: 18351232090268720",
   "19:00:57 POSTED facebook@Vinzap-Finds 991dcec1: 1428352113685678_122116439127501659",
-  "19:01:01 POSTED facebook@Vijayendra-Singh 991dcec1: 1317760538089559_122127210015480728"
+  "19:01:01 POSTED facebook@Vijayendra-Singh 991dcec1: 1317760538089559_122127210015480728",
+  "19:31:06 READY f85cf2c3 Ice Candy Popsicle Maker 8 Mould Set | Home Decor (auto-approved)",
+  "19:31:51 POSTED instagram@Vinzap-Finds f85cf2c3: 17899221870681031",
+  "19:31:58 POSTED facebook@Vinzap-Finds f85cf2c3: 998292596013254",
+  "19:32:05 POSTED facebook@Vijayendra-Singh f85cf2c3: 2608460966278949",
+  "19:32:41 STORY POSTED instagram@Vinzap-Finds f85cf2c3",
+  "19:32:55 STORY POSTED facebook@Vinzap-Finds f85cf2c3",
+  "19:33:07 STORY POSTED facebook@Vijayendra-Singh f85cf2c3"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794058246.6307847,
-  "facebook@Vinzap-Finds": 1794058246.6307847,
-  "facebook@Vijayendra-Singh": 1794058246.6307847,
+  "instagram@Vinzap-Finds": 1794060066.886922,
+  "facebook@Vinzap-Finds": 1794060066.886922,
+  "facebook@Vijayendra-Singh": 1794060066.886922,
   "youtube": 1794056483.7660336
  },
- "n": 430
+ "n": 431
 }
