@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "032ed322",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Green Tea Strainer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 109,
-    "was": 0,
-    "feats": [
-     "High-Quality Wire Mesh : Fine",
-     "Ergonomic Plastic Handle :",
-     "Compact and Lightweight : Easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Green Tea Strainer | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Green Tea Strainer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGreen Tea Strainer\n✔ High-Quality Wire Mesh : Fine\n✔ Ergonomic Plastic Handle :\n✔ Compact and Lightweight : Easy\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Green Tea Strainer | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793700081.024816,
-     "id": "18117970862045210",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793700081.024816,
-     "id": "2283985185791629",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793700081.024816,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuc8DRcKMq4vl6viGszn1qWAZ"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793700081.024816,
-     "id": "ijG5XO__9YE",
-     "dry": false
-    }
-   },
-   "created": 1793700054.5957422,
-   "after": 0,
-   "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
-   "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
-   "file": "032ed322.mp4",
-   "thumb": "032ed322_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18120168328943846"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1141082371701500"
-    }
-   }
-  },
-  {
    "id": "a274fa7d",
    "status": "posted",
    "kind": "image",
@@ -5489,18 +5411,92 @@
    "product_url": "https://www.vinzapstore.in/products/gas-stove-burner-stand-stainless-steel-wok-support-ring-and-trivet-1-pc",
    "file": "a747caf1.jpg",
    "thumb": "a747caf1.jpg"
+  },
+  {
+   "id": "a95bbdb2",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Kids Tumbler 900ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 349,
+    "was": 0,
+    "feats": [
+     "Large 900ml capacity holds plenty",
+     "Comes with a secure flip lid",
+     "Comfortable side handle gives"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Kids Tumbler 900ml | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kids Tumbler 900ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKids Tumbler 900ml\n✔ Large 900ml capacity holds plenty\n✔ Comes with a secure flip lid\n✔ Comfortable side handle gives\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecor #homedecorideas",
+   "title": "Kids Tumbler 900ml | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794034880.4780483,
+     "id": "18116469512110550",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794034880.4780483,
+     "id": "1440915754824223",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794034880.4780483,
+     "id": "1848160193045514",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794034880.4780483,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794034853.8574605,
+   "after": 0,
+   "handle": "kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
+   "file": "a95bbdb2.mp4",
+   "thumb": "a95bbdb2_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18103003061383852"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1457409947453139"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1422246979611041"
+    }
+   }
   }
  ],
- "last_post": 1794033051.1435935,
+ "last_post": 1794034880.4780483,
  "log": [
-  "15:01:21 POSTED instagram@Vinzap-Finds 8d960c66: 18024506927943617",
-  "15:01:25 POSTED facebook@Vinzap-Finds 8d960c66: 1428352113685678_122115790365501659",
-  "15:01:29 POSTED facebook@Vijayendra-Singh 8d960c66: 1317760538089559_122126543013480728",
-  "15:31:24 READY a1148dac Oval Chalkboard Sticker Labels | Home Decor Ideas (auto-approved)",
-  "15:31:56 POSTED instagram@Vinzap-Finds a1148dac: 18115011809124481",
-  "15:32:01 POSTED facebook@Vinzap-Finds a1148dac: 1827662721706884",
-  "15:32:04 POSTED facebook@Vijayendra-Singh a1148dac: 2159525007977155",
-  "15:32:04 FAILED post youtube a1148dac: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "15:32:32 STORY POSTED instagram@Vinzap-Finds a1148dac",
   "15:32:40 STORY POSTED facebook@Vinzap-Finds a1148dac",
   "15:32:47 STORY POSTED facebook@Vijayendra-Singh a1148dac",
@@ -5692,13 +5688,21 @@
   "12:00:51 READY a747caf1 Gas Stove Burner Stand, Stainless Steel Wok (auto-approved)",
   "12:01:04 POSTED instagram@Vinzap-Finds a747caf1: 18097591646444993",
   "12:01:09 POSTED facebook@Vinzap-Finds a747caf1: 1428352113685678_122116347369501659",
-  "12:01:14 POSTED facebook@Vijayendra-Singh a747caf1: 1317760538089559_122127114615480728"
+  "12:01:14 POSTED facebook@Vijayendra-Singh a747caf1: 1317760538089559_122127114615480728",
+  "12:31:20 READY a95bbdb2 Kids Tumbler 900ml | Home Decor (auto-approved)",
+  "12:31:51 POSTED instagram@Vinzap-Finds a95bbdb2: 18116469512110550",
+  "12:31:57 POSTED facebook@Vinzap-Finds a95bbdb2: 1440915754824223",
+  "12:32:01 POSTED facebook@Vijayendra-Singh a95bbdb2: 1848160193045514",
+  "12:32:01 FAILED post youtube a95bbdb2: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:32:26 STORY POSTED instagram@Vinzap-Finds a95bbdb2",
+  "12:32:33 STORY POSTED facebook@Vinzap-Finds a95bbdb2",
+  "12:32:41 STORY POSTED facebook@Vijayendra-Singh a95bbdb2"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794033051.1435935,
-  "facebook@Vinzap-Finds": 1794033051.1435935,
-  "facebook@Vijayendra-Singh": 1794033051.1435935,
-  "youtube": 1793984070.9645276
+  "instagram@Vinzap-Finds": 1794034880.4780483,
+  "facebook@Vinzap-Finds": 1794034880.4780483,
+  "facebook@Vijayendra-Singh": 1794034880.4780483,
+  "youtube": 1794034880.4780483
  },
- "n": 416
+ "n": 417
 }
