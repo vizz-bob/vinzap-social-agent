@@ -1,66 +1,6 @@
 {
  "items": [
   {
-   "id": "8baa2a2b",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Lollipop Candy Maker Machine, Pink",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Lollipop Candy Maker and Lollipop"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Lollipop Candy Maker Machine, Pink | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Lollipop Candy Maker Machine, Pink"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLollipop Candy Maker Machine, Pink\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Lollipop Candy Maker Machine, Pink",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793784653.4675052,
-     "id": "18681776518004181",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793784653.4675052,
-     "id": "1428352113685678_122115496719501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793784653.4675052,
-     "id": "1317760538089559_122126149047480728",
-     "dry": false
-    }
-   },
-   "created": 1793784650.5852964,
-   "after": 0,
-   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
-   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
-   "file": "8baa2a2b.jpg",
-   "thumb": "8baa2a2b.jpg"
-  },
-  {
    "id": "3f820062",
    "status": "scheduled",
    "kind": "reel",
@@ -5528,14 +5468,72 @@
      "id": "1906902057164188"
     }
    }
+  },
+  {
+   "id": "e315ce0d",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "4-in-1 Silicone Bottle Cleaning Brush",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "4-in-1 bottle and nipple brush",
+     "Soft sturdy silicone bristle head",
+     "Cleans without scratching surfaces"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "4-in-1 Silicone Bottle Cleaning Brush | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "4-in-1 Silicone Bottle Cleaning Brush"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n4-in-1 Silicone Bottle Cleaning Brush\n✔ 4-in-1 bottle and nipple brush\n✔ Soft sturdy silicone bristle head\n✔ Cleans without scratching surfaces\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
+   "title": "4-in-1 Silicone Bottle Cleaning Brush",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794119464.1718416,
+     "id": "18180314917451694",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794119464.1718416,
+     "id": "1428352113685678_122116625967501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794119464.1718416,
+     "id": "1317760538089559_122127387495480728",
+     "dry": false
+    }
+   },
+   "created": 1794119462.021914,
+   "after": 0,
+   "handle": "4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
+   "file": "e315ce0d.jpg",
+   "thumb": "e315ce0d.jpg"
   }
  ],
- "last_post": 1794070866.7100084,
+ "last_post": 1794119464.1718416,
  "log": [
-  "15:21:09 READY f409529f Soap Dispensing Dishwand Scrubber Brush, (auto-approved)",
-  "15:21:19 POSTED instagram@Vinzap-Finds f409529f: 18133707598767344",
-  "15:21:22 POSTED facebook@Vinzap-Finds f409529f: 1428352113685678_122116083411501659",
-  "15:21:25 POSTED facebook@Vijayendra-Singh f409529f: 1317760538089559_122126866833480728",
   "16:06:24 READY ab5f169d Fish Scaler Scraper | Trending Shorts (auto-approved)",
   "16:07:02 POSTED instagram@Vinzap-Finds ab5f169d: 18105746399368304",
   "16:07:07 POSTED facebook@Vinzap-Finds ab5f169d: 1152224367273713",
@@ -5731,13 +5729,17 @@
   "22:31:51 POSTED facebook@Vijayendra-Singh f5a16da7: 2254610921766079",
   "22:32:22 STORY POSTED instagram@Vinzap-Finds f5a16da7",
   "22:32:29 STORY POSTED facebook@Vinzap-Finds f5a16da7",
-  "22:32:35 STORY POSTED facebook@Vijayendra-Singh f5a16da7"
+  "22:32:35 STORY POSTED facebook@Vijayendra-Singh f5a16da7",
+  "12:01:04 READY e315ce0d 4-in-1 Silicone Bottle Cleaning Brush (auto-approved)",
+  "12:01:19 POSTED instagram@Vinzap-Finds e315ce0d: 18180314917451694",
+  "12:01:23 POSTED facebook@Vinzap-Finds e315ce0d: 1428352113685678_122116625967501659",
+  "12:01:28 POSTED facebook@Vijayendra-Singh e315ce0d: 1317760538089559_122127387495480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794070866.7100084,
-  "facebook@Vinzap-Finds": 1794070866.7100084,
-  "facebook@Vijayendra-Singh": 1794070866.7100084,
-  "youtube": 1794067279.9901824
+  "instagram@Vinzap-Finds": 1794119464.1718416,
+  "facebook@Vinzap-Finds": 1794119464.1718416,
+  "facebook@Vijayendra-Singh": 1794119464.1718416,
+  "youtube": 1794066859.9901824
  },
- "n": 437
+ "n": 438
 }
