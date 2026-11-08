@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "aa670b65",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Bamboo Chopsticks",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 49,
-    "was": 0,
-    "feats": [
-     "Set of 2 premium reusable bamboo",
-     "Made from eco-friendly natural",
-     "Smooth polished bamboo lower"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Reusable Bamboo Chopsticks | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Bamboo Chopsticks"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Bamboo Chopsticks\n✔ Set of 2 premium reusable bamboo\n✔ Made from eco-friendly natural\n✔ Smooth polished bamboo lower\n\nOnly ₹49. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Reusable Bamboo Chopsticks | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793797330.837635,
-     "id": "18389127277236210",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793797330.837635,
-     "id": "999694612466573",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793797330.837635,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetI2ZFBcGNtii4s1Kg2Oq7Pdb"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1793797330.837635,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1793797308.305214,
-   "after": 0,
-   "handle": "reusable-bamboo-chopsticks-with-blue-chinese-print-design-2-pc",
-   "product_url": "https://www.vinzapstore.in/products/reusable-bamboo-chopsticks-with-blue-chinese-print-design-2-pc",
-   "file": "aa670b65.mp4",
-   "thumb": "aa670b65_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18133852360683356"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1132821726063688"
-    }
-   }
-  },
-  {
    "id": "c4e486fe",
    "status": "posted",
    "kind": "image",
@@ -5531,17 +5454,87 @@
    "product_url": "https://www.vinzapstore.in/products/cooking-essentials-combo-oil-sprayer-egg-beater",
    "file": "8c86bc56.jpg",
    "thumb": "8c86bc56.jpg"
+  },
+  {
+   "id": "1de586fb",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Reusable Pizza Storage Container",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 699,
+    "was": 0,
+    "feats": [
+     "【Space Saving】The pizza storage",
+     "【Sealing & Keep Fresh】Each pizza",
+     "【Multifunction】Pizza container"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Reusable Pizza Storage Container | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Pizza Storage Container"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Pizza Storage Container\n✔ 【Space Saving】The pizza storage\n✔ 【Sealing & Keep Fresh】Each pizza\n✔ 【Multifunction】Pizza container\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
+   "title": "Reusable Pizza Storage Container | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794132083.5215728,
+     "id": "18101450075391746",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794132083.5215728,
+     "id": "1082353364847127",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794132083.5215728,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeveSt0uE79AYhL6AL9JTclEuv"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794132083.5215728,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794132058.445069,
+   "after": 0,
+   "handle": "10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
+   "product_url": "https://www.vinzapstore.in/products/10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
+   "file": "1de586fb.mp4",
+   "thumb": "1de586fb_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18101110892452926"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1105601882090437"
+    }
+   }
   }
  ],
- "last_post": 1794130262.358838,
+ "last_post": 1794132083.5215728,
  "log": [
-  "19:18:23 READY 04eee8cc Reusable Plastic Fork Set of 24 Multicolour | Home Decor Ideas (auto-approved)",
-  "19:18:56 POSTED instagram@Vinzap-Finds 04eee8cc: 17913868479515526",
-  "19:19:00 POSTED facebook@Vinzap-Finds 04eee8cc: 1150942467375441",
-  "19:19:00 FAILED post facebook@Vijayendra-Singh 04eee8cc: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuwbI-xS8Fw79LYtL2eNhS1yL-IQ9Ym7vY100cDp56uhwd3ovkE3MRfkC5x59E33urClUwo53zyVXl46Lum9P1CnGSwA7vSrgSAweqUeEgASnTwlaBQ3TREWnQvA5fk33LsEsr8XYMUKLSDl645Isq4Af-jwQeFJwigkYQVqUVZgTAzZck0x5ZNddi9k2VTMLdsjFuVGO90odigIJe24Kjfa3_32KOykrOkr-3sY6RPcOLTHxMTmuA2BVWXqKMar2uhQYJgT9sc5ZHlt0_WuftEFgxwRtBSgOTH1yzncskyCPUhbk2fCoKp_3xN4xbCD10\",\"help_cente",
-  "19:19:00 FAILED post youtube 04eee8cc: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "19:19:31 STORY POSTED instagram@Vinzap-Finds 04eee8cc",
-  "19:19:39 STORY POSTED facebook@Vinzap-Finds 04eee8cc",
   "19:45:47 READY 646e3e9d Protein Shaker Tumbler 400ml (auto-approved)",
   "19:46:00 POSTED instagram@Vinzap-Finds 646e3e9d: 18156441448539140",
   "19:46:03 POSTED facebook@Vinzap-Finds 646e3e9d: 1428352113685678_122116143723501659",
@@ -5734,13 +5727,20 @@
   "15:01:02 READY 8c86bc56 Cooking Essentials Combo (auto-approved)",
   "15:01:18 POSTED instagram@Vinzap-Finds 8c86bc56: 18118094159014334",
   "15:01:23 POSTED facebook@Vinzap-Finds 8c86bc56: 1428352113685678_122116670367501659",
-  "15:01:28 POSTED facebook@Vijayendra-Singh 8c86bc56: 1317760538089559_122127435351480728"
+  "15:01:28 POSTED facebook@Vijayendra-Singh 8c86bc56: 1317760538089559_122127435351480728",
+  "15:31:23 READY 1de586fb Reusable Pizza Storage Container | Trending Shorts (auto-approved)",
+  "15:32:01 POSTED instagram@Vinzap-Finds 1de586fb: 18101450075391746",
+  "15:32:06 POSTED facebook@Vinzap-Finds 1de586fb: 1082353364847127",
+  "15:32:07 FAILED post facebook@Vijayendra-Singh 1de586fb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeveSt0uE79AYhL6AL9JTclEuv7iPDhh1Xgh9qdlfhtnZCjjg09hsNud9AYjxsfy4NY538uHEHU4ageBtiePBsyp0rvS_KiMz8KMqIH__nD4-K4Pwyc8wGeiQyKKA5Oc0rsGKN9X-PLyKVFXNi0Psbc2eSucFEu3ic6xbQ1JY62R9Ru73C-8VyLssFcBrvprswxfg68ZeFWaVmCER5I89WC9JNTO6ClONulOJaen2MXfwTOL6B_mVjXtGPnm_REUvXp0go42q7AMAGUutfkyiiCjEVhDoasYGeqSA24xQatWFknnKNmIAnectIJP7eQikQM\",\"help_cente",
+  "15:32:07 FAILED post youtube 1de586fb: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "15:32:43 STORY POSTED instagram@Vinzap-Finds 1de586fb",
+  "15:32:52 STORY POSTED facebook@Vinzap-Finds 1de586fb"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794130262.358838,
-  "facebook@Vinzap-Finds": 1794130262.358838,
-  "facebook@Vijayendra-Singh": 1794130262.358838,
-  "youtube": 1794120858.7547696
+  "instagram@Vinzap-Finds": 1794132083.5215728,
+  "facebook@Vinzap-Finds": 1794132083.5215728,
+  "facebook@Vijayendra-Singh": 1794132083.5215728,
+  "youtube": 1794132083.5215728
  },
- "n": 444
+ "n": 445
 }
