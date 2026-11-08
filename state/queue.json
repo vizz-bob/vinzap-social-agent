@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "91cab64d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Dish Brush Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "9-piece set",
-     "3 interchangeable brush heads",
-     "Long handle with an angled head"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Dish Brush Set | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Dish Brush Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDish Brush Set\n✔ 9-piece set\n✔ 3 interchangeable brush heads\n✔ Long handle with an angled head\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#cooking #homedecor",
-   "title": "Dish Brush Set | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793808113.2255058,
-     "id": "17941145484388095",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793808113.2255058,
-     "id": "1843380813350512",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793808113.2255058,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetgNBSO7B4pRESi0sBQSP-oaf"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1793808113.2255058,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1793808090.9745526,
-   "after": 0,
-   "handle": "dish-brush-set-with-handle-replacement-heads-drain-tray-in-kitchen-9-pcs-set",
-   "product_url": "https://www.vinzapstore.in/products/dish-brush-set-with-handle-replacement-heads-drain-tray-in-kitchen-9-pcs-set",
-   "file": "91cab64d.mp4",
-   "thumb": "91cab64d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18105493982638974"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4584948485119438"
-    }
-   }
-  },
-  {
    "id": "1078943c",
    "status": "posted",
    "kind": "image",
@@ -5531,18 +5454,92 @@
    "product_url": "https://www.vinzapstore.in/products/6-in-1-premium-kitchen-knife-set-1-set",
    "file": "d39e1b4a.jpg",
    "thumb": "d39e1b4a.jpg"
+  },
+  {
+   "id": "fdf9a3f8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "2 trays with 14-grid design each",
+     "Each tray comes with a lid",
+     "Easy release design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Ice Cube Tray | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 2 trays with 14-grid design each\n✔ Each tray comes with a lid\n✔ Easy release design\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Ice Cube Tray | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794142876.3703756,
+     "id": "18353953684282625",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794142876.3703756,
+     "id": "2090175762385191",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794142876.3703756,
+     "id": "1001310605674470",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794142876.3703756,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794142852.6091828,
+   "after": 0,
+   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-pack-of-2-14-grid-each",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-pack-of-2-14-grid-each",
+   "file": "fdf9a3f8.mp4",
+   "thumb": "fdf9a3f8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18104981720166405"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1149680907637751"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2163266291061287"
+    }
+   }
   }
  ],
- "last_post": 1794141046.2771378,
+ "last_post": 1794142876.3703756,
  "log": [
-  "21:52:57 POSTED facebook@Vinzap-Finds 8e1483e8: 1428352113685678_122116170843501659",
-  "21:53:01 POSTED facebook@Vijayendra-Singh 8e1483e8: 1317760538089559_122126973273480728",
-  "22:31:30 READY 31297179 Black Coffee Mug Custom Printed | Diwali (auto-approved)",
-  "22:32:09 POSTED instagram@Vinzap-Finds 31297179: 18057012446589088",
-  "22:32:14 POSTED facebook@Vinzap-Finds 31297179: 2170642823535101",
-  "22:32:18 POSTED facebook@Vijayendra-Singh 31297179: 1688331356050581",
-  "22:32:18 FAILED post youtube 31297179: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "22:32:49 STORY POSTED instagram@Vinzap-Finds 31297179",
   "22:32:58 STORY POSTED facebook@Vinzap-Finds 31297179",
   "22:33:07 STORY POSTED facebook@Vijayendra-Singh 31297179",
   "12:00:51 READY a747caf1 Gas Stove Burner Stand, Stainless Steel Wok (auto-approved)",
@@ -5734,13 +5731,21 @@
   "18:00:46 READY d39e1b4a 6 in 1 Premium Kitchen Knife Set (auto-approved)",
   "18:00:58 POSTED instagram@Vinzap-Finds d39e1b4a: 18146989057590926",
   "18:01:02 POSTED facebook@Vinzap-Finds d39e1b4a: 1428352113685678_122116719315501659",
-  "18:01:05 POSTED facebook@Vijayendra-Singh d39e1b4a: 1317760538089559_122127478803480728"
+  "18:01:05 POSTED facebook@Vijayendra-Singh d39e1b4a: 1317760538089559_122127478803480728",
+  "18:31:16 READY fdf9a3f8 Ice Cube Tray | Cooking (auto-approved)",
+  "18:31:55 POSTED instagram@Vinzap-Finds fdf9a3f8: 18353953684282625",
+  "18:31:59 POSTED facebook@Vinzap-Finds fdf9a3f8: 2090175762385191",
+  "18:32:02 POSTED facebook@Vijayendra-Singh fdf9a3f8: 1001310605674470",
+  "18:32:02 FAILED post youtube fdf9a3f8: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "18:32:37 STORY POSTED instagram@Vinzap-Finds fdf9a3f8",
+  "18:32:47 STORY POSTED facebook@Vinzap-Finds fdf9a3f8",
+  "18:32:56 STORY POSTED facebook@Vijayendra-Singh fdf9a3f8"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794141046.2771378,
-  "facebook@Vinzap-Finds": 1794141046.2771378,
-  "facebook@Vijayendra-Singh": 1794141046.2771378,
-  "youtube": 1794131663.5215728
+  "instagram@Vinzap-Finds": 1794142876.3703756,
+  "facebook@Vinzap-Finds": 1794142876.3703756,
+  "facebook@Vijayendra-Singh": 1794142876.3703756,
+  "youtube": 1794142876.3703756
  },
- "n": 450
+ "n": 451
 }
