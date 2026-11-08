@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "9dc39e3e",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "LED Glow Drink Cup",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 439,
-    "was": 0,
-    "feats": [
-     "Colorful LED light effect",
-     "Comes with lid and straw for easy",
-     "Reusable and durable design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "LED Glow Drink Cup | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "LED Glow Drink Cup"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLED Glow Drink Cup\n✔ Colorful LED light effect\n✔ Comes with lid and straw for easy\n✔ Reusable and durable design\n\nOnly ₹439. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "LED Glow Drink Cup | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793811684.6930463,
-     "id": "18116808878035640",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793811684.6930463,
-     "id": "4730338373861246",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793811684.6930463,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuL1z1AJLcoB_wEHh9KRvfcXD"
-    }
-   },
-   "created": 1793811661.6958065,
-   "after": 0,
-   "handle": "led-glow-drink-cup-with-straw-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/led-glow-drink-cup-with-straw-1-pc",
-   "file": "9dc39e3e.mp4",
-   "thumb": "9dc39e3e_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18103194020568857"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1130480269461843"
-    }
-   }
-  },
-  {
    "id": "4fbaebf6",
    "status": "posted",
    "kind": "image",
@@ -5536,17 +5464,85 @@
    "product_url": "https://www.vinzapstore.in/products/aluminum-gas-stove-burner-protector-covers-10-pc-23x23-cm",
    "file": "2e9a31ae.jpg",
    "thumb": "2e9a31ae.jpg"
+  },
+  {
+   "id": "13981565",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Vegetable Grater",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 229,
+    "was": 0,
+    "feats": [
+     "Apex Premium Stainless Steel"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Stainless Steel Vegetable Grater | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Vegetable Grater"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vegetable Grater\n✔ Apex Premium Stainless Steel\n\nOnly ₹229. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Stainless Steel Vegetable Grater | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794146470.9110165,
+     "id": "17949841086068948",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794146470.9110165,
+     "id": "1438228281246583",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794146470.9110165,
+     "id": "2635422506977195",
+     "dry": false
+    }
+   },
+   "created": 1794146449.9295876,
+   "after": 0,
+   "handle": "apex-premium-stainless-steel-vegetable-grater-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-premium-stainless-steel-vegetable-grater-1-pc",
+   "file": "13981565.mp4",
+   "thumb": "13981565_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18110374007629026"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1483418063206169"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2164805311077992"
+    }
+   }
   }
  ],
- "last_post": 1794144644.2622404,
+ "last_post": 1794146470.9110165,
  "log": [
-  "12:01:09 POSTED facebook@Vinzap-Finds a747caf1: 1428352113685678_122116347369501659",
-  "12:01:14 POSTED facebook@Vijayendra-Singh a747caf1: 1317760538089559_122127114615480728",
-  "12:31:20 READY a95bbdb2 Kids Tumbler 900ml | Home Decor (auto-approved)",
-  "12:31:51 POSTED instagram@Vinzap-Finds a95bbdb2: 18116469512110550",
-  "12:31:57 POSTED facebook@Vinzap-Finds a95bbdb2: 1440915754824223",
-  "12:32:01 POSTED facebook@Vijayendra-Singh a95bbdb2: 1848160193045514",
-  "12:32:01 FAILED post youtube a95bbdb2: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "12:32:26 STORY POSTED instagram@Vinzap-Finds a95bbdb2",
   "12:32:33 STORY POSTED facebook@Vinzap-Finds a95bbdb2",
   "12:32:41 STORY POSTED facebook@Vijayendra-Singh a95bbdb2",
@@ -5739,13 +5735,20 @@
   "19:00:44 READY 2e9a31ae Aluminium Gas Stove Burner Protector Covers (auto-approved)",
   "19:00:54 POSTED instagram@Vinzap-Finds 2e9a31ae: 18484463332115431",
   "19:00:58 POSTED facebook@Vinzap-Finds 2e9a31ae: 1428352113685678_122116739553501659",
-  "19:01:01 POSTED facebook@Vijayendra-Singh 2e9a31ae: 1317760538089559_122127492855480728"
+  "19:01:01 POSTED facebook@Vijayendra-Singh 2e9a31ae: 1317760538089559_122127492855480728",
+  "19:31:10 READY 13981565 Stainless Steel Vegetable Grater | Kitchen Organization (auto-approved)",
+  "19:31:47 POSTED instagram@Vinzap-Finds 13981565: 17949841086068948",
+  "19:31:52 POSTED facebook@Vinzap-Finds 13981565: 1438228281246583",
+  "19:31:58 POSTED facebook@Vijayendra-Singh 13981565: 2635422506977195",
+  "19:32:33 STORY POSTED instagram@Vinzap-Finds 13981565",
+  "19:32:43 STORY POSTED facebook@Vinzap-Finds 13981565",
+  "19:32:52 STORY POSTED facebook@Vijayendra-Singh 13981565"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794144644.2622404,
-  "facebook@Vinzap-Finds": 1794144644.2622404,
-  "facebook@Vijayendra-Singh": 1794144644.2622404,
+  "instagram@Vinzap-Finds": 1794146470.9110165,
+  "facebook@Vinzap-Finds": 1794146470.9110165,
+  "facebook@Vijayendra-Singh": 1794146470.9110165,
   "youtube": 1794142876.3703756
  },
- "n": 452
+ "n": 453
 }
