@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "d49a6a18",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Supermom  Multipurpose Serving Tray Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1039,
-    "was": 0,
-    "feats": [
-     "Set of 3 nesting trays",
-     "Easy-grip side handles for safe",
-     "Raised spill-guard edges reduce"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Supermom  Multipurpose Serving Tray Set | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom  Multipurpose Serving Tray Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom  Multipurpose Serving Tray Set\n✔ Set of 3 nesting trays\n✔ Easy-grip side handles for safe\n✔ Raised spill-guard edges reduce\n\nOnly ₹1039. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Supermom  Multipurpose Serving Tray Set | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793865676.6879175,
-     "id": "17928338127432553",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793865676.6879175,
-     "id": "1642657497364261",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793865676.6879175,
-     "id": "1839637487462812",
-     "dry": false
-    }
-   },
-   "created": 1793865650.2815785,
-   "after": 0,
-   "handle": "supermom-3-piece-multipurpose-serving-tray-3-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/supermom-3-piece-multipurpose-serving-tray-3-pc-set",
-   "file": "d49a6a18.mp4",
-   "thumb": "d49a6a18_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18081129641400457"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1159509149940846"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2356872378480406"
-    }
-   }
-  },
-  {
    "id": "33accc00",
    "status": "posted",
    "kind": "image",
@@ -5539,18 +5462,90 @@
    "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-18-cm",
    "file": "a6cebfd0.jpg",
    "thumb": "a6cebfd0.jpg"
+  },
+  {
+   "id": "a1af4ba0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Kitchen Faucet 3 Function Pull Down Sink",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 519,
+    "was": 0,
+    "feats": [
+     "Kitchen Faucet 3-Function Pull"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Kitchen Faucet 3 Function Pull Down Sink | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kitchen Faucet 3 Function Pull Down Sink"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Faucet 3 Function Pull Down Sink\n✔ Kitchen Faucet 3-Function Pull\n\nOnly ₹519. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Kitchen Faucet 3 Function Pull Down Sink | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794153675.7768624,
+     "id": "18171980074481070",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794153675.7768624,
+     "id": "1646881383637093",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794153675.7768624,
+     "id": "2108065159914173",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794153675.7768624,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794153654.6099265,
+   "after": 0,
+   "handle": "kitchen-faucet-3-function-pull-down-sink-sprayer-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/kitchen-faucet-3-function-pull-down-sink-sprayer-1-pc",
+   "file": "a1af4ba0.mp4",
+   "thumb": "a1af4ba0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17913854142354262"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1429575679338490"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1096190196574811"
+    }
+   }
   }
  ],
- "last_post": 1794151858.7482488,
+ "last_post": 1794153675.7768624,
  "log": [
-  "14:00:59 POSTED instagram@Vinzap-Finds cdce8fb2: 17954326875301669",
-  "14:01:03 POSTED facebook@Vinzap-Finds cdce8fb2: 1428352113685678_122116371729501659",
-  "14:01:06 POSTED facebook@Vijayendra-Singh cdce8fb2: 1317760538089559_122127135165480728",
-  "14:31:15 READY 38df8441 Stainless Steel Potato Masher 17cm | Cooking (auto-approved)",
-  "14:31:48 POSTED instagram@Vinzap-Finds 38df8441: 17918949315496612",
-  "14:31:53 POSTED facebook@Vinzap-Finds 38df8441: 3137969923073910",
-  "14:31:57 POSTED facebook@Vijayendra-Singh 38df8441: 990920354073299",
-  "14:32:25 STORY POSTED instagram@Vinzap-Finds 38df8441",
   "14:32:33 STORY POSTED facebook@Vinzap-Finds 38df8441",
   "14:32:40 STORY POSTED facebook@Vijayendra-Singh 38df8441",
   "15:00:44 READY bae02229 Scalloped Disposable Paper Napkins 23x23cm (auto-approved)",
@@ -5742,13 +5737,21 @@
   "21:00:58 READY a6cebfd0 Silicone Cooking Spatula 18cm (auto-approved)",
   "21:01:12 POSTED instagram@Vinzap-Finds a6cebfd0: 17911709226578937",
   "21:01:17 POSTED facebook@Vinzap-Finds a6cebfd0: 1428352113685678_122116768161501659",
-  "21:01:20 POSTED facebook@Vijayendra-Singh a6cebfd0: 1317760538089559_122127524775480728"
+  "21:01:20 POSTED facebook@Vijayendra-Singh a6cebfd0: 1317760538089559_122127524775480728",
+  "21:31:15 READY a1af4ba0 Kitchen Faucet 3 Function Pull Down Sink | Cooking (auto-approved)",
+  "21:31:53 POSTED instagram@Vinzap-Finds a1af4ba0: 18171980074481070",
+  "21:31:58 POSTED facebook@Vinzap-Finds a1af4ba0: 1646881383637093",
+  "21:32:04 POSTED facebook@Vijayendra-Singh a1af4ba0: 2108065159914173",
+  "21:32:04 FAILED post youtube a1af4ba0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "21:32:35 STORY POSTED instagram@Vinzap-Finds a1af4ba0",
+  "21:32:46 STORY POSTED facebook@Vinzap-Finds a1af4ba0",
+  "21:32:54 STORY POSTED facebook@Vijayendra-Singh a1af4ba0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794151858.7482488,
-  "facebook@Vinzap-Finds": 1794151858.7482488,
-  "facebook@Vijayendra-Singh": 1794151858.7482488,
-  "youtube": 1794142456.3703756
+  "instagram@Vinzap-Finds": 1794153675.7768624,
+  "facebook@Vinzap-Finds": 1794153675.7768624,
+  "facebook@Vijayendra-Singh": 1794153675.7768624,
+  "youtube": 1794153675.7768624
  },
- "n": 456
+ "n": 457
 }
