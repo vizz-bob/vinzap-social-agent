@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "cf4c0e0c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "5 in 1 Multipurpose Kitchen Tool Combo Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 509,
-    "was": 0,
-    "feats": [
-     "Complete 5-in-1 kitchen utility",
-     "Includes knife",
-     "Suitable for cutting"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "5 in 1 Multipurpose Kitchen Tool Combo Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n5 in 1 Multipurpose Kitchen Tool Combo Set\n✔ Complete 5-in-1 kitchen utility\n✔ Includes knife\n✔ Suitable for cutting\n\nOnly ₹509. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#kitchenorganization #cooking",
-   "title": "5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793804514.8736603,
-     "id": "18024689990925385",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793804514.8736603,
-     "id": "1575981690880394",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793804514.8736603,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetMJE3J8hhiFvHKR9e7T5fq2Q"
-    }
-   },
-   "created": 1793804495.0046964,
-   "after": 0,
-   "handle": "5-in-1-multipurpose-kitchen-tool-combo-set-1-set",
-   "product_url": "https://www.vinzapstore.in/products/5-in-1-multipurpose-kitchen-tool-combo-set-1-set",
-   "file": "cf4c0e0c.mp4",
-   "thumb": "cf4c0e0c_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17912370972308982"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2391563901653342"
-    }
-   }
-  },
-  {
    "id": "64336ac6",
    "status": "posted",
    "kind": "image",
@@ -5531,16 +5459,82 @@
    "product_url": "https://www.vinzapstore.in/products/3-in-1-kitchen-knife-chopping-board-set-1-set",
    "file": "1c8024b8.jpg",
    "thumb": "1c8024b8.jpg"
+  },
+  {
+   "id": "80539c89",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Smart 3 in 1 Fruit and Vegetable",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 329,
+    "was": 0,
+    "feats": [
+     "3-in-1 Functionality Wash",
+     "Food-Grade Plastic Construction",
+     "Perforated Colander Base Helps"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Smart 3 in 1 Fruit and Vegetable"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Smart 3 in 1 Fruit and Vegetable\n✔ 3-in-1 Functionality Wash\n✔ Food-Grade Plastic Construction\n✔ Perforated Colander Base Helps\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794139270.7199874,
+     "id": "17887569579506307",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794139270.7199874,
+     "id": "1790035302223457",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794139270.7199874,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev0Z3ooA65dj7BFSwKroTbgOz"
+    }
+   },
+   "created": 1794139250.6892905,
+   "after": 0,
+   "handle": "apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
+   "product_url": "https://www.vinzapstore.in/products/apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
+   "file": "80539c89.mp4",
+   "thumb": "80539c89_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17916074337558990"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1780242909698253"
+    }
+   }
   }
  ],
- "last_post": 1794137447.3993928,
+ "last_post": 1794139270.7199874,
  "log": [
-  "20:46:37 POSTED facebook@Vijayendra-Singh 87408415: 1317760538089559_122126953287480728",
-  "21:16:05 READY 151a48fa Apex Cozy Coffee Mug 450ml | Cooking (auto-approved)",
-  "21:16:39 POSTED instagram@Vinzap-Finds 151a48fa: 17911985877588796",
-  "21:16:44 POSTED facebook@Vinzap-Finds 151a48fa: 1157063313684468",
-  "21:16:49 POSTED facebook@Vijayendra-Singh 151a48fa: 1131192496548499",
-  "21:17:20 STORY POSTED instagram@Vinzap-Finds 151a48fa",
   "21:17:28 STORY POSTED facebook@Vinzap-Finds 151a48fa",
   "21:17:36 STORY POSTED facebook@Vijayendra-Singh 151a48fa",
   "21:52:40 READY 8e1483e8 Multipurpose Vegetable Sharpener and Peeler (auto-approved)",
@@ -5734,13 +5728,19 @@
   "17:00:47 READY 1c8024b8 3 in 1 Kitchen Knife and Chopping Board Set (auto-approved)",
   "17:00:56 POSTED instagram@Vinzap-Finds 1c8024b8: 18106462196633980",
   "17:00:59 POSTED facebook@Vinzap-Finds 1c8024b8: 1428352113685678_122116703835501659",
-  "17:01:02 POSTED facebook@Vijayendra-Singh 1c8024b8: 1317760538089559_122127460599480728"
+  "17:01:02 POSTED facebook@Vijayendra-Singh 1c8024b8: 1317760538089559_122127460599480728",
+  "17:31:10 READY 80539c89 Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization (auto-approved)",
+  "17:31:48 POSTED instagram@Vinzap-Finds 80539c89: 17887569579506307",
+  "17:31:53 POSTED facebook@Vinzap-Finds 80539c89: 1790035302223457",
+  "17:31:54 FAILED post facebook@Vijayendra-Singh 80539c89: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev0Z3ooA65dj7BFSwKroTbgOzdM-YiH5oDMbV5vMVah-lner-JN6CXKhB928buwHDvEY-_gysyBDFhb2GiAaqVl6gFVpePCxrepZNQwXc82MxLby37BbwvbtMdTG2emSkjY6oRgZfgy0D3dtLRmiEkgzqnXV7vCRgG-pTGhUs9RBx-dLUV5wZuLZbNogP54JuBHyZe8P9FjrGERE4JS_5xE2UvvS94ljNwj_PkiY6ctcp0_DG8hXJqMNYcTkrpdE1-hqfaGysq3hFgwWYO6gwfv6o7EYW5yCtfE7Jd6ad4qf88V6ryZ36P9Ca5mGGx2in3-\",\"help_cent",
+  "17:32:25 STORY POSTED instagram@Vinzap-Finds 80539c89",
+  "17:32:33 STORY POSTED facebook@Vinzap-Finds 80539c89"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794137447.3993928,
-  "facebook@Vinzap-Finds": 1794137447.3993928,
-  "facebook@Vijayendra-Singh": 1794137447.3993928,
+  "instagram@Vinzap-Finds": 1794139270.7199874,
+  "facebook@Vinzap-Finds": 1794139270.7199874,
+  "facebook@Vijayendra-Singh": 1794139270.7199874,
   "youtube": 1794132083.5215728
  },
- "n": 448
+ "n": 449
 }
