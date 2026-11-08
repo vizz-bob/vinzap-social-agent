@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "d0062d47",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Premium Plastic Tea and Coffee Cup Mug",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "【ENJOY YOUR MUGS】 - Plastic cup",
-     "【MULTI PURPOSES】 - Perfect",
-     "【HIGH QUANTITY】 - Premium plastic"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Premium Plastic Tea and Coffee Cup Mug | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Premium Plastic Tea and Coffee Cup Mug"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Plastic Tea and Coffee Cup Mug\n✔ 【ENJOY YOUR MUGS】 - Plastic cup\n✔ 【MULTI PURPOSES】 - Perfect\n✔ 【HIGH QUANTITY】 - Premium plastic\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#diwali #trendingshorts",
-   "title": "Premium Plastic Tea and Coffee Cup Mug | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": false,
-     "ts": 1793869269.3712502,
-     "error": "HTTP 400: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793869269.3712502,
-     "id": "1524044156224358",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793869269.3712502,
-     "id": "1426098805807005",
-     "dry": false
-    }
-   },
-   "created": 1793869252.033958,
-   "after": 0,
-   "handle": "premium-plastic-coffee-tea-cups-mug-with-handle-1-pc-with-color-box-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/premium-plastic-coffee-tea-cups-mug-with-handle-1-pc-with-color-box-mix-color",
-   "file": "d0062d47.mp4",
-   "thumb": "d0062d47_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1051327024650423"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2072024513518288"
-    }
-   }
-  },
-  {
    "id": "8d960c66",
    "status": "posted",
    "kind": "image",
@@ -5542,17 +5470,87 @@
    "product_url": "https://www.vinzapstore.in/products/3-in-1-anti-slip-bathroom-mat-set-with-contour-mat-and-lid-cover-3-pc-set-mix-color",
    "file": "17c58685.jpg",
    "thumb": "17c58685.jpg"
+  },
+  {
+   "id": "c20e88a7",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Dough Scraper Cutter Large",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Large 22 x 12 cm heavy-duty",
+     "Graduated centimetre measurement",
+     "Measurement conversion chart"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Stainless Steel Dough Scraper Cutter Large | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Dough Scraper Cutter Large"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Dough Scraper Cutter Large\n✔ Large 22 x 12 cm heavy-duty\n✔ Graduated centimetre measurement\n✔ Measurement conversion chart\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Stainless Steel Dough Scraper Cutter Large | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794157280.156692,
+     "id": "18121072133063474",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794157280.156692,
+     "id": "978033454896327",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794157280.156692,
+     "id": "2383338832469792",
+     "dry": false
+    }
+   },
+   "created": 1794157257.936477,
+   "after": 0,
+   "handle": "big-stainless-steel-dough-scraper-cutter-22-x-12-cm-with-scale-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/big-stainless-steel-dough-scraper-cutter-22-x-12-cm-with-scale-1-pc",
+   "file": "c20e88a7.mp4",
+   "thumb": "c20e88a7_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17965047312222575"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2931063390583309"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1852833075871357"
+    }
+   }
   }
  ],
- "last_post": 1794155450.5902183,
+ "last_post": 1794157280.156692,
  "log": [
-  "15:00:59 POSTED facebook@Vinzap-Finds bae02229: 1428352113685678_122116386141501659",
-  "15:01:02 POSTED facebook@Vijayendra-Singh bae02229: 1317760538089559_122127153579480728",
-  "15:31:15 READY 1eb88ceb Disposable Plastic Forks | Diwali (auto-approved)",
-  "15:32:01 POSTED instagram@Vinzap-Finds 1eb88ceb: 18129527329876013",
-  "15:32:07 POSTED facebook@Vinzap-Finds 1eb88ceb: 2186957612224075",
-  "15:32:09 FAILED post facebook@Vijayendra-Singh 1eb88ceb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesZxgRA4LHdw4ZgWhVdw2aKocue-Qsa5DeofMw2IsNArZ5yS2QI4iAsbX0zvOizb5Qj_lReOQme0GOZ6X9pMJJcDSt30kM4NeYocCW1EXDd3LX5-arENIuomzB0GLRYk9MUes04ahijObAMY6epxE7Lo5W7415B6NfS0pxj5gWBUXjVF8Tiw6uPa0ZijFLMLaMGnF375hVoBy4eLpFI_-D8GXYpxFj3jt74PKJSpTVYGWnVZNdrdJKe9nhRYOTndCJWWzKZ-pKQa11TdVXI4Q_9_RJ5Trage6PEARwL492liyET3jhxG8PZgvZCviBSM8Jz\",\"help_cent",
-  "15:32:09 FAILED post youtube 1eb88ceb: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "15:32:45 STORY POSTED instagram@Vinzap-Finds 1eb88ceb",
   "15:32:57 STORY POSTED facebook@Vinzap-Finds 1eb88ceb",
   "16:00:45 READY 27ac3834 Stainless Steel Apple Cutter and Slicer, (auto-approved)",
@@ -5745,13 +5743,20 @@
   "22:00:50 READY 17c58685 3 in 1 Anti Slip Bathroom Mat Set (auto-approved)",
   "22:01:07 POSTED instagram@Vinzap-Finds 17c58685: 18142630690621685",
   "22:01:11 POSTED facebook@Vinzap-Finds 17c58685: 1428352113685678_122116781781501659",
-  "22:01:15 POSTED facebook@Vijayendra-Singh 17c58685: 1317760538089559_122127548217480728"
+  "22:01:15 POSTED facebook@Vijayendra-Singh 17c58685: 1317760538089559_122127548217480728",
+  "22:31:20 READY c20e88a7 Stainless Steel Dough Scraper Cutter Large | Cooking (auto-approved)",
+  "22:31:52 POSTED instagram@Vinzap-Finds c20e88a7: 18121072133063474",
+  "22:31:56 POSTED facebook@Vinzap-Finds c20e88a7: 978033454896327",
+  "22:31:59 POSTED facebook@Vijayendra-Singh c20e88a7: 2383338832469792",
+  "22:32:26 STORY POSTED instagram@Vinzap-Finds c20e88a7",
+  "22:32:33 STORY POSTED facebook@Vinzap-Finds c20e88a7",
+  "22:32:40 STORY POSTED facebook@Vijayendra-Singh c20e88a7"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794155450.5902183,
-  "facebook@Vinzap-Finds": 1794155450.5902183,
-  "facebook@Vijayendra-Singh": 1794155450.5902183,
+  "instagram@Vinzap-Finds": 1794157280.156692,
+  "facebook@Vinzap-Finds": 1794157280.156692,
+  "facebook@Vijayendra-Singh": 1794157280.156692,
   "youtube": 1794153675.7768624
  },
- "n": 458
+ "n": 459
 }
