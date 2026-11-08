@@ -1,84 +1,6 @@
 {
  "items": [
   {
-   "id": "3f820062",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Manual Melon Slicer Cutter",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Wide slotted head slices soft",
-     "Doubles as a scoop that lifts out",
-     "Long ergonomic handle keeps hands"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Manual Melon Slicer Cutter | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Manual Melon Slicer Cutter"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Melon Slicer Cutter\n✔ Wide slotted head slices soft\n✔ Doubles as a scoop that lifts out\n✔ Long ergonomic handle keeps hands\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Manual Melon Slicer Cutter | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793786485.3952687,
-     "id": "18135622804774607",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793786485.3952687,
-     "id": "1511258297496770",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793786485.3952687,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesT6D9hQEgJd2vF3cl85w28Cf"
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1793786485.3952687,
-     "id": "tJiUAUOYwoU",
-     "dry": false
-    }
-   },
-   "created": 1793786459.2897124,
-   "after": 0,
-   "handle": "manual-melon-slicer-cutter-tool-for-watermelon-avocado-and-fruits-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/manual-melon-slicer-cutter-tool-for-watermelon-avocado-and-fruits-1-pc",
-   "file": "3f820062.mp4",
-   "thumb": "3f820062_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18122341873946124"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3521850067990368"
-    }
-   }
-  },
-  {
    "id": "5562c6fa",
    "status": "posted",
    "kind": "image",
@@ -5530,18 +5452,92 @@
    "product_url": "https://www.vinzapstore.in/products/4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
    "file": "e315ce0d.jpg",
    "thumb": "e315ce0d.jpg"
+  },
+  {
+   "id": "a902f3a0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Professional Kitchen Knife Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1509,
+    "was": 0,
+    "feats": [
+     "✅ 6-in-1 Multi-Purpose Set –",
+     "✅ Sharp Stainless Steel Blades –",
+     "✅ Non-Stick Yellow Blade Coating"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Professional Kitchen Knife Set | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Professional Kitchen Knife Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nProfessional Kitchen Knife Set\n✔ ✅ 6-in-1 Multi-Purpose Set –\n✔ ✅ Sharp Stainless Steel Blades –\n✔ ✅ Non-Stick Yellow Blade Coating\n\nOnly ₹1509. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Professional Kitchen Knife Set | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794121278.7547696,
+     "id": "17971556456964950",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794121278.7547696,
+     "id": "1401459048418677",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794121278.7547696,
+     "id": "998978466583836",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794121278.7547696,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794121252.3565629,
+   "after": 0,
+   "handle": "6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
+   "product_url": "https://www.vinzapstore.in/products/6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
+   "file": "a902f3a0.mp4",
+   "thumb": "a902f3a0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18114096181885917"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1703151431822534"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1895174648507352"
+    }
+   }
   }
  ],
- "last_post": 1794119464.1718416,
+ "last_post": 1794121278.7547696,
  "log": [
-  "16:06:24 READY ab5f169d Fish Scaler Scraper | Trending Shorts (auto-approved)",
-  "16:07:02 POSTED instagram@Vinzap-Finds ab5f169d: 18105746399368304",
-  "16:07:07 POSTED facebook@Vinzap-Finds ab5f169d: 1152224367273713",
-  "16:07:11 POSTED facebook@Vijayendra-Singh ab5f169d: 1784794596124704",
-  "16:07:11 FAILED post youtube ab5f169d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "16:07:45 STORY POSTED instagram@Vinzap-Finds ab5f169d",
-  "16:07:55 STORY POSTED facebook@Vinzap-Finds ab5f169d",
-  "16:07:56 STORY FAILED facebook@Vijayendra-Singh ab5f169d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from",
   "16:51:21 READY efd915e8 3 Section Snack Serving Tray (auto-approved)",
   "16:51:30 POSTED instagram@Vinzap-Finds efd915e8: 17945445930090919",
   "16:51:33 POSTED facebook@Vinzap-Finds efd915e8: 1428352113685678_122116101483501659",
@@ -5733,13 +5729,21 @@
   "12:01:04 READY e315ce0d 4-in-1 Silicone Bottle Cleaning Brush (auto-approved)",
   "12:01:19 POSTED instagram@Vinzap-Finds e315ce0d: 18180314917451694",
   "12:01:23 POSTED facebook@Vinzap-Finds e315ce0d: 1428352113685678_122116625967501659",
-  "12:01:28 POSTED facebook@Vijayendra-Singh e315ce0d: 1317760538089559_122127387495480728"
+  "12:01:28 POSTED facebook@Vijayendra-Singh e315ce0d: 1317760538089559_122127387495480728",
+  "12:31:18 READY a902f3a0 Professional Kitchen Knife Set | Kitchen Gadgets (auto-approved)",
+  "12:31:52 POSTED instagram@Vinzap-Finds a902f3a0: 17971556456964950",
+  "12:31:56 POSTED facebook@Vinzap-Finds a902f3a0: 1401459048418677",
+  "12:32:00 POSTED facebook@Vijayendra-Singh a902f3a0: 998978466583836",
+  "12:32:00 FAILED post youtube a902f3a0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:32:47 STORY POSTED instagram@Vinzap-Finds a902f3a0",
+  "12:32:54 STORY POSTED facebook@Vinzap-Finds a902f3a0",
+  "12:33:02 STORY POSTED facebook@Vijayendra-Singh a902f3a0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794119464.1718416,
-  "facebook@Vinzap-Finds": 1794119464.1718416,
-  "facebook@Vijayendra-Singh": 1794119464.1718416,
-  "youtube": 1794066859.9901824
+  "instagram@Vinzap-Finds": 1794121278.7547696,
+  "facebook@Vinzap-Finds": 1794121278.7547696,
+  "facebook@Vijayendra-Singh": 1794121278.7547696,
+  "youtube": 1794121278.7547696
  },
- "n": 438
+ "n": 439
 }
