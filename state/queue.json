@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "602c4602",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Collapsible Electric Kettle 600ml, Foldable",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1999,
-    "was": 0,
-    "feats": [
-     "Collapsible silicone body folds",
-     "Compact 600ml capacity",
-     "Fast heating element brings water"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Collapsible Electric Kettle 600ml, Foldable | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Collapsible Electric Kettle 600ml, Foldable"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCollapsible Electric Kettle 600ml, Foldable\n✔ Collapsible silicone body folds\n✔ Compact 600ml capacity\n✔ Fast heating element brings water\n\nOnly ₹1999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Collapsible Electric Kettle 600ml, Foldable",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793802673.2815473,
-     "id": "18082731851364401",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793802673.2815473,
-     "id": "1428352113685678_122115564291501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793802673.2815473,
-     "id": "1317760538089559_122126228631480728",
-     "dry": false
-    }
-   },
-   "created": 1793802670.8404179,
-   "after": 0,
-   "handle": "collapsible-travel-electric-kettle-600ml-foldable-silicone-water-boiler-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/collapsible-travel-electric-kettle-600ml-foldable-silicone-water-boiler-1-pc",
-   "file": "602c4602.jpg",
-   "thumb": "602c4602.jpg"
-  },
-  {
    "id": "cf4c0e0c",
    "status": "scheduled",
    "kind": "reel",
@@ -5531,14 +5469,72 @@
      "id": "3530030720492993"
     }
    }
+  },
+  {
+   "id": "1c8024b8",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3 in 1 Kitchen Knife and Chopping Board Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 169,
+    "was": 0,
+    "feats": [
+     "Complete 3 in 1 kitchen",
+     "Includes chopping board",
+     "Smooth cutting surface for safe"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "3 in 1 Kitchen Knife and Chopping Board Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3 in 1 Kitchen Knife and Chopping Board Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 in 1 Kitchen Knife and Chopping Board Set\n✔ Complete 3 in 1 kitchen\n✔ Includes chopping board\n✔ Smooth cutting surface for safe\n\nOnly ₹169. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "3 in 1 Kitchen Knife and Chopping Board Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794137447.3993928,
+     "id": "18106462196633980",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794137447.3993928,
+     "id": "1428352113685678_122116703835501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794137447.3993928,
+     "id": "1317760538089559_122127460599480728",
+     "dry": false
+    }
+   },
+   "created": 1794137445.534715,
+   "after": 0,
+   "handle": "3-in-1-kitchen-knife-chopping-board-set-1-set",
+   "product_url": "https://www.vinzapstore.in/products/3-in-1-kitchen-knife-chopping-board-set-1-set",
+   "file": "1c8024b8.jpg",
+   "thumb": "1c8024b8.jpg"
   }
  ],
- "last_post": 1794135666.4492807,
+ "last_post": 1794137447.3993928,
  "log": [
-  "20:18:11 STORY POSTED facebook@Vijayendra-Singh def90881",
-  "20:45:46 READY 87408415 2 in 1 Fruit Scooper and Cutter Tool (auto-approved)",
-  "20:46:27 FAILED post instagram@Vinzap-Finds 87408415: HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AcDbt-s5mDvj6jNsr7ClBx7\"}}",
-  "20:46:32 POSTED facebook@Vinzap-Finds 87408415: 1428352113685678_122116157997501659",
   "20:46:37 POSTED facebook@Vijayendra-Singh 87408415: 1317760538089559_122126953287480728",
   "21:16:05 READY 151a48fa Apex Cozy Coffee Mug 450ml | Cooking (auto-approved)",
   "21:16:39 POSTED instagram@Vinzap-Finds 151a48fa: 17911985877588796",
@@ -5734,13 +5730,17 @@
   "16:31:44 POSTED facebook@Vinzap-Finds 78b99f0e: 993535743183425",
   "16:31:45 FAILED post facebook@Vijayendra-Singh 78b99f0e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPuur8CUAH3YobrNCJScUWHKdHpscStckV2gpVWbSWpHLrFp2Bctjjal49t8BaDfEPr2KId_3n8HMmco9c6mznUN2vTpbUIVQs2MpKou3vni-fObUOIztEnanusTGZYIiKXULY_mxHJVQKgAEKL0jpw6E1UOepkpEtecUR5HRWxhpdeIawbEWf85JJh5QwHRpGWHtygWQj4qFYy-brQEe4DKvRVeIf-539SA-lezvYH-JxOOr51LXzF8kgTHhyVYY4UzT4EdXpoW-7q1HqogW179lK4N4MuwQMS_tAJmJ-c_J4-l2hHEMCjNsaDfOH9XKM\",\"help_cent",
   "16:32:13 STORY POSTED instagram@Vinzap-Finds 78b99f0e",
-  "16:32:21 STORY POSTED facebook@Vinzap-Finds 78b99f0e"
+  "16:32:21 STORY POSTED facebook@Vinzap-Finds 78b99f0e",
+  "17:00:47 READY 1c8024b8 3 in 1 Kitchen Knife and Chopping Board Set (auto-approved)",
+  "17:00:56 POSTED instagram@Vinzap-Finds 1c8024b8: 18106462196633980",
+  "17:00:59 POSTED facebook@Vinzap-Finds 1c8024b8: 1428352113685678_122116703835501659",
+  "17:01:02 POSTED facebook@Vijayendra-Singh 1c8024b8: 1317760538089559_122127460599480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794135666.4492807,
-  "facebook@Vinzap-Finds": 1794135666.4492807,
-  "facebook@Vijayendra-Singh": 1794135666.4492807,
+  "instagram@Vinzap-Finds": 1794137447.3993928,
+  "facebook@Vinzap-Finds": 1794137447.3993928,
+  "facebook@Vijayendra-Singh": 1794137447.3993928,
   "youtube": 1794132083.5215728
  },
- "n": 447
+ "n": 448
 }
