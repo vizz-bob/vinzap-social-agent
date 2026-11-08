@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "bb11da09",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Wall Mounted Stainless Steel Cup and Mug",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 489,
-    "was": 0,
-    "feats": [
-     "Wall-mounted design",
-     "Helps organize cups",
-     "Open structure allows quick"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Wall Mounted Stainless Steel Cup and Mug | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wall Mounted Stainless Steel Cup and Mug"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mounted Stainless Steel Cup and Mug\n✔ Wall-mounted design\n✔ Helps organize cups\n✔ Open structure allows quick\n\nOnly ₹489. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#cooking #homedecor",
-   "title": "Wall Mounted Stainless Steel Cup and Mug | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793800878.4696956,
-     "id": "18134404303666486",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793800878.4696956,
-     "id": "1133847909227078",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793800878.4696956,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesRQJt62XfIlnRpJPEyuqI7sq"
-    }
-   },
-   "created": 1793800852.0578222,
-   "after": 0,
-   "handle": "wall-mounted-stainless-steel-cup-mug-holder-rack-25-x-25-cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/wall-mounted-stainless-steel-cup-mug-holder-rack-25-x-25-cm-1-pc",
-   "file": "bb11da09.mp4",
-   "thumb": "bb11da09_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18120201548004779"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2305397653585504"
-    }
-   }
-  },
-  {
    "id": "602c4602",
    "status": "posted",
    "kind": "image",
@@ -5531,16 +5459,82 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-supermom-stainless-steel-carrot-grater-1-pc",
    "file": "5026a0c5.jpg",
    "thumb": "5026a0c5.jpg"
+  },
+  {
+   "id": "78b99f0e",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Miny Steel Mixing Bowl Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 569,
+    "was": 0,
+    "feats": [
+     "Three graduated sizes cover mixing",
+     "Snap on lids turn each mixing",
+     "Stainless steel body does not"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Apex Miny Steel Mixing Bowl Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Miny Steel Mixing Bowl Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Miny Steel Mixing Bowl Set\n✔ Three graduated sizes cover mixing\n✔ Snap on lids turn each mixing\n✔ Stainless steel body does not\n\nOnly ₹569. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#diwali #trendingshorts",
+   "title": "Apex Miny Steel Mixing Bowl Set | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794135666.4492807,
+     "id": "18126018067927698",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794135666.4492807,
+     "id": "993535743183425",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794135666.4492807,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPuur8CUAH3YobrNCJScUWHK"
+    }
+   },
+   "created": 1794135650.610983,
+   "after": 0,
+   "handle": "apex-miny-steel-container-set-mixing-bowls-with-lids-for-kitchen-3-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/apex-miny-steel-container-set-mixing-bowls-with-lids-for-kitchen-3-pc-set",
+   "file": "78b99f0e.mp4",
+   "thumb": "78b99f0e_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18121676326990105"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3530030720492993"
+    }
+   }
   }
  ],
- "last_post": 1794133844.907896,
+ "last_post": 1794135666.4492807,
  "log": [
-  "20:16:17 READY def90881 Glass Water Jug | Kitchen Gadgets (auto-approved)",
-  "20:17:01 POSTED instagram@Vinzap-Finds def90881: 18037365287904931",
-  "20:17:07 POSTED facebook@Vinzap-Finds def90881: 1164422502672467",
-  "20:17:13 POSTED facebook@Vijayendra-Singh def90881: 1721970889438682",
-  "20:17:49 STORY POSTED instagram@Vinzap-Finds def90881",
-  "20:18:00 STORY POSTED facebook@Vinzap-Finds def90881",
   "20:18:11 STORY POSTED facebook@Vijayendra-Singh def90881",
   "20:45:46 READY 87408415 2 in 1 Fruit Scooper and Cutter Tool (auto-approved)",
   "20:46:27 FAILED post instagram@Vinzap-Finds 87408415: HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AcDbt-s5mDvj6jNsr7ClBx7\"}}",
@@ -5734,13 +5728,19 @@
   "16:00:44 READY 5026a0c5 Supermom Stainless Steel Carrot Grater (auto-approved)",
   "16:00:56 POSTED instagram@Vinzap-Finds 5026a0c5: 18414655543094020",
   "16:01:00 POSTED facebook@Vinzap-Finds 5026a0c5: 1428352113685678_122116689555501659",
-  "16:01:04 POSTED facebook@Vijayendra-Singh 5026a0c5: 1317760538089559_122127450393480728"
+  "16:01:04 POSTED facebook@Vijayendra-Singh 5026a0c5: 1317760538089559_122127450393480728",
+  "16:31:06 READY 78b99f0e Apex Miny Steel Mixing Bowl Set | Diwali (auto-approved)",
+  "16:31:40 POSTED instagram@Vinzap-Finds 78b99f0e: 18126018067927698",
+  "16:31:44 POSTED facebook@Vinzap-Finds 78b99f0e: 993535743183425",
+  "16:31:45 FAILED post facebook@Vijayendra-Singh 78b99f0e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPuur8CUAH3YobrNCJScUWHKdHpscStckV2gpVWbSWpHLrFp2Bctjjal49t8BaDfEPr2KId_3n8HMmco9c6mznUN2vTpbUIVQs2MpKou3vni-fObUOIztEnanusTGZYIiKXULY_mxHJVQKgAEKL0jpw6E1UOepkpEtecUR5HRWxhpdeIawbEWf85JJh5QwHRpGWHtygWQj4qFYy-brQEe4DKvRVeIf-539SA-lezvYH-JxOOr51LXzF8kgTHhyVYY4UzT4EdXpoW-7q1HqogW179lK4N4MuwQMS_tAJmJ-c_J4-l2hHEMCjNsaDfOH9XKM\",\"help_cent",
+  "16:32:13 STORY POSTED instagram@Vinzap-Finds 78b99f0e",
+  "16:32:21 STORY POSTED facebook@Vinzap-Finds 78b99f0e"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794133844.907896,
-  "facebook@Vinzap-Finds": 1794133844.907896,
-  "facebook@Vijayendra-Singh": 1794133844.907896,
+  "instagram@Vinzap-Finds": 1794135666.4492807,
+  "facebook@Vinzap-Finds": 1794135666.4492807,
+  "facebook@Vijayendra-Singh": 1794135666.4492807,
   "youtube": 1794132083.5215728
  },
- "n": 446
+ "n": 447
 }
