@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "5562c6fa",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Unbreakable Plastic Mug",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Durable unbreakable plastic",
-     "Elegant ribbed vertical design",
-     "Comfortable ergonomic handle"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Unbreakable Plastic Mug | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Unbreakable Plastic Mug"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUnbreakable Plastic Mug\n✔ Durable unbreakable plastic\n✔ Elegant ribbed vertical design\n✔ Comfortable ergonomic handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#kitchengadgets #kitchenorganization",
-   "title": "Unbreakable Plastic Mug",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793788278.071754,
-     "id": "18100240220098108",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793788278.071754,
-     "id": "1428352113685678_122115511101501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793788278.071754,
-     "id": "1317760538089559_122126161401480728",
-     "dry": false
-    }
-   },
-   "created": 1793788275.7142317,
-   "after": 0,
-   "handle": "unbreakable-plastic-drinking-mug-with-handle-for-coffee-tea-and-milk-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/unbreakable-plastic-drinking-mug-with-handle-for-coffee-tea-and-milk-1-pc",
-   "file": "5562c6fa.jpg",
-   "thumb": "5562c6fa.jpg"
-  },
-  {
    "id": "65ede5ff",
    "status": "scheduled",
    "kind": "reel",
@@ -5534,14 +5472,72 @@
      "id": "1895174648507352"
     }
    }
+  },
+  {
+   "id": "b6edfa09",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Dumpling Maker Mould Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "Complete set with a mini rolling",
+     "Makes neat",
+     "Press moulds seal and crimp"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Dumpling Maker Mould Set | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Dumpling Maker Mould Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDumpling Maker Mould Set\n✔ Complete set with a mini rolling\n✔ Makes neat\n✔ Press moulds seal and crimp\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Dumpling Maker Mould Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794123044.4777339,
+     "id": "18115819288860320",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794123044.4777339,
+     "id": "1428352113685678_122116637469501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794123044.4777339,
+     "id": "1317760538089559_122127397131480728",
+     "dry": false
+    }
+   },
+   "created": 1794123042.4678564,
+   "after": 0,
+   "handle": "dumpling-maker-mould-set-with-mini-rolling-pin-for-momo-and-gujiya-1-set",
+   "product_url": "https://www.vinzapstore.in/products/dumpling-maker-mould-set-with-mini-rolling-pin-for-momo-and-gujiya-1-set",
+   "file": "b6edfa09.jpg",
+   "thumb": "b6edfa09.jpg"
   }
  ],
- "last_post": 1794121278.7547696,
+ "last_post": 1794123044.4777339,
  "log": [
-  "16:51:21 READY efd915e8 3 Section Snack Serving Tray (auto-approved)",
-  "16:51:30 POSTED instagram@Vinzap-Finds efd915e8: 17945445930090919",
-  "16:51:33 POSTED facebook@Vinzap-Finds efd915e8: 1428352113685678_122116101483501659",
-  "16:51:37 POSTED facebook@Vijayendra-Singh efd915e8: 1317760538089559_122126893749480728",
   "17:16:05 READY dc9ebaed Ice Cube Tray | Home Decor (auto-approved)",
   "17:16:39 POSTED instagram@Vinzap-Finds dc9ebaed: 18100035179659521",
   "17:16:45 POSTED facebook@Vinzap-Finds dc9ebaed: 4058709101098697",
@@ -5737,13 +5733,17 @@
   "12:32:00 FAILED post youtube a902f3a0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "12:32:47 STORY POSTED instagram@Vinzap-Finds a902f3a0",
   "12:32:54 STORY POSTED facebook@Vinzap-Finds a902f3a0",
-  "12:33:02 STORY POSTED facebook@Vijayendra-Singh a902f3a0"
+  "12:33:02 STORY POSTED facebook@Vijayendra-Singh a902f3a0",
+  "13:00:44 READY b6edfa09 Dumpling Maker Mould Set (auto-approved)",
+  "13:00:55 POSTED instagram@Vinzap-Finds b6edfa09: 18115819288860320",
+  "13:00:58 POSTED facebook@Vinzap-Finds b6edfa09: 1428352113685678_122116637469501659",
+  "13:01:01 POSTED facebook@Vijayendra-Singh b6edfa09: 1317760538089559_122127397131480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794121278.7547696,
-  "facebook@Vinzap-Finds": 1794121278.7547696,
-  "facebook@Vijayendra-Singh": 1794121278.7547696,
+  "instagram@Vinzap-Finds": 1794123044.4777339,
+  "facebook@Vinzap-Finds": 1794123044.4777339,
+  "facebook@Vijayendra-Singh": 1794123044.4777339,
   "youtube": 1794121278.7547696
  },
- "n": 439
+ "n": 440
 }
