@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "7a85ba83",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Dual compartment design",
-     "Secure locking lid to help",
-     "Matching water bottle with easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Plastic Lunch Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Lunch Box\n✔ Dual compartment design\n✔ Secure locking lid to help\n✔ Matching water bottle with easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #bottle #homeessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
-   "title": "Plastic Lunch Box | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793862080.425796,
-     "id": "18134199379667176",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793862080.425796,
-     "id": "2643575052745508",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793862080.425796,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu1AMn-3UnIHd2dyCwSJTZ_L4"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1793862080.425796,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1793862054.604105,
-   "after": 0,
-   "handle": "plastic-lunch-box-with-water-bottle-combo-set-1-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-lunch-box-with-water-bottle-combo-set-1-set",
-   "file": "7a85ba83.mp4",
-   "thumb": "7a85ba83_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18133157242703588"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1938466410470362"
-    }
-   }
-  },
-  {
    "id": "659b36e9",
    "status": "posted",
    "kind": "image",
@@ -5539,17 +5462,87 @@
    "product_url": "https://www.vinzapstore.in/products/3-in-1-tea-coffee-accessories-combo-set",
    "file": "615792ff.jpg",
    "thumb": "615792ff.jpg"
+  },
+  {
+   "id": "a08a8320",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Manual Citrus Juicer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 259,
+    "was": 0,
+    "feats": [
+     "Manual Citrus Juicer :",
+     "Multipurpose Use : Suitable",
+     "Durable BPA-Free Plastic : Safe"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Apex Manual Citrus Juicer | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Manual Citrus Juicer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Manual Citrus Juicer\n✔ Manual Citrus Juicer :\n✔ Multipurpose Use : Suitable\n✔ Durable BPA-Free Plastic : Safe\n\nOnly ₹259. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Apex Manual Citrus Juicer | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794150065.1288686,
+     "id": "18449980822120998",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794150065.1288686,
+     "id": "1135315572269526",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794150065.1288686,
+     "id": "1688469266281674",
+     "dry": false
+    }
+   },
+   "created": 1794150050.1324992,
+   "after": 0,
+   "handle": "apex-manual-citrus-juicer",
+   "product_url": "https://www.vinzapstore.in/products/apex-manual-citrus-juicer",
+   "file": "a08a8320.mp4",
+   "thumb": "a08a8320_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18132601681836655"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1501186218539767"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1140393498921538"
+    }
+   }
   }
  ],
- "last_post": 1794148245.9708714,
+ "last_post": 1794150065.1288686,
  "log": [
-  "13:00:56 POSTED instagram@Vinzap-Finds 2ec36d54: 18006837750096866",
-  "13:00:59 POSTED facebook@Vinzap-Finds 2ec36d54: 1428352113685678_122116357293501659",
-  "13:01:02 POSTED facebook@Vijayendra-Singh 2ec36d54: 1317760538089559_122127124791480728",
-  "13:31:09 READY ef2bf0d0 Multifunction Melon Baller and Fruit Cutter | Kitchen Organization (auto-approved)",
-  "13:31:36 POSTED instagram@Vinzap-Finds ef2bf0d0: 18083676998348377",
-  "13:31:45 POSTED facebook@Vinzap-Finds ef2bf0d0: 1119013334326799",
-  "13:31:51 POSTED facebook@Vijayendra-Singh ef2bf0d0: 1839923400651820",
   "13:32:23 STORY POSTED instagram@Vinzap-Finds ef2bf0d0",
   "13:32:32 STORY POSTED facebook@Vinzap-Finds ef2bf0d0",
   "13:32:40 STORY POSTED facebook@Vijayendra-Singh ef2bf0d0",
@@ -5742,13 +5735,20 @@
   "20:00:45 READY 615792ff 3-in-1 Tea and Coffee Accessories Combo Set (auto-approved)",
   "20:00:58 POSTED instagram@Vinzap-Finds 615792ff: 18074407268775836",
   "20:01:01 POSTED facebook@Vinzap-Finds 615792ff: 1428352113685678_122116754397501659",
-  "20:01:05 POSTED facebook@Vijayendra-Singh 615792ff: 1317760538089559_122127511563480728"
+  "20:01:05 POSTED facebook@Vijayendra-Singh 615792ff: 1317760538089559_122127511563480728",
+  "20:31:05 READY a08a8320 Apex Manual Citrus Juicer | Kitchen Gadgets (auto-approved)",
+  "20:31:41 POSTED instagram@Vinzap-Finds a08a8320: 18449980822120998",
+  "20:31:45 POSTED facebook@Vinzap-Finds a08a8320: 1135315572269526",
+  "20:31:50 POSTED facebook@Vijayendra-Singh a08a8320: 1688469266281674",
+  "20:32:20 STORY POSTED instagram@Vinzap-Finds a08a8320",
+  "20:32:28 STORY POSTED facebook@Vinzap-Finds a08a8320",
+  "20:32:34 STORY POSTED facebook@Vijayendra-Singh a08a8320"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794148245.9708714,
-  "facebook@Vinzap-Finds": 1794148245.9708714,
-  "facebook@Vijayendra-Singh": 1794148245.9708714,
+  "instagram@Vinzap-Finds": 1794150065.1288686,
+  "facebook@Vinzap-Finds": 1794150065.1288686,
+  "facebook@Vijayendra-Singh": 1794150065.1288686,
   "youtube": 1794142876.3703756
  },
- "n": 454
+ "n": 455
 }
