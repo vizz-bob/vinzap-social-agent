@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "65ede5ff",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ganesh Classic Glass Set of 6, 350 ml Each",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 429,
-    "was": 0,
-    "feats": [
-     "6 Pieces of Transparent ABS",
-     "Colour: Transparent",
-     "Content : 6 pieces"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Ganesh Classic Glass Set of 6, 350 ml Each | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ganesh Classic Glass Set of 6, 350 ml Each"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGanesh Classic Glass Set of 6, 350 ml Each\n✔ 6 Pieces of Transparent ABS\n✔ Colour: Transparent\n✔ Content : 6 pieces\n\nOnly ₹429. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Ganesh Classic Glass Set of 6, 350 ml Each | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793790082.5346184,
-     "id": "17993926632051181",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793790082.5346184,
-     "id": "1307358098183014",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793790082.5346184,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetyYUAV8IeaELYhornNMQqpFR"
-    }
-   },
-   "created": 1793790056.5465958,
-   "after": 0,
-   "handle": "ganesh-classic-glass-set-of-6-each-glass-350ml",
-   "product_url": "https://www.vinzapstore.in/products/ganesh-classic-glass-set-of-6-each-glass-350ml",
-   "file": "65ede5ff.mp4",
-   "thumb": "65ede5ff_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18063105404573872"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4506929932904367"
-    }
-   }
-  },
-  {
    "id": "b2c50136",
    "status": "posted",
    "kind": "image",
@@ -5534,16 +5462,82 @@
    "product_url": "https://www.vinzapstore.in/products/dumpling-maker-mould-set-with-mini-rolling-pin-for-momo-and-gujiya-1-set",
    "file": "b6edfa09.jpg",
    "thumb": "b6edfa09.jpg"
+  },
+  {
+   "id": "a54c04c1",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Foldable Travel Cup",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 439,
+    "was": 0,
+    "feats": [
+     "Collapsible silicone body folds",
+     "Includes a reusable straw",
+     "Food-grade silicone construction"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Silicone Foldable Travel Cup | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Foldable Travel Cup"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Foldable Travel Cup\n✔ Collapsible silicone body folds\n✔ Includes a reusable straw\n✔ Food-grade silicone construction\n\nOnly ₹439. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Silicone Foldable Travel Cup | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794124884.3424473,
+     "id": "17952928986302707",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794124884.3424473,
+     "id": "4789832817919443",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794124884.3424473,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevoe5zXoZz1mmZGIgh20W5jAr"
+    }
+   },
+   "created": 1794124858.258052,
+   "after": 0,
+   "handle": "silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
+   "file": "a54c04c1.mp4",
+   "thumb": "a54c04c1_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18655919068029137"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2417895785693858"
+    }
+   }
   }
  ],
- "last_post": 1794123044.4777339,
+ "last_post": 1794124884.3424473,
  "log": [
-  "17:16:05 READY dc9ebaed Ice Cube Tray | Home Decor (auto-approved)",
-  "17:16:39 POSTED instagram@Vinzap-Finds dc9ebaed: 18100035179659521",
-  "17:16:45 POSTED facebook@Vinzap-Finds dc9ebaed: 4058709101098697",
-  "17:16:47 FAILED post facebook@Vijayendra-Singh dc9ebaed: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesI5IYAXAM1-5wu7EZWWUsu15XIQ4PLQo6YI7De9oY32fLVQT0bP_hY914R0hPTz6wEFTPIuPztFbOexrPgC7J-11WI2MuIrpz7sFDA6LsnsGqUtovoluwgVNjyQt7PAzM93fu5Ky6GMBqeAui9yCK77XoHDydIM1i5wIfR0Ry9Hso7ViWhNwMSsVYuBYDvsUE5g-1UYCle6dTDnwoscc2NApVQAOEmyif6sdmEXPXFnD_LlAfgo_zXkVxC0lSwq9ynmVYFV0DBhLWX-Nh4ohwApENGhrIt0u_HLrsrorEkKS8s7VpDm_p6fpTT99Gzswmu\",\"help_cent",
-  "17:17:16 STORY POSTED instagram@Vinzap-Finds dc9ebaed",
-  "17:17:26 STORY POSTED facebook@Vinzap-Finds dc9ebaed",
   "17:45:38 READY b05fe6ea Cartoon Self Adhesive Hooks, Set of 2 (auto-approved)",
   "17:45:47 POSTED instagram@Vinzap-Finds b05fe6ea: 17959394295267478",
   "17:45:51 POSTED facebook@Vinzap-Finds b05fe6ea: 1428352113685678_122116113273501659",
@@ -5737,13 +5731,19 @@
   "13:00:44 READY b6edfa09 Dumpling Maker Mould Set (auto-approved)",
   "13:00:55 POSTED instagram@Vinzap-Finds b6edfa09: 18115819288860320",
   "13:00:58 POSTED facebook@Vinzap-Finds b6edfa09: 1428352113685678_122116637469501659",
-  "13:01:01 POSTED facebook@Vijayendra-Singh b6edfa09: 1317760538089559_122127397131480728"
+  "13:01:01 POSTED facebook@Vijayendra-Singh b6edfa09: 1317760538089559_122127397131480728",
+  "13:31:24 READY a54c04c1 Silicone Foldable Travel Cup | Home Decor (auto-approved)",
+  "13:32:01 POSTED instagram@Vinzap-Finds a54c04c1: 17952928986302707",
+  "13:32:04 POSTED facebook@Vinzap-Finds a54c04c1: 4789832817919443",
+  "13:32:06 FAILED post facebook@Vijayendra-Singh a54c04c1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevoe5zXoZz1mmZGIgh20W5jAryqQEPpVVSZ-TmHgXAZyCbYZ_S6QKAXjrzC5vo50sUs5NIgLm_5RlNX13bITlUDzRE_c2O9xKtzVbcPzexPbmnB06SUAUsxu1cNb71-IZQoDUU7SX1y_8x_-gOWca7zFDc41dtz7aBUiMiKrmQn6hFVk94SG_JAnOJZxfj678NyZmVrxRZa7TPAZjEIcI5E4Dnp37G_O76-EVYpixfy36SQ9vhcec54hTFZJEvSwxmcvZHsfEFwBRK_gMdl6Z6e8-8I7NVSHW9B5jZMOcJTuv7qcZtubndBvs5YjUZYb_w\",\"help_cente",
+  "13:32:37 STORY POSTED instagram@Vinzap-Finds a54c04c1",
+  "13:32:44 STORY POSTED facebook@Vinzap-Finds a54c04c1"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794123044.4777339,
-  "facebook@Vinzap-Finds": 1794123044.4777339,
-  "facebook@Vijayendra-Singh": 1794123044.4777339,
+  "instagram@Vinzap-Finds": 1794124884.3424473,
+  "facebook@Vinzap-Finds": 1794124884.3424473,
+  "facebook@Vijayendra-Singh": 1794124884.3424473,
   "youtube": 1794121278.7547696
  },
- "n": 440
+ "n": 441
 }
