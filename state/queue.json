@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "c4e486fe",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Portable Plastic Kitchen Dustbin Hanging",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 609,
-    "was": 0,
-    "feats": [
-     "Compact portable dustbin",
-     "Hanging design suitable",
-     "Lid helps keep waste covered"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Portable Plastic Kitchen Dustbin Hanging | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Portable Plastic Kitchen Dustbin Hanging"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Plastic Kitchen Dustbin Hanging\n✔ Compact portable dustbin\n✔ Hanging design suitable\n✔ Lid helps keep waste covered\n\nOnly ₹609. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Portable Plastic Kitchen Dustbin Hanging",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793799051.585184,
-     "id": "17951935176339682",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793799051.585184,
-     "id": "1428352113685678_122115553161501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793799051.585184,
-     "id": "1317760538089559_122126210025480728",
-     "dry": false
-    }
-   },
-   "created": 1793799049.569665,
-   "after": 0,
-   "handle": "portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
-   "product_url": "https://www.vinzapstore.in/products/portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
-   "file": "c4e486fe.jpg",
-   "thumb": "c4e486fe.jpg"
-  },
-  {
    "id": "bb11da09",
    "status": "scheduled",
    "kind": "reel",
@@ -5531,14 +5469,72 @@
      "id": "1105601882090437"
     }
    }
+  },
+  {
+   "id": "5026a0c5",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Supermom Stainless Steel Carrot Grater",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 349,
+    "was": 0,
+    "feats": [
+     "Stainless steel",
+     "Fine grating surface for carrot",
+     "Ergonomic handle for a steady grip"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Supermom Stainless Steel Carrot Grater | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Supermom Stainless Steel Carrot Grater"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Stainless Steel Carrot Grater\n✔ Stainless steel\n✔ Fine grating surface for carrot\n✔ Ergonomic handle for a steady grip\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Supermom Stainless Steel Carrot Grater",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794133844.907896,
+     "id": "18414655543094020",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794133844.907896,
+     "id": "1428352113685678_122116689555501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794133844.907896,
+     "id": "1317760538089559_122127450393480728",
+     "dry": false
+    }
+   },
+   "created": 1794133843.0569851,
+   "after": 0,
+   "handle": "supermom-supermom-stainless-steel-carrot-grater-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-supermom-stainless-steel-carrot-grater-1-pc",
+   "file": "5026a0c5.jpg",
+   "thumb": "5026a0c5.jpg"
   }
  ],
- "last_post": 1794132083.5215728,
+ "last_post": 1794133844.907896,
  "log": [
-  "19:45:47 READY 646e3e9d Protein Shaker Tumbler 400ml (auto-approved)",
-  "19:46:00 POSTED instagram@Vinzap-Finds 646e3e9d: 18156441448539140",
-  "19:46:03 POSTED facebook@Vinzap-Finds 646e3e9d: 1428352113685678_122116143723501659",
-  "19:46:07 POSTED facebook@Vijayendra-Singh 646e3e9d: 1317760538089559_122126942985480728",
   "20:16:17 READY def90881 Glass Water Jug | Kitchen Gadgets (auto-approved)",
   "20:17:01 POSTED instagram@Vinzap-Finds def90881: 18037365287904931",
   "20:17:07 POSTED facebook@Vinzap-Finds def90881: 1164422502672467",
@@ -5734,13 +5730,17 @@
   "15:32:07 FAILED post facebook@Vijayendra-Singh 1de586fb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeveSt0uE79AYhL6AL9JTclEuv7iPDhh1Xgh9qdlfhtnZCjjg09hsNud9AYjxsfy4NY538uHEHU4ageBtiePBsyp0rvS_KiMz8KMqIH__nD4-K4Pwyc8wGeiQyKKA5Oc0rsGKN9X-PLyKVFXNi0Psbc2eSucFEu3ic6xbQ1JY62R9Ru73C-8VyLssFcBrvprswxfg68ZeFWaVmCER5I89WC9JNTO6ClONulOJaen2MXfwTOL6B_mVjXtGPnm_REUvXp0go42q7AMAGUutfkyiiCjEVhDoasYGeqSA24xQatWFknnKNmIAnectIJP7eQikQM\",\"help_cente",
   "15:32:07 FAILED post youtube 1de586fb: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "15:32:43 STORY POSTED instagram@Vinzap-Finds 1de586fb",
-  "15:32:52 STORY POSTED facebook@Vinzap-Finds 1de586fb"
+  "15:32:52 STORY POSTED facebook@Vinzap-Finds 1de586fb",
+  "16:00:44 READY 5026a0c5 Supermom Stainless Steel Carrot Grater (auto-approved)",
+  "16:00:56 POSTED instagram@Vinzap-Finds 5026a0c5: 18414655543094020",
+  "16:01:00 POSTED facebook@Vinzap-Finds 5026a0c5: 1428352113685678_122116689555501659",
+  "16:01:04 POSTED facebook@Vijayendra-Singh 5026a0c5: 1317760538089559_122127450393480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794132083.5215728,
-  "facebook@Vinzap-Finds": 1794132083.5215728,
-  "facebook@Vijayendra-Singh": 1794132083.5215728,
+  "instagram@Vinzap-Finds": 1794133844.907896,
+  "facebook@Vinzap-Finds": 1794133844.907896,
+  "facebook@Vijayendra-Singh": 1794133844.907896,
   "youtube": 1794132083.5215728
  },
- "n": 445
+ "n": 446
 }
