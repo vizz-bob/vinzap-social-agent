@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "1559f142",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Liger Multipurpose Dry Fruit and Ginger",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 49,
-    "was": 0,
-    "feats": [
-     "Stainless Steel Blade: Ultra-sharp",
-     "Ergonomic Design: Comfortable",
-     "Multipurpose Use: Ideal"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Liger Multipurpose Dry Fruit and Ginger | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Liger Multipurpose Dry Fruit and Ginger"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLiger Multipurpose Dry Fruit and Ginger\n✔ Stainless Steel Blade: Ultra-sharp\n✔ Ergonomic Design: Comfortable\n✔ Multipurpose Use: Ideal\n\nOnly ₹49. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Liger Multipurpose Dry Fruit and Ginger | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793952082.5102696,
-     "id": "18113432297604355",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793952082.5102696,
-     "id": "1815699499748183",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793952082.5102696,
-     "id": "1063658806726143",
-     "dry": false
-    }
-   },
-   "created": 1793952053.2812576,
-   "after": 0,
-   "handle": "liger-multipurpose-dry-fruit-slicer-ginger-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/liger-multipurpose-dry-fruit-slicer-ginger-1-pc",
-   "file": "1559f142.mp4",
-   "thumb": "1559f142_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18144814189523821"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2184394269101908"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1443833474527557"
-    }
-   }
-  },
-  {
    "id": "863b13f1",
    "status": "posted",
    "kind": "image",
@@ -5516,17 +5439,87 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-kitchen-lid-spoon-holder-stand-1-pc",
    "file": "a3e87023.jpg",
    "thumb": "a3e87023.jpg"
+  },
+  {
+   "id": "02cb969e",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Transparent Stand-Up Zipper Pouch Jar Shape",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 239,
+    "was": 0,
+    "feats": [
+     "Large jar bags",
+     "Medium jar bags",
+     "Small jar bags"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Transparent Stand-Up Zipper Pouch Jar Shape"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Stand-Up Zipper Pouch Jar Shape\n✔ Large jar bags\n✔ Medium jar bags\n✔ Small jar bags\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchengadgets #kitchenorganization",
+   "title": "Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794240078.885779,
+     "id": "18044794907833740",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794240078.885779,
+     "id": "1662389885274713",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794240078.885779,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevezBcGAsbXnJBZ5xkh-Ev0z8"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794240078.885779,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794240056.6715813,
+   "after": 0,
+   "handle": "0855-plastics-transparent-jar-shaped-stand-up-pouch-with-zipper",
+   "product_url": "https://www.vinzapstore.in/products/0855-plastics-transparent-jar-shaped-stand-up-pouch-with-zipper",
+   "file": "02cb969e.mp4",
+   "thumb": "02cb969e_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17987157669091789"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2049406919052445"
+    }
+   }
   }
  ],
- "last_post": 1794238248.2011135,
+ "last_post": 1794240078.885779,
  "log": [
-  "13:32:01 POSTED instagram@Vinzap-Finds a54c04c1: 17952928986302707",
-  "13:32:04 POSTED facebook@Vinzap-Finds a54c04c1: 4789832817919443",
-  "13:32:06 FAILED post facebook@Vijayendra-Singh a54c04c1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevoe5zXoZz1mmZGIgh20W5jAryqQEPpVVSZ-TmHgXAZyCbYZ_S6QKAXjrzC5vo50sUs5NIgLm_5RlNX13bITlUDzRE_c2O9xKtzVbcPzexPbmnB06SUAUsxu1cNb71-IZQoDUU7SX1y_8x_-gOWca7zFDc41dtz7aBUiMiKrmQn6hFVk94SG_JAnOJZxfj678NyZmVrxRZa7TPAZjEIcI5E4Dnp37G_O76-EVYpixfy36SQ9vhcec54hTFZJEvSwxmcvZHsfEFwBRK_gMdl6Z6e8-8I7NVSHW9B5jZMOcJTuv7qcZtubndBvs5YjUZYb_w\",\"help_cente",
-  "13:32:37 STORY POSTED instagram@Vinzap-Finds a54c04c1",
-  "13:32:44 STORY POSTED facebook@Vinzap-Finds a54c04c1",
-  "14:00:54 READY 0afb5f88 Flexible Plastic Funnel (auto-approved)",
-  "14:01:07 POSTED instagram@Vinzap-Finds 0afb5f88: 18415642777086494",
   "14:01:11 POSTED facebook@Vinzap-Finds 0afb5f88: 1428352113685678_122116651167501659",
   "14:01:15 POSTED facebook@Vijayendra-Singh 0afb5f88: 1317760538089559_122127407877480728",
   "14:31:07 READY d0cae896 Multifunction Collapsible Extendable Stick | Cooking (auto-approved)",
@@ -5719,13 +5712,20 @@
   "21:00:48 READY a3e87023 Multipurpose Kitchen Lid and Spoon Holder (auto-approved)",
   "21:00:59 POSTED instagram@Vinzap-Finds a3e87023: 17894837244617611",
   "21:01:05 POSTED facebook@Vinzap-Finds a3e87023: 1428352113685678_122117088081501659",
-  "21:01:09 POSTED facebook@Vijayendra-Singh a3e87023: 1317760538089559_122127919797480728"
+  "21:01:09 POSTED facebook@Vijayendra-Singh a3e87023: 1317760538089559_122127919797480728",
+  "21:31:18 READY 02cb969e Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets (auto-approved)",
+  "21:31:57 POSTED instagram@Vinzap-Finds 02cb969e: 18044794907833740",
+  "21:32:00 POSTED facebook@Vinzap-Finds 02cb969e: 1662389885274713",
+  "21:32:02 FAILED post facebook@Vijayendra-Singh 02cb969e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevezBcGAsbXnJBZ5xkh-Ev0z83Fi9dfiHfhx9Ioi3jyCOuN88XJTQ6EIv_E3xWy-l9P1fM3zsds9VB6nanj4c31uV86sRIUVjRFw_MeB4J0a8KMzjzbIXZ_0L9sNfO655cvAX88-rNGEA0dgU2fJBoajNND7hU3l_HhzhDasdsYyR_cxWfArkPWicYpjaUaAM7UhmP8624ItqbAwIWQ58VrwItQC7U6e7b0Gb2LAOTmLiX-bnjnkFm4TStjBLwRRebttiMxh-0fDFCTMgfik3zhd4oyuv3AYG8Qy3HACuNStsZr8CC9rRTgBIb6nVQxOA\",\"help_center",
+  "21:32:02 FAILED post youtube 02cb969e: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "21:32:32 STORY POSTED instagram@Vinzap-Finds 02cb969e",
+  "21:32:40 STORY POSTED facebook@Vinzap-Finds 02cb969e"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794238248.2011135,
-  "facebook@Vinzap-Finds": 1794238248.2011135,
-  "facebook@Vijayendra-Singh": 1794238248.2011135,
-  "youtube": 1794228846.167347
+  "instagram@Vinzap-Finds": 1794240078.885779,
+  "facebook@Vinzap-Finds": 1794240078.885779,
+  "facebook@Vijayendra-Singh": 1794240078.885779,
+  "youtube": 1794240078.885779
  },
- "n": 478
+ "n": 479
 }
