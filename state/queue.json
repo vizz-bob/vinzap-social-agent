@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "c996c178",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Squeeze Sauce Bottle",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Easy squeeze design",
-     "Leak-proof cap for safe",
-     "Ideal for pizza sauce"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Plastic Squeeze Sauce Bottle | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Squeeze Sauce Bottle"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Squeeze Sauce Bottle\n✔ Easy squeeze design\n✔ Leak-proof cap for safe\n✔ Ideal for pizza sauce\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
-   "title": "Plastic Squeeze Sauce Bottle | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793888459.3306289,
-     "id": "17978311443166686",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793888459.3306289,
-     "id": "1405940617963797",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793888459.3306289,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev6ATlQ-8kXEvupEgZYZzMx7N"
-    }
-   },
-   "created": 1793888441.6841347,
-   "after": 0,
-   "handle": "small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
-   "file": "c996c178.mp4",
-   "thumb": "c996c178_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17980433498920962"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2234716820776658"
-    }
-   }
-  },
-  {
    "id": "885a2057",
    "status": "posted",
    "kind": "image",
@@ -5538,16 +5466,82 @@
    "product_url": "https://www.vinzapstore.in/products/foldable-rotating-wall-mounted-multipurpose-hook-rack-1-pc",
    "file": "a9011f37.jpg",
    "thumb": "a9011f37.jpg"
+  },
+  {
+   "id": "8c402c74",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Kitchen Prep Combo of 3",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Small Meatball Maker and Cake",
+     "Foldable Rotating Wall Mounted",
+     "Plastic Round Puri Cutter"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Kitchen Prep Combo of 3 | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kitchen Prep Combo of 3"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Prep Combo of 3\n✔ Small Meatball Maker and Cake\n✔ Foldable Rotating Wall Mounted\n✔ Plastic Round Puri Cutter\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#homedecorideas #diwali",
+   "title": "Kitchen Prep Combo of 3 | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794222089.802978,
+     "id": "18093208505690511",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794222089.802978,
+     "id": "1515785783941156",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794222089.802978,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevw2FIeS1BcJBjvkWAnaXTbpn"
+    }
+   },
+   "created": 1794222063.3695447,
+   "after": 0,
+   "handle": "kitchen-prep-combo-of-3",
+   "product_url": "https://www.vinzapstore.in/products/kitchen-prep-combo-of-3",
+   "file": "8c402c74.mp4",
+   "thumb": "8c402c74_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18136113160676108"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1763631204709386"
+    }
+   }
   }
  ],
- "last_post": 1794220443.06158,
+ "last_post": 1794222089.802978,
  "log": [
-  "20:00:48 READY 9c043b45 Ketchup and Mustard Dispenser Bottle Gun (auto-approved)",
-  "20:01:04 POSTED instagram@Vinzap-Finds 9c043b45: 18120622990952546",
-  "20:01:09 POSTED facebook@Vinzap-Finds 9c043b45: 1428352113685678_122116450419501659",
-  "20:01:12 POSTED facebook@Vijayendra-Singh 9c043b45: 1317760538089559_122127219963480728",
-  "20:31:12 READY 3412923d Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali (auto-approved)",
-  "20:31:50 POSTED instagram@Vinzap-Finds 3412923d: 17968285737208276",
   "20:31:54 POSTED facebook@Vinzap-Finds 3412923d: 1698437345242733",
   "20:31:58 POSTED facebook@Vijayendra-Singh 3412923d: 1881961642971726",
   "20:32:30 STORY POSTED instagram@Vinzap-Finds 3412923d",
@@ -5741,13 +5735,19 @@
   "16:04:03 READY a9011f37 Foldable Rotating Wall Mounted Hook Rack (auto-approved)",
   "16:04:14 POSTED instagram@Vinzap-Finds a9011f37: 18126728089687421",
   "16:04:17 POSTED facebook@Vinzap-Finds a9011f37: 1428352113685678_122117020773501659",
-  "16:04:19 POSTED facebook@Vijayendra-Singh a9011f37: 1317760538089559_122127822489480728"
+  "16:04:19 POSTED facebook@Vijayendra-Singh a9011f37: 1317760538089559_122127822489480728",
+  "16:31:29 READY 8c402c74 Kitchen Prep Combo of 3 | Home Decor Ideas (auto-approved)",
+  "16:32:09 POSTED instagram@Vinzap-Finds 8c402c74: 18093208505690511",
+  "16:32:12 POSTED facebook@Vinzap-Finds 8c402c74: 1515785783941156",
+  "16:32:13 FAILED post facebook@Vijayendra-Singh 8c402c74: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevw2FIeS1BcJBjvkWAnaXTbpnw9jzkbXn6yWXM9Qgy2ScvS7D0o9VKJXXbEUBWsMukb5UBKsuGHSXuWSULeYJgMx5pxaLgP7f7fWDsiwXI8hCBouoMsBpGT4okyFWiJYj0UOj7JHRp_Y3QpUeDuEDzJYBBKNGxDlFmGNmqgNxpoKZtHK3T_-Lwi4qsfNYkHez36Ydndt44woJtEyW_Sa83nlL2VJVkS8vtkVm72CiBGgLGzHacCXTGb1Uuo12Ktvc13faxe0pfY1az4NEzuYuDk7Dg94N4spWvySJf_aEc3LpAkpUX11kSLlI1GxWRQcM9D\",\"help_cent",
+  "16:32:42 STORY POSTED instagram@Vinzap-Finds 8c402c74",
+  "16:32:51 STORY POSTED facebook@Vinzap-Finds 8c402c74"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794220443.06158,
-  "facebook@Vinzap-Finds": 1794220443.06158,
-  "facebook@Vijayendra-Singh": 1794220443.06158,
+  "instagram@Vinzap-Finds": 1794222089.802978,
+  "facebook@Vinzap-Finds": 1794222089.802978,
+  "facebook@Vijayendra-Singh": 1794222089.802978,
   "youtube": 1794218511.4501936
  },
- "n": 468
+ "n": 469
 }
