@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "01519a52",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable 4 Compartment Serving Plates",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Four separate compartments",
-     "Helps keep different food items",
-     "Strong and stable disposable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Disposable 4 Compartment Serving Plates | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable 4 Compartment Serving Plates"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable 4 Compartment Serving Plates\n✔ Four separate compartments\n✔ Helps keep different food items\n✔ Strong and stable disposable\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Disposable 4 Compartment Serving Plates | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793895370.5957656,
-     "id": "17938300020400494",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793895370.5957656,
-     "id": "2416520225545600",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793895370.5957656,
-     "id": "4633579493630305",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1793895370.5957656,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1793895344.353469,
-   "after": 0,
-   "handle": "vegnar-4-compartment-disposable-food-serving-plate-set-10-pc",
-   "product_url": "https://www.vinzapstore.in/products/vegnar-4-compartment-disposable-food-serving-plate-set-10-pc",
-   "file": "01519a52.mp4",
-   "thumb": "01519a52_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17876966886588166"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1463894099213427"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1647121736763467"
-    }
-   }
-  },
-  {
    "id": "2039cc54",
    "status": "posted",
    "kind": "image",
@@ -5538,17 +5456,87 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
    "file": "4c5ee5a1.jpg",
    "thumb": "4c5ee5a1.jpg"
+  },
+  {
+   "id": "ab427f8c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Premium Non-Stick Rice Serving Spoon",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Non-stick textured surface",
+     "Raised grip pattern improves",
+     "Food-grade"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Premium Non-Stick Rice Serving Spoon | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Premium Non-Stick Rice Serving Spoon"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Non-Stick Rice Serving Spoon\n✔ Non-stick textured surface\n✔ Raised grip pattern improves\n✔ Food-grade\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Premium Non-Stick Rice Serving Spoon | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794229266.167347,
+     "id": "17926216215442561",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794229266.167347,
+     "id": "2014627072562221",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794229266.167347,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuiyk4eEKmb1UQ5-7_19U1ij0"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794229266.167347,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794229250.3645892,
+   "after": 0,
+   "handle": "premium-non-stick-rice-serving-spoon-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/premium-non-stick-rice-serving-spoon-1-pc",
+   "file": "ab427f8c.mp4",
+   "thumb": "ab427f8c_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18088493582703366"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1165858745771778"
+    }
+   }
   }
  ],
- "last_post": 1794227453.1889403,
+ "last_post": 1794229266.167347,
  "log": [
-  "21:32:31 STORY POSTED instagram@Vinzap-Finds 24b109f0",
-  "21:32:40 STORY POSTED facebook@Vinzap-Finds 24b109f0",
-  "21:32:49 STORY POSTED facebook@Vijayendra-Singh 24b109f0",
-  "22:00:47 READY 7cc93d98 Soft Facial Tissue Paper Napkins Set (auto-approved)",
-  "22:01:00 POSTED instagram@Vinzap-Finds 7cc93d98: 18110765174245672",
-  "22:01:05 POSTED facebook@Vinzap-Finds 7cc93d98: 1428352113685678_122116477443501659",
-  "22:01:10 POSTED facebook@Vijayendra-Singh 7cc93d98: 1317760538089559_122127240891480728",
   "22:31:06 READY f5a16da7 3 Layer Wall Mounted Food Organizer Rack | Home Decor (auto-approved)",
   "22:31:42 POSTED instagram@Vinzap-Finds f5a16da7: 17992827066063286",
   "22:31:47 POSTED facebook@Vinzap-Finds f5a16da7: 1824918071981073",
@@ -5741,13 +5729,20 @@
   "18:00:53 READY 4c5ee5a1 Reusable Plastic Spoon Set of 20 (auto-approved)",
   "18:01:03 POSTED instagram@Vinzap-Finds 4c5ee5a1: 18093962567229571",
   "18:01:07 POSTED facebook@Vinzap-Finds 4c5ee5a1: 1428352113685678_122117043723501659",
-  "18:01:11 POSTED facebook@Vijayendra-Singh 4c5ee5a1: 1317760538089559_122127846339480728"
+  "18:01:11 POSTED facebook@Vijayendra-Singh 4c5ee5a1: 1317760538089559_122127846339480728",
+  "18:31:06 READY ab427f8c Premium Non-Stick Rice Serving Spoon | Cooking (auto-approved)",
+  "18:31:42 POSTED instagram@Vinzap-Finds ab427f8c: 17926216215442561",
+  "18:31:46 POSTED facebook@Vinzap-Finds ab427f8c: 2014627072562221",
+  "18:31:47 FAILED post facebook@Vijayendra-Singh ab427f8c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuiyk4eEKmb1UQ5-7_19U1ij0nXSj9fjLPnXiInRRucp0PLHZ-LIYYfe3PzfxTvDMb90CK1a2JfFafjnBKMyMpaCihNr7gzTwWKPCVr87mWJ5e1xlz9sJabfa9JaEjtlrCDmnBQ1T-HiAn61rqX4ipASMcC1uqSOuMJu_wsbEf1OsAaybvDFjn8nMHES_JsjZd2-6EdDjvpZyu4Ml8PUzrh28bhNzVn0SHuzoHVhfIySZycxED6FSLSlt-r-a8j8MIItinZxGl_iT2Aq260zJ2lNAyLckd8NWHlrlHxy0V0l1onM2jh3Jj06rHljHF755Q\",\"help_cente",
+  "18:31:47 FAILED post youtube ab427f8c: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "18:32:17 STORY POSTED instagram@Vinzap-Finds ab427f8c",
+  "18:32:26 STORY POSTED facebook@Vinzap-Finds ab427f8c"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794227453.1889403,
-  "facebook@Vinzap-Finds": 1794227453.1889403,
-  "facebook@Vijayendra-Singh": 1794227453.1889403,
-  "youtube": 1794218091.4501936
+  "instagram@Vinzap-Finds": 1794229266.167347,
+  "facebook@Vinzap-Finds": 1794229266.167347,
+  "facebook@Vijayendra-Singh": 1794229266.167347,
+  "youtube": 1794229266.167347
  },
- "n": 472
+ "n": 473
 }
