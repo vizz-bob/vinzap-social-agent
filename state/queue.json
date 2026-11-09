@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "3ade1afa",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Premium Silicone Drink Coaster, Mixed",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 49,
-    "was": 0,
-    "feats": [
-     "Made from premium",
-     "Heat-resistant surface protects",
-     "Anti-slip design keeps cups"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Premium Silicone Drink Coaster, Mixed | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Premium Silicone Drink Coaster, Mixed"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Silicone Drink Coaster, Mixed\n✔ Made from premium\n✔ Heat-resistant surface protects\n✔ Anti-slip design keeps cups\n\nOnly ₹49. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Premium Silicone Drink Coaster, Mixed | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793948481.0244365,
-     "id": "18358318786170795",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793948481.0244365,
-     "id": "1485517820162878",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793948481.0244365,
-     "id": "1113185864750072",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1793948481.0244365,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1793948454.973009,
-   "after": 0,
-   "handle": "premium-silicone-drink-coaster-1-pc-88-cm-mix-design",
-   "product_url": "https://www.vinzapstore.in/products/premium-silicone-drink-coaster-1-pc-88-cm-mix-design",
-   "file": "3ade1afa.mp4",
-   "thumb": "3ade1afa_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18383370964242052"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1791671331884800"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2172359937045830"
-    }
-   }
-  },
-  {
    "id": "06a0a146",
    "status": "posted",
    "kind": "image",
@@ -5526,16 +5444,82 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-premium-stainless-steel-paring-knife-1-pc",
    "file": "fa5d84e6.jpg",
    "thumb": "fa5d84e6.jpg"
+  },
+  {
+   "id": "458d5075",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Car Shape Kids Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Cute car shape with rolling wheels",
+     "Complete set with spoon and fork",
+     "Transparent inner tray included"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Car Shape Kids Lunch Box | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Car Shape Kids Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCar Shape Kids Lunch Box\n✔ Cute car shape with rolling wheels\n✔ Complete set with spoon and fork\n✔ Transparent inner tray included\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#cooking #homedecor",
+   "title": "Car Shape Kids Lunch Box | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794236489.2272727,
+     "id": "18642783904000845",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794236489.2272727,
+     "id": "1036390716150574",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794236489.2272727,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetqhOnlsokBFOs7cxeU3eXQ_U"
+    }
+   },
+   "created": 1794236463.3291905,
+   "after": 0,
+   "handle": "car-shape-kids-lunch-box-with-wheels-spoon-and-fork-for-school-tiffin-1-set",
+   "product_url": "https://www.vinzapstore.in/products/car-shape-kids-lunch-box-with-wheels-spoon-and-fork-for-school-tiffin-1-set",
+   "file": "458d5075.mp4",
+   "thumb": "458d5075_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18038091434736477"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1438289031349558"
+    }
+   }
   }
  ],
- "last_post": 1794234646.430485,
+ "last_post": 1794236489.2272727,
  "log": [
-  "12:32:00 POSTED facebook@Vijayendra-Singh a902f3a0: 998978466583836",
-  "12:32:00 FAILED post youtube a902f3a0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "12:32:47 STORY POSTED instagram@Vinzap-Finds a902f3a0",
-  "12:32:54 STORY POSTED facebook@Vinzap-Finds a902f3a0",
-  "12:33:02 STORY POSTED facebook@Vijayendra-Singh a902f3a0",
-  "13:00:44 READY b6edfa09 Dumpling Maker Mould Set (auto-approved)",
   "13:00:55 POSTED instagram@Vinzap-Finds b6edfa09: 18115819288860320",
   "13:00:58 POSTED facebook@Vinzap-Finds b6edfa09: 1428352113685678_122116637469501659",
   "13:01:01 POSTED facebook@Vijayendra-Singh b6edfa09: 1317760538089559_122127397131480728",
@@ -5729,13 +5713,19 @@
   "20:00:46 READY fa5d84e6 Stainless Steel Paring Knife (auto-approved)",
   "20:00:55 POSTED instagram@Vinzap-Finds fa5d84e6: 18100823618423065",
   "20:00:57 POSTED facebook@Vinzap-Finds fa5d84e6: 1428352113685678_122117071113501659",
-  "20:01:01 POSTED facebook@Vijayendra-Singh fa5d84e6: 1317760538089559_122127904431480728"
+  "20:01:01 POSTED facebook@Vijayendra-Singh fa5d84e6: 1317760538089559_122127904431480728",
+  "20:31:29 READY 458d5075 Car Shape Kids Lunch Box | Cooking (auto-approved)",
+  "20:32:03 POSTED instagram@Vinzap-Finds 458d5075: 18642783904000845",
+  "20:32:07 POSTED facebook@Vinzap-Finds 458d5075: 1036390716150574",
+  "20:32:09 FAILED post facebook@Vijayendra-Singh 458d5075: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetqhOnlsokBFOs7cxeU3eXQ_U64aAJNxPWc7RZerreClhOOWwrv1TnZYExHDJ754QPoyl5EnCgt9Xy2U4sVQ6dxzQGaTvuCNud4XQ-vNWuUmjLct57PP8s4_WnpNk9DOUemdUhMEFIG--OAU-GHFG-RRwfGlK7eLJFvA46F1Ki8QNh3UdoZ4h56yD8zZIvmHHa6QolA-R6j6c9lL3hPpGlFvB-hSgmr-7dnNwJ_GoyBFSSd8vNK_yk29Nuz_IGja0CYm8xWd99T8mkAz7vxfHGsnLh7dA39jnS4YHEKfL8K0995H_RhxF4Qn6sgVy4WBSY\",\"help_cente",
+  "20:32:40 STORY POSTED instagram@Vinzap-Finds 458d5075",
+  "20:32:49 STORY POSTED facebook@Vinzap-Finds 458d5075"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794234646.430485,
-  "facebook@Vinzap-Finds": 1794234646.430485,
-  "facebook@Vijayendra-Singh": 1794234646.430485,
+  "instagram@Vinzap-Finds": 1794236489.2272727,
+  "facebook@Vinzap-Finds": 1794236489.2272727,
+  "facebook@Vijayendra-Singh": 1794236489.2272727,
   "youtube": 1794229266.167347
  },
- "n": 476
+ "n": 477
 }
