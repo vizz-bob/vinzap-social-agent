@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "a1148dac",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Oval Chalkboard Sticker Labels",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Classic oval chalkboard style",
-     "Write",
-     "Strong self adhesive backing"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Oval Chalkboard Sticker Labels | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Oval Chalkboard Sticker Labels"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOval Chalkboard Sticker Labels\n✔ Classic oval chalkboard style\n✔ Write\n✔ Strong self adhesive backing\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Oval Chalkboard Sticker Labels | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793872884.8677025,
-     "id": "18115011809124481",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793872884.8677025,
-     "id": "1827662721706884",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793872884.8677025,
-     "id": "2159525007977155",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1793872884.8677025,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1793872859.5251875,
-   "after": 0,
-   "handle": "oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
-   "product_url": "https://www.vinzapstore.in/products/oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
-   "file": "a1148dac.mp4",
-   "thumb": "a1148dac_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18110123294187689"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3864368337037391"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1830492314771833"
-    }
-   }
-  },
-  {
    "id": "c35a095d",
    "status": "posted",
    "kind": "image",
@@ -5547,17 +5465,87 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-serving-bowl-set-multicolour-unbreakable-kitchen-bowls-6-pc-set",
    "file": "d32c6229.jpg",
    "thumb": "d32c6229.jpg"
+  },
+  {
+   "id": "f40ac8f1",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Bottle Cleaning Brush",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Connects to standard plastic",
+     "Durable and firm nylon bristles",
+     "Built-in scraper helps remove"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Bottle Cleaning Brush | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Bottle Cleaning Brush"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nBottle Cleaning Brush\n✔ Connects to standard plastic\n✔ Durable and firm nylon bristles\n✔ Built-in scraper helps remove\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Bottle Cleaning Brush | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794207676.4612336,
+     "id": "18088752401702014",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794207676.4612336,
+     "id": "1724585595724892",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794207676.4612336,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYtn-kOQaRXFP6kL3Q18K5dE"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794207676.4612336,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794207650.4295738,
+   "after": 0,
+   "handle": "multipurpose-bottle-connectable-cleaning-brush-with-built-in-scraper-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-bottle-connectable-cleaning-brush-with-built-in-scraper-1-pc",
+   "file": "f40ac8f1.mp4",
+   "thumb": "f40ac8f1_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18129845491897192"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1182027704360094"
+    }
+   }
   }
  ],
- "last_post": 1794205843.1250768,
+ "last_post": 1794207676.4612336,
  "log": [
-  "16:01:02 POSTED facebook@Vinzap-Finds 27ac3834: 1428352113685678_122116399137501659",
-  "16:01:06 POSTED facebook@Vijayendra-Singh 27ac3834: 1317760538089559_122127167877480728",
-  "16:31:05 READY 00e80730 Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas (auto-approved)",
-  "16:31:44 POSTED instagram@Vinzap-Finds 00e80730: 17916357636544787",
-  "16:31:50 POSTED facebook@Vinzap-Finds 00e80730: 2439529953522651",
-  "16:31:52 FAILED post facebook@Vijayendra-Singh 00e80730: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevh4WMxKncWhYmSXNMaFvMZACZ0EJXjU03RzxG0lVqc64-m-NQry51Xf-DoqaWU0SLIWkR7Zl9zbNDc0wtjgwTjER7ipB1C0MwyrLN9AitAHAF4yF2a74QeSrIx-O6UDem4LxKI5-dYaKXgWHQG4B7DlQltskQZSuguJ65Yu9j89q4zkJHXaofiGL_wGAulAwF_0U9ofpSOyI_mEjCqHCpen7jno4IXz3sjeGfxEjaR87BLW7YlOrDdc0vyFjdvTUe2zLAz_8fLiSX_9sV0YPFTqC8Tl8u18g1WlBn6bGGZiG2IxYRS9nroUciRf9dHd0g\",\"help_cente",
-  "16:32:23 STORY POSTED instagram@Vinzap-Finds 00e80730",
   "16:32:32 STORY POSTED facebook@Vinzap-Finds 00e80730",
   "17:00:53 READY e04e1829 Apex Power-X Hand-Pull Vegetable Chopper (auto-approved)",
   "17:01:09 POSTED instagram@Vinzap-Finds e04e1829: 18146187901591341",
@@ -5750,13 +5738,20 @@
   "12:00:43 READY d32c6229 Unbreakable Plastic Serving Bowl Set of 6 (auto-approved)",
   "12:00:58 POSTED instagram@Vinzap-Finds d32c6229: 17955609642312804",
   "12:01:03 POSTED facebook@Vinzap-Finds d32c6229: 1428352113685678_122116960539501659",
-  "12:01:08 POSTED facebook@Vijayendra-Singh d32c6229: 1317760538089559_122127731853480728"
+  "12:01:08 POSTED facebook@Vijayendra-Singh d32c6229: 1317760538089559_122127731853480728",
+  "12:31:16 READY f40ac8f1 Bottle Cleaning Brush | Kitchen Gadgets (auto-approved)",
+  "12:31:58 POSTED instagram@Vinzap-Finds f40ac8f1: 18088752401702014",
+  "12:32:02 POSTED facebook@Vinzap-Finds f40ac8f1: 1724585595724892",
+  "12:32:03 FAILED post facebook@Vijayendra-Singh f40ac8f1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYtn-kOQaRXFP6kL3Q18K5dE2BKz5p8od8aYPclyTW_gw3j7pkTF09hz9AWOfU2YnsErjPZdiJw9iIsISyRghZvtLvTO_VypHuvM3xgMYo23MzkQ-bnaLJKIP5DGN_5OxLx2rMRWkNi0ZN6_nnRPbOM2MvuT6NNirgkr3GaXeYXB6gj2xxIhoO1mWPr6E6BFZRxia2WCR4tM2XJHCsz9dLv7wVoyYTX4-qpheEXdHZaaDFp2-5rg7WzmPdnLx-d0qEtWyYMT32YbFunFZ1wZK8LEK0jUgw8nE4TKJtGmO02o6OXaRCdRLC9KVzbJoqok4\",\"help_cente",
+  "12:32:03 FAILED post youtube f40ac8f1: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:32:33 STORY POSTED instagram@Vinzap-Finds f40ac8f1",
+  "12:32:42 STORY POSTED facebook@Vinzap-Finds f40ac8f1"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794205843.1250768,
-  "facebook@Vinzap-Finds": 1794205843.1250768,
-  "facebook@Vijayendra-Singh": 1794205843.1250768,
-  "youtube": 1794153255.7768624
+  "instagram@Vinzap-Finds": 1794207676.4612336,
+  "facebook@Vinzap-Finds": 1794207676.4612336,
+  "facebook@Vijayendra-Singh": 1794207676.4612336,
+  "youtube": 1794207676.4612336
  },
- "n": 460
+ "n": 461
 }
