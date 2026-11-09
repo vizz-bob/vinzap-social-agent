@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "863b13f1",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Ice Cube Maker Cup",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Flexible silicone cup makes many",
-     "Simply squeeze the sides to pop",
-     "Space-saving cylinder shape fits"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Silicone Ice Cube Maker Cup | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Ice Cube Maker Cup"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Maker Cup\n✔ Flexible silicone cup makes many\n✔ Simply squeeze the sides to pop\n✔ Space-saving cylinder shape fits\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Silicone Ice Cube Maker Cup",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793953846.1871786,
-     "id": "18602002489071637",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793953846.1871786,
-     "id": "1428352113685678_122116064817501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793953846.1871786,
-     "id": "1317760538089559_122126852637480728",
-     "dry": false
-    }
-   },
-   "created": 1793953843.9351134,
-   "after": 0,
-   "handle": "silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
-   "file": "863b13f1.jpg",
-   "thumb": "863b13f1.jpg"
-  },
-  {
    "id": "144aab44",
    "status": "scheduled",
    "kind": "reel",
@@ -5516,14 +5454,72 @@
      "id": "2049406919052445"
     }
    }
+  },
+  {
+   "id": "f57d2906",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Premium Round Tea Cup Set of 6",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 419,
+    "was": 0,
+    "feats": [
+     "Set of 6 matching tea cups",
+     "Elegant round design enhances",
+     "Comfortable handle for easy grip"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Premium Round Tea Cup Set of 6 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Premium Round Tea Cup Set of 6"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Round Tea Cup Set of 6\n✔ Set of 6 matching tea cups\n✔ Elegant round design enhances\n✔ Comfortable handle for easy grip\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Premium Round Tea Cup Set of 6",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794241848.910049,
+     "id": "18123028687990658",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794241848.910049,
+     "id": "1428352113685678_122117100597501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794241848.910049,
+     "id": "1317760538089559_122127941727480728",
+     "dry": false
+    }
+   },
+   "created": 1794241847.413308,
+   "after": 0,
+   "handle": "premium-round-tea-cup-set-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/premium-round-tea-cup-set-6-pc-set",
+   "file": "f57d2906.jpg",
+   "thumb": "f57d2906.jpg"
   }
  ],
- "last_post": 1794240078.885779,
+ "last_post": 1794241848.910049,
  "log": [
-  "14:01:11 POSTED facebook@Vinzap-Finds 0afb5f88: 1428352113685678_122116651167501659",
-  "14:01:15 POSTED facebook@Vijayendra-Singh 0afb5f88: 1317760538089559_122127407877480728",
-  "14:31:07 READY d0cae896 Multifunction Collapsible Extendable Stick | Cooking (auto-approved)",
-  "14:31:34 POSTED instagram@Vinzap-Finds d0cae896: 18642566749004703",
   "14:31:37 POSTED facebook@Vinzap-Finds d0cae896: 2018452715512276",
   "14:31:38 FAILED post facebook@Vijayendra-Singh d0cae896: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev1d5Z_D60owAsN7kY3rlek2zCaGfbAE-oyPtb9DxEyovnaTiaZZVInifXKGs8NJv3hlinRQrJ-EdH1h5N60XkS9VegNZAuwi6xdb9M7TPkMhQ_CNxo0OhP17_7RIfP_DFt7u7vhA6mn2G9SRtENlbAXlxuPSzpw76fE3osiD_Klp0ee_lAMVw_5J4Dmoi1ggbXeR7N5T_499cPXv0GoSfiFQhWDPr6QUZcMUZy47TtQ8PEGEzIXNcWvQTpELq7v9L-_zOEdyAXoVswfb00biVYgJ5GvOmMcrGAyr3k6sd5yD5-3zPDhtBVHyW3x_n2mUVy\",\"help_cent",
   "14:32:10 STORY POSTED instagram@Vinzap-Finds d0cae896",
@@ -5719,13 +5715,17 @@
   "21:32:02 FAILED post facebook@Vijayendra-Singh 02cb969e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevezBcGAsbXnJBZ5xkh-Ev0z83Fi9dfiHfhx9Ioi3jyCOuN88XJTQ6EIv_E3xWy-l9P1fM3zsds9VB6nanj4c31uV86sRIUVjRFw_MeB4J0a8KMzjzbIXZ_0L9sNfO655cvAX88-rNGEA0dgU2fJBoajNND7hU3l_HhzhDasdsYyR_cxWfArkPWicYpjaUaAM7UhmP8624ItqbAwIWQ58VrwItQC7U6e7b0Gb2LAOTmLiX-bnjnkFm4TStjBLwRRebttiMxh-0fDFCTMgfik3zhd4oyuv3AYG8Qy3HACuNStsZr8CC9rRTgBIb6nVQxOA\",\"help_center",
   "21:32:02 FAILED post youtube 02cb969e: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "21:32:32 STORY POSTED instagram@Vinzap-Finds 02cb969e",
-  "21:32:40 STORY POSTED facebook@Vinzap-Finds 02cb969e"
+  "21:32:40 STORY POSTED facebook@Vinzap-Finds 02cb969e",
+  "22:00:48 READY f57d2906 Premium Round Tea Cup Set of 6 (auto-approved)",
+  "22:00:58 POSTED instagram@Vinzap-Finds f57d2906: 18123028687990658",
+  "22:01:01 POSTED facebook@Vinzap-Finds f57d2906: 1428352113685678_122117100597501659",
+  "22:01:04 POSTED facebook@Vijayendra-Singh f57d2906: 1317760538089559_122127941727480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794240078.885779,
-  "facebook@Vinzap-Finds": 1794240078.885779,
-  "facebook@Vijayendra-Singh": 1794240078.885779,
+  "instagram@Vinzap-Finds": 1794241848.910049,
+  "facebook@Vinzap-Finds": 1794241848.910049,
+  "facebook@Vijayendra-Singh": 1794241848.910049,
   "youtube": 1794240078.885779
  },
- "n": 479
+ "n": 480
 }
