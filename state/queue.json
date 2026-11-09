@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "367182bf",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Flexi Stainless Steel Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 979,
-    "was": 0,
-    "feats": [
-     "Wide rectangular container takes",
-     "Round bowl is sized right",
-     "Flexible sealing lids press tight"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Apex Flexi Stainless Steel Lunch Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Flexi Stainless Steel Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Flexi Stainless Steel Lunch Box\n✔ Wide rectangular container takes\n✔ Round bowl is sized right\n✔ Flexible sealing lids press tight\n\nOnly ₹979. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
-   "title": "Apex Flexi Stainless Steel Lunch Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793893550.47164,
-     "id": "17874699909639973",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793893550.47164,
-     "id": "1428352113685678_122115885657501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793893550.47164,
-     "id": "1317760538089559_122126643861480728",
-     "dry": false
-    }
-   },
-   "created": 1793893547.6473012,
-   "after": 0,
-   "handle": "apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
-   "file": "367182bf.jpg",
-   "thumb": "367182bf.jpg"
-  },
-  {
    "id": "01519a52",
    "status": "scheduled",
    "kind": "reel",
@@ -5538,14 +5476,72 @@
      "id": "1148932457600744"
     }
    }
+  },
+  {
+   "id": "4c5ee5a1",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Reusable Plastic Spoon Set of 20",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Value pack of 20 spoons provides",
+     "Reusable and durable plastic is",
+     "Bright colour adds a fun"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Reusable Plastic Spoon Set of 20 | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Plastic Spoon Set of 20"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Plastic Spoon Set of 20\n✔ Value pack of 20 spoons provides\n✔ Reusable and durable plastic is\n✔ Bright colour adds a fun\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Reusable Plastic Spoon Set of 20",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794227453.1889403,
+     "id": "18093962567229571",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794227453.1889403,
+     "id": "1428352113685678_122117043723501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794227453.1889403,
+     "id": "1317760538089559_122127846339480728",
+     "dry": false
+    }
+   },
+   "created": 1794227451.0314877,
+   "after": 0,
+   "handle": "plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
+   "file": "4c5ee5a1.jpg",
+   "thumb": "4c5ee5a1.jpg"
   }
  ],
- "last_post": 1794225669.6984742,
+ "last_post": 1794227453.1889403,
  "log": [
-  "21:31:49 POSTED instagram@Vinzap-Finds 24b109f0: 18125818342924177",
-  "21:31:54 POSTED facebook@Vinzap-Finds 24b109f0: 1464419418973067",
-  "21:31:59 POSTED facebook@Vijayendra-Singh 24b109f0: 1124737923645144",
-  "21:31:59 FAILED post youtube 24b109f0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "21:32:31 STORY POSTED instagram@Vinzap-Finds 24b109f0",
   "21:32:40 STORY POSTED facebook@Vinzap-Finds 24b109f0",
   "21:32:49 STORY POSTED facebook@Vijayendra-Singh 24b109f0",
@@ -5741,13 +5737,17 @@
   "17:31:47 POSTED facebook@Vinzap-Finds 012254ed: 1111877308361902",
   "17:31:48 FAILED post facebook@Vijayendra-Singh 012254ed: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetamUsepnubuWkiIghfOcG9ZA8c-KO8xZ8xwGBsVRSLYOq-Lr39ra8EcasNVDlif4LqzJO0yVTV0vFyLW62gqLYjRUNsZhSrBdZKcaOhA65BdzV6FIhDo4VuuqA0gC8poRjhJE4jD0eb9FR6gKSsgQ0kIfFMAx_1_KOB4tya1B2JjN9A5QpUv10MFOX1sHKoUlGVcb7w5CAnEGFJbDQur2xrWOfceSIgyurhw9nvJC9pk68DEYlqvCcb0hVm2tXUI0z3-1jJ_8W1G3TqaxYRIm0J6xVV_rTQ4VUtXoeDd23-XCNq74tjjdjVLlEpywQJ_4\",\"help_cente",
   "17:32:16 STORY POSTED instagram@Vinzap-Finds 012254ed",
-  "17:32:24 STORY POSTED facebook@Vinzap-Finds 012254ed"
+  "17:32:24 STORY POSTED facebook@Vinzap-Finds 012254ed",
+  "18:00:53 READY 4c5ee5a1 Reusable Plastic Spoon Set of 20 (auto-approved)",
+  "18:01:03 POSTED instagram@Vinzap-Finds 4c5ee5a1: 18093962567229571",
+  "18:01:07 POSTED facebook@Vinzap-Finds 4c5ee5a1: 1428352113685678_122117043723501659",
+  "18:01:11 POSTED facebook@Vijayendra-Singh 4c5ee5a1: 1317760538089559_122127846339480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794225669.6984742,
-  "facebook@Vinzap-Finds": 1794225669.6984742,
-  "facebook@Vijayendra-Singh": 1794225669.6984742,
-  "youtube": 1794218511.4501936
+  "instagram@Vinzap-Finds": 1794227453.1889403,
+  "facebook@Vinzap-Finds": 1794227453.1889403,
+  "facebook@Vijayendra-Singh": 1794227453.1889403,
+  "youtube": 1794218091.4501936
  },
- "n": 471
+ "n": 472
 }
