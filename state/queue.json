@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "6b23e447",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Mini Tabletop Dustbin 1200ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 239,
-    "was": 0,
-    "feats": [
-     "Modern & Space-Saving Design:",
-     "Durable & Sturdy Build: Made from",
-     "Versatile Usage: Suitable for home"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Mini Tabletop Dustbin 1200ml | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Mini Tabletop Dustbin 1200ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMini Tabletop Dustbin 1200ml\n✔ Modern & Space-Saving Design:\n✔ Durable & Sturdy Build: Made from\n✔ Versatile Usage: Suitable for home\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Mini Tabletop Dustbin 1200ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793881849.5179963,
-     "id": "18110908337250565",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793881849.5179963,
-     "id": "1428352113685678_122115842457501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793881849.5179963,
-     "id": "1317760538089559_122126589837480728",
-     "dry": false
-    }
-   },
-   "created": 1793881847.129948,
-   "after": 0,
-   "handle": "apex-mini-tabletop-dustbin-1-pc-1200-ml-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/apex-mini-tabletop-dustbin-1-pc-1200-ml-mix-color",
-   "file": "6b23e447.jpg",
-   "thumb": "6b23e447.jpg"
-  },
-  {
    "id": "2f4ad42b",
    "status": "scheduled",
    "kind": "reel",
@@ -5542,14 +5480,70 @@
      "id": "1890704161948522"
     }
    }
+  },
+  {
+   "id": "dec8be58",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Fresca Stainless Steel Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 879,
+    "was": 0,
+    "feats": [
+     "Fresca Stainless Steel 3"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Fresca Stainless Steel Lunch Box | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fresca Stainless Steel Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFresca Stainless Steel Lunch Box\n✔ Fresca Stainless Steel 3\n\nOnly ₹879. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchengadgets #kitchenorganization",
+   "title": "Fresca Stainless Steel Lunch Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794216692.4257445,
+     "id": "17924411499444305",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794216692.4257445,
+     "id": "1428352113685678_122117008845501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794216692.4257445,
+     "id": "1317760538089559_122127788679480728",
+     "dry": false
+    }
+   },
+   "created": 1794216691.0335646,
+   "after": 0,
+   "handle": "fresca-stainless-steel-3-compartment-lunch-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/fresca-stainless-steel-3-compartment-lunch-box-1-pc",
+   "file": "dec8be58.jpg",
+   "thumb": "dec8be58.jpg"
   }
  ],
- "last_post": 1794214933.1783867,
+ "last_post": 1794216692.4257445,
  "log": [
-  "18:32:09 FAILED post youtube 5d5a1016: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "18:32:43 STORY POSTED instagram@Vinzap-Finds 5d5a1016",
-  "18:32:52 STORY POSTED facebook@Vinzap-Finds 5d5a1016",
-  "18:33:03 STORY POSTED facebook@Vijayendra-Singh 5d5a1016",
   "19:00:46 READY 991dcec1 Drain Cleaner Powder (auto-approved)",
   "19:00:54 POSTED instagram@Vinzap-Finds 991dcec1: 18351232090268720",
   "19:00:57 POSTED facebook@Vinzap-Finds 991dcec1: 1428352113685678_122116439127501659",
@@ -5745,13 +5739,17 @@
   "14:32:55 POSTED facebook@Vinzap-Finds f2b107fc: 2229416584622468",
   "14:32:56 FAILED post facebook@Vijayendra-Singh f2b107fc: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeueZUlsQFhX5Df5OXo307XjA7WrgWBxuKLcfCfSAGAtP2fJ53PDiRf9gf7HhABC_xyUthKCFslbme8RJlqa9dvCzIZhJdfpfAXmXwNazXw1SaIgSoT_DV0m5lmm6UBJGfIwJ82_Mg7aW8Pgdohh2EGmXRL9EJCGx0oZ6NR2fzoJnYqVB4sLAfTOhUkNd1FgOqtmRGpRsE7KJAIhoBR1yT7emvyl3FhwQ9cqrrnzVv5Lx44cZ0LU7r8AegKdTBM3L7Ki9WfF_0gItqyve0NUGP3_V1RQafHTaJu1JzTzFvcqArxlENuxo75c67gKdKdfo663\",\"help_cent",
   "14:33:26 STORY POSTED instagram@Vinzap-Finds f2b107fc",
-  "14:33:34 STORY POSTED facebook@Vinzap-Finds f2b107fc"
+  "14:33:34 STORY POSTED facebook@Vinzap-Finds f2b107fc",
+  "15:01:32 READY dec8be58 Fresca Stainless Steel Lunch Box (auto-approved)",
+  "15:01:46 POSTED instagram@Vinzap-Finds dec8be58: 17924411499444305",
+  "15:01:51 POSTED facebook@Vinzap-Finds dec8be58: 1428352113685678_122117008845501659",
+  "15:01:54 POSTED facebook@Vijayendra-Singh dec8be58: 1317760538089559_122127788679480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794214933.1783867,
-  "facebook@Vinzap-Finds": 1794214933.1783867,
-  "facebook@Vijayendra-Singh": 1794214933.1783867,
-  "youtube": 1794207676.4612336
+  "instagram@Vinzap-Finds": 1794216692.4257445,
+  "facebook@Vinzap-Finds": 1794216692.4257445,
+  "facebook@Vijayendra-Singh": 1794216692.4257445,
+  "youtube": 1794207256.4612336
  },
- "n": 465
+ "n": 466
 }
