@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "2e70bba8",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel House Shape Cookie Cutter",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "3 Pc mix design set",
-     "Stainless steel body",
-     "Creates clean and sharp cookie"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Stainless Steel House Shape Cookie Cutter | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel House Shape Cookie Cutter"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel House Shape Cookie Cutter\n✔ 3 Pc mix design set\n✔ Stainless steel body\n✔ Creates clean and sharp cookie\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Stainless Steel House Shape Cookie Cutter | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793898964.46203,
-     "id": "17959804383017650",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793898964.46203,
-     "id": "1922206119148395",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793898964.46203,
-     "id": "1509633804349580",
-     "dry": false
-    }
-   },
-   "created": 1793898942.721682,
-   "after": 0,
-   "handle": "stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
-   "file": "2e70bba8.mp4",
-   "thumb": "2e70bba8_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18502528357111184"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1896356044683262"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1589252025857921"
-    }
-   }
-  },
-  {
    "id": "69d59587",
    "status": "posted",
    "kind": "image",
@@ -5533,16 +5456,80 @@
    "product_url": "https://www.vinzapstore.in/products/multi-functional-stainless-steel-hot-pot-gripper-clamp-pan-lifter-tool-1-pc",
    "file": "a7b548e1.jpg",
    "thumb": "a7b548e1.jpg"
+  },
+  {
+   "id": "d4093b4a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Lollipop Candy Maker Machine, Pink",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Lollipop Candy Maker and Lollipop"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Lollipop Candy Maker Machine, Pink | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Lollipop Candy Maker Machine, Pink"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLollipop Candy Maker Machine, Pink\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Lollipop Candy Maker Machine, Pink | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794232880.7536435,
+     "id": "18143889397611685",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794232880.7536435,
+     "id": "1119878310947695",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794232880.7536435,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesyd1C2T8IVk9kER9VApRCAp6"
+    }
+   },
+   "created": 1794232859.181241,
+   "after": 0,
+   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
+   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
+   "file": "d4093b4a.mp4",
+   "thumb": "d4093b4a_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18085313045710251"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2198484194405268"
+    }
+   }
   }
  ],
- "last_post": 1794231121.4632525,
+ "last_post": 1794232880.7536435,
  "log": [
-  "22:32:22 STORY POSTED instagram@Vinzap-Finds f5a16da7",
-  "22:32:29 STORY POSTED facebook@Vinzap-Finds f5a16da7",
-  "22:32:35 STORY POSTED facebook@Vijayendra-Singh f5a16da7",
-  "12:01:04 READY e315ce0d 4-in-1 Silicone Bottle Cleaning Brush (auto-approved)",
-  "12:01:19 POSTED instagram@Vinzap-Finds e315ce0d: 18180314917451694",
-  "12:01:23 POSTED facebook@Vinzap-Finds e315ce0d: 1428352113685678_122116625967501659",
   "12:01:28 POSTED facebook@Vijayendra-Singh e315ce0d: 1317760538089559_122127387495480728",
   "12:31:18 READY a902f3a0 Professional Kitchen Knife Set | Kitchen Gadgets (auto-approved)",
   "12:31:52 POSTED instagram@Vinzap-Finds a902f3a0: 17971556456964950",
@@ -5736,13 +5723,19 @@
   "19:02:01 READY a7b548e1 Stainless Steel Hot Pot Gripper Clamp Pan (auto-approved)",
   "19:02:12 POSTED instagram@Vinzap-Finds a7b548e1: 17915800164287532",
   "19:02:16 POSTED facebook@Vinzap-Finds a7b548e1: 1428352113685678_122117058039501659",
-  "19:02:20 POSTED facebook@Vijayendra-Singh a7b548e1: 1317760538089559_122127874683480728"
+  "19:02:20 POSTED facebook@Vijayendra-Singh a7b548e1: 1317760538089559_122127874683480728",
+  "19:31:20 READY d4093b4a Lollipop Candy Maker Machine, Pink | Diwali (auto-approved)",
+  "19:31:59 POSTED instagram@Vinzap-Finds d4093b4a: 18143889397611685",
+  "19:32:04 POSTED facebook@Vinzap-Finds d4093b4a: 1119878310947695",
+  "19:32:04 FAILED post facebook@Vijayendra-Singh d4093b4a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesyd1C2T8IVk9kER9VApRCAp6NHgYoL5VuUMVymAFjDMnnYhAE1n7xUNjRZ3UdjitMTxXWp2b7B1mgvQP8wH87PcbYhuGjAZQOL89ZMkf2ATOm3m8s5BaWyfGSZ99s07REfICO1-JzyuFN_2WY1EmYNxqEiEuXfbrovhQ8ZPJrLB2W8KDBO5PKOJ-7rYDxD-QUgeS9loB47Xe_7XG_vIhy-oXwO92e7-qUR5Ys5X-7GPmG_LZxCoW6fXJIx96bAybfQgV58Er2Gu5yfh3Kmpnxk_4NWVU6rshChAYiaCiwQIE3_PtsrIQDcz_tPKk7jpBaa\",\"help_cent",
+  "19:32:37 STORY POSTED instagram@Vinzap-Finds d4093b4a",
+  "19:32:47 STORY POSTED facebook@Vinzap-Finds d4093b4a"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794231121.4632525,
-  "facebook@Vinzap-Finds": 1794231121.4632525,
-  "facebook@Vijayendra-Singh": 1794231121.4632525,
+  "instagram@Vinzap-Finds": 1794232880.7536435,
+  "facebook@Vinzap-Finds": 1794232880.7536435,
+  "facebook@Vijayendra-Singh": 1794232880.7536435,
   "youtube": 1794229266.167347
  },
- "n": 474
+ "n": 475
 }
