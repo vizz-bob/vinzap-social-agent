@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "a8dbbf9d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Dinner Spoon",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Stainless steel dinner spoon",
-     "Decorative scalloped handle design",
-     "Rust-resistant and durable build"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Stainless Steel Dinner Spoon | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Dinner Spoon"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Dinner Spoon\n✔ Stainless steel dinner spoon\n✔ Decorative scalloped handle design\n✔ Rust-resistant and durable build\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Stainless Steel Dinner Spoon | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793880079.050335,
-     "id": "18196782865401253",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793880079.050335,
-     "id": "1157395576686998",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793880079.050335,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes10PlbBh2ds-7NlKwYoGOtpS"
-    }
-   },
-   "created": 1793880053.2382202,
-   "after": 0,
-   "handle": "stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
-   "file": "a8dbbf9d.mp4",
-   "thumb": "a8dbbf9d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18114523286147630"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "991783550028238"
-    }
-   }
-  },
-  {
    "id": "6b23e447",
    "status": "posted",
    "kind": "image",
@@ -5542,16 +5470,82 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-3-piece-multipurpose-serving-tray-3-pc-set",
    "file": "c308caf6.jpg",
    "thumb": "c308caf6.jpg"
+  },
+  {
+   "id": "f2b107fc",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Decorative Silver Serving Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Elegant embossed floral design",
+     "Decorative lattice border adds",
+     "Rich silver finish for timeless"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Decorative Silver Serving Tray | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Decorative Silver Serving Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDecorative Silver Serving Tray\n✔ Elegant embossed floral design\n✔ Decorative lattice border adds\n✔ Rich silver finish for timeless\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Decorative Silver Serving Tray | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794214933.1783867,
+     "id": "17981816277136772",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794214933.1783867,
+     "id": "2229416584622468",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794214933.1783867,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeueZUlsQFhX5Df5OXo307XjA7"
+    }
+   },
+   "created": 1794214913.5173633,
+   "after": 0,
+   "handle": "decorative-silver-serving-tray-elegant-round-floral-design",
+   "product_url": "https://www.vinzapstore.in/products/decorative-silver-serving-tray-elegant-round-floral-design",
+   "file": "f2b107fc.mp4",
+   "thumb": "f2b107fc_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18114840779128795"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1890704161948522"
+    }
+   }
   }
  ],
- "last_post": 1794213053.2718108,
+ "last_post": 1794214933.1783867,
  "log": [
-  "17:59:26 POSTED facebook@Vinzap-Finds e92f9808: 1428352113685678_122116425969501659",
-  "17:59:30 POSTED facebook@Vijayendra-Singh e92f9808: 1317760538089559_122127196803480728",
-  "18:31:23 READY 5d5a1016 Natural Wood Chopping Board | Trending Shorts (auto-approved)",
-  "18:31:58 POSTED instagram@Vinzap-Finds 5d5a1016: 17897423082612584",
-  "18:32:03 POSTED facebook@Vinzap-Finds 5d5a1016: 2154729208584972",
-  "18:32:09 POSTED facebook@Vijayendra-Singh 5d5a1016: 1683381736737919",
   "18:32:09 FAILED post youtube 5d5a1016: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "18:32:43 STORY POSTED instagram@Vinzap-Finds 5d5a1016",
   "18:32:52 STORY POSTED facebook@Vinzap-Finds 5d5a1016",
@@ -5745,13 +5739,19 @@
   "14:00:53 READY c308caf6 Supermom  Multipurpose Serving Tray Set (auto-approved)",
   "14:01:19 POSTED instagram@Vinzap-Finds c308caf6: 18133315406495101",
   "14:01:22 POSTED facebook@Vinzap-Finds c308caf6: 1428352113685678_122116984299501659",
-  "14:01:26 POSTED facebook@Vijayendra-Singh c308caf6: 1317760538089559_122127777687480728"
+  "14:01:26 POSTED facebook@Vijayendra-Singh c308caf6: 1317760538089559_122127777687480728",
+  "14:32:13 READY f2b107fc Decorative Silver Serving Tray | Home Decor (auto-approved)",
+  "14:32:49 POSTED instagram@Vinzap-Finds f2b107fc: 17981816277136772",
+  "14:32:55 POSTED facebook@Vinzap-Finds f2b107fc: 2229416584622468",
+  "14:32:56 FAILED post facebook@Vijayendra-Singh f2b107fc: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeueZUlsQFhX5Df5OXo307XjA7WrgWBxuKLcfCfSAGAtP2fJ53PDiRf9gf7HhABC_xyUthKCFslbme8RJlqa9dvCzIZhJdfpfAXmXwNazXw1SaIgSoT_DV0m5lmm6UBJGfIwJ82_Mg7aW8Pgdohh2EGmXRL9EJCGx0oZ6NR2fzoJnYqVB4sLAfTOhUkNd1FgOqtmRGpRsE7KJAIhoBR1yT7emvyl3FhwQ9cqrrnzVv5Lx44cZ0LU7r8AegKdTBM3L7Ki9WfF_0gItqyve0NUGP3_V1RQafHTaJu1JzTzFvcqArxlENuxo75c67gKdKdfo663\",\"help_cent",
+  "14:33:26 STORY POSTED instagram@Vinzap-Finds f2b107fc",
+  "14:33:34 STORY POSTED facebook@Vinzap-Finds f2b107fc"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794213053.2718108,
-  "facebook@Vinzap-Finds": 1794213053.2718108,
-  "facebook@Vijayendra-Singh": 1794213053.2718108,
+  "instagram@Vinzap-Finds": 1794214933.1783867,
+  "facebook@Vinzap-Finds": 1794214933.1783867,
+  "facebook@Vijayendra-Singh": 1794214933.1783867,
   "youtube": 1794207676.4612336
  },
- "n": 464
+ "n": 465
 }
