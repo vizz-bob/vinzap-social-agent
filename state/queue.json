@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "0ddb3819",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "White Enamel Mug Custom Printed",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 450,
-    "was": 0,
-    "feats": [
-     "Material: enamel-coated stainless",
-     "Capacity: 11 oz",
-     "Silver rim"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "White Enamel Mug Custom Printed | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "White Enamel Mug Custom Printed"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWhite Enamel Mug Custom Printed\n✔ Material: enamel-coated stainless\n✔ Capacity: 11 oz\n✔ Silver rim\n\nOnly ₹450. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #mug #giftideas #festivegifts\n#homedecorideas #diwali",
-   "title": "White Enamel Mug Custom Printed | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793876472.879778,
-     "id": "18120579034964925",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793876472.879778,
-     "id": "1711031544009847",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793876472.879778,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes_lMLEgk1y6RTXvZND_D2s-p"
-    }
-   },
-   "created": 1793876451.8890996,
-   "after": 0,
-   "handle": "white-enamel-mugs",
-   "product_url": "https://www.vinzapstore.in/products/white-enamel-mugs",
-   "file": "0ddb3819.mp4",
-   "thumb": "0ddb3819_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18646708147049170"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1814832729848147"
-    }
-   }
-  },
-  {
    "id": "a75c272c",
    "status": "posted",
    "kind": "image",
@@ -5542,16 +5470,82 @@
    "product_url": "https://www.vinzapstore.in/products/wall-mounted-knife-holder-with-hooks-and-roll-bag-dispenser-for-kitchen-storage",
    "file": "cbcca50d.jpg",
    "thumb": "cbcca50d.jpg"
+  },
+  {
+   "id": "5be2e4d0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Dual compartment design",
+     "Secure locking lid to help",
+     "Matching water bottle with easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Plastic Lunch Box | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Lunch Box\n✔ Dual compartment design\n✔ Secure locking lid to help\n✔ Matching water bottle with easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #bottle #homeessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
+   "title": "Plastic Lunch Box | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794211294.2100415,
+     "id": "17938221060405013",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794211294.2100415,
+     "id": "29236857515967246",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794211294.2100415,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu1aFX8ls-mepWGTivr2fLMv8"
+    }
+   },
+   "created": 1794211273.9065492,
+   "after": 0,
+   "handle": "plastic-lunch-box-with-water-bottle-combo-set-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-lunch-box-with-water-bottle-combo-set-1-set",
+   "file": "5be2e4d0.mp4",
+   "thumb": "5be2e4d0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18349086733253247"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1774451123648711"
+    }
+   }
   }
  ],
- "last_post": 1794209449.26891,
+ "last_post": 1794211294.2100415,
  "log": [
-  "17:01:18 POSTED facebook@Vijayendra-Singh e04e1829: 1317760538089559_122127179967480728",
-  "17:31:23 READY fea50c38 Ice Cube Tray | Kitchen Organization (auto-approved)",
-  "17:31:59 POSTED instagram@Vinzap-Finds fea50c38: 18036848996853924",
-  "17:32:05 POSTED facebook@Vinzap-Finds fea50c38: 2315385215721429",
-  "17:32:10 POSTED facebook@Vijayendra-Singh fea50c38: 2107115246676802",
-  "17:32:40 STORY POSTED instagram@Vinzap-Finds fea50c38",
   "17:32:47 STORY POSTED facebook@Vinzap-Finds fea50c38",
   "17:32:55 STORY POSTED facebook@Vijayendra-Singh fea50c38",
   "17:59:11 READY e92f9808 Microfiber Chenille Hanging Hand Towel (auto-approved)",
@@ -5745,13 +5739,19 @@
   "13:00:49 READY cbcca50d Wall Mounted Knife Holder (auto-approved)",
   "13:00:59 POSTED instagram@Vinzap-Finds cbcca50d: 18253705654310529",
   "13:01:03 POSTED facebook@Vinzap-Finds cbcca50d: 1428352113685678_122116975005501659",
-  "13:01:07 POSTED facebook@Vijayendra-Singh cbcca50d: 1317760538089559_122127764307480728"
+  "13:01:07 POSTED facebook@Vijayendra-Singh cbcca50d: 1317760538089559_122127764307480728",
+  "13:31:34 READY 5be2e4d0 Plastic Lunch Box | Kitchen Organization (auto-approved)",
+  "13:32:15 POSTED instagram@Vinzap-Finds 5be2e4d0: 17938221060405013",
+  "13:32:20 POSTED facebook@Vinzap-Finds 5be2e4d0: 29236857515967246",
+  "13:32:22 FAILED post facebook@Vijayendra-Singh 5be2e4d0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu1aFX8ls-mepWGTivr2fLMv80785LbiClkdh5NrEGy--cpSXxURyJaB7LJH1CvbrJm83GUoPvNMOtffzbNlhiWPntn-zGlXcw34uI8DtEjyoqzczbzLQmoDn6QsiXNyZ1VgQdXPYpid56uwm0M0FFlAaT4lfP8g3VvIkKUchT4LJh9ZYoNv3lDkEpZZPCb43YvgU6_OyqF7qIH8L2r9AmDR5kF4vcTosoGsU_ZZD8t9w5BnK30zxTodAfS7ws1TiuT0LtxFMR62KlhF6oQVl8WNM1lpE6iTFO9cxo99BaXPSxJsHyYcdQiTbmQL30xTgQO\",\"help_cent",
+  "13:32:55 STORY POSTED instagram@Vinzap-Finds 5be2e4d0",
+  "13:33:05 STORY POSTED facebook@Vinzap-Finds 5be2e4d0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794209449.26891,
-  "facebook@Vinzap-Finds": 1794209449.26891,
-  "facebook@Vijayendra-Singh": 1794209449.26891,
+  "instagram@Vinzap-Finds": 1794211294.2100415,
+  "facebook@Vinzap-Finds": 1794211294.2100415,
+  "facebook@Vijayendra-Singh": 1794211294.2100415,
   "youtube": 1794207676.4612336
  },
- "n": 462
+ "n": 463
 }
