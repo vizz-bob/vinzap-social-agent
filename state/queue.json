@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "69d59587",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Unbreakable Plastic Drinking Glass",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Unbreakable plastic construction",
-     "Lightweight and easy to handle",
-     "Transparent design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Unbreakable Plastic Drinking Glass | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Unbreakable Plastic Drinking Glass"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUnbreakable Plastic Drinking Glass\n✔ Unbreakable plastic construction\n✔ Lightweight and easy to handle\n✔ Transparent design\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Unbreakable Plastic Drinking Glass",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793946658.485568,
-     "id": "17953382484342535",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793946658.485568,
-     "id": "1428352113685678_122116033005501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793946658.485568,
-     "id": "1317760538089559_122126833959480728",
-     "dry": false
-    }
-   },
-   "created": 1793946656.0421863,
-   "after": 0,
-   "handle": "premium-unbreakable-plastic-drinking-glass-1-pc-mix-design",
-   "product_url": "https://www.vinzapstore.in/products/premium-unbreakable-plastic-drinking-glass-1-pc-mix-design",
-   "file": "69d59587.jpg",
-   "thumb": "69d59587.jpg"
-  },
-  {
    "id": "3ade1afa",
    "status": "scheduled",
    "kind": "reel",
@@ -5526,14 +5464,72 @@
      "id": "2198484194405268"
     }
    }
+  },
+  {
+   "id": "fa5d84e6",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Paring Knife",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Surgical-grade stainless steel",
+     "Serrated edge ensures smooth",
+     "Ergonomic handle for comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Paring Knife | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Paring Knife"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Paring Knife\n✔ Surgical-grade stainless steel\n✔ Serrated edge ensures smooth\n✔ Ergonomic handle for comfortable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Paring Knife",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794234646.430485,
+     "id": "18100823618423065",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794234646.430485,
+     "id": "1428352113685678_122117071113501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794234646.430485,
+     "id": "1317760538089559_122127904431480728",
+     "dry": false
+    }
+   },
+   "created": 1794234643.941386,
+   "after": 0,
+   "handle": "supermom-premium-stainless-steel-paring-knife-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-stainless-steel-paring-knife-1-pc",
+   "file": "fa5d84e6.jpg",
+   "thumb": "fa5d84e6.jpg"
   }
  ],
- "last_post": 1794232880.7536435,
+ "last_post": 1794234646.430485,
  "log": [
-  "12:01:28 POSTED facebook@Vijayendra-Singh e315ce0d: 1317760538089559_122127387495480728",
-  "12:31:18 READY a902f3a0 Professional Kitchen Knife Set | Kitchen Gadgets (auto-approved)",
-  "12:31:52 POSTED instagram@Vinzap-Finds a902f3a0: 17971556456964950",
-  "12:31:56 POSTED facebook@Vinzap-Finds a902f3a0: 1401459048418677",
   "12:32:00 POSTED facebook@Vijayendra-Singh a902f3a0: 998978466583836",
   "12:32:00 FAILED post youtube a902f3a0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "12:32:47 STORY POSTED instagram@Vinzap-Finds a902f3a0",
@@ -5729,13 +5725,17 @@
   "19:32:04 POSTED facebook@Vinzap-Finds d4093b4a: 1119878310947695",
   "19:32:04 FAILED post facebook@Vijayendra-Singh d4093b4a: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesyd1C2T8IVk9kER9VApRCAp6NHgYoL5VuUMVymAFjDMnnYhAE1n7xUNjRZ3UdjitMTxXWp2b7B1mgvQP8wH87PcbYhuGjAZQOL89ZMkf2ATOm3m8s5BaWyfGSZ99s07REfICO1-JzyuFN_2WY1EmYNxqEiEuXfbrovhQ8ZPJrLB2W8KDBO5PKOJ-7rYDxD-QUgeS9loB47Xe_7XG_vIhy-oXwO92e7-qUR5Ys5X-7GPmG_LZxCoW6fXJIx96bAybfQgV58Er2Gu5yfh3Kmpnxk_4NWVU6rshChAYiaCiwQIE3_PtsrIQDcz_tPKk7jpBaa\",\"help_cent",
   "19:32:37 STORY POSTED instagram@Vinzap-Finds d4093b4a",
-  "19:32:47 STORY POSTED facebook@Vinzap-Finds d4093b4a"
+  "19:32:47 STORY POSTED facebook@Vinzap-Finds d4093b4a",
+  "20:00:46 READY fa5d84e6 Stainless Steel Paring Knife (auto-approved)",
+  "20:00:55 POSTED instagram@Vinzap-Finds fa5d84e6: 18100823618423065",
+  "20:00:57 POSTED facebook@Vinzap-Finds fa5d84e6: 1428352113685678_122117071113501659",
+  "20:01:01 POSTED facebook@Vijayendra-Singh fa5d84e6: 1317760538089559_122127904431480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794232880.7536435,
-  "facebook@Vinzap-Finds": 1794232880.7536435,
-  "facebook@Vijayendra-Singh": 1794232880.7536435,
+  "instagram@Vinzap-Finds": 1794234646.430485,
+  "facebook@Vinzap-Finds": 1794234646.430485,
+  "facebook@Vijayendra-Singh": 1794234646.430485,
   "youtube": 1794229266.167347
  },
- "n": 475
+ "n": 476
 }
