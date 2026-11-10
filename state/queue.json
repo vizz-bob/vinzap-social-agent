@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "151a48fa",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Cozy Coffee Mug 450ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Lid sits over the top",
-     "Also keeps dust out when you step",
-     "450 ML holds a proper mug of chai"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Apex Cozy Coffee Mug 450ml | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Cozy Coffee Mug 450ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Cozy Coffee Mug 450ml\n✔ Lid sits over the top\n✔ Also keeps dust out when you step\n✔ 450 ML holds a proper mug of chai\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#cooking #homedecor",
-   "title": "Apex Cozy Coffee Mug 450ml | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793979965.4591403,
-     "id": "17911985877588796",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793979965.4591403,
-     "id": "1157063313684468",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793979965.4591403,
-     "id": "1131192496548499",
-     "dry": false
-    }
-   },
-   "created": 1793979939.2589474,
-   "after": 0,
-   "handle": "apex-cozy-coffee-mug-450-ml-with-lid-and-steel-rim-for-desk-use-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-cozy-coffee-mug-450-ml-with-lid-and-steel-rim-for-desk-use-1-pc",
-   "file": "151a48fa.mp4",
-   "thumb": "151a48fa_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18018382373953202"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1130979809799173"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1159706279902562"
-    }
-   }
-  },
-  {
    "id": "8e1483e8",
    "status": "posted",
    "kind": "image",
@@ -5513,16 +5436,82 @@
    "product_url": "https://www.vinzapstore.in/products/6955-outdoor-sport-water-bottle-400ml-leak-proof-bpa-free-for-travel-cold-and-hot-water-glass-water-bottle-with-daily-water-intake-for-gym-and-children-moq-100-pc",
    "file": "7c33f6e3.jpg",
    "thumb": "7c33f6e3.jpg"
+  },
+  {
+   "id": "5fc050ec",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Ice Cube Maker Cup",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Flexible silicone cup makes many",
+     "Simply squeeze the sides to pop",
+     "Space-saving cylinder shape fits"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Silicone Ice Cube Maker Cup | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Maker Cup"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Maker Cup\n✔ Flexible silicone cup makes many\n✔ Simply squeeze the sides to pop\n✔ Space-saving cylinder shape fits\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Silicone Ice Cube Maker Cup | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794314769.8513067,
+     "id": "18039809354814641",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794314769.8513067,
+     "id": "1127390260117229",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794314769.8513067,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetw2KQRBH0ooNPsuSHJd45uje"
+    }
+   },
+   "created": 1794314744.0818226,
+   "after": 0,
+   "handle": "silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/silicone-ice-cube-maker-cup-squeeze-to-pop-mould-with-lid-space-saving-1-pc",
+   "file": "5fc050ec.mp4",
+   "thumb": "5fc050ec_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18113916869147705"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1656978809220713"
+    }
+   }
   }
  ],
- "last_post": 1794313083.9508488,
+ "last_post": 1794314769.8513067,
  "log": [
-  "20:31:50 POSTED facebook@Vijayendra-Singh a08a8320: 1688469266281674",
-  "20:32:20 STORY POSTED instagram@Vinzap-Finds a08a8320",
-  "20:32:28 STORY POSTED facebook@Vinzap-Finds a08a8320",
-  "20:32:34 STORY POSTED facebook@Vijayendra-Singh a08a8320",
-  "21:00:58 READY a6cebfd0 Silicone Cooking Spatula 18cm (auto-approved)",
-  "21:01:12 POSTED instagram@Vinzap-Finds a6cebfd0: 17911709226578937",
   "21:01:17 POSTED facebook@Vinzap-Finds a6cebfd0: 1428352113685678_122116768161501659",
   "21:01:20 POSTED facebook@Vijayendra-Singh a6cebfd0: 1317760538089559_122127524775480728",
   "21:31:15 READY a1af4ba0 Kitchen Faucet 3 Function Pull Down Sink | Cooking (auto-approved)",
@@ -5716,13 +5705,19 @@
   "17:48:03 READY 7c33f6e3 Leak Proof Sports Water Bottle 400ml BPA (auto-approved)",
   "17:48:14 POSTED instagram@Vinzap-Finds 7c33f6e3: 17914975062493065",
   "17:48:18 POSTED facebook@Vinzap-Finds 7c33f6e3: 1428352113685678_122117313279501659",
-  "17:48:21 POSTED facebook@Vijayendra-Singh 7c33f6e3: 1317760538089559_122128191273480728"
+  "17:48:21 POSTED facebook@Vijayendra-Singh 7c33f6e3: 1317760538089559_122128191273480728",
+  "18:16:09 READY 5fc050ec Silicone Ice Cube Maker Cup | Cooking (auto-approved)",
+  "18:16:43 POSTED instagram@Vinzap-Finds 5fc050ec: 18039809354814641",
+  "18:16:47 POSTED facebook@Vinzap-Finds 5fc050ec: 1127390260117229",
+  "18:16:48 FAILED post facebook@Vijayendra-Singh 5fc050ec: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetw2KQRBH0ooNPsuSHJd45ujehs5EDbqp21d5B-hrK9C-23-6Dr2oWhumXEoi7ETyJMjE1MuAJm0KoG3dKypoKH_AtP41vlN0Kic3YoxDEBC4fQzIBHPAOf0UqryosZivr2yF_vxCnVRQUS_XAfzIKZhI6cJNVUrKwrzQsoGm0hTwo9aAvT0eGwBgXooMwMfVU_oz1o4Ffbc2AtkJHxhxS2lYlyOJgJBive5fBSwsvi7JSnEch6bgO5aIKU4vzxB4JrQPz7Sl0d9aWyooLL0t--HQnvL9-cH8I4NQUzU376OrH_PlD5Nkt1ghIaBrcdJw8\",\"help_cente",
+  "18:17:21 STORY POSTED instagram@Vinzap-Finds 5fc050ec",
+  "18:17:28 STORY POSTED facebook@Vinzap-Finds 5fc050ec"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794313083.9508488,
-  "facebook@Vinzap-Finds": 1794313083.9508488,
-  "facebook@Vijayendra-Singh": 1794313083.9508488,
+  "instagram@Vinzap-Finds": 1794314769.8513067,
+  "facebook@Vinzap-Finds": 1794314769.8513067,
+  "facebook@Vijayendra-Singh": 1794314769.8513067,
   "youtube": 1794306188.325586
  },
- "n": 492
+ "n": 493
 }
