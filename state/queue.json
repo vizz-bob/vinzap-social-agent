@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "38df8441",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Potato Masher 17cm",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Premium food-grade stainless",
-     "Wide mashing plate",
-     "Ergonomic handle with anti-slip"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Stainless Steel Potato Masher 17cm | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Potato Masher 17cm"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Potato Masher 17cm\n✔ Premium food-grade stainless\n✔ Wide mashing plate\n✔ Ergonomic handle with anti-slip\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Stainless Steel Potato Masher 17cm | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794042075.0510561,
-     "id": "17918949315496612",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794042075.0510561,
-     "id": "3137969923073910",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794042075.0510561,
-     "id": "990920354073299",
-     "dry": false
-    }
-   },
-   "created": 1794042050.4828594,
-   "after": 0,
-   "handle": "stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
-   "file": "38df8441.mp4",
-   "thumb": "38df8441_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18189734035423526"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3671523166339539"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1820683542302840"
-    }
-   }
-  },
-  {
    "id": "bae02229",
    "status": "posted",
    "kind": "image",
@@ -5488,17 +5411,87 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-caterpillar-shape-self-adhesive-wall-toothbrush-and-storage-holder-1-pc",
    "file": "87acc485.jpg",
    "thumb": "87acc485.jpg"
+  },
+  {
+   "id": "e9a959d3",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Wooden Mouse Rat Trap",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "EASY MOUSE TRAP: Classic easy",
+     "PREMIUM AND REUSABLE: Made from",
+     "EASY TO SET MOUSE TRAP: With just"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Wooden Mouse Rat Trap | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Wooden Mouse Rat Trap"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWooden Mouse Rat Trap\n✔ EASY MOUSE TRAP: Classic easy\n✔ PREMIUM AND REUSABLE: Made from\n✔ EASY TO SET MOUSE TRAP: With just\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "Wooden Mouse Rat Trap | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794329174.2779052,
+     "id": "18100546145531927",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794329174.2779052,
+     "id": "1072785905816257",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794329174.2779052,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevCkLlz19I-ZnWv8O0NNAGwHv"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794329174.2779052,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794329152.963631,
+   "after": 0,
+   "handle": "wooden-mouse-rat-traps-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/wooden-mouse-rat-traps-1-pc",
+   "file": "e9a959d3.mp4",
+   "thumb": "e9a959d3_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18427733926157945"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1138581355443877"
+    }
+   }
   }
  ],
- "last_post": 1794327343.2552943,
+ "last_post": 1794329174.2779052,
  "log": [
-  "13:01:07 POSTED facebook@Vijayendra-Singh cbcca50d: 1317760538089559_122127764307480728",
-  "13:31:34 READY 5be2e4d0 Plastic Lunch Box | Kitchen Organization (auto-approved)",
-  "13:32:15 POSTED instagram@Vinzap-Finds 5be2e4d0: 17938221060405013",
-  "13:32:20 POSTED facebook@Vinzap-Finds 5be2e4d0: 29236857515967246",
-  "13:32:22 FAILED post facebook@Vijayendra-Singh 5be2e4d0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu1aFX8ls-mepWGTivr2fLMv80785LbiClkdh5NrEGy--cpSXxURyJaB7LJH1CvbrJm83GUoPvNMOtffzbNlhiWPntn-zGlXcw34uI8DtEjyoqzczbzLQmoDn6QsiXNyZ1VgQdXPYpid56uwm0M0FFlAaT4lfP8g3VvIkKUchT4LJh9ZYoNv3lDkEpZZPCb43YvgU6_OyqF7qIH8L2r9AmDR5kF4vcTosoGsU_ZZD8t9w5BnK30zxTodAfS7ws1TiuT0LtxFMR62KlhF6oQVl8WNM1lpE6iTFO9cxo99BaXPSxJsHyYcdQiTbmQL30xTgQO\",\"help_cent",
-  "13:32:55 STORY POSTED instagram@Vinzap-Finds 5be2e4d0",
-  "13:33:05 STORY POSTED facebook@Vinzap-Finds 5be2e4d0",
   "14:00:53 READY c308caf6 Supermom  Multipurpose Serving Tray Set (auto-approved)",
   "14:01:19 POSTED instagram@Vinzap-Finds c308caf6: 18133315406495101",
   "14:01:22 POSTED facebook@Vinzap-Finds c308caf6: 1428352113685678_122116984299501659",
@@ -5691,13 +5684,20 @@
   "21:45:43 READY 87acc485 Caterpillar Self-Adhesive Wall Toothbrush (auto-approved)",
   "21:45:53 POSTED instagram@Vinzap-Finds 87acc485: 18028820291874271",
   "21:45:56 POSTED facebook@Vinzap-Finds 87acc485: 1428352113685678_122117373543501659",
-  "21:45:59 POSTED facebook@Vijayendra-Singh 87acc485: 1317760538089559_122128246095480728"
+  "21:45:59 POSTED facebook@Vijayendra-Singh 87acc485: 1317760538089559_122128246095480728",
+  "22:16:14 READY e9a959d3 Wooden Mouse Rat Trap | Cooking (auto-approved)",
+  "22:16:50 POSTED instagram@Vinzap-Finds e9a959d3: 18100546145531927",
+  "22:16:53 POSTED facebook@Vinzap-Finds e9a959d3: 1072785905816257",
+  "22:16:54 FAILED post facebook@Vijayendra-Singh e9a959d3: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevCkLlz19I-ZnWv8O0NNAGwHvSYqTp9873c3bUM0jqID__hrjsBrBaGwhjkjloVGgD6UaEhg0M9Q-hg00diCPKITaicwT5iwkpYJuHIjPDaGgjkazeTsxhzJjUTB9YOvBkSyXfl9DVHb0Slku3xpoeoL1x3uhS-LDjxJp7n4NgKqWQsphm69__FvHlbv0j_TLio9v5AsWC4evNYOHhmO87xUATDg4EKUbvD89oAvozpGbq488LqBl8LgW29Q5szPJ4iCbxfPeet3e3lZo7Q8zEBLVkzV08oDIDByZemjN6C2XsmvRi6xkZe2N9vK8pnMDYF\",\"help_cent",
+  "22:16:54 FAILED post youtube e9a959d3: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "22:17:32 STORY POSTED instagram@Vinzap-Finds e9a959d3",
+  "22:17:40 STORY POSTED facebook@Vinzap-Finds e9a959d3"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794327343.2552943,
-  "facebook@Vinzap-Finds": 1794327343.2552943,
-  "facebook@Vijayendra-Singh": 1794327343.2552943,
-  "youtube": 1794319094.5712025
+  "instagram@Vinzap-Finds": 1794329174.2779052,
+  "facebook@Vinzap-Finds": 1794329174.2779052,
+  "facebook@Vijayendra-Singh": 1794329174.2779052,
+  "youtube": 1794329174.2779052
  },
- "n": 500
+ "n": 501
 }
