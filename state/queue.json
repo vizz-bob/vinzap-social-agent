@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "a95bbdb2",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kids Tumbler 900ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 349,
-    "was": 0,
-    "feats": [
-     "Large 900ml capacity holds plenty",
-     "Comes with a secure flip lid",
-     "Comfortable side handle gives"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Kids Tumbler 900ml | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kids Tumbler 900ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKids Tumbler 900ml\n✔ Large 900ml capacity holds plenty\n✔ Comes with a secure flip lid\n✔ Comfortable side handle gives\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecor #homedecorideas",
-   "title": "Kids Tumbler 900ml | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794034880.4780483,
-     "id": "18116469512110550",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794034880.4780483,
-     "id": "1440915754824223",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794034880.4780483,
-     "id": "1848160193045514",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794034880.4780483,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794034853.8574605,
-   "after": 0,
-   "handle": "kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
-   "file": "a95bbdb2.mp4",
-   "thumb": "a95bbdb2_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18103003061383852"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1457409947453139"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1422246979611041"
-    }
-   }
-  },
-  {
    "id": "2ec36d54",
    "status": "posted",
    "kind": "image",
@@ -5503,16 +5421,82 @@
    "product_url": "https://www.vinzapstore.in/products/apex-compact-coffee-mug-300-ml-with-handle-and-lid-matte-black-1-pc",
    "file": "edb499b3.jpg",
    "thumb": "edb499b3.jpg"
+  },
+  {
+   "id": "b932c7f1",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "3 in 1 Kids Cutlery Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "3 in 1 set includes a spoon",
+     "Durable stainless steel heads are",
+     "Cute cartoon print handles make"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "3 in 1 Kids Cutlery Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3 in 1 Kids Cutlery Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 in 1 Kids Cutlery Set\n✔ 3 in 1 set includes a spoon\n✔ Durable stainless steel heads are\n✔ Cute cartoon print handles make\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "3 in 1 Kids Cutlery Set | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794321996.9909744,
+     "id": "18130126582891650",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794321996.9909744,
+     "id": "1109895458342767",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794321996.9909744,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevwBEo7A-24dqFOQ-JJ6X86LD"
+    }
+   },
+   "created": 1794321971.7976284,
+   "after": 0,
+   "handle": "3-in-1-kids-cutlery-set-with-case-spoon-fork-knife-for-children-1-set",
+   "product_url": "https://www.vinzapstore.in/products/3-in-1-kids-cutlery-set-with-case-spoon-fork-knife-for-children-1-set",
+   "file": "b932c7f1.mp4",
+   "thumb": "b932c7f1_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17975612565190973"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4534531413542689"
+    }
+   }
   }
  ],
- "last_post": 1794320527.1725073,
+ "last_post": 1794321996.9909744,
  "log": [
-  "22:31:52 POSTED instagram@Vinzap-Finds c20e88a7: 18121072133063474",
-  "22:31:56 POSTED facebook@Vinzap-Finds c20e88a7: 978033454896327",
-  "22:31:59 POSTED facebook@Vijayendra-Singh c20e88a7: 2383338832469792",
-  "22:32:26 STORY POSTED instagram@Vinzap-Finds c20e88a7",
-  "22:32:33 STORY POSTED facebook@Vinzap-Finds c20e88a7",
-  "22:32:40 STORY POSTED facebook@Vijayendra-Singh c20e88a7",
   "12:00:43 READY d32c6229 Unbreakable Plastic Serving Bowl Set of 6 (auto-approved)",
   "12:00:58 POSTED instagram@Vinzap-Finds d32c6229: 17955609642312804",
   "12:01:03 POSTED facebook@Vinzap-Finds d32c6229: 1428352113685678_122116960539501659",
@@ -5706,13 +5690,19 @@
   "19:52:07 READY edb499b3 Apex Compact Coffee Mug 300ml (auto-approved)",
   "19:52:18 POSTED instagram@Vinzap-Finds edb499b3: 18107911382573063",
   "19:52:21 POSTED facebook@Vinzap-Finds edb499b3: 1428352113685678_122117345715501659",
-  "19:52:24 POSTED facebook@Vijayendra-Singh edb499b3: 1317760538089559_122128221237480728"
+  "19:52:24 POSTED facebook@Vijayendra-Singh edb499b3: 1317760538089559_122128221237480728",
+  "20:16:36 READY b932c7f1 3 in 1 Kids Cutlery Set | Diwali (auto-approved)",
+  "20:17:19 POSTED instagram@Vinzap-Finds b932c7f1: 18130126582891650",
+  "20:17:26 POSTED facebook@Vinzap-Finds b932c7f1: 1109895458342767",
+  "20:17:27 FAILED post facebook@Vijayendra-Singh b932c7f1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevwBEo7A-24dqFOQ-JJ6X86LD4f0uGtb4Uwe-p6nYhYZVWCJHTtdsebEZ-6OC9JgnxUj4NDrDN9NHSWwGCpoEmZzSOOhRlZCZpTAt-R4suOMmA9yF_wVksKt3dbsUYA1dEPcq2fYnYDO4vUTpevO5s55ltWYPpYhAN-cnI7F-yZJOBukIT8A0XdCaRIFmWvAHr-NTZqyQhxuNlKyR4j87JeYyb-fD4wI9VTYpN2pRRiyPJcD6f44LCczIB2RSYje7MpNFMwjVY7L5wch2iXFfrotozlzUOLLJBjCDHAGayTLUFtoc-_Qui4FkP8RchWJT_M\",\"help_cent",
+  "20:17:59 STORY POSTED instagram@Vinzap-Finds b932c7f1",
+  "20:18:08 STORY POSTED facebook@Vinzap-Finds b932c7f1"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794320527.1725073,
-  "facebook@Vinzap-Finds": 1794320527.1725073,
-  "facebook@Vijayendra-Singh": 1794320527.1725073,
+  "instagram@Vinzap-Finds": 1794321996.9909744,
+  "facebook@Vinzap-Finds": 1794321996.9909744,
+  "facebook@Vijayendra-Singh": 1794321996.9909744,
   "youtube": 1794319094.5712025
  },
- "n": 496
+ "n": 497
 }
