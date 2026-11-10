@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "ef2bf0d0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Multifunction Melon Baller and Fruit Cutter",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Includes 1 melon baller and 1",
-     "Made of durable stainless steel",
-     "Perfect for melons"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Multifunction Melon Baller and Fruit Cutter | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multifunction Melon Baller and Fruit Cutter"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultifunction Melon Baller and Fruit Cutter\n✔ Includes 1 melon baller and 1\n✔ Made of durable stainless steel\n✔ Perfect for melons\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Multifunction Melon Baller and Fruit Cutter | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794038469.7532153,
-     "id": "18083676998348377",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794038469.7532153,
-     "id": "1119013334326799",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794038469.7532153,
-     "id": "1839923400651820",
-     "dry": false
-    }
-   },
-   "created": 1794038448.396523,
-   "after": 0,
-   "handle": "multi-function-melon-baller-and-fruit-cutter-set",
-   "product_url": "https://www.vinzapstore.in/products/multi-function-melon-baller-and-fruit-cutter-set",
-   "file": "ef2bf0d0.mp4",
-   "thumb": "ef2bf0d0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17882088867543404"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1109262018667534"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "3407895386265737"
-    }
-   }
-  },
-  {
    "id": "cdce8fb2",
    "status": "posted",
    "kind": "image",
@@ -5493,16 +5416,82 @@
    "product_url": "https://www.vinzapstore.in/products/squarion-airtight-plastic-storage-containers-set-for-kitchen-grocery-4-pc",
    "file": "692fce61.jpg",
    "thumb": "692fce61.jpg"
+  },
+  {
+   "id": "df8d32b5",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Round Ice Ball Maker Tray, 2-in-1 Portable,",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 899,
+    "was": 0,
+    "feats": [
+     "2 in 1 Function: Our ice cube",
+     "SAFE: The ice cube mold is made",
+     "Suitable for multiple scenarios:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Round Ice Ball Maker Tray, 2-in-1 Portable, | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Round Ice Ball Maker Tray, 2-in-1 Portable,"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nRound Ice Ball Maker Tray, 2-in-1 Portable,\n✔ 2 in 1 Function: Our ice cube\n✔ SAFE: The ice cube mold is made\n✔ Suitable for multiple scenarios:\n\nOnly ₹899. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Round Ice Ball Maker Tray, 2-in-1 Portable, | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794325659.3382738,
+     "id": "18414426691090711",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794325659.3382738,
+     "id": "1678352366969650",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794325659.3382738,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetFOpLjsGRHyYaGx5aEP2yMty"
+    }
+   },
+   "created": 1794325638.1086023,
+   "after": 0,
+   "handle": "ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
+   "file": "df8d32b5.mp4",
+   "thumb": "df8d32b5_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18144668320613160"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1149783720747037"
+    }
+   }
   }
  ],
- "last_post": 1794323751.0004132,
+ "last_post": 1794325659.3382738,
  "log": [
-  "12:31:16 READY f40ac8f1 Bottle Cleaning Brush | Kitchen Gadgets (auto-approved)",
-  "12:31:58 POSTED instagram@Vinzap-Finds f40ac8f1: 18088752401702014",
-  "12:32:02 POSTED facebook@Vinzap-Finds f40ac8f1: 1724585595724892",
-  "12:32:03 FAILED post facebook@Vijayendra-Singh f40ac8f1: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYtn-kOQaRXFP6kL3Q18K5dE2BKz5p8od8aYPclyTW_gw3j7pkTF09hz9AWOfU2YnsErjPZdiJw9iIsISyRghZvtLvTO_VypHuvM3xgMYo23MzkQ-bnaLJKIP5DGN_5OxLx2rMRWkNi0ZN6_nnRPbOM2MvuT6NNirgkr3GaXeYXB6gj2xxIhoO1mWPr6E6BFZRxia2WCR4tM2XJHCsz9dLv7wVoyYTX4-qpheEXdHZaaDFp2-5rg7WzmPdnLx-d0qEtWyYMT32YbFunFZ1wZK8LEK0jUgw8nE4TKJtGmO02o6OXaRCdRLC9KVzbJoqok4\",\"help_cente",
-  "12:32:03 FAILED post youtube f40ac8f1: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "12:32:33 STORY POSTED instagram@Vinzap-Finds f40ac8f1",
   "12:32:42 STORY POSTED facebook@Vinzap-Finds f40ac8f1",
   "13:00:49 READY cbcca50d Wall Mounted Knife Holder (auto-approved)",
   "13:00:59 POSTED instagram@Vinzap-Finds cbcca50d: 18253705654310529",
@@ -5696,13 +5685,19 @@
   "20:45:50 READY 692fce61 Squarion Airtight Plastic Storage Container (auto-approved)",
   "20:46:07 POSTED instagram@Vinzap-Finds 692fce61: 18240480688321675",
   "20:46:12 POSTED facebook@Vinzap-Finds 692fce61: 1428352113685678_122117360535501659",
-  "20:46:17 POSTED facebook@Vijayendra-Singh 692fce61: 1317760538089559_122128231779480728"
+  "20:46:17 POSTED facebook@Vijayendra-Singh 692fce61: 1317760538089559_122128231779480728",
+  "21:17:39 READY df8d32b5 Round Ice Ball Maker Tray, 2-in-1 Portable, | Diwali (auto-approved)",
+  "21:18:17 POSTED instagram@Vinzap-Finds df8d32b5: 18414426691090711",
+  "21:18:22 POSTED facebook@Vinzap-Finds df8d32b5: 1678352366969650",
+  "21:18:23 FAILED post facebook@Vijayendra-Singh df8d32b5: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetFOpLjsGRHyYaGx5aEP2yMty2PS5eg59T2SAtgF2OIxjN6FwGzGkCMPjkOaKWsCgOgcVYaAlaBCth7bXMQaID8Pw1LuA9CA2l8IZkJyno_fdIRWD1WcfsibNWV9ccahPvQYOaq12RpY700IyeCJf0RreBowhjnPE-qlJCnQD8wGyp11sqLDvkH8FZVKBVliE4cPG4w0U4sUzgc6bQy57tYCpSa2PlVc024HWBZ-1CGB18GJOFuBhCB9CKM_Cbw86kVObc_vR8DL5Ik1GPf7DJDDx6MssWSl8CoDA6tT3OhMK_zzahwr3b8jbDyt_x728k\",\"help_cente",
+  "21:18:58 STORY POSTED instagram@Vinzap-Finds df8d32b5",
+  "21:19:11 STORY POSTED facebook@Vinzap-Finds df8d32b5"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794323751.0004132,
-  "facebook@Vinzap-Finds": 1794323751.0004132,
-  "facebook@Vijayendra-Singh": 1794323751.0004132,
+  "instagram@Vinzap-Finds": 1794325659.3382738,
+  "facebook@Vinzap-Finds": 1794325659.3382738,
+  "facebook@Vijayendra-Singh": 1794325659.3382738,
   "youtube": 1794319094.5712025
  },
- "n": 498
+ "n": 499
 }
