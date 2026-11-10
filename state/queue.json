@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "b05fe6ea",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Cartoon Self Adhesive Hooks, Set of 2",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "【Durable Materials】 The carefully",
-     "The hooks are very easy",
-     "Suitable for hanging small items"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Cartoon Self Adhesive Hooks, Set of 2 | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Cartoon Self Adhesive Hooks, Set of 2"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCartoon Self Adhesive Hooks, Set of 2\n✔ 【Durable Materials】 The carefully\n✔ The hooks are very easy\n✔ Suitable for hanging small items\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Cartoon Self Adhesive Hooks, Set of 2",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793967338.0820065,
-     "id": "17959394295267478",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793967338.0820065,
-     "id": "1428352113685678_122116113273501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793967338.0820065,
-     "id": "1317760538089559_122126906733480728",
-     "dry": false
-    }
-   },
-   "created": 1793967335.9847653,
-   "after": 0,
-   "handle": "multipurpose-strong-cartoon-hook-self-adhesive-hooks-2-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-strong-cartoon-hook-self-adhesive-hooks-2-pc-set",
-   "file": "b05fe6ea.jpg",
-   "thumb": "b05fe6ea.jpg"
-  },
-  {
    "id": "a9224b03",
    "status": "scheduled",
    "kind": "reel",
@@ -5519,14 +5457,72 @@
      "id": "1134482225623723"
     }
    }
+  },
+  {
+   "id": "5d242ffc",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "USB Rechargeable Electric Water Dispenser",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 699,
+    "was": 0,
+    "feats": [
+     "Automatic electric pump",
+     "Includes remote control",
+     "USB rechargeable built-in battery"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "USB Rechargeable Electric Water Dispenser | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "USB Rechargeable Electric Water Dispenser"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUSB Rechargeable Electric Water Dispenser\n✔ Automatic electric pump\n✔ Includes remote control\n✔ USB rechargeable built-in battery\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#trendingshorts #kitchengadgets",
+   "title": "USB Rechargeable Electric Water Dispenser",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794300470.5585015,
+     "id": "17950694115344557",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794300470.5585015,
+     "id": "1428352113685678_122117267229501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794300470.5585015,
+     "id": "1317760538089559_122128132467480728",
+     "dry": false
+    }
+   },
+   "created": 1794300468.7549274,
+   "after": 0,
+   "handle": "usb-rechargeable-electric-water-dispenser-pump-with-remote-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/usb-rechargeable-electric-water-dispenser-pump-with-remote-1-pc",
+   "file": "5d242ffc.jpg",
+   "thumb": "5d242ffc.jpg"
   }
  ],
- "last_post": 1794298553.3101184,
+ "last_post": 1794300470.5585015,
  "log": [
-  "17:31:48 POSTED instagram@Vinzap-Finds 80539c89: 17887569579506307",
-  "17:31:53 POSTED facebook@Vinzap-Finds 80539c89: 1790035302223457",
-  "17:31:54 FAILED post facebook@Vijayendra-Singh 80539c89: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev0Z3ooA65dj7BFSwKroTbgOzdM-YiH5oDMbV5vMVah-lner-JN6CXKhB928buwHDvEY-_gysyBDFhb2GiAaqVl6gFVpePCxrepZNQwXc82MxLby37BbwvbtMdTG2emSkjY6oRgZfgy0D3dtLRmiEkgzqnXV7vCRgG-pTGhUs9RBx-dLUV5wZuLZbNogP54JuBHyZe8P9FjrGERE4JS_5xE2UvvS94ljNwj_PkiY6ctcp0_DG8hXJqMNYcTkrpdE1-hqfaGysq3hFgwWYO6gwfv6o7EYW5yCtfE7Jd6ad4qf88V6ryZ36P9Ca5mGGx2in3-\",\"help_cent",
-  "17:32:25 STORY POSTED instagram@Vinzap-Finds 80539c89",
   "17:32:33 STORY POSTED facebook@Vinzap-Finds 80539c89",
   "18:00:46 READY d39e1b4a 6 in 1 Premium Kitchen Knife Set (auto-approved)",
   "18:00:58 POSTED instagram@Vinzap-Finds d39e1b4a: 18146989057590926",
@@ -5722,13 +5718,17 @@
   "13:46:42 POSTED facebook@Vijayendra-Singh 3b8900a3: 2189592851994813",
   "13:47:14 STORY POSTED instagram@Vinzap-Finds 3b8900a3",
   "13:47:24 STORY POSTED facebook@Vinzap-Finds 3b8900a3",
-  "13:47:31 STORY POSTED facebook@Vijayendra-Singh 3b8900a3"
+  "13:47:31 STORY POSTED facebook@Vijayendra-Singh 3b8900a3",
+  "14:17:50 READY 5d242ffc USB Rechargeable Electric Water Dispenser (auto-approved)",
+  "14:18:02 POSTED instagram@Vinzap-Finds 5d242ffc: 17950694115344557",
+  "14:18:05 POSTED facebook@Vinzap-Finds 5d242ffc: 1428352113685678_122117267229501659",
+  "14:18:09 POSTED facebook@Vijayendra-Singh 5d242ffc: 1317760538089559_122128132467480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794298553.3101184,
-  "facebook@Vinzap-Finds": 1794298553.3101184,
-  "facebook@Vijayendra-Singh": 1794298553.3101184,
+  "instagram@Vinzap-Finds": 1794300470.5585015,
+  "facebook@Vinzap-Finds": 1794300470.5585015,
+  "facebook@Vijayendra-Singh": 1794300470.5585015,
   "youtube": 1794294959.1979713
  },
- "n": 485
+ "n": 486
 }
