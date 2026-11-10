@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "1e004b2e",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Flexible Long Reach Drain Cleaning Brush",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Extra-long design for deep",
-     "Flexible wire body reaches curved",
-     "Dual-length functionality"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Flexible Long Reach Drain Cleaning Brush | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Flexible Long Reach Drain Cleaning Brush"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFlexible Long Reach Drain Cleaning Brush\n✔ Extra-long design for deep\n✔ Flexible wire body reaches curved\n✔ Dual-length functionality\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bathroomaccessories\n#diwali #trendingshorts",
-   "title": "Flexible Long Reach Drain Cleaning Brush",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793970964.9550903,
-     "id": "17895645471616949",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793970964.9550903,
-     "id": "1428352113685678_122116125987501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793970964.9550903,
-     "id": "1317760538089559_122126926731480728",
-     "dry": false
-    }
-   },
-   "created": 1793970962.9076114,
-   "after": 0,
-   "handle": "flexible-long-reach-drain-cleaning-brush-1-pc-45-to-45-5-cm",
-   "product_url": "https://www.vinzapstore.in/products/flexible-long-reach-drain-cleaning-brush-1-pc-45-to-45-5-cm",
-   "file": "1e004b2e.jpg",
-   "thumb": "1e004b2e.jpg"
-  },
-  {
    "id": "04eee8cc",
    "status": "scheduled",
    "kind": "reel",
@@ -5519,14 +5457,72 @@
      "id": "1127897416724457"
     }
    }
+  },
+  {
+   "id": "facbadb4",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Serving Bowls 360ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Disposable design for quick",
+     "Suitable for dry and semi-liquid",
+     "Sturdy structure helps prevent"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Disposable Serving Bowls 360ml | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Serving Bowls 360ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Serving Bowls 360ml\n✔ Disposable design for quick\n✔ Suitable for dry and semi-liquid\n✔ Sturdy structure helps prevent\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Disposable Serving Bowls 360ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794304281.2214649,
+     "id": "17961317973013257",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794304281.2214649,
+     "id": "1428352113685678_122117280501501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794304281.2214649,
+     "id": "1317760538089559_122128145445480728",
+     "dry": false
+    }
+   },
+   "created": 1794304279.6795945,
+   "after": 0,
+   "handle": "vegnar-disposable-food-serving-bowl-set-of-10-pieces-360-ml-capacity",
+   "product_url": "https://www.vinzapstore.in/products/vegnar-disposable-food-serving-bowl-set-of-10-pieces-360-ml-capacity",
+   "file": "facbadb4.jpg",
+   "thumb": "facbadb4.jpg"
   }
  ],
- "last_post": 1794302180.3508198,
+ "last_post": 1794304281.2214649,
  "log": [
-  "18:31:55 POSTED instagram@Vinzap-Finds fdf9a3f8: 18353953684282625",
-  "18:31:59 POSTED facebook@Vinzap-Finds fdf9a3f8: 2090175762385191",
-  "18:32:02 POSTED facebook@Vijayendra-Singh fdf9a3f8: 1001310605674470",
-  "18:32:02 FAILED post youtube fdf9a3f8: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "18:32:37 STORY POSTED instagram@Vinzap-Finds fdf9a3f8",
   "18:32:47 STORY POSTED facebook@Vinzap-Finds fdf9a3f8",
   "18:32:56 STORY POSTED facebook@Vijayendra-Singh fdf9a3f8",
@@ -5722,13 +5718,17 @@
   "14:47:04 POSTED facebook@Vinzap-Finds cccef686: 1695568255533714",
   "14:47:05 FAILED post facebook@Vijayendra-Singh cccef686: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AessrJJMW1iB-b0rB46qWYkMYJUPGyYs8WSnOxnyL9Vyz9QKepXCDCFqqxPRMNGPZ_NnhY5Kk-nqz5GHlggIEkMph9kd7b-dJuJxc4oY0Yxw7yGeXfziT02Dr9SX4qlQV2wuYe51V4TUWhS9XiPug_bGUshZwvI_5KusAOcSKare_4Yf5Tng5V939oqgNJzqf2cHPeHBSnaDObbhxcN6KcR1gcdxeDGNoI_7J1i5OgXJzo_SpJU8ujXH3V4sqyqiemLJQ9XGfwRhHDT0SCeGN7IdGS45rxjLKE-NJiRYHTWB-WWSjihFzCNaMiNaxBd0wHQ\",\"help_cente",
   "14:47:37 STORY POSTED instagram@Vinzap-Finds cccef686",
-  "14:47:46 STORY POSTED facebook@Vinzap-Finds cccef686"
+  "14:47:46 STORY POSTED facebook@Vinzap-Finds cccef686",
+  "15:21:21 READY facbadb4 Disposable Serving Bowls 360ml (auto-approved)",
+  "15:21:33 POSTED instagram@Vinzap-Finds facbadb4: 17961317973013257",
+  "15:21:36 POSTED facebook@Vinzap-Finds facbadb4: 1428352113685678_122117280501501659",
+  "15:21:40 POSTED facebook@Vijayendra-Singh facbadb4: 1317760538089559_122128145445480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794302180.3508198,
-  "facebook@Vinzap-Finds": 1794302180.3508198,
-  "facebook@Vijayendra-Singh": 1794302180.3508198,
-  "youtube": 1794294959.1979713
+  "instagram@Vinzap-Finds": 1794304281.2214649,
+  "facebook@Vinzap-Finds": 1794304281.2214649,
+  "facebook@Vijayendra-Singh": 1794304281.2214649,
+  "youtube": 1794294539.1979713
  },
- "n": 487
+ "n": 488
 }
