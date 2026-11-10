@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "dc9ebaed",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "14-grid design for making",
-     "Comes with a lid to keep ice",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Ice Cube Tray | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Ice Cube Tray | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793965565.3784063,
-     "id": "18100035179659521",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793965565.3784063,
-     "id": "4058709101098697",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793965565.3784063,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesI5IYAXAM1-5wu7EZWWUsu15"
-    }
-   },
-   "created": 1793965541.3913758,
-   "after": 0,
-   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
-   "file": "dc9ebaed.mp4",
-   "thumb": "dc9ebaed_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18206619625373133"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1126697036410656"
-    }
-   }
-  },
-  {
    "id": "b05fe6ea",
    "status": "posted",
    "kind": "image",
@@ -5514,17 +5442,87 @@
    "product_url": "https://www.vinzapstore.in/products/0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
    "file": "58b8d70b.jpg",
    "thumb": "58b8d70b.jpg"
+  },
+  {
+   "id": "3b8900a3",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Oil Pourer 750ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 639,
+    "was": 0,
+    "feats": [
+     "750ml Approx. Capacity: Ample",
+     "Stainless Steel Body: Made from",
+     "Ergonomic Handle: Comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Stainless Steel Oil Pourer 750ml | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Oil Pourer 750ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Oil Pourer 750ml\n✔ 750ml Approx. Capacity: Ample\n✔ Stainless Steel Body: Made from\n✔ Ergonomic Handle: Comfortable\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Stainless Steel Oil Pourer 750ml | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794298553.3101184,
+     "id": "17978189685157190",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794298553.3101184,
+     "id": "1788601588867140",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794298553.3101184,
+     "id": "2189592851994813",
+     "dry": false
+    }
+   },
+   "created": 1794298538.1536887,
+   "after": 0,
+   "handle": "supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
+   "file": "3b8900a3.mp4",
+   "thumb": "3b8900a3_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18107038877000910"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1118763794397220"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1134482225623723"
+    }
+   }
   }
  ],
- "last_post": 1794296735.8124602,
+ "last_post": 1794298553.3101184,
  "log": [
-  "16:32:13 STORY POSTED instagram@Vinzap-Finds 78b99f0e",
-  "16:32:21 STORY POSTED facebook@Vinzap-Finds 78b99f0e",
-  "17:00:47 READY 1c8024b8 3 in 1 Kitchen Knife and Chopping Board Set (auto-approved)",
-  "17:00:56 POSTED instagram@Vinzap-Finds 1c8024b8: 18106462196633980",
-  "17:00:59 POSTED facebook@Vinzap-Finds 1c8024b8: 1428352113685678_122116703835501659",
-  "17:01:02 POSTED facebook@Vijayendra-Singh 1c8024b8: 1317760538089559_122127460599480728",
-  "17:31:10 READY 80539c89 Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization (auto-approved)",
   "17:31:48 POSTED instagram@Vinzap-Finds 80539c89: 17887569579506307",
   "17:31:53 POSTED facebook@Vinzap-Finds 80539c89: 1790035302223457",
   "17:31:54 FAILED post facebook@Vijayendra-Singh 80539c89: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev0Z3ooA65dj7BFSwKroTbgOzdM-YiH5oDMbV5vMVah-lner-JN6CXKhB928buwHDvEY-_gysyBDFhb2GiAaqVl6gFVpePCxrepZNQwXc82MxLby37BbwvbtMdTG2emSkjY6oRgZfgy0D3dtLRmiEkgzqnXV7vCRgG-pTGhUs9RBx-dLUV5wZuLZbNogP54JuBHyZe8P9FjrGERE4JS_5xE2UvvS94ljNwj_PkiY6ctcp0_DG8hXJqMNYcTkrpdE1-hqfaGysq3hFgwWYO6gwfv6o7EYW5yCtfE7Jd6ad4qf88V6ryZ36P9Ca5mGGx2in3-\",\"help_cent",
@@ -5717,13 +5715,20 @@
   "13:15:35 READY 58b8d70b Pav Bhaji Masher (auto-approved)",
   "13:15:45 POSTED instagram@Vinzap-Finds 58b8d70b: 18095034347188189",
   "13:15:49 POSTED facebook@Vinzap-Finds 58b8d70b: 1428352113685678_122117256009501659",
-  "13:15:52 POSTED facebook@Vijayendra-Singh 58b8d70b: 1317760538089559_122128121817480728"
+  "13:15:52 POSTED facebook@Vijayendra-Singh 58b8d70b: 1317760538089559_122128121817480728",
+  "13:45:53 READY 3b8900a3 Stainless Steel Oil Pourer 750ml | Kitchen Organization (auto-approved)",
+  "13:46:32 POSTED instagram@Vinzap-Finds 3b8900a3: 17978189685157190",
+  "13:46:37 POSTED facebook@Vinzap-Finds 3b8900a3: 1788601588867140",
+  "13:46:42 POSTED facebook@Vijayendra-Singh 3b8900a3: 2189592851994813",
+  "13:47:14 STORY POSTED instagram@Vinzap-Finds 3b8900a3",
+  "13:47:24 STORY POSTED facebook@Vinzap-Finds 3b8900a3",
+  "13:47:31 STORY POSTED facebook@Vijayendra-Singh 3b8900a3"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794296735.8124602,
-  "facebook@Vinzap-Finds": 1794296735.8124602,
-  "facebook@Vijayendra-Singh": 1794296735.8124602,
+  "instagram@Vinzap-Finds": 1794298553.3101184,
+  "facebook@Vinzap-Finds": 1794298553.3101184,
+  "facebook@Vijayendra-Singh": 1794298553.3101184,
   "youtube": 1794294959.1979713
  },
- "n": 484
+ "n": 485
 }
