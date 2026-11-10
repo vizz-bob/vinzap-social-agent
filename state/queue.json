@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "04eee8cc",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Plastic Fork Set of 24 Multicolour",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Value pack of 24 forks provides",
-     "Reusable and durable plastic is",
-     "Cheerful multicolour shades add"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Reusable Plastic Fork Set of 24 Multicolour | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Plastic Fork Set of 24 Multicolour"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Plastic Fork Set of 24 Multicolour\n✔ Value pack of 24 forks provides\n✔ Reusable and durable plastic is\n✔ Cheerful multicolour shades add\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Reusable Plastic Fork Set of 24 Multicolour | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793972903.485419,
-     "id": "17913868479515526",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793972903.485419,
-     "id": "1150942467375441",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793972903.485419,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuwbI-xS8Fw79LYtL2eNhS1yL"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1793972903.485419,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1793972878.2166123,
-   "after": 0,
-   "handle": "plastic-fork-24-pc-set-reusable-multicolour-dinner-forks-unbreakable-24-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-fork-24-pc-set-reusable-multicolour-dinner-forks-unbreakable-24-pc-set",
-   "file": "04eee8cc.mp4",
-   "thumb": "04eee8cc_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18346248442285790"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1133281716017561"
-    }
-   }
-  },
-  {
    "id": "646e3e9d",
    "status": "posted",
    "kind": "image",
@@ -5519,17 +5442,87 @@
    "product_url": "https://www.vinzapstore.in/products/vegnar-disposable-food-serving-bowl-set-of-10-pieces-360-ml-capacity",
    "file": "facbadb4.jpg",
    "thumb": "facbadb4.jpg"
+  },
+  {
+   "id": "64376c55",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Lemon Squeezer, Heavy Duty",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 229,
+    "was": 0,
+    "feats": [
+     "High-Quality Stainless Steel Body",
+     "Effortless Juicing : Designed",
+     "Ergonomic Handle Design : Offers"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Stainless Steel Lemon Squeezer, Heavy Duty | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Lemon Squeezer, Heavy Duty"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Lemon Squeezer, Heavy Duty\n✔ High-Quality Stainless Steel Body\n✔ Effortless Juicing : Designed\n✔ Ergonomic Handle Design : Offers\n\nOnly ₹229. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Stainless Steel Lemon Squeezer, Heavy Duty | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794306188.325586,
+     "id": "18119553358799133",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794306188.325586,
+     "id": "992842103300732",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794306188.325586,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetWIyY-zbFjsORnKHGK5DXG5n"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794306188.325586,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794306162.2579033,
+   "after": 0,
+   "handle": "apex-heavy-duty-stainless-steel-lemon-press-squeezer",
+   "product_url": "https://www.vinzapstore.in/products/apex-heavy-duty-stainless-steel-lemon-press-squeezer",
+   "file": "64376c55.mp4",
+   "thumb": "64376c55_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17925406218444618"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1428376942791728"
+    }
+   }
   }
  ],
- "last_post": 1794304281.2214649,
+ "last_post": 1794306188.325586,
  "log": [
-  "18:32:37 STORY POSTED instagram@Vinzap-Finds fdf9a3f8",
-  "18:32:47 STORY POSTED facebook@Vinzap-Finds fdf9a3f8",
-  "18:32:56 STORY POSTED facebook@Vijayendra-Singh fdf9a3f8",
-  "19:00:44 READY 2e9a31ae Aluminium Gas Stove Burner Protector Covers (auto-approved)",
-  "19:00:54 POSTED instagram@Vinzap-Finds 2e9a31ae: 18484463332115431",
-  "19:00:58 POSTED facebook@Vinzap-Finds 2e9a31ae: 1428352113685678_122116739553501659",
-  "19:01:01 POSTED facebook@Vijayendra-Singh 2e9a31ae: 1317760538089559_122127492855480728",
   "19:31:10 READY 13981565 Stainless Steel Vegetable Grater | Kitchen Organization (auto-approved)",
   "19:31:47 POSTED instagram@Vinzap-Finds 13981565: 17949841086068948",
   "19:31:52 POSTED facebook@Vinzap-Finds 13981565: 1438228281246583",
@@ -5722,13 +5715,20 @@
   "15:21:21 READY facbadb4 Disposable Serving Bowls 360ml (auto-approved)",
   "15:21:33 POSTED instagram@Vinzap-Finds facbadb4: 17961317973013257",
   "15:21:36 POSTED facebook@Vinzap-Finds facbadb4: 1428352113685678_122117280501501659",
-  "15:21:40 POSTED facebook@Vijayendra-Singh facbadb4: 1317760538089559_122128145445480728"
+  "15:21:40 POSTED facebook@Vijayendra-Singh facbadb4: 1317760538089559_122128145445480728",
+  "15:53:08 READY 64376c55 Stainless Steel Lemon Squeezer, Heavy Duty | Diwali (auto-approved)",
+  "15:53:47 POSTED instagram@Vinzap-Finds 64376c55: 18119553358799133",
+  "15:53:52 POSTED facebook@Vinzap-Finds 64376c55: 992842103300732",
+  "15:53:53 FAILED post facebook@Vijayendra-Singh 64376c55: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetWIyY-zbFjsORnKHGK5DXG5nK_xVEeJ5BE9NFK9hPVUyNcq2cmDGBkD8s78wUtJPKibhnJhwdc8lcktxEgDXRsWPpAcSuTdrlzG_RQHvnJryibkt-aZezLKzAfrglrf5F--3KToPiOUzkPGqoPoW0boom_kHvMfKslzjU_vekLV_AlSHqO6XcIJsSFZI5JtYY_hyhiLscznTpCB56i3P1WlabW6lP7RF--ed9ckZhOk9Po37AQKI4IjeodSd5ViC4ITr6VTQEX1vPhN0kc_7I-EPFkaj9RMM05v_kzeodA1WyH_LjnSyHDAbFvWuv5DnYy\",\"help_cent",
+  "15:53:53 FAILED post youtube 64376c55: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "15:54:29 STORY POSTED instagram@Vinzap-Finds 64376c55",
+  "15:54:39 STORY POSTED facebook@Vinzap-Finds 64376c55"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794304281.2214649,
-  "facebook@Vinzap-Finds": 1794304281.2214649,
-  "facebook@Vijayendra-Singh": 1794304281.2214649,
-  "youtube": 1794294539.1979713
+  "instagram@Vinzap-Finds": 1794306188.325586,
+  "facebook@Vinzap-Finds": 1794306188.325586,
+  "facebook@Vijayendra-Singh": 1794306188.325586,
+  "youtube": 1794306188.325586
  },
- "n": 488
+ "n": 489
 }
