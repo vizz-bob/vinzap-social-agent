@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "efd915e8",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3 Section Snack Serving Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "3-section design for separating",
-     "Individual lids to keep contents",
-     "Multipurpose use for snacks"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "3 Section Snack Serving Tray | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3 Section Snack Serving Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 Section Snack Serving Tray\n✔ 3-section design for separating\n✔ Individual lids to keep contents\n✔ Multipurpose use for snacks\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "3 Section Snack Serving Tray",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793964081.5214043,
-     "id": "17945445930090919",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793964081.5214043,
-     "id": "1428352113685678_122116101483501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793964081.5214043,
-     "id": "1317760538089559_122126893749480728",
-     "dry": false
-    }
-   },
-   "created": 1793964079.40823,
-   "after": 0,
-   "handle": "multipurpose-3-section-snack-serving-tray-with-lid-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-3-section-snack-serving-tray-with-lid-1-pc",
-   "file": "efd915e8.jpg",
-   "thumb": "efd915e8.jpg"
-  },
-  {
    "id": "dc9ebaed",
    "status": "scheduled",
    "kind": "reel",
@@ -5516,14 +5454,70 @@
      "id": "1515473301638437"
     }
    }
+  },
+  {
+   "id": "58b8d70b",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Pav Bhaji Masher",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 109,
+    "was": 0,
+    "feats": [
+     "0064A Paubhaji Masher used in all"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Pav Bhaji Masher | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Pav Bhaji Masher"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPav Bhaji Masher\n✔ 0064A Paubhaji Masher used in all\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Pav Bhaji Masher",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794296735.8124602,
+     "id": "18095034347188189",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794296735.8124602,
+     "id": "1428352113685678_122117256009501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794296735.8124602,
+     "id": "1317760538089559_122128121817480728",
+     "dry": false
+    }
+   },
+   "created": 1794296734.3904018,
+   "after": 0,
+   "handle": "0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
+   "product_url": "https://www.vinzapstore.in/products/0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
+   "file": "58b8d70b.jpg",
+   "thumb": "58b8d70b.jpg"
   }
  ],
- "last_post": 1794294959.1979713,
+ "last_post": 1794296735.8124602,
  "log": [
-  "16:31:06 READY 78b99f0e Apex Miny Steel Mixing Bowl Set | Diwali (auto-approved)",
-  "16:31:40 POSTED instagram@Vinzap-Finds 78b99f0e: 18126018067927698",
-  "16:31:44 POSTED facebook@Vinzap-Finds 78b99f0e: 993535743183425",
-  "16:31:45 FAILED post facebook@Vijayendra-Singh 78b99f0e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuPuur8CUAH3YobrNCJScUWHKdHpscStckV2gpVWbSWpHLrFp2Bctjjal49t8BaDfEPr2KId_3n8HMmco9c6mznUN2vTpbUIVQs2MpKou3vni-fObUOIztEnanusTGZYIiKXULY_mxHJVQKgAEKL0jpw6E1UOepkpEtecUR5HRWxhpdeIawbEWf85JJh5QwHRpGWHtygWQj4qFYy-brQEe4DKvRVeIf-539SA-lezvYH-JxOOr51LXzF8kgTHhyVYY4UzT4EdXpoW-7q1HqogW179lK4N4MuwQMS_tAJmJ-c_J4-l2hHEMCjNsaDfOH9XKM\",\"help_cent",
   "16:32:13 STORY POSTED instagram@Vinzap-Finds 78b99f0e",
   "16:32:21 STORY POSTED facebook@Vinzap-Finds 78b99f0e",
   "17:00:47 READY 1c8024b8 3 in 1 Kitchen Knife and Chopping Board Set (auto-approved)",
@@ -5719,13 +5713,17 @@
   "12:46:45 FAILED post youtube f17789ec: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "12:47:18 STORY POSTED instagram@Vinzap-Finds f17789ec",
   "12:47:26 STORY POSTED facebook@Vinzap-Finds f17789ec",
-  "12:47:35 STORY POSTED facebook@Vijayendra-Singh f17789ec"
+  "12:47:35 STORY POSTED facebook@Vijayendra-Singh f17789ec",
+  "13:15:35 READY 58b8d70b Pav Bhaji Masher (auto-approved)",
+  "13:15:45 POSTED instagram@Vinzap-Finds 58b8d70b: 18095034347188189",
+  "13:15:49 POSTED facebook@Vinzap-Finds 58b8d70b: 1428352113685678_122117256009501659",
+  "13:15:52 POSTED facebook@Vijayendra-Singh 58b8d70b: 1317760538089559_122128121817480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794294959.1979713,
-  "facebook@Vinzap-Finds": 1794294959.1979713,
-  "facebook@Vijayendra-Singh": 1794294959.1979713,
+  "instagram@Vinzap-Finds": 1794296735.8124602,
+  "facebook@Vinzap-Finds": 1794296735.8124602,
+  "facebook@Vijayendra-Singh": 1794296735.8124602,
   "youtube": 1794294959.1979713
  },
- "n": 483
+ "n": 484
 }
