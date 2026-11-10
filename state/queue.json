@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "def90881",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Glass Water Jug",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 709,
-    "was": 0,
-    "feats": [
-     "7-piece drinkware set : 1 jug",
-     "Made from durable",
-     "Food-safe and hygienic material"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Glass Water Jug | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Glass Water Jug"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGlass Water Jug\n✔ 7-piece drinkware set : 1 jug\n✔ Made from durable\n✔ Food-safe and hygienic material\n\nOnly ₹709. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Glass Water Jug | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793976377.2629483,
-     "id": "18037365287904931",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793976377.2629483,
-     "id": "1164422502672467",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793976377.2629483,
-     "id": "1721970889438682",
-     "dry": false
-    }
-   },
-   "created": 1793976355.5180907,
-   "after": 0,
-   "handle": "supermom-marina-jug-with-6-glass-set",
-   "product_url": "https://www.vinzapstore.in/products/supermom-marina-jug-with-6-glass-set",
-   "file": "def90881.mp4",
-   "thumb": "def90881_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18105273443573072"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1480806617263081"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "5494864877405700"
-    }
-   }
-  },
-  {
    "id": "87408415",
    "status": "scheduled",
    "kind": "image",
@@ -5519,16 +5442,82 @@
    "product_url": "https://www.vinzapstore.in/products/wall-mount-liquid-soap-and-hand-wash-dispenser-500-ml-1-pc",
    "file": "ac25578e.jpg",
    "thumb": "ac25578e.jpg"
+  },
+  {
+   "id": "d047703c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Oil and Juice Pourer Dispenser Bottle 1000ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 429,
+    "was": 0,
+    "feats": [
+     "Large Capacity : Approx 1000ml",
+     "Leakproof Sealed Gasket :",
+     "Food-Grade Transparent Body :"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Oil and Juice Pourer Dispenser Bottle 1000ml | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Oil and Juice Pourer Dispenser Bottle 1000ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nOil and Juice Pourer Dispenser Bottle 1000ml\n✔ Large Capacity : Approx 1000ml\n✔ Leakproof Sealed Gasket :\n✔ Food-Grade Transparent Body :\n\nOnly ₹429. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
+   "title": "Oil and Juice Pourer Dispenser Bottle 1000ml | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794310260.1767857,
+     "id": "17953859715316586",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794310260.1767857,
+     "id": "987679864061460",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794310260.1767857,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeszHKP5EMEBzM9NmiA9q13TSZ"
+    }
+   },
+   "created": 1794310244.4115367,
+   "after": 0,
+   "handle": "apex-jessy-oil-and-juice-pourer-dispenser-bottle-approx-1000ml-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-jessy-oil-and-juice-pourer-dispenser-bottle-approx-1000ml-1-pc",
+   "file": "d047703c.mp4",
+   "thumb": "d047703c_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18023845802949103"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1604592588376345"
+    }
+   }
   }
  ],
- "last_post": 1794308455.9489193,
+ "last_post": 1794310260.1767857,
  "log": [
-  "19:32:33 STORY POSTED instagram@Vinzap-Finds 13981565",
-  "19:32:43 STORY POSTED facebook@Vinzap-Finds 13981565",
-  "19:32:52 STORY POSTED facebook@Vijayendra-Singh 13981565",
-  "20:00:45 READY 615792ff 3-in-1 Tea and Coffee Accessories Combo Set (auto-approved)",
-  "20:00:58 POSTED instagram@Vinzap-Finds 615792ff: 18074407268775836",
-  "20:01:01 POSTED facebook@Vinzap-Finds 615792ff: 1428352113685678_122116754397501659",
   "20:01:05 POSTED facebook@Vijayendra-Singh 615792ff: 1317760538089559_122127511563480728",
   "20:31:05 READY a08a8320 Apex Manual Citrus Juicer | Kitchen Gadgets (auto-approved)",
   "20:31:41 POSTED instagram@Vinzap-Finds a08a8320: 18449980822120998",
@@ -5722,13 +5711,19 @@
   "16:30:55 READY ac25578e Wall Mount Liquid Soap and Hand Wash (auto-approved)",
   "16:31:08 POSTED instagram@Vinzap-Finds ac25578e: 18095478641184809",
   "16:31:13 POSTED facebook@Vinzap-Finds ac25578e: 1428352113685678_122117297235501659",
-  "16:31:17 POSTED facebook@Vijayendra-Singh ac25578e: 1317760538089559_122128161123480728"
+  "16:31:17 POSTED facebook@Vijayendra-Singh ac25578e: 1317760538089559_122128161123480728",
+  "17:01:00 READY d047703c Oil and Juice Pourer Dispenser Bottle 1000ml | Diwali (auto-approved)",
+  "17:01:39 POSTED instagram@Vinzap-Finds d047703c: 17953859715316586",
+  "17:01:43 POSTED facebook@Vinzap-Finds d047703c: 987679864061460",
+  "17:01:44 FAILED post facebook@Vijayendra-Singh d047703c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeszHKP5EMEBzM9NmiA9q13TSZofyDCyIQuyI9qTEJdCXIMJf3tRH5zrSJHwKeAYdjP3VAeFl8Y-qE4y0XCtCLsc7oi2UlkizfPZR7C6LWRFUBauzwaY11Hi55l2lBBiytlJr7C4sgmtW326SSu8uCM1unXADRQLuf_nfO-YNWIjDtM-gk0Vv7HpXt46s4vPzSF7IZmBUfDgcpFl1IkAtbetQXuIXpqqQomJ0qDjTOIRtFLec5YaRqC-9J33hM7EAmQe7Y3RrLuz8ZkGSzGp3tDPcMmH_c99aJisoAl0qLMPiR-67GrJmu6HmRMukP8Xn6FZ\",\"help_cent",
+  "17:02:20 STORY POSTED instagram@Vinzap-Finds d047703c",
+  "17:02:33 STORY POSTED facebook@Vinzap-Finds d047703c"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794308455.9489193,
-  "facebook@Vinzap-Finds": 1794308455.9489193,
-  "facebook@Vijayendra-Singh": 1794308455.9489193,
+  "instagram@Vinzap-Finds": 1794310260.1767857,
+  "facebook@Vinzap-Finds": 1794310260.1767857,
+  "facebook@Vijayendra-Singh": 1794310260.1767857,
   "youtube": 1794306188.325586
  },
- "n": 490
+ "n": 491
 }
