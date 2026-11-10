@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "a9224b03",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Ovel Manual Chilli and Dry Fruit",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 329,
-    "was": 0,
-    "feats": [
-     "High-Performance Stainless Steel",
-     "Durable Virgin Plastic Body:",
-     "Manual Hand Crank Design:"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Ovel Manual Chilli and Dry Fruit"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Ovel Manual Chilli and Dry Fruit\n✔ High-Performance Stainless Steel\n✔ Durable Virgin Plastic Body:\n✔ Manual Hand Crank Design:\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793969164.801394,
-     "id": "18037250921899370",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793969164.801394,
-     "id": "4482253065323315",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1793969164.801394,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuNqAHqajzlzmcFsGGTqBI2c2"
-    }
-   },
-   "created": 1793969140.1092622,
-   "after": 0,
-   "handle": "apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
-   "product_url": "https://www.vinzapstore.in/products/apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
-   "file": "a9224b03.mp4",
-   "thumb": "a9224b03_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18093431648289410"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1790656033065951"
-    }
-   }
-  },
-  {
    "id": "1e004b2e",
    "status": "posted",
    "kind": "image",
@@ -5519,16 +5447,82 @@
    "product_url": "https://www.vinzapstore.in/products/usb-rechargeable-electric-water-dispenser-pump-with-remote-1-pc",
    "file": "5d242ffc.jpg",
    "thumb": "5d242ffc.jpg"
+  },
+  {
+   "id": "cccef686",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ice Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 259,
+    "was": 0,
+    "feats": [
+     "2-in-1 Compartment: Features",
+     "Durable Construction: Made from",
+     "Space-Saving Design: Ideal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Ice Tray | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Tray\n✔ 2-in-1 Compartment: Features\n✔ Durable Construction: Made from\n✔ Space-Saving Design: Ideal\n\nOnly ₹259. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#diwali #trendingshorts",
+   "title": "Ice Tray | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794302180.3508198,
+     "id": "17962716567255722",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794302180.3508198,
+     "id": "1695568255533714",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794302180.3508198,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AessrJJMW1iB-b0rB46qWYkMYJ"
+    }
+   },
+   "created": 1794302158.6049356,
+   "after": 0,
+   "handle": "supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
+   "file": "cccef686.mp4",
+   "thumb": "cccef686_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18122539162984271"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1127897416724457"
+    }
+   }
   }
  ],
- "last_post": 1794300470.5585015,
+ "last_post": 1794302180.3508198,
  "log": [
-  "17:32:33 STORY POSTED facebook@Vinzap-Finds 80539c89",
-  "18:00:46 READY d39e1b4a 6 in 1 Premium Kitchen Knife Set (auto-approved)",
-  "18:00:58 POSTED instagram@Vinzap-Finds d39e1b4a: 18146989057590926",
-  "18:01:02 POSTED facebook@Vinzap-Finds d39e1b4a: 1428352113685678_122116719315501659",
-  "18:01:05 POSTED facebook@Vijayendra-Singh d39e1b4a: 1317760538089559_122127478803480728",
-  "18:31:16 READY fdf9a3f8 Ice Cube Tray | Cooking (auto-approved)",
   "18:31:55 POSTED instagram@Vinzap-Finds fdf9a3f8: 18353953684282625",
   "18:31:59 POSTED facebook@Vinzap-Finds fdf9a3f8: 2090175762385191",
   "18:32:02 POSTED facebook@Vijayendra-Singh fdf9a3f8: 1001310605674470",
@@ -5722,13 +5716,19 @@
   "14:17:50 READY 5d242ffc USB Rechargeable Electric Water Dispenser (auto-approved)",
   "14:18:02 POSTED instagram@Vinzap-Finds 5d242ffc: 17950694115344557",
   "14:18:05 POSTED facebook@Vinzap-Finds 5d242ffc: 1428352113685678_122117267229501659",
-  "14:18:09 POSTED facebook@Vijayendra-Singh 5d242ffc: 1317760538089559_122128132467480728"
+  "14:18:09 POSTED facebook@Vijayendra-Singh 5d242ffc: 1317760538089559_122128132467480728",
+  "14:46:20 READY cccef686 Ice Tray | Diwali (auto-approved)",
+  "14:46:57 POSTED instagram@Vinzap-Finds cccef686: 17962716567255722",
+  "14:47:04 POSTED facebook@Vinzap-Finds cccef686: 1695568255533714",
+  "14:47:05 FAILED post facebook@Vijayendra-Singh cccef686: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AessrJJMW1iB-b0rB46qWYkMYJUPGyYs8WSnOxnyL9Vyz9QKepXCDCFqqxPRMNGPZ_NnhY5Kk-nqz5GHlggIEkMph9kd7b-dJuJxc4oY0Yxw7yGeXfziT02Dr9SX4qlQV2wuYe51V4TUWhS9XiPug_bGUshZwvI_5KusAOcSKare_4Yf5Tng5V939oqgNJzqf2cHPeHBSnaDObbhxcN6KcR1gcdxeDGNoI_7J1i5OgXJzo_SpJU8ujXH3V4sqyqiemLJQ9XGfwRhHDT0SCeGN7IdGS45rxjLKE-NJiRYHTWB-WWSjihFzCNaMiNaxBd0wHQ\",\"help_cente",
+  "14:47:37 STORY POSTED instagram@Vinzap-Finds cccef686",
+  "14:47:46 STORY POSTED facebook@Vinzap-Finds cccef686"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794300470.5585015,
-  "facebook@Vinzap-Finds": 1794300470.5585015,
-  "facebook@Vijayendra-Singh": 1794300470.5585015,
+  "instagram@Vinzap-Finds": 1794302180.3508198,
+  "facebook@Vinzap-Finds": 1794302180.3508198,
+  "facebook@Vijayendra-Singh": 1794302180.3508198,
   "youtube": 1794294959.1979713
  },
- "n": 486
+ "n": 487
 }
