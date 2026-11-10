@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "ab5f169d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Fish Scaler Scraper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Sharp serrated scraper removes",
-     "Attached lid acts as a scale",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Fish Scaler Scraper | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fish Scaler Scraper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFish Scaler Scraper\n✔ Sharp serrated scraper removes\n✔ Attached lid acts as a scale\n✔ Comfortable handle gives a firm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#trendingshorts #kitchengadgets",
-   "title": "Fish Scaler Scraper | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793961385.0027592,
-     "id": "18105746399368304",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793961385.0027592,
-     "id": "1152224367273713",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793961385.0027592,
-     "id": "1784794596124704",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1793961385.0027592,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1793961359.360082,
-   "after": 0,
-   "handle": "fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "file": "ab5f169d.mp4",
-   "thumb": "ab5f169d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17916099666280481"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1772340297151817"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn Mo"
-    }
-   }
-  },
-  {
    "id": "efd915e8",
    "status": "posted",
    "kind": "image",
@@ -5516,18 +5434,92 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-sink-caddy-organizer-rack-holder-kitchen-sponge-stand-1-pc",
    "file": "f5c1b066.jpg",
    "thumb": "f5c1b066.jpg"
+  },
+  {
+   "id": "f17789ec",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Green Tea Strainer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 109,
+    "was": 0,
+    "feats": [
+     "High-Quality Wire Mesh : Fine",
+     "Ergonomic Plastic Handle :",
+     "Compact and Lightweight : Easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Green Tea Strainer | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Green Tea Strainer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGreen Tea Strainer\n✔ High-Quality Wire Mesh : Fine\n✔ Ergonomic Plastic Handle :\n✔ Compact and Lightweight : Easy\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Green Tea Strainer | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794294959.1979713,
+     "id": "18099543431407631",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794294959.1979713,
+     "id": "2405088323362359",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794294959.1979713,
+     "id": "1136055715591262",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794294959.1979713,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794294941.9791293,
+   "after": 0,
+   "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
+   "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
+   "file": "f17789ec.mp4",
+   "thumb": "f17789ec_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17961898809251361"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3810804615748487"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1515473301638437"
+    }
+   }
   }
  ],
- "last_post": 1794292687.3351302,
+ "last_post": 1794294959.1979713,
  "log": [
-  "15:32:07 FAILED post facebook@Vijayendra-Singh 1de586fb: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeveSt0uE79AYhL6AL9JTclEuv7iPDhh1Xgh9qdlfhtnZCjjg09hsNud9AYjxsfy4NY538uHEHU4ageBtiePBsyp0rvS_KiMz8KMqIH__nD4-K4Pwyc8wGeiQyKKA5Oc0rsGKN9X-PLyKVFXNi0Psbc2eSucFEu3ic6xbQ1JY62R9Ru73C-8VyLssFcBrvprswxfg68ZeFWaVmCER5I89WC9JNTO6ClONulOJaen2MXfwTOL6B_mVjXtGPnm_REUvXp0go42q7AMAGUutfkyiiCjEVhDoasYGeqSA24xQatWFknnKNmIAnectIJP7eQikQM\",\"help_cente",
-  "15:32:07 FAILED post youtube 1de586fb: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "15:32:43 STORY POSTED instagram@Vinzap-Finds 1de586fb",
-  "15:32:52 STORY POSTED facebook@Vinzap-Finds 1de586fb",
-  "16:00:44 READY 5026a0c5 Supermom Stainless Steel Carrot Grater (auto-approved)",
-  "16:00:56 POSTED instagram@Vinzap-Finds 5026a0c5: 18414655543094020",
-  "16:01:00 POSTED facebook@Vinzap-Finds 5026a0c5: 1428352113685678_122116689555501659",
-  "16:01:04 POSTED facebook@Vijayendra-Singh 5026a0c5: 1317760538089559_122127450393480728",
   "16:31:06 READY 78b99f0e Apex Miny Steel Mixing Bowl Set | Diwali (auto-approved)",
   "16:31:40 POSTED instagram@Vinzap-Finds 78b99f0e: 18126018067927698",
   "16:31:44 POSTED facebook@Vinzap-Finds 78b99f0e: 993535743183425",
@@ -5719,13 +5711,21 @@
   "12:08:07 READY f5c1b066 Stainless Steel Sink Caddy Organizer (auto-approved)",
   "12:08:20 POSTED instagram@Vinzap-Finds f5c1b066: 18119825392795265",
   "12:08:25 POSTED facebook@Vinzap-Finds f5c1b066: 1428352113685678_122117243781501659",
-  "12:08:30 POSTED facebook@Vijayendra-Singh f5c1b066: 1317760538089559_122128110171480728"
+  "12:08:30 POSTED facebook@Vijayendra-Singh f5c1b066: 1317760538089559_122128110171480728",
+  "12:45:59 READY f17789ec Green Tea Strainer | Kitchen Gadgets (auto-approved)",
+  "12:46:37 POSTED instagram@Vinzap-Finds f17789ec: 18099543431407631",
+  "12:46:41 POSTED facebook@Vinzap-Finds f17789ec: 2405088323362359",
+  "12:46:45 POSTED facebook@Vijayendra-Singh f17789ec: 1136055715591262",
+  "12:46:45 FAILED post youtube f17789ec: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:47:18 STORY POSTED instagram@Vinzap-Finds f17789ec",
+  "12:47:26 STORY POSTED facebook@Vinzap-Finds f17789ec",
+  "12:47:35 STORY POSTED facebook@Vijayendra-Singh f17789ec"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794292687.3351302,
-  "facebook@Vinzap-Finds": 1794292687.3351302,
-  "facebook@Vijayendra-Singh": 1794292687.3351302,
-  "youtube": 1794239658.885779
+  "instagram@Vinzap-Finds": 1794294959.1979713,
+  "facebook@Vinzap-Finds": 1794294959.1979713,
+  "facebook@Vijayendra-Singh": 1794294959.1979713,
+  "youtube": 1794294959.1979713
  },
- "n": 482
+ "n": 483
 }
