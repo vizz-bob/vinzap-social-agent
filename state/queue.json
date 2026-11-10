@@ -1,67 +1,6 @@
 {
  "items": [
   {
-   "id": "87408415",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "2 in 1 Fruit Scooper and Cutter Tool",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Dual-function design with fruit",
-     "Easy slicing and scooping of soft",
-     "Smooth edges for safe"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "2 in 1 Fruit Scooper and Cutter Tool | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "2 in 1 Fruit Scooper and Cutter Tool"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2 in 1 Fruit Scooper and Cutter Tool\n✔ Dual-function design with fruit\n✔ Easy slicing and scooping of soft\n✔ Smooth edges for safe\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "2 in 1 Fruit Scooper and Cutter Tool",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": false,
-     "ts": 1793978146.0712495,
-     "error": "HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AcDbt-s5mDvj6jNsr7ClBx7\"}}"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1793978146.0712495,
-     "id": "1428352113685678_122116157997501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1793978146.0712495,
-     "id": "1317760538089559_122126953287480728",
-     "dry": false
-    }
-   },
-   "created": 1793978143.7045002,
-   "after": 0,
-   "handle": "2-in-1-fruit-scooper-and-cutter-tool-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/2-in-1-fruit-scooper-and-cutter-tool-1-pc",
-   "file": "87408415.jpg",
-   "thumb": "87408415.jpg"
-  },
-  {
    "id": "151a48fa",
    "status": "scheduled",
    "kind": "reel",
@@ -5514,14 +5453,72 @@
      "id": "1604592588376345"
     }
    }
+  },
+  {
+   "id": "6f6ad138",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Supermom Dual Tone Peeler",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Ultra-Sharp Stainless Steel Blade",
+     "Dual Tone Handle Design – Adds",
+     "Ergonomic & Non-Slip Handle –"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Supermom Dual Tone Peeler | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Supermom Dual Tone Peeler"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Dual Tone Peeler\n✔ Ultra-Sharp Stainless Steel Blade\n✔ Dual Tone Handle Design – Adds\n✔ Ergonomic & Non-Slip Handle –\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Supermom Dual Tone Peeler",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794313032.1650057,
+     "id": "18170905789469767",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794313032.1650057,
+     "id": "1428352113685678_122117313015501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794313032.1650057,
+     "id": "1317760538089559_122128190955480728",
+     "dry": false
+    }
+   },
+   "created": 1794313029.8103259,
+   "after": 0,
+   "handle": "supermom-dual-tone-peeler-with-ultra-sharp-stainless-steel-blade-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-dual-tone-peeler-with-ultra-sharp-stainless-steel-blade-1-pc",
+   "file": "6f6ad138.jpg",
+   "thumb": "6f6ad138.jpg"
   }
  ],
- "last_post": 1794310260.1767857,
+ "last_post": 1794313032.1650057,
  "log": [
-  "20:01:05 POSTED facebook@Vijayendra-Singh 615792ff: 1317760538089559_122127511563480728",
-  "20:31:05 READY a08a8320 Apex Manual Citrus Juicer | Kitchen Gadgets (auto-approved)",
-  "20:31:41 POSTED instagram@Vinzap-Finds a08a8320: 18449980822120998",
-  "20:31:45 POSTED facebook@Vinzap-Finds a08a8320: 1135315572269526",
   "20:31:50 POSTED facebook@Vijayendra-Singh a08a8320: 1688469266281674",
   "20:32:20 STORY POSTED instagram@Vinzap-Finds a08a8320",
   "20:32:28 STORY POSTED facebook@Vinzap-Finds a08a8320",
@@ -5717,13 +5714,17 @@
   "17:01:43 POSTED facebook@Vinzap-Finds d047703c: 987679864061460",
   "17:01:44 FAILED post facebook@Vijayendra-Singh d047703c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeszHKP5EMEBzM9NmiA9q13TSZofyDCyIQuyI9qTEJdCXIMJf3tRH5zrSJHwKeAYdjP3VAeFl8Y-qE4y0XCtCLsc7oi2UlkizfPZR7C6LWRFUBauzwaY11Hi55l2lBBiytlJr7C4sgmtW326SSu8uCM1unXADRQLuf_nfO-YNWIjDtM-gk0Vv7HpXt46s4vPzSF7IZmBUfDgcpFl1IkAtbetQXuIXpqqQomJ0qDjTOIRtFLec5YaRqC-9J33hM7EAmQe7Y3RrLuz8ZkGSzGp3tDPcMmH_c99aJisoAl0qLMPiR-67GrJmu6HmRMukP8Xn6FZ\",\"help_cent",
   "17:02:20 STORY POSTED instagram@Vinzap-Finds d047703c",
-  "17:02:33 STORY POSTED facebook@Vinzap-Finds d047703c"
+  "17:02:33 STORY POSTED facebook@Vinzap-Finds d047703c",
+  "17:47:12 READY 6f6ad138 Supermom Dual Tone Peeler (auto-approved)",
+  "17:47:21 POSTED instagram@Vinzap-Finds 6f6ad138: 18170905789469767",
+  "17:47:25 POSTED facebook@Vinzap-Finds 6f6ad138: 1428352113685678_122117313015501659",
+  "17:47:28 POSTED facebook@Vijayendra-Singh 6f6ad138: 1317760538089559_122128190955480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794310260.1767857,
-  "facebook@Vinzap-Finds": 1794310260.1767857,
-  "facebook@Vijayendra-Singh": 1794310260.1767857,
+  "instagram@Vinzap-Finds": 1794313032.1650057,
+  "facebook@Vinzap-Finds": 1794313032.1650057,
+  "facebook@Vijayendra-Singh": 1794313032.1650057,
   "youtube": 1794306188.325586
  },
- "n": 491
+ "n": 492
 }
