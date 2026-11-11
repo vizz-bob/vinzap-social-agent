@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "24b109f0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Chopping Board",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 409,
-    "was": 0,
-    "feats": [
-     "【 Material 】：The cutting board is",
-     "【 Advantage 】：Not easy to crack",
-     "【Maintenance】：The surface"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Stainless Steel Chopping Board | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Chopping Board"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Chopping Board\n✔ 【 Material 】：The cutting board is\n✔ 【 Advantage 】：Not easy to crack\n✔ 【Maintenance】：The surface\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Stainless Steel Chopping Board | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794067279.9901824,
-     "id": "18125818342924177",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794067279.9901824,
-     "id": "1464419418973067",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794067279.9901824,
-     "id": "1124737923645144",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794067279.9901824,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794067258.3847842,
-   "after": 0,
-   "handle": "stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
-   "file": "24b109f0.mp4",
-   "thumb": "24b109f0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17988490004892328"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3027612477617327"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "889857444150238"
-    }
-   }
-  },
-  {
    "id": "7cc93d98",
    "status": "posted",
    "kind": "image",
@@ -5481,17 +5399,87 @@
    "product_url": "https://www.vinzapstore.in/products/portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
    "file": "eecda9d3.jpg",
    "thumb": "eecda9d3.jpg"
+  },
+  {
+   "id": "c4502c07",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Wire Skimmer",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 189,
+    "was": 0,
+    "feats": [
+     "Fine stainless steel wire mesh",
+     "Strong metal frame for durability",
+     "Wooden handle for comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Stainless Steel Wire Skimmer | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Wire Skimmer"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Wire Skimmer\n✔ Fine stainless steel wire mesh\n✔ Strong metal frame for durability\n✔ Wooden handle for comfortable\n\nOnly ₹189. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Stainless Steel Wire Skimmer | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794400278.2261457,
+     "id": "17920675830466635",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794400278.2261457,
+     "id": "3279151118952970",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794400278.2261457,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevUpDH_SCtH2oUfaOS18x4LHA"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794400278.2261457,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794400253.3321517,
+   "after": 0,
+   "handle": "stainless-steel-wire-skimmer-with-wooden-handle-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-wire-skimmer-with-wooden-handle-1-pc",
+   "file": "c4502c07.mp4",
+   "thumb": "c4502c07_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17877224475593905"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1750259129404102"
+    }
+   }
   }
  ],
- "last_post": 1794398453.9563851,
+ "last_post": 1794400278.2261457,
  "log": [
-  "20:32:09 FAILED post facebook@Vijayendra-Singh 458d5075: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetqhOnlsokBFOs7cxeU3eXQ_U64aAJNxPWc7RZerreClhOOWwrv1TnZYExHDJ754QPoyl5EnCgt9Xy2U4sVQ6dxzQGaTvuCNud4XQ-vNWuUmjLct57PP8s4_WnpNk9DOUemdUhMEFIG--OAU-GHFG-RRwfGlK7eLJFvA46F1Ki8QNh3UdoZ4h56yD8zZIvmHHa6QolA-R6j6c9lL3hPpGlFvB-hSgmr-7dnNwJ_GoyBFSSd8vNK_yk29Nuz_IGja0CYm8xWd99T8mkAz7vxfHGsnLh7dA39jnS4YHEKfL8K0995H_RhxF4Qn6sgVy4WBSY\",\"help_cente",
-  "20:32:40 STORY POSTED instagram@Vinzap-Finds 458d5075",
-  "20:32:49 STORY POSTED facebook@Vinzap-Finds 458d5075",
-  "21:00:48 READY a3e87023 Multipurpose Kitchen Lid and Spoon Holder (auto-approved)",
-  "21:00:59 POSTED instagram@Vinzap-Finds a3e87023: 17894837244617611",
-  "21:01:05 POSTED facebook@Vinzap-Finds a3e87023: 1428352113685678_122117088081501659",
-  "21:01:09 POSTED facebook@Vijayendra-Singh a3e87023: 1317760538089559_122127919797480728",
   "21:31:18 READY 02cb969e Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets (auto-approved)",
   "21:31:57 POSTED instagram@Vinzap-Finds 02cb969e: 18044794907833740",
   "21:32:00 POSTED facebook@Vinzap-Finds 02cb969e: 1662389885274713",
@@ -5684,13 +5672,20 @@
   "17:30:53 READY eecda9d3 Portable Electric Kettle 600ml Travel Water (auto-approved)",
   "17:31:04 POSTED instagram@Vinzap-Finds eecda9d3: 18115487285127795",
   "17:31:07 POSTED facebook@Vinzap-Finds eecda9d3: 1428352113685678_122117592375501659",
-  "17:31:12 POSTED facebook@Vijayendra-Singh eecda9d3: 1317760538089559_122128503105480728"
+  "17:31:12 POSTED facebook@Vijayendra-Singh eecda9d3: 1317760538089559_122128503105480728",
+  "18:01:18 READY c4502c07 Stainless Steel Wire Skimmer | Diwali (auto-approved)",
+  "18:01:57 POSTED instagram@Vinzap-Finds c4502c07: 17920675830466635",
+  "18:02:01 POSTED facebook@Vinzap-Finds c4502c07: 3279151118952970",
+  "18:02:02 FAILED post facebook@Vijayendra-Singh c4502c07: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevUpDH_SCtH2oUfaOS18x4LHA6JQrwYL-kanrxO5zAamtpT1wTNeav9nW8Ku7g_tKgZBf4i2JGe-YRbR63AMUdIYhD8mpK_WeqmkhqfwbjDuZhQ1ZHrioGzQ7lWX98AetZuYZpImpOcWnneduWWKDy-t19CjGPLqHEB0TwC1ltrDeM_NOch6G7_PZYqYR_QJB7B3i4SfIjxy75P6L03fcNeTFhUeOKpoGs99uFAbV85IKYRJbg-D05YK72YQtfddKrPEMDBLY6w9u7pKPmPVEB9dXMACxaWBZ4muVkre9IW6JuAGh4LTkinGx_IgCUwbmOI\",\"help_cent",
+  "18:02:02 FAILED post youtube c4502c07: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "18:02:40 STORY POSTED instagram@Vinzap-Finds c4502c07",
+  "18:02:53 STORY POSTED facebook@Vinzap-Finds c4502c07"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794398453.9563851,
-  "facebook@Vinzap-Finds": 1794398453.9563851,
-  "facebook@Vijayendra-Singh": 1794398453.9563851,
-  "youtube": 1794389051.5310163
+  "instagram@Vinzap-Finds": 1794400278.2261457,
+  "facebook@Vinzap-Finds": 1794400278.2261457,
+  "facebook@Vijayendra-Singh": 1794400278.2261457,
+  "youtube": 1794400278.2261457
  },
- "n": 514
+ "n": 515
 }
