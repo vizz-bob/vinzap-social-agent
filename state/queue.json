@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "00e80730",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Tortoise Shape Kankavati Kumkum Holder",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Tortoise-shaped decorative",
-     "Twin compartments for kumkum",
-     "Golden finish with red and green"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Tortoise Shape Kankavati Kumkum Holder"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTortoise Shape Kankavati Kumkum Holder\n✔ Tortoise-shaped decorative\n✔ Twin compartments for kumkum\n✔ Golden finish with red and green\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Tortoise Shape Kankavati Kumkum Holder | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794049265.1295636,
-     "id": "17916357636544787",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794049265.1295636,
-     "id": "2439529953522651",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794049265.1295636,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevh4WMxKncWhYmSXNMaFvMZAC"
-    }
-   },
-   "created": 1794049249.7716804,
-   "after": 0,
-   "handle": "tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/tortoise-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
-   "file": "00e80730.mp4",
-   "thumb": "00e80730_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18153725275468565"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2319066731999708"
-    }
-   }
-  },
-  {
    "id": "e04e1829",
    "status": "posted",
    "kind": "image",
@@ -5488,16 +5416,82 @@
    "product_url": "https://www.vinzapstore.in/products/durable-plastic-ice-cube-tray-1-pc",
    "file": "1e70f748.jpg",
    "thumb": "1e70f748.jpg"
+  },
+  {
+   "id": "9311ecf7",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Cozy Coffee Mug 450ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Lid sits over the top",
+     "Also keeps dust out when you step",
+     "450 ML holds a proper mug of chai"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Apex Cozy Coffee Mug 450ml | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Cozy Coffee Mug 450ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Cozy Coffee Mug 450ml\n✔ Lid sits over the top\n✔ Also keeps dust out when you step\n✔ 450 ML holds a proper mug of chai\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#cooking #homedecor",
+   "title": "Apex Cozy Coffee Mug 450ml | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794382273.3063533,
+     "id": "18472925104185081",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794382273.3063533,
+     "id": "2304955446971601",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794382273.3063533,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuhQlubmh1UHYOEgFsSW37M8Z"
+    }
+   },
+   "created": 1794382252.2055137,
+   "after": 0,
+   "handle": "apex-cozy-coffee-mug-450-ml-with-lid-and-steel-rim-for-desk-use-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-cozy-coffee-mug-450-ml-with-lid-and-steel-rim-for-desk-use-1-pc",
+   "file": "9311ecf7.mp4",
+   "thumb": "9311ecf7_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18122546668943776"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4589641031259640"
+    }
+   }
   }
  ],
- "last_post": 1794380456.7382307,
+ "last_post": 1794382273.3063533,
  "log": [
-  "15:32:27 POSTED instagram@Vinzap-Finds a8e187f4: 18150097513491238",
-  "15:32:31 POSTED facebook@Vinzap-Finds a8e187f4: 4747857798776789",
-  "15:32:33 FAILED post facebook@Vijayendra-Singh a8e187f4: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuRv6KDTcWFW_QK2Ch4s3vRI02Hv0Q6HevvHYP_5F1s1VIN6mFg72QNPq4mBaVp9O_eFF7bM8EM1UFrS7x5CRJlPG5przncJzO5XNDUkxPB_BnWEx92L_DF9qjasmZ6ZsKYrjNo9nRvOoluES6RbzHE6HlEGZcl82-SnfFXmQu3EKsyWfD9VAkYKU7ld5TSZX9KXAd1YnIZNx5fJReaEoK37CoPL0FujUeToNNLLZeSUozLG4xniK41tXIpNdbI27KRJQTibBcfuZAYSD_B62Oht_tTCxlxSfZMXF9Rl50cbRvS8K1edOU7LaUKHXhs4H4\",\"help_cente",
-  "15:32:33 FAILED post youtube a8e187f4: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "15:33:04 STORY POSTED instagram@Vinzap-Finds a8e187f4",
-  "15:33:14 STORY POSTED facebook@Vinzap-Finds a8e187f4",
   "16:04:03 READY a9011f37 Foldable Rotating Wall Mounted Hook Rack (auto-approved)",
   "16:04:14 POSTED instagram@Vinzap-Finds a9011f37: 18126728089687421",
   "16:04:17 POSTED facebook@Vinzap-Finds a9011f37: 1428352113685678_122117020773501659",
@@ -5691,13 +5685,19 @@
   "12:30:56 READY 1e70f748 Durable Plastic Ice Cube Tray (auto-approved)",
   "12:31:10 POSTED instagram@Vinzap-Finds 1e70f748: 18118119053037811",
   "12:31:14 POSTED facebook@Vinzap-Finds 1e70f748: 1428352113685678_122117535087501659",
-  "12:31:18 POSTED facebook@Vijayendra-Singh 1e70f748: 1317760538089559_122128412889480728"
+  "12:31:18 POSTED facebook@Vijayendra-Singh 1e70f748: 1317760538089559_122128412889480728",
+  "13:01:13 READY 9311ecf7 Apex Cozy Coffee Mug 450ml | Cooking (auto-approved)",
+  "13:01:45 POSTED instagram@Vinzap-Finds 9311ecf7: 18472925104185081",
+  "13:01:49 POSTED facebook@Vinzap-Finds 9311ecf7: 2304955446971601",
+  "13:01:50 FAILED post facebook@Vijayendra-Singh 9311ecf7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuhQlubmh1UHYOEgFsSW37M8ZdQI1fSzXxGw0x6SiwwPGhQHOYrYcxaS6fjA-hNZFeyqploD9sFHAhqVUlqSDXmiuEmdNdSRKA5NjuNFGZIotgKVAlZ-k5yo4A_u69kJvpjApWFoPRK5NufjbfN7yyggKScLj5u2Y8A5Jb87NuaE3tmyeLzgB9HRDxhsRFZga-vWNE_3x5II_T8x7SHtLj4DhZg2hiJiCx2a8r-_rycyAhu5Tof0oyz-LiZpud9N5qFsQ3eRz31VjlNcVUAKZUxl3TKbw2NwAQaQW_Q5ovZMjTCRdaUCCqJ-PbyoKxMdq0h\",\"help_cent",
+  "13:02:21 STORY POSTED instagram@Vinzap-Finds 9311ecf7",
+  "13:02:29 STORY POSTED facebook@Vinzap-Finds 9311ecf7"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794380456.7382307,
-  "facebook@Vinzap-Finds": 1794380456.7382307,
-  "facebook@Vijayendra-Singh": 1794380456.7382307,
+  "instagram@Vinzap-Finds": 1794382273.3063533,
+  "facebook@Vinzap-Finds": 1794382273.3063533,
+  "facebook@Vijayendra-Singh": 1794382273.3063533,
   "youtube": 1794378674.8836358
  },
- "n": 504
+ "n": 505
 }
