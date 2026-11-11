@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "959ca043",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Heart Shape Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Add water",
-     "DIY & Reserve dessert",
-     "The cubes fit your small diameter"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Heart Shape Ice Cube Tray | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Heart Shape Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nHeart Shape Ice Cube Tray\n✔ Add water\n✔ DIY & Reserve dessert\n✔ The cubes fit your small diameter\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Heart Shape Ice Cube Tray",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794065448.7900941,
-     "id": "17996728094843521",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794065448.7900941,
-     "id": "1428352113685678_122116467105501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794065448.7900941,
-     "id": "1317760538089559_122127229857480728",
-     "dry": false
-    }
-   },
-   "created": 1794065446.9657307,
-   "after": 0,
-   "handle": "1133-heart-shape-ice-cube-tray",
-   "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
-   "file": "959ca043.jpg",
-   "thumb": "959ca043.jpg"
-  },
-  {
    "id": "24b109f0",
    "status": "scheduled",
    "kind": "reel",
@@ -5481,14 +5419,72 @@
      "id": "3524010764444050"
     }
    }
+  },
+  {
+   "id": "eecda9d3",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Portable Electric Kettle 600ml Travel Water",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 5999,
+    "was": 0,
+    "feats": [
+     "Portable 600ml electric boiling",
+     "Multiple temperature settings (45",
+     "Heats water quickly for tea"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Portable Electric Kettle 600ml Travel Water | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Portable Electric Kettle 600ml Travel Water"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Electric Kettle 600ml Travel Water\n✔ Portable 600ml electric boiling\n✔ Multiple temperature settings (45\n✔ Heats water quickly for tea\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Portable Electric Kettle 600ml Travel Water",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794398453.9563851,
+     "id": "18115487285127795",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794398453.9563851,
+     "id": "1428352113685678_122117592375501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794398453.9563851,
+     "id": "1317760538089559_122128503105480728",
+     "dry": false
+    }
+   },
+   "created": 1794398452.108024,
+   "after": 0,
+   "handle": "portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
+   "file": "eecda9d3.jpg",
+   "thumb": "eecda9d3.jpg"
   }
  ],
- "last_post": 1794396663.1045127,
+ "last_post": 1794398453.9563851,
  "log": [
-  "20:01:01 POSTED facebook@Vijayendra-Singh fa5d84e6: 1317760538089559_122127904431480728",
-  "20:31:29 READY 458d5075 Car Shape Kids Lunch Box | Cooking (auto-approved)",
-  "20:32:03 POSTED instagram@Vinzap-Finds 458d5075: 18642783904000845",
-  "20:32:07 POSTED facebook@Vinzap-Finds 458d5075: 1036390716150574",
   "20:32:09 FAILED post facebook@Vijayendra-Singh 458d5075: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetqhOnlsokBFOs7cxeU3eXQ_U64aAJNxPWc7RZerreClhOOWwrv1TnZYExHDJ754QPoyl5EnCgt9Xy2U4sVQ6dxzQGaTvuCNud4XQ-vNWuUmjLct57PP8s4_WnpNk9DOUemdUhMEFIG--OAU-GHFG-RRwfGlK7eLJFvA46F1Ki8QNh3UdoZ4h56yD8zZIvmHHa6QolA-R6j6c9lL3hPpGlFvB-hSgmr-7dnNwJ_GoyBFSSd8vNK_yk29Nuz_IGja0CYm8xWd99T8mkAz7vxfHGsnLh7dA39jnS4YHEKfL8K0995H_RhxF4Qn6sgVy4WBSY\",\"help_cente",
   "20:32:40 STORY POSTED instagram@Vinzap-Finds 458d5075",
   "20:32:49 STORY POSTED facebook@Vinzap-Finds 458d5075",
@@ -5684,13 +5680,17 @@
   "17:01:51 POSTED facebook@Vijayendra-Singh a9d1b300: 1829307414939313",
   "17:02:23 STORY POSTED instagram@Vinzap-Finds a9d1b300",
   "17:02:32 STORY POSTED facebook@Vinzap-Finds a9d1b300",
-  "17:02:40 STORY POSTED facebook@Vijayendra-Singh a9d1b300"
+  "17:02:40 STORY POSTED facebook@Vijayendra-Singh a9d1b300",
+  "17:30:53 READY eecda9d3 Portable Electric Kettle 600ml Travel Water (auto-approved)",
+  "17:31:04 POSTED instagram@Vinzap-Finds eecda9d3: 18115487285127795",
+  "17:31:07 POSTED facebook@Vinzap-Finds eecda9d3: 1428352113685678_122117592375501659",
+  "17:31:12 POSTED facebook@Vijayendra-Singh eecda9d3: 1317760538089559_122128503105480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794396663.1045127,
-  "facebook@Vinzap-Finds": 1794396663.1045127,
-  "facebook@Vijayendra-Singh": 1794396663.1045127,
-  "youtube": 1794389471.5310163
+  "instagram@Vinzap-Finds": 1794398453.9563851,
+  "facebook@Vinzap-Finds": 1794398453.9563851,
+  "facebook@Vijayendra-Singh": 1794398453.9563851,
+  "youtube": 1794389051.5310163
  },
- "n": 513
+ "n": 514
 }
