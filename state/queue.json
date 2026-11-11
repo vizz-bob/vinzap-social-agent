@@ -1,66 +1,6 @@
 {
  "items": [
   {
-   "id": "991dcec1",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Drain Cleaner Powder",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 69,
-    "was": 0,
-    "feats": [
-     "All Pipe Safe Drain Cleaner"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Drain Cleaner Powder | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Drain Cleaner Powder"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDrain Cleaner Powder\n✔ All Pipe Safe Drain Cleaner\n\nOnly ₹69. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
-   "title": "Drain Cleaner Powder",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794058246.6307847,
-     "id": "18351232090268720",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794058246.6307847,
-     "id": "1428352113685678_122116439127501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794058246.6307847,
-     "id": "1317760538089559_122127210015480728",
-     "dry": false
-    }
-   },
-   "created": 1794058244.8101382,
-   "after": 0,
-   "handle": "1383-all-pipe-safe-drain-cleaner-powder-clear-clogged-sinks-pipes-50-gram-pack",
-   "product_url": "https://www.vinzapstore.in/products/1383-all-pipe-safe-drain-cleaner-powder-clear-clogged-sinks-pipes-50-gram-pack",
-   "file": "991dcec1.jpg",
-   "thumb": "991dcec1.jpg"
-  },
-  {
    "id": "f85cf2c3",
    "status": "scheduled",
    "kind": "reel",
@@ -5479,14 +5419,72 @@
      "id": "1169213372332808"
     }
    }
+  },
+  {
+   "id": "1fc5fc13",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "2 in 1 Fruit Scooper and Cutter Tool",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Dual-function design with fruit",
+     "Easy slicing and scooping of soft",
+     "Smooth edges for safe"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "2 in 1 Fruit Scooper and Cutter Tool | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2 in 1 Fruit Scooper and Cutter Tool"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2 in 1 Fruit Scooper and Cutter Tool\n✔ Dual-function design with fruit\n✔ Easy slicing and scooping of soft\n✔ Smooth edges for safe\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
+   "title": "2 in 1 Fruit Scooper and Cutter Tool",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794391262.794599,
+     "id": "18132771731511453",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794391262.794599,
+     "id": "1428352113685678_122117565957501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794391262.794599,
+     "id": "1317760538089559_122128459473480728",
+     "dry": false
+    }
+   },
+   "created": 1794391261.0388453,
+   "after": 0,
+   "handle": "2-in-1-fruit-scooper-and-cutter-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/2-in-1-fruit-scooper-and-cutter-tool-1-pc",
+   "file": "1fc5fc13.jpg",
+   "thumb": "1fc5fc13.jpg"
   }
  ],
- "last_post": 1794389471.5310163,
+ "last_post": 1794391262.794599,
  "log": [
-  "18:01:07 POSTED facebook@Vinzap-Finds 4c5ee5a1: 1428352113685678_122117043723501659",
-  "18:01:11 POSTED facebook@Vijayendra-Singh 4c5ee5a1: 1317760538089559_122127846339480728",
-  "18:31:06 READY ab427f8c Premium Non-Stick Rice Serving Spoon | Cooking (auto-approved)",
-  "18:31:42 POSTED instagram@Vinzap-Finds ab427f8c: 17926216215442561",
   "18:31:46 POSTED facebook@Vinzap-Finds ab427f8c: 2014627072562221",
   "18:31:47 FAILED post facebook@Vijayendra-Singh ab427f8c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuiyk4eEKmb1UQ5-7_19U1ij0nXSj9fjLPnXiInRRucp0PLHZ-LIYYfe3PzfxTvDMb90CK1a2JfFafjnBKMyMpaCihNr7gzTwWKPCVr87mWJ5e1xlz9sJabfa9JaEjtlrCDmnBQ1T-HiAn61rqX4ipASMcC1uqSOuMJu_wsbEf1OsAaybvDFjn8nMHES_JsjZd2-6EdDjvpZyu4Ml8PUzrh28bhNzVn0SHuzoHVhfIySZycxED6FSLSlt-r-a8j8MIItinZxGl_iT2Aq260zJ2lNAyLckd8NWHlrlHxy0V0l1onM2jh3Jj06rHljHF755Q\",\"help_cente",
   "18:31:47 FAILED post youtube ab427f8c: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
@@ -5682,13 +5680,17 @@
   "15:01:57 FAILED post youtube f1db50f5: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "15:02:31 STORY POSTED instagram@Vinzap-Finds f1db50f5",
   "15:02:39 STORY POSTED facebook@Vinzap-Finds f1db50f5",
-  "15:02:48 STORY POSTED facebook@Vijayendra-Singh f1db50f5"
+  "15:02:48 STORY POSTED facebook@Vijayendra-Singh f1db50f5",
+  "15:31:02 READY 1fc5fc13 2 in 1 Fruit Scooper and Cutter Tool (auto-approved)",
+  "15:31:14 POSTED instagram@Vinzap-Finds 1fc5fc13: 18132771731511453",
+  "15:31:17 POSTED facebook@Vinzap-Finds 1fc5fc13: 1428352113685678_122117565957501659",
+  "15:31:20 POSTED facebook@Vijayendra-Singh 1fc5fc13: 1317760538089559_122128459473480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794389471.5310163,
-  "facebook@Vinzap-Finds": 1794389471.5310163,
-  "facebook@Vijayendra-Singh": 1794389471.5310163,
+  "instagram@Vinzap-Finds": 1794391262.794599,
+  "facebook@Vinzap-Finds": 1794391262.794599,
+  "facebook@Vijayendra-Singh": 1794391262.794599,
   "youtube": 1794389471.5310163
  },
- "n": 509
+ "n": 510
 }
