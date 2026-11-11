@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "1eb88ceb",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Plastic Forks",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 89,
-    "was": 0,
-    "feats": [
-     "Bold Design: Bright",
-     "Strong Build: Durable plastic",
-     "Versatile Use: Great for pasta"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Disposable Plastic Forks | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Plastic Forks"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Plastic Forks\n✔ Bold Design: Bright\n✔ Strong Build: Durable plastic\n✔ Versatile Use: Great for pasta\n\nOnly ₹89. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Disposable Plastic Forks | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794045675.3279743,
-     "id": "18129527329876013",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794045675.3279743,
-     "id": "2186957612224075",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794045675.3279743,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesZxgRA4LHdw4ZgWhVdw2aKoc"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794045675.3279743,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794045654.347597,
-   "after": 0,
-   "handle": "premium-disposable-plastic-forks-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/premium-disposable-plastic-forks-1-pc",
-   "file": "1eb88ceb.mp4",
-   "thumb": "1eb88ceb_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18094249157694123"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1106687918667024"
-    }
-   }
-  },
-  {
    "id": "27ac3834",
    "status": "posted",
    "kind": "image",
@@ -5490,17 +5413,85 @@
    "product_url": "https://www.vinzapstore.in/products/hand-shaped-kankavati-kumkum-holder-for-puja-and-tilak-rituals-1-pc",
    "file": "5c0fd7ba.jpg",
    "thumb": "5c0fd7ba.jpg"
+  },
+  {
+   "id": "e212c6ad",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Large Stainless Steel Chopping Board",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 469,
+    "was": 0,
+    "feats": [
+     "Large Stainless Steel Chopping"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Large Stainless Steel Chopping Board | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Large Stainless Steel Chopping Board"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLarge Stainless Steel Chopping Board\n✔ Large Stainless Steel Chopping\n\nOnly ₹469. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Large Stainless Steel Chopping Board | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794378674.8836358,
+     "id": "18000747423002236",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794378674.8836358,
+     "id": "1179628061392366",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794378674.8836358,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AescgNRG-enaNoISAsUZYvtSjw"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794378674.8836358,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794378654.1442606,
+   "after": 0,
+   "handle": "large-stainless-steel-chopping-cutting-board-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/large-stainless-steel-chopping-cutting-board-1-pc",
+   "file": "e212c6ad.mp4",
+   "thumb": "e212c6ad_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17995583415063540"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1824705691912734"
+    }
+   }
   }
  ],
- "last_post": 1794330949.0156279,
+ "last_post": 1794378674.8836358,
  "log": [
-  "14:32:13 READY f2b107fc Decorative Silver Serving Tray | Home Decor (auto-approved)",
-  "14:32:49 POSTED instagram@Vinzap-Finds f2b107fc: 17981816277136772",
-  "14:32:55 POSTED facebook@Vinzap-Finds f2b107fc: 2229416584622468",
-  "14:32:56 FAILED post facebook@Vijayendra-Singh f2b107fc: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeueZUlsQFhX5Df5OXo307XjA7WrgWBxuKLcfCfSAGAtP2fJ53PDiRf9gf7HhABC_xyUthKCFslbme8RJlqa9dvCzIZhJdfpfAXmXwNazXw1SaIgSoT_DV0m5lmm6UBJGfIwJ82_Mg7aW8Pgdohh2EGmXRL9EJCGx0oZ6NR2fzoJnYqVB4sLAfTOhUkNd1FgOqtmRGpRsE7KJAIhoBR1yT7emvyl3FhwQ9cqrrnzVv5Lx44cZ0LU7r8AegKdTBM3L7Ki9WfF_0gItqyve0NUGP3_V1RQafHTaJu1JzTzFvcqArxlENuxo75c67gKdKdfo663\",\"help_cent",
-  "14:33:26 STORY POSTED instagram@Vinzap-Finds f2b107fc",
-  "14:33:34 STORY POSTED facebook@Vinzap-Finds f2b107fc",
-  "15:01:32 READY dec8be58 Fresca Stainless Steel Lunch Box (auto-approved)",
   "15:01:46 POSTED instagram@Vinzap-Finds dec8be58: 17924411499444305",
   "15:01:51 POSTED facebook@Vinzap-Finds dec8be58: 1428352113685678_122117008845501659",
   "15:01:54 POSTED facebook@Vijayendra-Singh dec8be58: 1317760538089559_122127788679480728",
@@ -5693,13 +5684,20 @@
   "22:45:49 READY 5c0fd7ba Hand Shaped Kumkum Holder Kankavati (auto-approved)",
   "22:46:03 POSTED instagram@Vinzap-Finds 5c0fd7ba: 18349550209249991",
   "22:46:08 POSTED facebook@Vinzap-Finds 5c0fd7ba: 1428352113685678_122117382063501659",
-  "22:46:12 POSTED facebook@Vijayendra-Singh 5c0fd7ba: 1317760538089559_122128258029480728"
+  "22:46:12 POSTED facebook@Vijayendra-Singh 5c0fd7ba: 1317760538089559_122128258029480728",
+  "12:01:14 READY e212c6ad Large Stainless Steel Chopping Board | Kitchen Gadgets (auto-approved)",
+  "12:01:54 POSTED instagram@Vinzap-Finds e212c6ad: 18000747423002236",
+  "12:01:58 POSTED facebook@Vinzap-Finds e212c6ad: 1179628061392366",
+  "12:01:59 FAILED post facebook@Vijayendra-Singh e212c6ad: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AescgNRG-enaNoISAsUZYvtSjwAtVnqiYOkONxPkP4G-C40ox9CCeEokJAXRx1ynOMp30PKtt_9ull1minuJ55QzFm2wHB7LqpvGDAnu7p0rFtT6Ybp6sP7DhyILRIi6CYIxIUStD9Un00dChgP04vtNTN5VtnTHc6k90rhs7pG5QbYxat7IXai0RK5BHw3CmO8zN6Ot262YMP7uPh7-GEpEekgak9SISDzi9r1ws2kc-h5h3Oc_VaxCnKpN0LR43q7ARhVJ7Vbw5-1X_LDLKqVzK7XY0LD6KeOgy5r2Lft_BmhwWXVOqa07i7WBGEG-J3Cr\",\"help_cent",
+  "12:01:59 FAILED post youtube e212c6ad: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:02:29 STORY POSTED instagram@Vinzap-Finds e212c6ad",
+  "12:02:36 STORY POSTED facebook@Vinzap-Finds e212c6ad"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794330949.0156279,
-  "facebook@Vinzap-Finds": 1794330949.0156279,
-  "facebook@Vijayendra-Singh": 1794330949.0156279,
-  "youtube": 1794329174.2779052
+  "instagram@Vinzap-Finds": 1794378674.8836358,
+  "facebook@Vinzap-Finds": 1794378674.8836358,
+  "facebook@Vijayendra-Singh": 1794378674.8836358,
+  "youtube": 1794378674.8836358
  },
- "n": 502
+ "n": 503
 }
