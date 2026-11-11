@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "7cc93d98",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Soft Facial Tissue Paper Napkins Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "50 pcs value pack – convenient",
-     "Made from high-quality pulp paper",
-     "Highly absorbent – ideal"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Soft Facial Tissue Paper Napkins Set | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Soft Facial Tissue Paper Napkins Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSoft Facial Tissue Paper Napkins Set\n✔ 50 pcs value pack – convenient\n✔ Made from high-quality pulp paper\n✔ Highly absorbent – ideal\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Soft Facial Tissue Paper Napkins Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794069047.9868112,
-     "id": "18110765174245672",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794069047.9868112,
-     "id": "1428352113685678_122116477443501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794069047.9868112,
-     "id": "1317760538089559_122127240891480728",
-     "dry": false
-    }
-   },
-   "created": 1794069046.0050616,
-   "after": 0,
-   "handle": "soft-facial-tissue-paper-napkins-set-50-pcs-set",
-   "product_url": "https://www.vinzapstore.in/products/soft-facial-tissue-paper-napkins-set-50-pcs-set",
-   "file": "7cc93d98.jpg",
-   "thumb": "7cc93d98.jpg"
-  },
-  {
    "id": "f5a16da7",
    "status": "scheduled",
    "kind": "reel",
@@ -5476,14 +5414,72 @@
      "id": "1750259129404102"
     }
    }
+  },
+  {
+   "id": "17138954",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Cute Cartoon Double Layer Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 1999,
+    "was": 0,
+    "feats": [
+     "Double layer for separate food",
+     "Cartoon-themed look",
+     "Side locks and a carry handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Cute Cartoon Double Layer Lunch Box | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Cute Cartoon Double Layer Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCute Cartoon Double Layer Lunch Box\n✔ Double layer for separate food\n✔ Cartoon-themed look\n✔ Side locks and a carry handle\n\nOnly ₹1999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
+   "title": "Cute Cartoon Double Layer Lunch Box",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794402064.57934,
+     "id": "17994641994053199",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794402064.57934,
+     "id": "1428352113685678_122117605269501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794402064.57934,
+     "id": "1317760538089559_122128518699480728",
+     "dry": false
+    }
+   },
+   "created": 1794402062.2979681,
+   "after": 0,
+   "handle": "cute-cartoon-double-layer-lunch-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/cute-cartoon-double-layer-lunch-box-1-pc",
+   "file": "17138954.jpg",
+   "thumb": "17138954.jpg"
   }
  ],
- "last_post": 1794400278.2261457,
+ "last_post": 1794402064.57934,
  "log": [
-  "21:31:18 READY 02cb969e Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets (auto-approved)",
-  "21:31:57 POSTED instagram@Vinzap-Finds 02cb969e: 18044794907833740",
-  "21:32:00 POSTED facebook@Vinzap-Finds 02cb969e: 1662389885274713",
-  "21:32:02 FAILED post facebook@Vijayendra-Singh 02cb969e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevezBcGAsbXnJBZ5xkh-Ev0z83Fi9dfiHfhx9Ioi3jyCOuN88XJTQ6EIv_E3xWy-l9P1fM3zsds9VB6nanj4c31uV86sRIUVjRFw_MeB4J0a8KMzjzbIXZ_0L9sNfO655cvAX88-rNGEA0dgU2fJBoajNND7hU3l_HhzhDasdsYyR_cxWfArkPWicYpjaUaAM7UhmP8624ItqbAwIWQ58VrwItQC7U6e7b0Gb2LAOTmLiX-bnjnkFm4TStjBLwRRebttiMxh-0fDFCTMgfik3zhd4oyuv3AYG8Qy3HACuNStsZr8CC9rRTgBIb6nVQxOA\",\"help_center",
   "21:32:02 FAILED post youtube 02cb969e: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "21:32:32 STORY POSTED instagram@Vinzap-Finds 02cb969e",
   "21:32:40 STORY POSTED facebook@Vinzap-Finds 02cb969e",
@@ -5679,13 +5675,17 @@
   "18:02:02 FAILED post facebook@Vijayendra-Singh c4502c07: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevUpDH_SCtH2oUfaOS18x4LHA6JQrwYL-kanrxO5zAamtpT1wTNeav9nW8Ku7g_tKgZBf4i2JGe-YRbR63AMUdIYhD8mpK_WeqmkhqfwbjDuZhQ1ZHrioGzQ7lWX98AetZuYZpImpOcWnneduWWKDy-t19CjGPLqHEB0TwC1ltrDeM_NOch6G7_PZYqYR_QJB7B3i4SfIjxy75P6L03fcNeTFhUeOKpoGs99uFAbV85IKYRJbg-D05YK72YQtfddKrPEMDBLY6w9u7pKPmPVEB9dXMACxaWBZ4muVkre9IW6JuAGh4LTkinGx_IgCUwbmOI\",\"help_cent",
   "18:02:02 FAILED post youtube c4502c07: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "18:02:40 STORY POSTED instagram@Vinzap-Finds c4502c07",
-  "18:02:53 STORY POSTED facebook@Vinzap-Finds c4502c07"
+  "18:02:53 STORY POSTED facebook@Vinzap-Finds c4502c07",
+  "18:31:04 READY 17138954 Cute Cartoon Double Layer Lunch Box (auto-approved)",
+  "18:31:14 POSTED instagram@Vinzap-Finds 17138954: 17994641994053199",
+  "18:31:17 POSTED facebook@Vinzap-Finds 17138954: 1428352113685678_122117605269501659",
+  "18:31:21 POSTED facebook@Vijayendra-Singh 17138954: 1317760538089559_122128518699480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794400278.2261457,
-  "facebook@Vinzap-Finds": 1794400278.2261457,
-  "facebook@Vijayendra-Singh": 1794400278.2261457,
+  "instagram@Vinzap-Finds": 1794402064.57934,
+  "facebook@Vinzap-Finds": 1794402064.57934,
+  "facebook@Vijayendra-Singh": 1794402064.57934,
   "youtube": 1794400278.2261457
  },
- "n": 515
+ "n": 516
 }
