@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "5d5a1016",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Natural Wood Chopping Board",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 459,
-    "was": 0,
-    "feats": [
-     "Wooden cutting board is made from",
-     "It is Ideal for chopping",
-     "Thick Bamboo that can withstand"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Natural Wood Chopping Board | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Natural Wood Chopping Board"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nNatural Wood Chopping Board\n✔ Wooden cutting board is made from\n✔ It is Ideal for chopping\n✔ Thick Bamboo that can withstand\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Natural Wood Chopping Board | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794056483.7660336,
-     "id": "17897423082612584",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794056483.7660336,
-     "id": "2154729208584972",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794056483.7660336,
-     "id": "1683381736737919",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794056483.7660336,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794056458.1418426,
-   "after": 0,
-   "handle": "2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
-   "product_url": "https://www.vinzapstore.in/products/2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
-   "file": "5d5a1016.mp4",
-   "thumb": "5d5a1016_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17913248712473177"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1681548946822767"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "3297940203929768"
-    }
-   }
-  },
-  {
    "id": "991dcec1",
    "status": "posted",
    "kind": "image",
@@ -5481,18 +5399,90 @@
    "product_url": "https://www.vinzapstore.in/products/400-ml-glass-water-bottle-with-silicone-sleeve-for-gym-office-1-pc",
    "file": "4955548c.jpg",
    "thumb": "4955548c.jpg"
+  },
+  {
+   "id": "f1db50f5",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Knife Sharpening Stone Silicon Carbide",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "Combination Sharpening Stone –"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Knife Sharpening Stone Silicon Carbide | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Knife Sharpening Stone Silicon Carbide"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKnife Sharpening Stone Silicon Carbide\n✔ Combination Sharpening Stone –\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Knife Sharpening Stone Silicon Carbide | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794389471.5310163,
+     "id": "18033228110685256",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794389471.5310163,
+     "id": "1160171910289642",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794389471.5310163,
+     "id": "4180700368889060",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794389471.5310163,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794389445.775087,
+   "after": 0,
+   "handle": "combination-knife-sharpening-stone-silicon-carbide-whetstone-b-grade-1-pc-1",
+   "product_url": "https://www.vinzapstore.in/products/combination-knife-sharpening-stone-silicon-carbide-whetstone-b-grade-1-pc-1",
+   "file": "f1db50f5.mp4",
+   "thumb": "f1db50f5_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18120047078326455"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1117790031018658"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1169213372332808"
+    }
+   }
   }
  ],
- "last_post": 1794387666.543158,
+ "last_post": 1794389471.5310163,
  "log": [
-  "17:31:09 READY 012254ed Mini Tabletop Dustbin 1200ml | Trending Shorts (auto-approved)",
-  "17:31:43 POSTED instagram@Vinzap-Finds 012254ed: 18084036344364092",
-  "17:31:47 POSTED facebook@Vinzap-Finds 012254ed: 1111877308361902",
-  "17:31:48 FAILED post facebook@Vijayendra-Singh 012254ed: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetamUsepnubuWkiIghfOcG9ZA8c-KO8xZ8xwGBsVRSLYOq-Lr39ra8EcasNVDlif4LqzJO0yVTV0vFyLW62gqLYjRUNsZhSrBdZKcaOhA65BdzV6FIhDo4VuuqA0gC8poRjhJE4jD0eb9FR6gKSsgQ0kIfFMAx_1_KOB4tya1B2JjN9A5QpUv10MFOX1sHKoUlGVcb7w5CAnEGFJbDQur2xrWOfceSIgyurhw9nvJC9pk68DEYlqvCcb0hVm2tXUI0z3-1jJ_8W1G3TqaxYRIm0J6xVV_rTQ4VUtXoeDd23-XCNq74tjjdjVLlEpywQJ_4\",\"help_cente",
-  "17:32:16 STORY POSTED instagram@Vinzap-Finds 012254ed",
-  "17:32:24 STORY POSTED facebook@Vinzap-Finds 012254ed",
-  "18:00:53 READY 4c5ee5a1 Reusable Plastic Spoon Set of 20 (auto-approved)",
-  "18:01:03 POSTED instagram@Vinzap-Finds 4c5ee5a1: 18093962567229571",
   "18:01:07 POSTED facebook@Vinzap-Finds 4c5ee5a1: 1428352113685678_122117043723501659",
   "18:01:11 POSTED facebook@Vijayendra-Singh 4c5ee5a1: 1317760538089559_122127846339480728",
   "18:31:06 READY ab427f8c Premium Non-Stick Rice Serving Spoon | Cooking (auto-approved)",
@@ -5684,13 +5674,21 @@
   "14:31:06 READY 4955548c Glass Water Bottle 400ml (auto-approved)",
   "14:31:19 POSTED instagram@Vinzap-Finds 4955548c: 18108940168980948",
   "14:31:21 POSTED facebook@Vinzap-Finds 4955548c: 1428352113685678_122117553441501659",
-  "14:31:25 POSTED facebook@Vijayendra-Singh 4955548c: 1317760538089559_122128443189480728"
+  "14:31:25 POSTED facebook@Vijayendra-Singh 4955548c: 1317760538089559_122128443189480728",
+  "15:01:11 READY f1db50f5 Knife Sharpening Stone Silicon Carbide | Kitchen Gadgets (auto-approved)",
+  "15:01:48 POSTED instagram@Vinzap-Finds f1db50f5: 18033228110685256",
+  "15:01:52 POSTED facebook@Vinzap-Finds f1db50f5: 1160171910289642",
+  "15:01:57 POSTED facebook@Vijayendra-Singh f1db50f5: 4180700368889060",
+  "15:01:57 FAILED post youtube f1db50f5: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "15:02:31 STORY POSTED instagram@Vinzap-Finds f1db50f5",
+  "15:02:39 STORY POSTED facebook@Vinzap-Finds f1db50f5",
+  "15:02:48 STORY POSTED facebook@Vijayendra-Singh f1db50f5"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794387666.543158,
-  "facebook@Vinzap-Finds": 1794387666.543158,
-  "facebook@Vijayendra-Singh": 1794387666.543158,
-  "youtube": 1794378254.8836358
+  "instagram@Vinzap-Finds": 1794389471.5310163,
+  "facebook@Vinzap-Finds": 1794389471.5310163,
+  "facebook@Vijayendra-Singh": 1794389471.5310163,
+  "youtube": 1794389471.5310163
  },
- "n": 508
+ "n": 509
 }
