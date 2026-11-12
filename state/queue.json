@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "fdf9a3f8",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "2 trays with 14-grid design each",
-     "Each tray comes with a lid",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Ice Cube Tray | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 2 trays with 14-grid design each\n✔ Each tray comes with a lid\n✔ Easy release design\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Ice Cube Tray | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794142876.3703756,
-     "id": "18353953684282625",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794142876.3703756,
-     "id": "2090175762385191",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794142876.3703756,
-     "id": "1001310605674470",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794142876.3703756,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794142852.6091828,
-   "after": 0,
-   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-pack-of-2-14-grid-each",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-pack-of-2-14-grid-each",
-   "file": "fdf9a3f8.mp4",
-   "thumb": "fdf9a3f8_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18104981720166405"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1149680907637751"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2163266291061287"
-    }
-   }
-  },
-  {
    "id": "2e9a31ae",
    "status": "posted",
    "kind": "image",
@@ -5468,18 +5386,92 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-100-pc-1",
    "file": "65fd9fe1.jpg",
    "thumb": "65fd9fe1.jpg"
+  },
+  {
+   "id": "ab58cf6b",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Supermom Multipurpose Triangular Kitchen",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 599,
+    "was": 0,
+    "feats": [
+     "Multipurpose: vegetables",
+     "Evenly spaced drainage holes",
+     "Handle for a firm grip when"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Supermom Multipurpose Triangular Kitchen | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Supermom Multipurpose Triangular Kitchen"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Multipurpose Triangular Kitchen\n✔ Multipurpose: vegetables\n✔ Evenly spaced drainage holes\n✔ Handle for a firm grip when\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Supermom Multipurpose Triangular Kitchen | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794486662.1313984,
+     "id": "18114355361600266",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794486662.1313984,
+     "id": "1134521012741434",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794486662.1313984,
+     "id": "1145661914712172",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794486662.1313984,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794486645.3249035,
+   "after": 0,
+   "handle": "supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
+   "file": "ab58cf6b.mp4",
+   "thumb": "ab58cf6b_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18109083665570710"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2625650981228166"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "973818908725522"
+    }
+   }
   }
  ],
- "last_post": 1794484926.649455,
+ "last_post": 1794486662.1313984,
  "log": [
-  "18:16:43 POSTED instagram@Vinzap-Finds 5fc050ec: 18039809354814641",
-  "18:16:47 POSTED facebook@Vinzap-Finds 5fc050ec: 1127390260117229",
-  "18:16:48 FAILED post facebook@Vijayendra-Singh 5fc050ec: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetw2KQRBH0ooNPsuSHJd45ujehs5EDbqp21d5B-hrK9C-23-6Dr2oWhumXEoi7ETyJMjE1MuAJm0KoG3dKypoKH_AtP41vlN0Kic3YoxDEBC4fQzIBHPAOf0UqryosZivr2yF_vxCnVRQUS_XAfzIKZhI6cJNVUrKwrzQsoGm0hTwo9aAvT0eGwBgXooMwMfVU_oz1o4Ffbc2AtkJHxhxS2lYlyOJgJBive5fBSwsvi7JSnEch6bgO5aIKU4vzxB4JrQPz7Sl0d9aWyooLL0t--HQnvL9-cH8I4NQUzU376OrH_PlD5Nkt1ghIaBrcdJw8\",\"help_cente",
-  "18:17:21 STORY POSTED instagram@Vinzap-Finds 5fc050ec",
-  "18:17:28 STORY POSTED facebook@Vinzap-Finds 5fc050ec",
-  "18:45:44 READY cb6528c1 Cartoon Self Adhesive Hooks, Set of 2 (auto-approved)",
-  "18:45:58 POSTED instagram@Vinzap-Finds cb6528c1: 18121711379060186",
-  "18:46:01 POSTED facebook@Vinzap-Finds cb6528c1: 1428352113685678_122117332311501659",
   "18:46:04 POSTED facebook@Vijayendra-Singh cb6528c1: 1317760538089559_122128205613480728",
   "19:28:14 READY 9ba2dcb3 Disposable Clear Plastic Gloves Large | Kitchen Gadgets (auto-approved)",
   "19:28:49 POSTED instagram@Vinzap-Finds 9ba2dcb3: 18202346563382946",
@@ -5671,13 +5663,21 @@
   "17:32:06 READY 65fd9fe1 Disposable Small Plastic Gloves (auto-approved)",
   "17:32:15 POSTED instagram@Vinzap-Finds 65fd9fe1: 18132819949837456",
   "17:32:20 POSTED facebook@Vinzap-Finds 65fd9fe1: 1428352113685678_122117847519501659",
-  "17:32:24 POSTED facebook@Vijayendra-Singh 65fd9fe1: 1317760538089559_122128859883480728"
+  "17:32:24 POSTED facebook@Vijayendra-Singh 65fd9fe1: 1317760538089559_122128859883480728",
+  "18:01:02 READY ab58cf6b Supermom Multipurpose Triangular Kitchen | Home Decor Ideas (auto-approved)",
+  "18:01:30 POSTED instagram@Vinzap-Finds ab58cf6b: 18114355361600266",
+  "18:01:34 POSTED facebook@Vinzap-Finds ab58cf6b: 1134521012741434",
+  "18:01:38 POSTED facebook@Vijayendra-Singh ab58cf6b: 1145661914712172",
+  "18:01:38 FAILED post youtube ab58cf6b: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "18:02:06 STORY POSTED instagram@Vinzap-Finds ab58cf6b",
+  "18:02:14 STORY POSTED facebook@Vinzap-Finds ab58cf6b",
+  "18:02:21 STORY POSTED facebook@Vijayendra-Singh ab58cf6b"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794484926.649455,
-  "facebook@Vinzap-Finds": 1794484926.649455,
-  "facebook@Vijayendra-Singh": 1794484926.649455,
-  "youtube": 1794475459.10639
+  "instagram@Vinzap-Finds": 1794486662.1313984,
+  "facebook@Vinzap-Finds": 1794486662.1313984,
+  "facebook@Vijayendra-Singh": 1794486662.1313984,
+  "youtube": 1794486662.1313984
  },
- "n": 530
+ "n": 531
 }
