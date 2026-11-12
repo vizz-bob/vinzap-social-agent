@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "a54c04c1",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Foldable Travel Cup",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 439,
-    "was": 0,
-    "feats": [
-     "Collapsible silicone body folds",
-     "Includes a reusable straw",
-     "Food-grade silicone construction"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Silicone Foldable Travel Cup | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Foldable Travel Cup"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Foldable Travel Cup\n✔ Collapsible silicone body folds\n✔ Includes a reusable straw\n✔ Food-grade silicone construction\n\nOnly ₹439. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Silicone Foldable Travel Cup | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794124884.3424473,
-     "id": "17952928986302707",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794124884.3424473,
-     "id": "4789832817919443",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794124884.3424473,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevoe5zXoZz1mmZGIgh20W5jAr"
-    }
-   },
-   "created": 1794124858.258052,
-   "after": 0,
-   "handle": "silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
-   "file": "a54c04c1.mp4",
-   "thumb": "a54c04c1_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18655919068029137"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2417895785693858"
-    }
-   }
-  },
-  {
    "id": "0afb5f88",
    "status": "posted",
    "kind": "image",
@@ -5466,16 +5394,80 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-protein-tumbler-with-secure-flip-lid-400ml-approx",
    "file": "5fd81854.jpg",
    "thumb": "5fd81854.jpg"
+  },
+  {
+   "id": "01701bf0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Push Soap Dispenser 300ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "Apex Push It! Soap Dispenser |"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Push Soap Dispenser 300ml | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Push Soap Dispenser 300ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPush Soap Dispenser 300ml\n✔ Apex Push It! Soap Dispenser |\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#trendingshorts #kitchengadgets",
+   "title": "Push Soap Dispenser 300ml | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794468662.1246252,
+     "id": "18183744253431790",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794468662.1246252,
+     "id": "1391085992978557",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794468662.1246252,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesG4MV8Cui9ap2nQ68BCOdzFR"
+    }
+   },
+   "created": 1794468644.9894607,
+   "after": 0,
+   "handle": "apex-push-it-soap-dispenser-approx-300ml-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-push-it-soap-dispenser-approx-300ml-1-pc",
+   "file": "01701bf0.mp4",
+   "thumb": "01701bf0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18138078727656055"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1681573226742815"
+    }
+   }
   }
  ],
- "last_post": 1794466859.0695965,
+ "last_post": 1794468662.1246252,
  "log": [
-  "12:46:45 POSTED facebook@Vijayendra-Singh f17789ec: 1136055715591262",
-  "12:46:45 FAILED post youtube f17789ec: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "12:47:18 STORY POSTED instagram@Vinzap-Finds f17789ec",
-  "12:47:26 STORY POSTED facebook@Vinzap-Finds f17789ec",
-  "12:47:35 STORY POSTED facebook@Vijayendra-Singh f17789ec",
-  "13:15:35 READY 58b8d70b Pav Bhaji Masher (auto-approved)",
   "13:15:45 POSTED instagram@Vinzap-Finds 58b8d70b: 18095034347188189",
   "13:15:49 POSTED facebook@Vinzap-Finds 58b8d70b: 1428352113685678_122117256009501659",
   "13:15:52 POSTED facebook@Vijayendra-Singh 58b8d70b: 1317760538089559_122128121817480728",
@@ -5669,13 +5661,19 @@
   "12:30:59 READY 5fd81854 Protein Shaker Tumbler 400ml (auto-approved)",
   "12:31:10 POSTED instagram@Vinzap-Finds 5fd81854: 18103154318673572",
   "12:31:13 POSTED facebook@Vinzap-Finds 5fd81854: 1428352113685678_122117789949501659",
-  "12:31:17 POSTED facebook@Vijayendra-Singh 5fd81854: 1317760538089559_122128758435480728"
+  "12:31:17 POSTED facebook@Vijayendra-Singh 5fd81854: 1317760538089559_122128758435480728",
+  "13:01:02 READY 01701bf0 Push Soap Dispenser 300ml | Trending Shorts (auto-approved)",
+  "13:01:39 POSTED instagram@Vinzap-Finds 01701bf0: 18183744253431790",
+  "13:01:45 POSTED facebook@Vinzap-Finds 01701bf0: 1391085992978557",
+  "13:01:46 FAILED post facebook@Vijayendra-Singh 01701bf0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesG4MV8Cui9ap2nQ68BCOdzFRKTRupiAFfDHMx_1C7XfNrdCz2ZwuK5nl4gPY5c1y69-sKqm4OF2VfctDc1rkOT7lRagys2hEmr7EuLgYVUVt5MMv22w4Ld-U62qOjp4jtmRGmmbIPFajGNlAcYas04zGlwDN78Sw7cghxu5puT--Wbcxe3KJX7ciwPMwd-YUfyFr5iyEdl4CpSYBi4bzJbR4Su5_96DAKcbXV5KzwKiTbGTOq1R_hcBwzbvw4YGG4_74SyHdK8rFQp48iTMSbCAEr_p7P4FDJT7AbsnDrGVJH2C7TFi0MMtqBhwAygqccX\",\"help_cent",
+  "13:02:18 STORY POSTED instagram@Vinzap-Finds 01701bf0",
+  "13:02:27 STORY POSTED facebook@Vinzap-Finds 01701bf0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794466859.0695965,
-  "facebook@Vinzap-Finds": 1794466859.0695965,
-  "facebook@Vijayendra-Singh": 1794466859.0695965,
+  "instagram@Vinzap-Finds": 1794468662.1246252,
+  "facebook@Vinzap-Finds": 1794468662.1246252,
+  "facebook@Vijayendra-Singh": 1794468662.1246252,
   "youtube": 1794465085.4044993
  },
- "n": 520
+ "n": 521
 }
