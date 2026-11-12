@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "a6cebfd0",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Cooking Spatula 18cm",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "High-Quality Silicone: Made from",
-     "Versatile Usage: Suitable",
-     "Convenient Kitchen Aid:"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Silicone Cooking Spatula 18cm | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Cooking Spatula 18cm"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Cooking Spatula 18cm\n✔ High-Quality Silicone: Made from\n✔ Versatile Usage: Suitable\n✔ Convenient Kitchen Aid:\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Silicone Cooking Spatula 18cm",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794151858.7482488,
-     "id": "17911709226578937",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794151858.7482488,
-     "id": "1428352113685678_122116768161501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794151858.7482488,
-     "id": "1317760538089559_122127524775480728",
-     "dry": false
-    }
-   },
-   "created": 1794151856.9091172,
-   "after": 0,
-   "handle": "silicone-cooking-spatula-for-baking-1-pc-18-cm",
-   "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-18-cm",
-   "file": "a6cebfd0.jpg",
-   "thumb": "a6cebfd0.jpg"
-  },
-  {
    "id": "a1af4ba0",
    "status": "scheduled",
    "kind": "reel",
@@ -5470,14 +5408,72 @@
      "id": "1156104946917585"
     }
    }
+  },
+  {
+   "id": "77175ce1",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "2-in-1 Pet Food Scoop",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 119,
+    "was": 0,
+    "feats": [
+     "Dual Function Design: Works as",
+     "Durable & Safe Material: Made",
+     "Ergonomic Handle: Comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "2-in-1 Pet Food Scoop | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2-in-1 Pet Food Scoop"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Pet Food Scoop\n✔ Dual Function Design: Works as\n✔ Durable & Safe Material: Made\n✔ Ergonomic Handle: Comfortable\n\nOnly ₹119. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #petlovers #petessentials\n#kitchengadgets #kitchenorganization",
+   "title": "2-in-1 Pet Food Scoop",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794495728.5766206,
+     "id": "18222410329349393",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794495728.5766206,
+     "id": "1428352113685678_122117883705501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794495728.5766206,
+     "id": "1317760538089559_122128899471480728",
+     "dry": false
+    }
+   },
+   "created": 1794495726.6236675,
+   "after": 0,
+   "handle": "2-in-1-pet-food-scoop-with-bag-clip",
+   "product_url": "https://www.vinzapstore.in/products/2-in-1-pet-food-scoop-with-bag-clip",
+   "file": "77175ce1.jpg",
+   "thumb": "77175ce1.jpg"
   }
  ],
- "last_post": 1794493876.5232615,
+ "last_post": 1794495728.5766206,
  "log": [
-  "21:17:39 READY df8d32b5 Round Ice Ball Maker Tray, 2-in-1 Portable, | Diwali (auto-approved)",
-  "21:18:17 POSTED instagram@Vinzap-Finds df8d32b5: 18414426691090711",
-  "21:18:22 POSTED facebook@Vinzap-Finds df8d32b5: 1678352366969650",
-  "21:18:23 FAILED post facebook@Vijayendra-Singh df8d32b5: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetFOpLjsGRHyYaGx5aEP2yMty2PS5eg59T2SAtgF2OIxjN6FwGzGkCMPjkOaKWsCgOgcVYaAlaBCth7bXMQaID8Pw1LuA9CA2l8IZkJyno_fdIRWD1WcfsibNWV9ccahPvQYOaq12RpY700IyeCJf0RreBowhjnPE-qlJCnQD8wGyp11sqLDvkH8FZVKBVliE4cPG4w0U4sUzgc6bQy57tYCpSa2PlVc024HWBZ-1CGB18GJOFuBhCB9CKM_Cbw86kVObc_vR8DL5Ik1GPf7DJDDx6MssWSl8CoDA6tT3OhMK_zzahwr3b8jbDyt_x728k\",\"help_cente",
   "21:18:58 STORY POSTED instagram@Vinzap-Finds df8d32b5",
   "21:19:11 STORY POSTED facebook@Vinzap-Finds df8d32b5",
   "21:45:43 READY 87acc485 Caterpillar Self-Adhesive Wall Toothbrush (auto-approved)",
@@ -5673,13 +5669,17 @@
   "20:01:59 POSTED facebook@Vijayendra-Singh 65a44daf: 1201591655729321",
   "20:02:30 STORY POSTED instagram@Vinzap-Finds 65a44daf",
   "20:02:39 STORY POSTED facebook@Vinzap-Finds 65a44daf",
-  "20:02:48 STORY POSTED facebook@Vijayendra-Singh 65a44daf"
+  "20:02:48 STORY POSTED facebook@Vijayendra-Singh 65a44daf",
+  "20:32:08 READY 77175ce1 2-in-1 Pet Food Scoop (auto-approved)",
+  "20:32:19 POSTED instagram@Vinzap-Finds 77175ce1: 18222410329349393",
+  "20:32:23 POSTED facebook@Vinzap-Finds 77175ce1: 1428352113685678_122117883705501659",
+  "20:32:27 POSTED facebook@Vijayendra-Singh 77175ce1: 1317760538089559_122128899471480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794493876.5232615,
-  "facebook@Vinzap-Finds": 1794493876.5232615,
-  "facebook@Vijayendra-Singh": 1794493876.5232615,
-  "youtube": 1794486662.1313984
+  "instagram@Vinzap-Finds": 1794495728.5766206,
+  "facebook@Vinzap-Finds": 1794495728.5766206,
+  "facebook@Vijayendra-Singh": 1794495728.5766206,
+  "youtube": 1794486242.1313984
  },
- "n": 535
+ "n": 536
 }
