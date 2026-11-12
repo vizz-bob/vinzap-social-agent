@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "a902f3a0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Professional Kitchen Knife Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1509,
-    "was": 0,
-    "feats": [
-     "✅ 6-in-1 Multi-Purpose Set –",
-     "✅ Sharp Stainless Steel Blades –",
-     "✅ Non-Stick Yellow Blade Coating"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Professional Kitchen Knife Set | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Professional Kitchen Knife Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nProfessional Kitchen Knife Set\n✔ ✅ 6-in-1 Multi-Purpose Set –\n✔ ✅ Sharp Stainless Steel Blades –\n✔ ✅ Non-Stick Yellow Blade Coating\n\nOnly ₹1509. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Professional Kitchen Knife Set | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794121278.7547696,
-     "id": "17971556456964950",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794121278.7547696,
-     "id": "1401459048418677",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794121278.7547696,
-     "id": "998978466583836",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794121278.7547696,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794121252.3565629,
-   "after": 0,
-   "handle": "6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
-   "product_url": "https://www.vinzapstore.in/products/6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
-   "file": "a902f3a0.mp4",
-   "thumb": "a902f3a0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18114096181885917"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1703151431822534"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1895174648507352"
-    }
-   }
-  },
-  {
    "id": "b6edfa09",
    "status": "posted",
    "kind": "image",
@@ -5471,17 +5389,87 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
    "file": "bd95a5fc.jpg",
    "thumb": "bd95a5fc.jpg"
+  },
+  {
+   "id": "a5c8f2b4",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Knife Organizer Stand",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "SPACE SAVING: The angled slots",
+     "ORGANIZATION: The space saving",
+     "NON-SLIP: The organizer has"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Plastic Knife Organizer Stand | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Knife Organizer Stand"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Knife Organizer Stand\n✔ SPACE SAVING: The angled slots\n✔ ORGANIZATION: The space saving\n✔ NON-SLIP: The organizer has\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Plastic Knife Organizer Stand | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794465085.4044993,
+     "id": "17915103126488729",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794465085.4044993,
+     "id": "2343080539878647",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794465085.4044993,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGb9x_OzWnG1MyqPWyU9fjXn"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794465085.4044993,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794465058.7798665,
+   "after": 0,
+   "handle": "5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
+   "product_url": "https://www.vinzapstore.in/products/5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
+   "file": "a5c8f2b4.mp4",
+   "thumb": "a5c8f2b4_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17955311982291174"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1668442274863960"
+    }
+   }
   }
  ],
- "last_post": 1794416310.883885,
+ "last_post": 1794465085.4044993,
  "log": [
-  "22:31:58 POSTED facebook@Vijayendra-Singh a42c7277: 1462783815812655",
-  "22:32:29 STORY POSTED instagram@Vinzap-Finds a42c7277",
-  "22:32:39 STORY POSTED facebook@Vinzap-Finds a42c7277",
-  "22:32:46 STORY POSTED facebook@Vijayendra-Singh a42c7277",
-  "12:08:07 READY f5c1b066 Stainless Steel Sink Caddy Organizer (auto-approved)",
-  "12:08:20 POSTED instagram@Vinzap-Finds f5c1b066: 18119825392795265",
-  "12:08:25 POSTED facebook@Vinzap-Finds f5c1b066: 1428352113685678_122117243781501659",
   "12:08:30 POSTED facebook@Vijayendra-Singh f5c1b066: 1317760538089559_122128110171480728",
   "12:45:59 READY f17789ec Green Tea Strainer | Kitchen Gadgets (auto-approved)",
   "12:46:37 POSTED instagram@Vinzap-Finds f17789ec: 18099543431407631",
@@ -5674,13 +5662,20 @@
   "22:28:30 READY bd95a5fc Skull Shape Ice Cube Tray 8 Grid (auto-approved)",
   "22:28:39 POSTED instagram@Vinzap-Finds bd95a5fc: 18113696513071444",
   "22:28:44 POSTED facebook@Vinzap-Finds bd95a5fc: 1428352113685678_122117651187501659",
-  "22:28:48 POSTED facebook@Vijayendra-Singh bd95a5fc: 1317760538089559_122128583121480728"
+  "22:28:48 POSTED facebook@Vijayendra-Singh bd95a5fc: 1317760538089559_122128583121480728",
+  "12:01:25 READY a5c8f2b4 Plastic Knife Organizer Stand | Trending Shorts (auto-approved)",
+  "12:02:02 POSTED instagram@Vinzap-Finds a5c8f2b4: 17915103126488729",
+  "12:02:07 POSTED facebook@Vinzap-Finds a5c8f2b4: 2343080539878647",
+  "12:02:09 FAILED post facebook@Vijayendra-Singh a5c8f2b4: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGb9x_OzWnG1MyqPWyU9fjXnlIlzi_h_kh5wQ6HJtT-bCuwUEpf_FuywYrpF-NSp2YJJDO9bUxhNVKBF6JYZpw1_4a-hDwRGm7fzeg9ciKCGsBM8HCfs71kfzTdCfP8j6IkOYR_p7T6RUHuP6_ZdSvP7SEonSVBHmX_9HHi43-iHEOgubhWGfcIPhS2I_1vPbu7AqC70yzVA1vpSvMFrPMBSm2MbVaMZszfSDJTjZzzLby7cqNw-wiVHsOkWrdElC9x0SpSdROuhHS68E7Nyt3EInDZIv0DbZv_VNwMMG4-3_HpP7D9XBHQqkPbC0VYus6\",\"help_cent",
+  "12:02:09 FAILED post youtube a5c8f2b4: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:02:40 STORY POSTED instagram@Vinzap-Finds a5c8f2b4",
+  "12:02:48 STORY POSTED facebook@Vinzap-Finds a5c8f2b4"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794416310.883885,
-  "facebook@Vinzap-Finds": 1794416310.883885,
-  "facebook@Vijayendra-Singh": 1794416310.883885,
-  "youtube": 1794399858.2261457
+  "instagram@Vinzap-Finds": 1794465085.4044993,
+  "facebook@Vinzap-Finds": 1794465085.4044993,
+  "facebook@Vijayendra-Singh": 1794465085.4044993,
+  "youtube": 1794465085.4044993
  },
- "n": 518
+ "n": 519
 }
