@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "1de586fb",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Pizza Storage Container",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 699,
-    "was": 0,
-    "feats": [
-     "【Space Saving】The pizza storage",
-     "【Sealing & Keep Fresh】Each pizza",
-     "【Multifunction】Pizza container"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Reusable Pizza Storage Container | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Pizza Storage Container"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Pizza Storage Container\n✔ 【Space Saving】The pizza storage\n✔ 【Sealing & Keep Fresh】Each pizza\n✔ 【Multifunction】Pizza container\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#trendingshorts #kitchengadgets",
-   "title": "Reusable Pizza Storage Container | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794132083.5215728,
-     "id": "18101450075391746",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794132083.5215728,
-     "id": "1082353364847127",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794132083.5215728,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeveSt0uE79AYhL6AL9JTclEuv"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794132083.5215728,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794132058.445069,
-   "after": 0,
-   "handle": "10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
-   "product_url": "https://www.vinzapstore.in/products/10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
-   "file": "1de586fb.mp4",
-   "thumb": "1de586fb_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18101110892452926"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1105601882090437"
-    }
-   }
-  },
-  {
    "id": "5026a0c5",
    "status": "posted",
    "kind": "image",
@@ -5465,17 +5388,87 @@
    "product_url": "https://www.vinzapstore.in/products/1383-all-pipe-safe-drain-cleaner-powder-clear-clogged-sinks-pipes-50-gram-pack",
    "file": "6485383f.jpg",
    "thumb": "6485383f.jpg"
+  },
+  {
+   "id": "02b477c2",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Fruit Fork Set",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 459,
+    "was": 0,
+    "feats": [
+     "✅ Premium Quality Material – Made",
+     "✅ Ergonomic Design – Soft-grip",
+     "✅ Multipurpose Use – Ideal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Stainless Steel Fruit Fork Set | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Fruit Fork Set"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Fruit Fork Set\n✔ ✅ Premium Quality Material – Made\n✔ ✅ Ergonomic Design – Soft-grip\n✔ ✅ Multipurpose Use – Ideal\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Stainless Steel Fruit Fork Set | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794475879.10639,
+     "id": "18169994395482585",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794475879.10639,
+     "id": "1486277726712770",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794475879.10639,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes57TrLrdXXnDb3oEuDxUCPbJ"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794475879.10639,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794475852.637529,
+   "after": 0,
+   "handle": "premium-stainless-steel-fruit-fork-set-10-pieces-with-soft-non-slip-handle",
+   "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-fruit-fork-set-10-pieces-with-soft-non-slip-handle",
+   "file": "02b477c2.mp4",
+   "thumb": "02b477c2_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18135455221689554"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1636024321604916"
+    }
+   }
   }
  ],
- "last_post": 1794474070.7428775,
+ "last_post": 1794475879.10639,
  "log": [
-  "14:46:20 READY cccef686 Ice Tray | Diwali (auto-approved)",
-  "14:46:57 POSTED instagram@Vinzap-Finds cccef686: 17962716567255722",
-  "14:47:04 POSTED facebook@Vinzap-Finds cccef686: 1695568255533714",
-  "14:47:05 FAILED post facebook@Vijayendra-Singh cccef686: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AessrJJMW1iB-b0rB46qWYkMYJUPGyYs8WSnOxnyL9Vyz9QKepXCDCFqqxPRMNGPZ_NnhY5Kk-nqz5GHlggIEkMph9kd7b-dJuJxc4oY0Yxw7yGeXfziT02Dr9SX4qlQV2wuYe51V4TUWhS9XiPug_bGUshZwvI_5KusAOcSKare_4Yf5Tng5V939oqgNJzqf2cHPeHBSnaDObbhxcN6KcR1gcdxeDGNoI_7J1i5OgXJzo_SpJU8ujXH3V4sqyqiemLJQ9XGfwRhHDT0SCeGN7IdGS45rxjLKE-NJiRYHTWB-WWSjihFzCNaMiNaxBd0wHQ\",\"help_cente",
-  "14:47:37 STORY POSTED instagram@Vinzap-Finds cccef686",
-  "14:47:46 STORY POSTED facebook@Vinzap-Finds cccef686",
-  "15:21:21 READY facbadb4 Disposable Serving Bowls 360ml (auto-approved)",
   "15:21:33 POSTED instagram@Vinzap-Finds facbadb4: 17961317973013257",
   "15:21:36 POSTED facebook@Vinzap-Finds facbadb4: 1428352113685678_122117280501501659",
   "15:21:40 POSTED facebook@Vijayendra-Singh facbadb4: 1317760538089559_122128145445480728",
@@ -5668,13 +5661,20 @@
   "14:31:10 READY 6485383f Drain Cleaner Powder (auto-approved)",
   "14:31:22 POSTED instagram@Vinzap-Finds 6485383f: 17979328476152077",
   "14:31:25 POSTED facebook@Vinzap-Finds 6485383f: 1428352113685678_122117813595501659",
-  "14:31:29 POSTED facebook@Vijayendra-Singh 6485383f: 1317760538089559_122128802553480728"
+  "14:31:29 POSTED facebook@Vijayendra-Singh 6485383f: 1317760538089559_122128802553480728",
+  "15:01:19 READY 02b477c2 Stainless Steel Fruit Fork Set | Diwali (auto-approved)",
+  "15:01:54 POSTED instagram@Vinzap-Finds 02b477c2: 18169994395482585",
+  "15:02:00 POSTED facebook@Vinzap-Finds 02b477c2: 1486277726712770",
+  "15:02:02 FAILED post facebook@Vijayendra-Singh 02b477c2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes57TrLrdXXnDb3oEuDxUCPbJb48OzwIG1vWz0zorJAbiI3Tk_PCmDQNcOb_c4dgbxM4OWq5XeSv3ofj_evn2p3DSfyjiya5nFflgMPeLBS_HZY--9-gxvXwvmR4cuLUjhU6ICR0IdJUlzwZ1wAwMZQTc9tvQydW00T66wzSFF5CH8uma4Qr5cfBlKUsR8ONZH1VqRw2Q-16reoeEOxHmnnHsDo3SyoSDHBGYQFGx3ReDSxf0Leq7uoHrE8XTK_ZURGq2xMRpz6u0TbwakQDf3i4pAGIaCdGSc5h7qDnXg_VLuGf6o4cd3F5LyZ8aOpgvn5\",\"help_cent",
+  "15:02:03 FAILED post youtube 02b477c2: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "15:02:36 STORY POSTED instagram@Vinzap-Finds 02b477c2",
+  "15:02:48 STORY POSTED facebook@Vinzap-Finds 02b477c2"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794474070.7428775,
-  "facebook@Vinzap-Finds": 1794474070.7428775,
-  "facebook@Vijayendra-Singh": 1794474070.7428775,
-  "youtube": 1794464665.4044993
+  "instagram@Vinzap-Finds": 1794475879.10639,
+  "facebook@Vinzap-Finds": 1794475879.10639,
+  "facebook@Vijayendra-Singh": 1794475879.10639,
+  "youtube": 1794475879.10639
  },
- "n": 524
+ "n": 525
 }
