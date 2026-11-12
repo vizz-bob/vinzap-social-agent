@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "80539c89",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Smart 3 in 1 Fruit and Vegetable",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 329,
-    "was": 0,
-    "feats": [
-     "3-in-1 Functionality Wash",
-     "Food-Grade Plastic Construction",
-     "Perforated Colander Base Helps"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Smart 3 in 1 Fruit and Vegetable"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Smart 3 in 1 Fruit and Vegetable\n✔ 3-in-1 Functionality Wash\n✔ Food-Grade Plastic Construction\n✔ Perforated Colander Base Helps\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794139270.7199874,
-     "id": "17887569579506307",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794139270.7199874,
-     "id": "1790035302223457",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794139270.7199874,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev0Z3ooA65dj7BFSwKroTbgOz"
-    }
-   },
-   "created": 1794139250.6892905,
-   "after": 0,
-   "handle": "apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
-   "file": "80539c89.mp4",
-   "thumb": "80539c89_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17916074337558990"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1780242909698253"
-    }
-   }
-  },
-  {
    "id": "d39e1b4a",
    "status": "posted",
    "kind": "image",
@@ -5463,17 +5391,87 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
    "file": "db784a1c.jpg",
    "thumb": "db784a1c.jpg"
+  },
+  {
+   "id": "0b1a379a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Lemon Shape Silicone Ice Cube Tray, 8 Slots",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "✅ Unique lemon wedge design – 8",
+     "✅ Made from BPA-free",
+     "✅ Flexible and easy-release"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Lemon Shape Silicone Ice Cube Tray, 8 Slots | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Lemon Shape Silicone Ice Cube Tray, 8 Slots"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLemon Shape Silicone Ice Cube Tray, 8 Slots\n✔ ✅ Unique lemon wedge design – 8\n✔ ✅ Made from BPA-free\n✔ ✅ Flexible and easy-release\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Lemon Shape Silicone Ice Cube Tray, 8 Slots | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794483075.7241573,
+     "id": "18137166544730930",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794483075.7241573,
+     "id": "1892122678467252",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794483075.7241573,
+     "id": "1019044161256321",
+     "dry": false
+    }
+   },
+   "created": 1794483049.587209,
+   "after": 0,
+   "handle": "lemon-shape-flexible-silicone-ice-cube-tray-8-slot-round-ice-mold-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/lemon-shape-flexible-silicone-ice-cube-tray-8-slot-round-ice-mold-1-pc",
+   "file": "0b1a379a.mp4",
+   "thumb": "0b1a379a_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17922193095245895"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1169770356009987"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1000556156450454"
+    }
+   }
   }
  ],
- "last_post": 1794481269.778732,
+ "last_post": 1794483075.7241573,
  "log": [
-  "17:01:00 READY d047703c Oil and Juice Pourer Dispenser Bottle 1000ml | Diwali (auto-approved)",
-  "17:01:39 POSTED instagram@Vinzap-Finds d047703c: 17953859715316586",
-  "17:01:43 POSTED facebook@Vinzap-Finds d047703c: 987679864061460",
-  "17:01:44 FAILED post facebook@Vijayendra-Singh d047703c: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeszHKP5EMEBzM9NmiA9q13TSZofyDCyIQuyI9qTEJdCXIMJf3tRH5zrSJHwKeAYdjP3VAeFl8Y-qE4y0XCtCLsc7oi2UlkizfPZR7C6LWRFUBauzwaY11Hi55l2lBBiytlJr7C4sgmtW326SSu8uCM1unXADRQLuf_nfO-YNWIjDtM-gk0Vv7HpXt46s4vPzSF7IZmBUfDgcpFl1IkAtbetQXuIXpqqQomJ0qDjTOIRtFLec5YaRqC-9J33hM7EAmQe7Y3RrLuz8ZkGSzGp3tDPcMmH_c99aJisoAl0qLMPiR-67GrJmu6HmRMukP8Xn6FZ\",\"help_cent",
-  "17:02:20 STORY POSTED instagram@Vinzap-Finds d047703c",
-  "17:02:33 STORY POSTED facebook@Vinzap-Finds d047703c",
-  "17:48:03 READY 7c33f6e3 Leak Proof Sports Water Bottle 400ml BPA (auto-approved)",
   "17:48:14 POSTED instagram@Vinzap-Finds 7c33f6e3: 17914975062493065",
   "17:48:18 POSTED facebook@Vinzap-Finds 7c33f6e3: 1428352113685678_122117313279501659",
   "17:48:21 POSTED facebook@Vijayendra-Singh 7c33f6e3: 1317760538089559_122128191273480728",
@@ -5666,13 +5664,20 @@
   "16:31:09 READY db784a1c Stainless Steel Dinner Spoon (auto-approved)",
   "16:31:22 POSTED instagram@Vinzap-Finds db784a1c: 18109429316192189",
   "16:31:26 POSTED facebook@Vinzap-Finds db784a1c: 1428352113685678_122117835789501659",
-  "16:31:29 POSTED facebook@Vijayendra-Singh db784a1c: 1317760538089559_122128834467480728"
+  "16:31:29 POSTED facebook@Vijayendra-Singh db784a1c: 1317760538089559_122128834467480728",
+  "17:01:15 READY 0b1a379a Lemon Shape Silicone Ice Cube Tray, 8 Slots | Home Decor Ideas (auto-approved)",
+  "17:01:52 POSTED instagram@Vinzap-Finds 0b1a379a: 18137166544730930",
+  "17:01:57 POSTED facebook@Vinzap-Finds 0b1a379a: 1892122678467252",
+  "17:02:02 POSTED facebook@Vijayendra-Singh 0b1a379a: 1019044161256321",
+  "17:02:34 STORY POSTED instagram@Vinzap-Finds 0b1a379a",
+  "17:02:44 STORY POSTED facebook@Vinzap-Finds 0b1a379a",
+  "17:02:55 STORY POSTED facebook@Vijayendra-Singh 0b1a379a"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794481269.778732,
-  "facebook@Vinzap-Finds": 1794481269.778732,
-  "facebook@Vijayendra-Singh": 1794481269.778732,
+  "instagram@Vinzap-Finds": 1794483075.7241573,
+  "facebook@Vinzap-Finds": 1794483075.7241573,
+  "facebook@Vijayendra-Singh": 1794483075.7241573,
   "youtube": 1794475879.10639
  },
- "n": 528
+ "n": 529
 }
