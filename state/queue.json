@@ -1,86 +1,6 @@
 {
  "items": [
   {
-   "id": "a1af4ba0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kitchen Faucet 3 Function Pull Down Sink",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 519,
-    "was": 0,
-    "feats": [
-     "Kitchen Faucet 3-Function Pull"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Kitchen Faucet 3 Function Pull Down Sink | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kitchen Faucet 3 Function Pull Down Sink"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Faucet 3 Function Pull Down Sink\n✔ Kitchen Faucet 3-Function Pull\n\nOnly ₹519. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Kitchen Faucet 3 Function Pull Down Sink | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794153675.7768624,
-     "id": "18171980074481070",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794153675.7768624,
-     "id": "1646881383637093",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794153675.7768624,
-     "id": "2108065159914173",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794153675.7768624,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794153654.6099265,
-   "after": 0,
-   "handle": "kitchen-faucet-3-function-pull-down-sink-sprayer-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/kitchen-faucet-3-function-pull-down-sink-sprayer-1-pc",
-   "file": "a1af4ba0.mp4",
-   "thumb": "a1af4ba0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17913854142354262"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1429575679338490"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1096190196574811"
-    }
-   }
-  },
-  {
    "id": "17c58685",
    "status": "posted",
    "kind": "image",
@@ -5470,17 +5390,85 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-pet-food-scoop-with-bag-clip",
    "file": "77175ce1.jpg",
    "thumb": "77175ce1.jpg"
+  },
+  {
+   "id": "bb507b2d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Lollipop Candy Maker Machine, Red",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Lollipop Candy Maker and Lollipop"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Lollipop Candy Maker Machine, Red | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Lollipop Candy Maker Machine, Red"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLollipop Candy Maker Machine, Red\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Lollipop Candy Maker Machine, Red | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794497507.333471,
+     "id": "18110215748203632",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794497507.333471,
+     "id": "1142650834822899",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794497507.333471,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetK_refyYq7-Yv13pSFDsYPOW"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794497507.333471,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794497480.45531,
+   "after": 0,
+   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-red",
+   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-red",
+   "file": "bb507b2d.mp4",
+   "thumb": "bb507b2d_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18377887744210289"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1777518340026458"
+    }
+   }
   }
  ],
- "last_post": 1794495728.5766206,
+ "last_post": 1794497507.333471,
  "log": [
-  "21:18:58 STORY POSTED instagram@Vinzap-Finds df8d32b5",
-  "21:19:11 STORY POSTED facebook@Vinzap-Finds df8d32b5",
-  "21:45:43 READY 87acc485 Caterpillar Self-Adhesive Wall Toothbrush (auto-approved)",
-  "21:45:53 POSTED instagram@Vinzap-Finds 87acc485: 18028820291874271",
-  "21:45:56 POSTED facebook@Vinzap-Finds 87acc485: 1428352113685678_122117373543501659",
-  "21:45:59 POSTED facebook@Vijayendra-Singh 87acc485: 1317760538089559_122128246095480728",
-  "22:16:14 READY e9a959d3 Wooden Mouse Rat Trap | Cooking (auto-approved)",
   "22:16:50 POSTED instagram@Vinzap-Finds e9a959d3: 18100546145531927",
   "22:16:53 POSTED facebook@Vinzap-Finds e9a959d3: 1072785905816257",
   "22:16:54 FAILED post facebook@Vijayendra-Singh e9a959d3: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevCkLlz19I-ZnWv8O0NNAGwHvSYqTp9873c3bUM0jqID__hrjsBrBaGwhjkjloVGgD6UaEhg0M9Q-hg00diCPKITaicwT5iwkpYJuHIjPDaGgjkazeTsxhzJjUTB9YOvBkSyXfl9DVHb0Slku3xpoeoL1x3uhS-LDjxJp7n4NgKqWQsphm69__FvHlbv0j_TLio9v5AsWC4evNYOHhmO87xUATDg4EKUbvD89oAvozpGbq488LqBl8LgW29Q5szPJ4iCbxfPeet3e3lZo7Q8zEBLVkzV08oDIDByZemjN6C2XsmvRi6xkZe2N9vK8pnMDYF\",\"help_cent",
@@ -5673,13 +5661,20 @@
   "20:32:08 READY 77175ce1 2-in-1 Pet Food Scoop (auto-approved)",
   "20:32:19 POSTED instagram@Vinzap-Finds 77175ce1: 18222410329349393",
   "20:32:23 POSTED facebook@Vinzap-Finds 77175ce1: 1428352113685678_122117883705501659",
-  "20:32:27 POSTED facebook@Vijayendra-Singh 77175ce1: 1317760538089559_122128899471480728"
+  "20:32:27 POSTED facebook@Vijayendra-Singh 77175ce1: 1317760538089559_122128899471480728",
+  "21:01:47 READY bb507b2d Lollipop Candy Maker Machine, Red | Home Decor (auto-approved)",
+  "21:02:30 POSTED instagram@Vinzap-Finds bb507b2d: 18110215748203632",
+  "21:02:36 POSTED facebook@Vinzap-Finds bb507b2d: 1142650834822899",
+  "21:02:38 FAILED post facebook@Vijayendra-Singh bb507b2d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetK_refyYq7-Yv13pSFDsYPOWJggEKKbWTE8EkXFdpik8koJlraYMEmzjlTYvSQk9gdNHuOX873QVQxlyLu2d9D2LWG15z_y312GQcG1O93yivgbxPY8rv32WGlOLP9ACcTE6hilIGYtN7h49thIzwrzUIpMgP9adLA2cZR_nn06ku9FkCYmxm8O5oYSlcC_CWYTGf1P9pJVuPClHqrmkHbkuBrn8DvZ7Cp7Buzpuo0GzhGpmFpg_R_V4aQbf8RPbGv2UjRt7H9fheS05CpSTFcpH_Jq2ZipRupeMYuXzt6r_FiLKmEVuXbwGPUdje1qFA\",\"help_cente",
+  "21:02:38 FAILED post youtube bb507b2d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "21:03:11 STORY POSTED instagram@Vinzap-Finds bb507b2d",
+  "21:03:25 STORY POSTED facebook@Vinzap-Finds bb507b2d"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794495728.5766206,
-  "facebook@Vinzap-Finds": 1794495728.5766206,
-  "facebook@Vijayendra-Singh": 1794495728.5766206,
-  "youtube": 1794486242.1313984
+  "instagram@Vinzap-Finds": 1794497507.333471,
+  "facebook@Vinzap-Finds": 1794497507.333471,
+  "facebook@Vijayendra-Singh": 1794497507.333471,
+  "youtube": 1794497507.333471
  },
- "n": 536
+ "n": 537
 }
