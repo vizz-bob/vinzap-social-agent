@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "d32c6229",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Unbreakable Plastic Serving Bowl Set of 6",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Set of 6 plastic serving bowls",
-     "Glossy finish with an attractive",
-     "Lightweight yet strong"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Unbreakable Plastic Serving Bowl Set of 6 | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Unbreakable Plastic Serving Bowl Set of 6"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUnbreakable Plastic Serving Bowl Set of 6\n✔ Set of 6 plastic serving bowls\n✔ Glossy finish with an attractive\n✔ Lightweight yet strong\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Unbreakable Plastic Serving Bowl Set of 6",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794205843.1250768,
-     "id": "17955609642312804",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794205843.1250768,
-     "id": "1428352113685678_122116960539501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794205843.1250768,
-     "id": "1317760538089559_122127731853480728",
-     "dry": false
-    }
-   },
-   "created": 1794205841.022135,
-   "after": 0,
-   "handle": "plastic-serving-bowl-set-multicolour-unbreakable-kitchen-bowls-6-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-serving-bowl-set-multicolour-unbreakable-kitchen-bowls-6-pc-set",
-   "file": "d32c6229.jpg",
-   "thumb": "d32c6229.jpg"
-  },
-  {
    "id": "f40ac8f1",
    "status": "scheduled",
    "kind": "reel",
@@ -5459,14 +5397,72 @@
      "id": "1058763910516412"
     }
    }
+  },
+  {
+   "id": "18588319",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Square Ice Cube Mould Set of 4",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Set of 4 moulds with snap-on lids",
+     "One large square cube per mould",
+     "Lids keep freezer smells out"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Square Ice Cube Mould Set of 4 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Square Ice Cube Mould Set of 4"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSquare Ice Cube Mould Set of 4\n✔ Set of 4 moulds with snap-on lids\n✔ One large square cube per mould\n✔ Lids keep freezer smells out\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Square Ice Cube Mould Set of 4",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794502858.5341375,
+     "id": "18109722059204271",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794502858.5341375,
+     "id": "1428352113685678_122117904675501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794502858.5341375,
+     "id": "1317760538089559_122128936899480728",
+     "dry": false
+    }
+   },
+   "created": 1794502856.1377945,
+   "after": 0,
+   "handle": "square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
+   "product_url": "https://www.vinzapstore.in/products/square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
+   "file": "18588319.jpg",
+   "thumb": "18588319.jpg"
   }
  ],
- "last_post": 1794501078.8383353,
+ "last_post": 1794502858.5341375,
  "log": [
-  "12:01:14 READY e212c6ad Large Stainless Steel Chopping Board | Kitchen Gadgets (auto-approved)",
-  "12:01:54 POSTED instagram@Vinzap-Finds e212c6ad: 18000747423002236",
-  "12:01:58 POSTED facebook@Vinzap-Finds e212c6ad: 1179628061392366",
-  "12:01:59 FAILED post facebook@Vijayendra-Singh e212c6ad: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AescgNRG-enaNoISAsUZYvtSjwAtVnqiYOkONxPkP4G-C40ox9CCeEokJAXRx1ynOMp30PKtt_9ull1minuJ55QzFm2wHB7LqpvGDAnu7p0rFtT6Ybp6sP7DhyILRIi6CYIxIUStD9Un00dChgP04vtNTN5VtnTHc6k90rhs7pG5QbYxat7IXai0RK5BHw3CmO8zN6Ot262YMP7uPh7-GEpEekgak9SISDzi9r1ws2kc-h5h3Oc_VaxCnKpN0LR43q7ARhVJ7Vbw5-1X_LDLKqVzK7XY0LD6KeOgy5r2Lft_BmhwWXVOqa07i7WBGEG-J3Cr\",\"help_cent",
   "12:01:59 FAILED post youtube e212c6ad: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "12:02:29 STORY POSTED instagram@Vinzap-Finds e212c6ad",
   "12:02:36 STORY POSTED facebook@Vinzap-Finds e212c6ad",
@@ -5662,13 +5658,17 @@
   "22:01:58 POSTED facebook@Vinzap-Finds 0282ea0e: 1663236942143788",
   "22:01:59 FAILED post facebook@Vijayendra-Singh 0282ea0e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu6MYJ7vm4lqjZjyv5q7OFa4qMJf-dlVb02ke_P2GJcclf20ejNQQrW5_9nIWmHoI3Sb23PIEddoDQTE9DydHa_7ZrdLiWirgs0CCMaS1qhLzzSn_5jMMHd5H1cs0khjNAqCd295jyQGzgZtje_Lm2qzUdgCb7VbksniNTPG58j91r5o7jfhT0CFIzLBdM6iVZBOrrMuYpjRfbb8SAkc1mIIlv6zt0Tz2sfTa35oweMhcverMUOkYNp38RW3WkobrpnU9NomWHfylql3W4tiloKVPuLaLwhm80nA0cEkOVRSfQDvv6Cbg7QetnzUcFrEMc\",\"help_cente",
   "22:02:29 STORY POSTED instagram@Vinzap-Finds 0282ea0e",
-  "22:02:40 STORY POSTED facebook@Vinzap-Finds 0282ea0e"
+  "22:02:40 STORY POSTED facebook@Vinzap-Finds 0282ea0e",
+  "22:30:58 READY 18588319 Square Ice Cube Mould Set of 4 (auto-approved)",
+  "22:31:12 POSTED instagram@Vinzap-Finds 18588319: 18109722059204271",
+  "22:31:17 POSTED facebook@Vinzap-Finds 18588319: 1428352113685678_122117904675501659",
+  "22:31:21 POSTED facebook@Vijayendra-Singh 18588319: 1317760538089559_122128936899480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794501078.8383353,
-  "facebook@Vinzap-Finds": 1794501078.8383353,
-  "facebook@Vijayendra-Singh": 1794501078.8383353,
+  "instagram@Vinzap-Finds": 1794502858.5341375,
+  "facebook@Vinzap-Finds": 1794502858.5341375,
+  "facebook@Vijayendra-Singh": 1794502858.5341375,
   "youtube": 1794497507.333471
  },
- "n": 539
+ "n": 540
 }
