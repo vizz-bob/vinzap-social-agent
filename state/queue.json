@@ -1,67 +1,6 @@
 {
  "items": [
   {
-   "id": "8c86bc56",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Cooking Essentials Combo",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Glass Oil Sprayer Bottle",
-     "Manual Egg Beater for Eggs"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Cooking Essentials Combo | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Cooking Essentials Combo"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCooking Essentials Combo\n✔ Glass Oil Sprayer Bottle\n✔ Manual Egg Beater for Eggs\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#cooking #homedecor",
-   "title": "Cooking Essentials Combo",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794130262.358838,
-     "id": "18118094159014334",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794130262.358838,
-     "id": "1428352113685678_122116670367501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794130262.358838,
-     "id": "1317760538089559_122127435351480728",
-     "dry": false
-    }
-   },
-   "created": 1794130260.930835,
-   "after": 0,
-   "handle": "cooking-essentials-combo-oil-sprayer-egg-beater",
-   "product_url": "https://www.vinzapstore.in/products/cooking-essentials-combo-oil-sprayer-egg-beater",
-   "file": "8c86bc56.jpg",
-   "thumb": "8c86bc56.jpg"
-  },
-  {
    "id": "1de586fb",
    "status": "scheduled",
    "kind": "reel",
@@ -5466,14 +5405,70 @@
      "id": "1473880651558246"
     }
    }
+  },
+  {
+   "id": "6485383f",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Drain Cleaner Powder",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 69,
+    "was": 0,
+    "feats": [
+     "All Pipe Safe Drain Cleaner"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Drain Cleaner Powder | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Drain Cleaner Powder"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDrain Cleaner Powder\n✔ All Pipe Safe Drain Cleaner\n\nOnly ₹69. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
+   "title": "Drain Cleaner Powder",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794474070.7428775,
+     "id": "17979328476152077",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794474070.7428775,
+     "id": "1428352113685678_122117813595501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794474070.7428775,
+     "id": "1317760538089559_122128802553480728",
+     "dry": false
+    }
+   },
+   "created": 1794474068.9687836,
+   "after": 0,
+   "handle": "1383-all-pipe-safe-drain-cleaner-powder-clear-clogged-sinks-pipes-50-gram-pack",
+   "product_url": "https://www.vinzapstore.in/products/1383-all-pipe-safe-drain-cleaner-powder-clear-clogged-sinks-pipes-50-gram-pack",
+   "file": "6485383f.jpg",
+   "thumb": "6485383f.jpg"
   }
  ],
- "last_post": 1794472268.963208,
+ "last_post": 1794474070.7428775,
  "log": [
-  "14:17:50 READY 5d242ffc USB Rechargeable Electric Water Dispenser (auto-approved)",
-  "14:18:02 POSTED instagram@Vinzap-Finds 5d242ffc: 17950694115344557",
-  "14:18:05 POSTED facebook@Vinzap-Finds 5d242ffc: 1428352113685678_122117267229501659",
-  "14:18:09 POSTED facebook@Vijayendra-Singh 5d242ffc: 1317760538089559_122128132467480728",
   "14:46:20 READY cccef686 Ice Tray | Diwali (auto-approved)",
   "14:46:57 POSTED instagram@Vinzap-Finds cccef686: 17962716567255722",
   "14:47:04 POSTED facebook@Vinzap-Finds cccef686: 1695568255533714",
@@ -5669,13 +5664,17 @@
   "14:01:45 POSTED facebook@Vinzap-Finds b33e431e: 1648803266637317",
   "14:01:46 FAILED post facebook@Vijayendra-Singh b33e431e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevrbvAz_sWQpxRNXmwD7QyX0MmpcKBqU1VeiYwgVR1WstUVNlGc-zgWv60hUoRMpWc9DS0zPvRsPtJ-Rwo5ESwD0k10sFmXiCgIP4RrgxtFXsXGi0Wu70trApilTgKgFQQ7mJJZyGzVFvOp6ZV38N9JxhIQgGXcTxgjXW8pBVqWpTJiJ9cxySkv3DeQoqzjzwzxZXsdwqBhD3e_KVI9LWZ-P0xBDkt8Tm1S2Yv9lzhSOAJb6PLD7PzGfY5EB9UIG29G91IOUKV9UAC017xknuhEKzkM3pqV_rahYCCqLX9N5adI4Gx2QRFrHH-e2xR-MMg\",\"help_cente",
   "14:02:17 STORY POSTED instagram@Vinzap-Finds b33e431e",
-  "14:02:26 STORY POSTED facebook@Vinzap-Finds b33e431e"
+  "14:02:26 STORY POSTED facebook@Vinzap-Finds b33e431e",
+  "14:31:10 READY 6485383f Drain Cleaner Powder (auto-approved)",
+  "14:31:22 POSTED instagram@Vinzap-Finds 6485383f: 17979328476152077",
+  "14:31:25 POSTED facebook@Vinzap-Finds 6485383f: 1428352113685678_122117813595501659",
+  "14:31:29 POSTED facebook@Vijayendra-Singh 6485383f: 1317760538089559_122128802553480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794472268.963208,
-  "facebook@Vinzap-Finds": 1794472268.963208,
-  "facebook@Vijayendra-Singh": 1794472268.963208,
-  "youtube": 1794465085.4044993
+  "instagram@Vinzap-Finds": 1794474070.7428775,
+  "facebook@Vinzap-Finds": 1794474070.7428775,
+  "facebook@Vijayendra-Singh": 1794474070.7428775,
+  "youtube": 1794464665.4044993
  },
- "n": 523
+ "n": 524
 }
