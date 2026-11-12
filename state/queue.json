@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "17c58685",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3 in 1 Anti Slip Bathroom Mat Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 1369,
-    "was": 0,
-    "feats": [
-     "Complete 3-piece set includes",
-     "Soft flannel surface feels warm",
-     "Anti-slip backing keeps mats"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "3 in 1 Anti Slip Bathroom Mat Set | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3 in 1 Anti Slip Bathroom Mat Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 in 1 Anti Slip Bathroom Mat Set\n✔ Complete 3-piece set includes\n✔ Soft flannel surface feels warm\n✔ Anti-slip backing keeps mats\n\nOnly ₹1369. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#homedecor #homedecorideas",
-   "title": "3 in 1 Anti Slip Bathroom Mat Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794155450.5902183,
-     "id": "18142630690621685",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794155450.5902183,
-     "id": "1428352113685678_122116781781501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794155450.5902183,
-     "id": "1317760538089559_122127548217480728",
-     "dry": false
-    }
-   },
-   "created": 1794155447.7624543,
-   "after": 0,
-   "handle": "3-in-1-anti-slip-bathroom-mat-set-with-contour-mat-and-lid-cover-3-pc-set-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/3-in-1-anti-slip-bathroom-mat-set-with-contour-mat-and-lid-cover-3-pc-set-mix-color",
-   "file": "17c58685.jpg",
-   "thumb": "17c58685.jpg"
-  },
-  {
    "id": "c20e88a7",
    "status": "scheduled",
    "kind": "reel",
@@ -5465,14 +5403,71 @@
      "id": "1777518340026458"
     }
    }
+  },
+  {
+   "id": "d53ec1d6",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Cooking Essentials Combo",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Glass Oil Sprayer Bottle",
+     "Manual Egg Beater for Eggs"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Cooking Essentials Combo | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Cooking Essentials Combo"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCooking Essentials Combo\n✔ Glass Oil Sprayer Bottle\n✔ Manual Egg Beater for Eggs\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#cooking #homedecor",
+   "title": "Cooking Essentials Combo",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794499305.0394132,
+     "id": "18102679190417297",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794499305.0394132,
+     "id": "1428352113685678_122117892837501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794499305.0394132,
+     "id": "1317760538089559_122128925709480728",
+     "dry": false
+    }
+   },
+   "created": 1794499301.884101,
+   "after": 0,
+   "handle": "cooking-essentials-combo-oil-sprayer-egg-beater",
+   "product_url": "https://www.vinzapstore.in/products/cooking-essentials-combo-oil-sprayer-egg-beater",
+   "file": "d53ec1d6.jpg",
+   "thumb": "d53ec1d6.jpg"
   }
  ],
- "last_post": 1794497507.333471,
+ "last_post": 1794499305.0394132,
  "log": [
-  "22:16:50 POSTED instagram@Vinzap-Finds e9a959d3: 18100546145531927",
-  "22:16:53 POSTED facebook@Vinzap-Finds e9a959d3: 1072785905816257",
-  "22:16:54 FAILED post facebook@Vijayendra-Singh e9a959d3: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevCkLlz19I-ZnWv8O0NNAGwHvSYqTp9873c3bUM0jqID__hrjsBrBaGwhjkjloVGgD6UaEhg0M9Q-hg00diCPKITaicwT5iwkpYJuHIjPDaGgjkazeTsxhzJjUTB9YOvBkSyXfl9DVHb0Slku3xpoeoL1x3uhS-LDjxJp7n4NgKqWQsphm69__FvHlbv0j_TLio9v5AsWC4evNYOHhmO87xUATDg4EKUbvD89oAvozpGbq488LqBl8LgW29Q5szPJ4iCbxfPeet3e3lZo7Q8zEBLVkzV08oDIDByZemjN6C2XsmvRi6xkZe2N9vK8pnMDYF\",\"help_cent",
-  "22:16:54 FAILED post youtube e9a959d3: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "22:17:32 STORY POSTED instagram@Vinzap-Finds e9a959d3",
   "22:17:40 STORY POSTED facebook@Vinzap-Finds e9a959d3",
   "22:45:49 READY 5c0fd7ba Hand Shaped Kumkum Holder Kankavati (auto-approved)",
@@ -5668,13 +5663,17 @@
   "21:02:38 FAILED post facebook@Vijayendra-Singh bb507b2d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetK_refyYq7-Yv13pSFDsYPOWJggEKKbWTE8EkXFdpik8koJlraYMEmzjlTYvSQk9gdNHuOX873QVQxlyLu2d9D2LWG15z_y312GQcG1O93yivgbxPY8rv32WGlOLP9ACcTE6hilIGYtN7h49thIzwrzUIpMgP9adLA2cZR_nn06ku9FkCYmxm8O5oYSlcC_CWYTGf1P9pJVuPClHqrmkHbkuBrn8DvZ7Cp7Buzpuo0GzhGpmFpg_R_V4aQbf8RPbGv2UjRt7H9fheS05CpSTFcpH_Jq2ZipRupeMYuXzt6r_FiLKmEVuXbwGPUdje1qFA\",\"help_cente",
   "21:02:38 FAILED post youtube bb507b2d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "21:03:11 STORY POSTED instagram@Vinzap-Finds bb507b2d",
-  "21:03:25 STORY POSTED facebook@Vinzap-Finds bb507b2d"
+  "21:03:25 STORY POSTED facebook@Vinzap-Finds bb507b2d",
+  "21:31:45 READY d53ec1d6 Cooking Essentials Combo (auto-approved)",
+  "21:31:56 POSTED instagram@Vinzap-Finds d53ec1d6: 18102679190417297",
+  "21:32:00 POSTED facebook@Vinzap-Finds d53ec1d6: 1428352113685678_122117892837501659",
+  "21:32:03 POSTED facebook@Vijayendra-Singh d53ec1d6: 1317760538089559_122128925709480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794497507.333471,
-  "facebook@Vinzap-Finds": 1794497507.333471,
-  "facebook@Vijayendra-Singh": 1794497507.333471,
+  "instagram@Vinzap-Finds": 1794499305.0394132,
+  "facebook@Vinzap-Finds": 1794499305.0394132,
+  "facebook@Vijayendra-Singh": 1794499305.0394132,
   "youtube": 1794497507.333471
  },
- "n": 537
+ "n": 538
 }
