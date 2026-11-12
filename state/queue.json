@@ -1,81 +1,6 @@
 {
  "items": [
   {
-   "id": "13981565",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Vegetable Grater",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 229,
-    "was": 0,
-    "feats": [
-     "Apex Premium Stainless Steel"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Stainless Steel Vegetable Grater | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Vegetable Grater"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vegetable Grater\n✔ Apex Premium Stainless Steel\n\nOnly ₹229. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Stainless Steel Vegetable Grater | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794146470.9110165,
-     "id": "17949841086068948",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794146470.9110165,
-     "id": "1438228281246583",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794146470.9110165,
-     "id": "2635422506977195",
-     "dry": false
-    }
-   },
-   "created": 1794146449.9295876,
-   "after": 0,
-   "handle": "apex-premium-stainless-steel-vegetable-grater-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-premium-stainless-steel-vegetable-grater-1-pc",
-   "file": "13981565.mp4",
-   "thumb": "13981565_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18110374007629026"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1483418063206169"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2164805311077992"
-    }
-   }
-  },
-  {
    "id": "615792ff",
    "status": "posted",
    "kind": "image",
@@ -5468,17 +5393,87 @@
    "product_url": "https://www.vinzapstore.in/products/led-light-dual-flow-faucet-tap-adapter-with-splash-filter-aerator-for-kitchen-sink-1-pc",
    "file": "a33dfe01.jpg",
    "thumb": "a33dfe01.jpg"
+  },
+  {
+   "id": "d502638a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Round Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "1 Pc round ice cube tray with lid",
+     "Easy release design for quick ice",
+     "Lid prevents freezer smell"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Round Ice Cube Tray | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Round Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nRound Ice Cube Tray\n✔ 1 Pc round ice cube tray with lid\n✔ Easy release design for quick ice\n✔ Lid prevents freezer smell\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
+   "title": "Round Ice Cube Tray | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794490281.351591,
+     "id": "17963386926255090",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794490281.351591,
+     "id": "1705838924213239",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794490281.351591,
+     "id": "1842252460311297",
+     "dry": false
+    }
+   },
+   "created": 1794490259.9555054,
+   "after": 0,
+   "handle": "premium-round-ice-cube-tray-with-lid-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/premium-round-ice-cube-tray-with-lid-1-pc",
+   "file": "d502638a.mp4",
+   "thumb": "d502638a_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18111126008223593"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2861810450887363"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1671320148002391"
+    }
+   }
   }
  ],
- "last_post": 1794488467.699299,
+ "last_post": 1794490281.351591,
  "log": [
-  "19:28:55 FAILED post facebook@Vijayendra-Singh 9ba2dcb3: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetFhACCY9lmzXRacVYEcZ-Sc0ec4zjfwlKNulUZZF-nWux7ois9-kiG-TAWNxU0mNAsWGq399GUSq2CwygCh9c_pKbt-UJlrlCBjmlUXrK4LEWqNxcmQto5_6yROXXKNutTRYvfR-twBwSaumO0IlvdDK55i9hQ1N9dy-RRPvPShp97rCYCDyzlcnxELnxU3XgYTuPORm52vZ1FbOiUFnl92O8Zz3k6egrLYZUGEbJUv_IaLTNv5yJeUJbewQS4lqdGm7DDGi-M-2UYpVqMHemnwQE_dZKENB5Sz_nA3LgU3OWTjfmDZ55JsHA6-t_kZ7oo\",\"help_cent",
-  "19:28:55 FAILED post youtube 9ba2dcb3: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "19:29:26 STORY POSTED instagram@Vinzap-Finds 9ba2dcb3",
-  "19:29:34 STORY POSTED facebook@Vinzap-Finds 9ba2dcb3",
-  "19:52:07 READY edb499b3 Apex Compact Coffee Mug 300ml (auto-approved)",
-  "19:52:18 POSTED instagram@Vinzap-Finds edb499b3: 18107911382573063",
-  "19:52:21 POSTED facebook@Vinzap-Finds edb499b3: 1428352113685678_122117345715501659",
   "19:52:24 POSTED facebook@Vijayendra-Singh edb499b3: 1317760538089559_122128221237480728",
   "20:16:36 READY b932c7f1 3 in 1 Kids Cutlery Set | Diwali (auto-approved)",
   "20:17:19 POSTED instagram@Vinzap-Finds b932c7f1: 18130126582891650",
@@ -5671,13 +5666,20 @@
   "18:31:07 READY a33dfe01 LED Dual Flow Faucet Adapter (auto-approved)",
   "18:31:17 POSTED instagram@Vinzap-Finds a33dfe01: 18131567404890955",
   "18:31:22 POSTED facebook@Vinzap-Finds a33dfe01: 1428352113685678_122117862033501659",
-  "18:31:26 POSTED facebook@Vijayendra-Singh a33dfe01: 1317760538089559_122128872933480728"
+  "18:31:26 POSTED facebook@Vijayendra-Singh a33dfe01: 1317760538089559_122128872933480728",
+  "19:01:21 READY d502638a Round Ice Cube Tray | Diwali (auto-approved)",
+  "19:02:02 POSTED instagram@Vinzap-Finds d502638a: 17963386926255090",
+  "19:02:07 POSTED facebook@Vinzap-Finds d502638a: 1705838924213239",
+  "19:02:12 POSTED facebook@Vijayendra-Singh d502638a: 1842252460311297",
+  "19:02:50 STORY POSTED instagram@Vinzap-Finds d502638a",
+  "19:03:12 STORY POSTED facebook@Vinzap-Finds d502638a",
+  "19:03:26 STORY POSTED facebook@Vijayendra-Singh d502638a"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794488467.699299,
-  "facebook@Vinzap-Finds": 1794488467.699299,
-  "facebook@Vijayendra-Singh": 1794488467.699299,
+  "instagram@Vinzap-Finds": 1794490281.351591,
+  "facebook@Vinzap-Finds": 1794490281.351591,
+  "facebook@Vijayendra-Singh": 1794490281.351591,
   "youtube": 1794486662.1313984
  },
- "n": 532
+ "n": 533
 }
