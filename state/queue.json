@@ -1,76 +1,6 @@
 {
  "items": [
   {
-   "id": "d0cae896",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Multifunction Collapsible Extendable Stick",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 739,
-    "was": 0,
-    "feats": [
-     "Multi-Function Collapsible"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Multifunction Collapsible Extendable Stick | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multifunction Collapsible Extendable Stick"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultifunction Collapsible Extendable Stick\n✔ Multi-Function Collapsible\n\nOnly ₹739. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Multifunction Collapsible Extendable Stick | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794128467.8464549,
-     "id": "18642566749004703",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794128467.8464549,
-     "id": "2018452715512276",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794128467.8464549,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev1d5Z_D60owAsN7kY3rlek2z"
-    }
-   },
-   "created": 1794128448.4302146,
-   "after": 0,
-   "handle": "576-multi-function-collapsible-self-defense-stick-extended",
-   "product_url": "https://www.vinzapstore.in/products/576-multi-function-collapsible-self-defense-stick-extended",
-   "file": "d0cae896.mp4",
-   "thumb": "d0cae896_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18149249902602528"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "28217874807887511"
-    }
-   }
-  },
-  {
    "id": "8c86bc56",
    "status": "posted",
    "kind": "image",
@@ -5464,16 +5394,82 @@
    "product_url": "https://www.vinzapstore.in/products/cartoon-dinosaur-fruit-fork-set-with-storage-case-stand-for-kids-1-set",
    "file": "4dbb6caa.jpg",
    "thumb": "4dbb6caa.jpg"
+  },
+  {
+   "id": "b33e431e",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Plastic Fruit Fork",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Clear transparent plastic fruit",
+     "2-tine design for easy fruit",
+     "Decorative beaded handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Disposable Plastic Fruit Fork | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Plastic Fruit Fork"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Plastic Fruit Fork\n✔ Clear transparent plastic fruit\n✔ 2-tine design for easy fruit\n✔ Decorative beaded handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
+   "title": "Disposable Plastic Fruit Fork | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794472268.963208,
+     "id": "18374401807246039",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794472268.963208,
+     "id": "1648803266637317",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794472268.963208,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevrbvAz_sWQpxRNXmwD7QyX0M"
+    }
+   },
+   "created": 1794472242.647794,
+   "after": 0,
+   "handle": "mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
+   "product_url": "https://www.vinzapstore.in/products/mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
+   "file": "b33e431e.mp4",
+   "thumb": "b33e431e_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18123727876947565"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1473880651558246"
+    }
+   }
   }
  ],
- "last_post": 1794470456.4895415,
+ "last_post": 1794472268.963208,
  "log": [
-  "13:46:32 POSTED instagram@Vinzap-Finds 3b8900a3: 17978189685157190",
-  "13:46:37 POSTED facebook@Vinzap-Finds 3b8900a3: 1788601588867140",
-  "13:46:42 POSTED facebook@Vijayendra-Singh 3b8900a3: 2189592851994813",
-  "13:47:14 STORY POSTED instagram@Vinzap-Finds 3b8900a3",
-  "13:47:24 STORY POSTED facebook@Vinzap-Finds 3b8900a3",
-  "13:47:31 STORY POSTED facebook@Vijayendra-Singh 3b8900a3",
   "14:17:50 READY 5d242ffc USB Rechargeable Electric Water Dispenser (auto-approved)",
   "14:18:02 POSTED instagram@Vinzap-Finds 5d242ffc: 17950694115344557",
   "14:18:05 POSTED facebook@Vinzap-Finds 5d242ffc: 1428352113685678_122117267229501659",
@@ -5667,13 +5663,19 @@
   "13:30:56 READY 4dbb6caa Dinosaur Fruit Fork Set (auto-approved)",
   "13:31:13 POSTED instagram@Vinzap-Finds 4dbb6caa: 18135944017837570",
   "13:31:18 POSTED facebook@Vinzap-Finds 4dbb6caa: 1428352113685678_122117800365501659",
-  "13:31:23 POSTED facebook@Vijayendra-Singh 4dbb6caa: 1317760538089559_122128774065480728"
+  "13:31:23 POSTED facebook@Vijayendra-Singh 4dbb6caa: 1317760538089559_122128774065480728",
+  "14:01:08 READY b33e431e Disposable Plastic Fruit Fork | Trending Shorts (auto-approved)",
+  "14:01:40 POSTED instagram@Vinzap-Finds b33e431e: 18374401807246039",
+  "14:01:45 POSTED facebook@Vinzap-Finds b33e431e: 1648803266637317",
+  "14:01:46 FAILED post facebook@Vijayendra-Singh b33e431e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevrbvAz_sWQpxRNXmwD7QyX0MmpcKBqU1VeiYwgVR1WstUVNlGc-zgWv60hUoRMpWc9DS0zPvRsPtJ-Rwo5ESwD0k10sFmXiCgIP4RrgxtFXsXGi0Wu70trApilTgKgFQQ7mJJZyGzVFvOp6ZV38N9JxhIQgGXcTxgjXW8pBVqWpTJiJ9cxySkv3DeQoqzjzwzxZXsdwqBhD3e_KVI9LWZ-P0xBDkt8Tm1S2Yv9lzhSOAJb6PLD7PzGfY5EB9UIG29G91IOUKV9UAC017xknuhEKzkM3pqV_rahYCCqLX9N5adI4Gx2QRFrHH-e2xR-MMg\",\"help_cente",
+  "14:02:17 STORY POSTED instagram@Vinzap-Finds b33e431e",
+  "14:02:26 STORY POSTED facebook@Vinzap-Finds b33e431e"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794470456.4895415,
-  "facebook@Vinzap-Finds": 1794470456.4895415,
-  "facebook@Vijayendra-Singh": 1794470456.4895415,
+  "instagram@Vinzap-Finds": 1794472268.963208,
+  "facebook@Vinzap-Finds": 1794472268.963208,
+  "facebook@Vijayendra-Singh": 1794472268.963208,
   "youtube": 1794465085.4044993
  },
- "n": 522
+ "n": 523
 }
