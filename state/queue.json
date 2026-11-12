@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "d39e1b4a",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "6 in 1 Premium Kitchen Knife Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 699,
-    "was": 0,
-    "feats": [
-     "Complete 6 in 1 kitchen tool set",
-     "Sharp stainless steel blades",
-     "Ergonomic handles for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "6 in 1 Premium Kitchen Knife Set | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "6 in 1 Premium Kitchen Knife Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n6 in 1 Premium Kitchen Knife Set\n✔ Complete 6 in 1 kitchen tool set\n✔ Sharp stainless steel blades\n✔ Ergonomic handles for comfortable\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "6 in 1 Premium Kitchen Knife Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794141046.2771378,
-     "id": "18146989057590926",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794141046.2771378,
-     "id": "1428352113685678_122116719315501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794141046.2771378,
-     "id": "1317760538089559_122127478803480728",
-     "dry": false
-    }
-   },
-   "created": 1794141044.2338185,
-   "after": 0,
-   "handle": "6-in-1-premium-kitchen-knife-set-1-set",
-   "product_url": "https://www.vinzapstore.in/products/6-in-1-premium-kitchen-knife-set-1-set",
-   "file": "d39e1b4a.jpg",
-   "thumb": "d39e1b4a.jpg"
-  },
-  {
    "id": "fdf9a3f8",
    "status": "scheduled",
    "kind": "reel",
@@ -5468,14 +5406,72 @@
      "id": "1000556156450454"
     }
    }
+  },
+  {
+   "id": "65fd9fe1",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Small Plastic Gloves",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "100 disposable gloves per pack",
+     "size for a comfortable fit",
+     "Transparent design for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Disposable Small Plastic Gloves | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Small Plastic Gloves"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Small Plastic Gloves\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
+   "title": "Disposable Small Plastic Gloves",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794484926.649455,
+     "id": "18132819949837456",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794484926.649455,
+     "id": "1428352113685678_122117847519501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794484926.649455,
+     "id": "1317760538089559_122128859883480728",
+     "dry": false
+    }
+   },
+   "created": 1794484924.3107035,
+   "after": 0,
+   "handle": "disposable-small-plastic-gloves-100-pc-1",
+   "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-100-pc-1",
+   "file": "65fd9fe1.jpg",
+   "thumb": "65fd9fe1.jpg"
   }
  ],
- "last_post": 1794483075.7241573,
+ "last_post": 1794484926.649455,
  "log": [
-  "17:48:14 POSTED instagram@Vinzap-Finds 7c33f6e3: 17914975062493065",
-  "17:48:18 POSTED facebook@Vinzap-Finds 7c33f6e3: 1428352113685678_122117313279501659",
-  "17:48:21 POSTED facebook@Vijayendra-Singh 7c33f6e3: 1317760538089559_122128191273480728",
-  "18:16:09 READY 5fc050ec Silicone Ice Cube Maker Cup | Cooking (auto-approved)",
   "18:16:43 POSTED instagram@Vinzap-Finds 5fc050ec: 18039809354814641",
   "18:16:47 POSTED facebook@Vinzap-Finds 5fc050ec: 1127390260117229",
   "18:16:48 FAILED post facebook@Vijayendra-Singh 5fc050ec: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aetw2KQRBH0ooNPsuSHJd45ujehs5EDbqp21d5B-hrK9C-23-6Dr2oWhumXEoi7ETyJMjE1MuAJm0KoG3dKypoKH_AtP41vlN0Kic3YoxDEBC4fQzIBHPAOf0UqryosZivr2yF_vxCnVRQUS_XAfzIKZhI6cJNVUrKwrzQsoGm0hTwo9aAvT0eGwBgXooMwMfVU_oz1o4Ffbc2AtkJHxhxS2lYlyOJgJBive5fBSwsvi7JSnEch6bgO5aIKU4vzxB4JrQPz7Sl0d9aWyooLL0t--HQnvL9-cH8I4NQUzU376OrH_PlD5Nkt1ghIaBrcdJw8\",\"help_cente",
@@ -5671,13 +5667,17 @@
   "17:02:02 POSTED facebook@Vijayendra-Singh 0b1a379a: 1019044161256321",
   "17:02:34 STORY POSTED instagram@Vinzap-Finds 0b1a379a",
   "17:02:44 STORY POSTED facebook@Vinzap-Finds 0b1a379a",
-  "17:02:55 STORY POSTED facebook@Vijayendra-Singh 0b1a379a"
+  "17:02:55 STORY POSTED facebook@Vijayendra-Singh 0b1a379a",
+  "17:32:06 READY 65fd9fe1 Disposable Small Plastic Gloves (auto-approved)",
+  "17:32:15 POSTED instagram@Vinzap-Finds 65fd9fe1: 18132819949837456",
+  "17:32:20 POSTED facebook@Vinzap-Finds 65fd9fe1: 1428352113685678_122117847519501659",
+  "17:32:24 POSTED facebook@Vijayendra-Singh 65fd9fe1: 1317760538089559_122128859883480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794483075.7241573,
-  "facebook@Vinzap-Finds": 1794483075.7241573,
-  "facebook@Vijayendra-Singh": 1794483075.7241573,
-  "youtube": 1794475879.10639
+  "instagram@Vinzap-Finds": 1794484926.649455,
+  "facebook@Vinzap-Finds": 1794484926.649455,
+  "facebook@Vijayendra-Singh": 1794484926.649455,
+  "youtube": 1794475459.10639
  },
- "n": 529
+ "n": 530
 }
