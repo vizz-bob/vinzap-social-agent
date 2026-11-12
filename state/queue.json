@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "1c8024b8",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "3 in 1 Kitchen Knife and Chopping Board Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 169,
-    "was": 0,
-    "feats": [
-     "Complete 3 in 1 kitchen",
-     "Includes chopping board",
-     "Smooth cutting surface for safe"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "3 in 1 Kitchen Knife and Chopping Board Set | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3 in 1 Kitchen Knife and Chopping Board Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n3 in 1 Kitchen Knife and Chopping Board Set\n✔ Complete 3 in 1 kitchen\n✔ Includes chopping board\n✔ Smooth cutting surface for safe\n\nOnly ₹169. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "3 in 1 Kitchen Knife and Chopping Board Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794137447.3993928,
-     "id": "18106462196633980",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794137447.3993928,
-     "id": "1428352113685678_122116703835501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794137447.3993928,
-     "id": "1317760538089559_122127460599480728",
-     "dry": false
-    }
-   },
-   "created": 1794137445.534715,
-   "after": 0,
-   "handle": "3-in-1-kitchen-knife-chopping-board-set-1-set",
-   "product_url": "https://www.vinzapstore.in/products/3-in-1-kitchen-knife-chopping-board-set-1-set",
-   "file": "1c8024b8.jpg",
-   "thumb": "1c8024b8.jpg"
-  },
-  {
    "id": "80539c89",
    "status": "scheduled",
    "kind": "reel",
@@ -5463,14 +5401,72 @@
      "id": "1383810883621965"
     }
    }
+  },
+  {
+   "id": "db784a1c",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Dinner Spoon",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Stainless steel dinner spoon",
+     "Decorative scalloped handle design",
+     "Rust-resistant and durable build"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Stainless Steel Dinner Spoon | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Dinner Spoon"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Dinner Spoon\n✔ Stainless steel dinner spoon\n✔ Decorative scalloped handle design\n✔ Rust-resistant and durable build\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Stainless Steel Dinner Spoon",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794481269.778732,
+     "id": "18109429316192189",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794481269.778732,
+     "id": "1428352113685678_122117835789501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794481269.778732,
+     "id": "1317760538089559_122128834467480728",
+     "dry": false
+    }
+   },
+   "created": 1794481267.761258,
+   "after": 0,
+   "handle": "stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-carved-handle-dinner-spoon-for-dining-and-kitchen-use-1-pc",
+   "file": "db784a1c.jpg",
+   "thumb": "db784a1c.jpg"
   }
  ],
- "last_post": 1794479478.6481628,
+ "last_post": 1794481269.778732,
  "log": [
-  "16:30:55 READY ac25578e Wall Mount Liquid Soap and Hand Wash (auto-approved)",
-  "16:31:08 POSTED instagram@Vinzap-Finds ac25578e: 18095478641184809",
-  "16:31:13 POSTED facebook@Vinzap-Finds ac25578e: 1428352113685678_122117297235501659",
-  "16:31:17 POSTED facebook@Vijayendra-Singh ac25578e: 1317760538089559_122128161123480728",
   "17:01:00 READY d047703c Oil and Juice Pourer Dispenser Bottle 1000ml | Diwali (auto-approved)",
   "17:01:39 POSTED instagram@Vinzap-Finds d047703c: 17953859715316586",
   "17:01:43 POSTED facebook@Vinzap-Finds d047703c: 987679864061460",
@@ -5666,13 +5662,17 @@
   "16:01:56 POSTED facebook@Vinzap-Finds 545781a2: 4505664379646934",
   "16:01:57 FAILED post facebook@Vijayendra-Singh 545781a2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesSrZ4xB3kgIpN4qvtDOwhJWpOJ4oS9SZMZm3bs2Qd4FiGRF4OK6IFu9w9XNNjtSf94pzcCLSwvUW9et7V4tObh2Zvl_cW4x0JrodPgu5M5zatFmCiUgpRHskYXpqtfHbv6i3p6SifkKuHQO9SF1gkA4KB-mfrNgC_sMRDHFy4v2Z3KvOlEJX5fU0uCb_UIcPxifzixWMSGlWTgP2SLPqss1qLz8tzu_tw3bN0_T2e2nlkenmEWYWBeq3kahavQS2deGy_y50nb8FvOi3wHKKQ6fKoUWl5WriENtxngvSsVJwrhNwj8oYAxkDW7cgjZatA\",\"help_cente",
   "16:02:26 STORY POSTED instagram@Vinzap-Finds 545781a2",
-  "16:02:35 STORY POSTED facebook@Vinzap-Finds 545781a2"
+  "16:02:35 STORY POSTED facebook@Vinzap-Finds 545781a2",
+  "16:31:09 READY db784a1c Stainless Steel Dinner Spoon (auto-approved)",
+  "16:31:22 POSTED instagram@Vinzap-Finds db784a1c: 18109429316192189",
+  "16:31:26 POSTED facebook@Vinzap-Finds db784a1c: 1428352113685678_122117835789501659",
+  "16:31:29 POSTED facebook@Vijayendra-Singh db784a1c: 1317760538089559_122128834467480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794479478.6481628,
-  "facebook@Vinzap-Finds": 1794479478.6481628,
-  "facebook@Vijayendra-Singh": 1794479478.6481628,
+  "instagram@Vinzap-Finds": 1794481269.778732,
+  "facebook@Vinzap-Finds": 1794481269.778732,
+  "facebook@Vijayendra-Singh": 1794481269.778732,
   "youtube": 1794475879.10639
  },
- "n": 527
+ "n": 528
 }
