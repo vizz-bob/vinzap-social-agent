@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "012254ed",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Mini Tabletop Dustbin 1200ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 239,
-    "was": 0,
-    "feats": [
-     "Modern & Space-Saving Design:",
-     "Durable & Sturdy Build: Made from",
-     "Versatile Usage: Suitable for home"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Mini Tabletop Dustbin 1200ml | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Mini Tabletop Dustbin 1200ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMini Tabletop Dustbin 1200ml\n✔ Modern & Space-Saving Design:\n✔ Durable & Sturdy Build: Made from\n✔ Versatile Usage: Suitable for home\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Mini Tabletop Dustbin 1200ml | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794225669.6984742,
-     "id": "18084036344364092",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794225669.6984742,
-     "id": "1111877308361902",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794225669.6984742,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetamUsepnubuWkiIghfOcG9ZA"
-    }
-   },
-   "created": 1794225652.8164308,
-   "after": 0,
-   "handle": "apex-mini-tabletop-dustbin-1-pc-1200-ml-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/apex-mini-tabletop-dustbin-1-pc-1200-ml-mix-color",
-   "file": "012254ed.mp4",
-   "thumb": "012254ed_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18189157345422141"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1148932457600744"
-    }
-   }
-  },
-  {
    "id": "4c5ee5a1",
    "status": "posted",
    "kind": "image",
@@ -5463,17 +5391,87 @@
    "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
    "file": "4629fe00.jpg",
    "thumb": "4629fe00.jpg"
+  },
+  {
+   "id": "dfbadad8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Lunch Box",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Dual compartment design",
+     "Secure locking lid to help",
+     "Matching water bottle with easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Plastic Lunch Box | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Lunch Box"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Lunch Box\n✔ Dual compartment design\n✔ Secure locking lid to help\n✔ Matching water bottle with easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #bottle #homeessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
+   "title": "Plastic Lunch Box | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794569463.7089038,
+     "id": "18214144303363924",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794569463.7089038,
+     "id": "2395795150956198",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794569463.7089038,
+     "id": "1664064835366697",
+     "dry": false
+    }
+   },
+   "created": 1794569448.9405243,
+   "after": 0,
+   "handle": "plastic-lunch-box-with-water-bottle-combo-set-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-lunch-box-with-water-bottle-combo-set-1-set",
+   "file": "dfbadad8.mp4",
+   "thumb": "dfbadad8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18123514010056529"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1691772862480187"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1141713524936270"
+    }
+   }
   }
  ],
- "last_post": 1794567673.883385,
+ "last_post": 1794569463.7089038,
  "log": [
-  "17:01:46 POSTED facebook@Vinzap-Finds a9d1b300: 1787857155766710",
-  "17:01:51 POSTED facebook@Vijayendra-Singh a9d1b300: 1829307414939313",
-  "17:02:23 STORY POSTED instagram@Vinzap-Finds a9d1b300",
-  "17:02:32 STORY POSTED facebook@Vinzap-Finds a9d1b300",
-  "17:02:40 STORY POSTED facebook@Vijayendra-Singh a9d1b300",
-  "17:30:53 READY eecda9d3 Portable Electric Kettle 600ml Travel Water (auto-approved)",
-  "17:31:04 POSTED instagram@Vinzap-Finds eecda9d3: 18115487285127795",
   "17:31:07 POSTED facebook@Vinzap-Finds eecda9d3: 1428352113685678_122117592375501659",
   "17:31:12 POSTED facebook@Vijayendra-Singh eecda9d3: 1317760538089559_122128503105480728",
   "18:01:18 READY c4502c07 Stainless Steel Wire Skimmer | Diwali (auto-approved)",
@@ -5666,13 +5664,20 @@
   "16:31:13 READY 4629fe00 Fish Scaler Scraper (auto-approved)",
   "16:31:24 POSTED instagram@Vinzap-Finds 4629fe00: 17886758472547989",
   "16:31:26 POSTED facebook@Vinzap-Finds 4629fe00: 1428352113685678_122118091155501659",
-  "16:31:30 POSTED facebook@Vijayendra-Singh 4629fe00: 1317760538089559_122129176353480728"
+  "16:31:30 POSTED facebook@Vijayendra-Singh 4629fe00: 1317760538089559_122129176353480728",
+  "17:01:03 READY dfbadad8 Plastic Lunch Box | Kitchen Organization (auto-approved)",
+  "17:01:38 POSTED instagram@Vinzap-Finds dfbadad8: 18214144303363924",
+  "17:01:43 POSTED facebook@Vinzap-Finds dfbadad8: 2395795150956198",
+  "17:01:47 POSTED facebook@Vijayendra-Singh dfbadad8: 1664064835366697",
+  "17:02:19 STORY POSTED instagram@Vinzap-Finds dfbadad8",
+  "17:02:25 STORY POSTED facebook@Vinzap-Finds dfbadad8",
+  "17:02:34 STORY POSTED facebook@Vijayendra-Singh dfbadad8"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794567673.883385,
-  "facebook@Vinzap-Finds": 1794567673.883385,
-  "facebook@Vijayendra-Singh": 1794567673.883385,
+  "instagram@Vinzap-Finds": 1794569463.7089038,
+  "facebook@Vinzap-Finds": 1794569463.7089038,
+  "facebook@Vijayendra-Singh": 1794569463.7089038,
   "youtube": 1794562265.7218132
  },
- "n": 550
+ "n": 551
 }
