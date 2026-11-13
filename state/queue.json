@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "5be2e4d0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Dual compartment design",
-     "Secure locking lid to help",
-     "Matching water bottle with easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Plastic Lunch Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Lunch Box\n✔ Dual compartment design\n✔ Secure locking lid to help\n✔ Matching water bottle with easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals #bottle #homeessentials #lunchbox #tiffin\n#kitchenorganization #cooking",
-   "title": "Plastic Lunch Box | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794211294.2100415,
-     "id": "17938221060405013",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794211294.2100415,
-     "id": "29236857515967246",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794211294.2100415,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu1aFX8ls-mepWGTivr2fLMv8"
-    }
-   },
-   "created": 1794211273.9065492,
-   "after": 0,
-   "handle": "plastic-lunch-box-with-water-bottle-combo-set-1-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-lunch-box-with-water-bottle-combo-set-1-set",
-   "file": "5be2e4d0.mp4",
-   "thumb": "5be2e4d0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18349086733253247"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1774451123648711"
-    }
-   }
-  },
-  {
    "id": "c308caf6",
    "status": "posted",
    "kind": "image",
@@ -5459,16 +5387,82 @@
    "product_url": "https://www.vinzapstore.in/products/unbreakable-plastic-drinking-mug-with-handle-for-coffee-tea-and-milk-1-pc",
    "file": "439066b6.jpg",
    "thumb": "439066b6.jpg"
+  },
+  {
+   "id": "b7473ead",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Electric Barbecue Grill 2000W",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 2889,
+    "was": 0,
+    "feats": [
+     "Perfect electric barbecue grill",
+     "It has a non-stick steel grill",
+     "Cool touch handles"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Electric Barbecue Grill 2000W | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Barbecue Grill 2000W"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Barbecue Grill 2000W\n✔ Perfect electric barbecue grill\n✔ It has a non-stick steel grill\n✔ Cool touch handles\n\nOnly ₹2889. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Electric Barbecue Grill 2000W | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794555085.8881972,
+     "id": "18095270195693338",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794555085.8881972,
+     "id": "1003868028752164",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794555085.8881972,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4ApA-8GgVdLgYGA5c7xJZe1"
+    }
+   },
+   "created": 1794555059.6313457,
+   "after": 0,
+   "handle": "electric-barbecue-grill-2000w-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/electric-barbecue-grill-2000w-1-pc",
+   "file": "b7473ead.mp4",
+   "thumb": "b7473ead_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18097236569260635"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4189644324664537"
+    }
+   }
   }
  ],
- "last_post": 1794553255.2294495,
+ "last_post": 1794555085.8881972,
  "log": [
-  "13:02:21 STORY POSTED instagram@Vinzap-Finds 9311ecf7",
-  "13:02:29 STORY POSTED facebook@Vinzap-Finds 9311ecf7",
-  "13:31:01 READY 8e3fc360 Multipurpose Cheese and Vegetable Grater (auto-approved)",
-  "13:31:19 POSTED instagram@Vinzap-Finds 8e3fc360: 18466934947190861",
-  "13:31:22 POSTED facebook@Vinzap-Finds 8e3fc360: 1428352113685678_122117543841501659",
-  "13:31:26 POSTED facebook@Vijayendra-Singh 8e3fc360: 1317760538089559_122128426473480728",
   "14:01:10 READY b7bbf687 Natural Bamboo Skewers | Home Decor Ideas (auto-approved)",
   "14:01:53 POSTED instagram@Vinzap-Finds b7bbf687: 17911134876327896",
   "14:01:58 POSTED facebook@Vinzap-Finds b7bbf687: 2581146759059511",
@@ -5662,13 +5656,19 @@
   "12:30:55 READY 439066b6 Unbreakable Plastic Mug (auto-approved)",
   "12:31:09 POSTED instagram@Vinzap-Finds 439066b6: 17950504467068657",
   "12:31:13 POSTED facebook@Vinzap-Finds 439066b6: 1428352113685678_122118041565501659",
-  "12:31:18 POSTED facebook@Vijayendra-Singh 439066b6: 1317760538089559_122129125761480728"
+  "12:31:18 POSTED facebook@Vijayendra-Singh 439066b6: 1317760538089559_122129125761480728",
+  "13:01:25 READY b7473ead Electric Barbecue Grill 2000W | Kitchen Organization (auto-approved)",
+  "13:02:02 POSTED instagram@Vinzap-Finds b7473ead: 18095270195693338",
+  "13:02:08 POSTED facebook@Vinzap-Finds b7473ead: 1003868028752164",
+  "13:02:10 FAILED post facebook@Vijayendra-Singh b7473ead: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4ApA-8GgVdLgYGA5c7xJZe1egQexvhmbDWSkRro7gkwYl1fN2DrX2xzrRYWkDYpib_3L5ozuGMvijKXd86ciMZSELO3JO6SFWDCMfNfixk0te3hMu6eBbt_4mO9vKacQd5WLSLclS0AMZhhd5unVT89pXoJFppFN2h__w2CK4_xAJAF7jYHbik8HDXXSySZhClrOpi551vSsAjG08BT5CXOYJe92DTdTncSWYa7_wfyUlBkIemhCx-HcHqbe3W4VkHLKmuCFebi5EvHaLYiXzl1AUsRFUo4OvAdGJllgypJ2TDpu7CLn_rzs_9jxhswA\",\"help_cente",
+  "13:02:46 STORY POSTED instagram@Vinzap-Finds b7473ead",
+  "13:02:59 STORY POSTED facebook@Vinzap-Finds b7473ead"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794553255.2294495,
-  "facebook@Vinzap-Finds": 1794553255.2294495,
-  "facebook@Vijayendra-Singh": 1794553255.2294495,
+  "instagram@Vinzap-Finds": 1794555085.8881972,
+  "facebook@Vinzap-Finds": 1794555085.8881972,
+  "facebook@Vijayendra-Singh": 1794555085.8881972,
   "youtube": 1794551472.9505622
  },
- "n": 542
+ "n": 543
 }
