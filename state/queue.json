@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "f40ac8f1",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Bottle Cleaning Brush",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Connects to standard plastic",
-     "Durable and firm nylon bristles",
-     "Built-in scraper helps remove"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Bottle Cleaning Brush | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Bottle Cleaning Brush"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nBottle Cleaning Brush\n✔ Connects to standard plastic\n✔ Durable and firm nylon bristles\n✔ Built-in scraper helps remove\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning #bottle #homeessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Bottle Cleaning Brush | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794207676.4612336,
-     "id": "18088752401702014",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794207676.4612336,
-     "id": "1724585595724892",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794207676.4612336,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetYtn-kOQaRXFP6kL3Q18K5dE"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794207676.4612336,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794207650.4295738,
-   "after": 0,
-   "handle": "multipurpose-bottle-connectable-cleaning-brush-with-built-in-scraper-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-bottle-connectable-cleaning-brush-with-built-in-scraper-1-pc",
-   "file": "f40ac8f1.mp4",
-   "thumb": "f40ac8f1_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18129845491897192"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1182027704360094"
-    }
-   }
-  },
-  {
    "id": "cbcca50d",
    "status": "posted",
    "kind": "image",
@@ -5459,17 +5382,87 @@
    "product_url": "https://www.vinzapstore.in/products/square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
    "file": "18588319.jpg",
    "thumb": "18588319.jpg"
+  },
+  {
+   "id": "9d95b4b0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Multipurpose Vegetable Sharpener and Peeler",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Dual-function design",
+     "Smooth peeling action for fruits",
+     "Compact and lightweight for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Multipurpose Vegetable Sharpener and Peeler | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Multipurpose Vegetable Sharpener and Peeler"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultipurpose Vegetable Sharpener and Peeler\n✔ Dual-function design\n✔ Smooth peeling action for fruits\n✔ Compact and lightweight for easy\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
+   "title": "Multipurpose Vegetable Sharpener and Peeler | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794551472.9505622,
+     "id": "18232131592333640",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794551472.9505622,
+     "id": "1610305176982804",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794551472.9505622,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevmsDCPI28Dge6mL8diyoGgVA"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794551472.9505622,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794551446.633576,
+   "after": 0,
+   "handle": "multipurpose-vegetable-sharpener-peeler-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-vegetable-sharpener-peeler-tool-1-pc",
+   "file": "9d95b4b0.mp4",
+   "thumb": "9d95b4b0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17920986858596150"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3014004752309588"
+    }
+   }
   }
  ],
- "last_post": 1794502858.5341375,
+ "last_post": 1794551472.9505622,
  "log": [
-  "12:01:59 FAILED post youtube e212c6ad: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "12:02:29 STORY POSTED instagram@Vinzap-Finds e212c6ad",
-  "12:02:36 STORY POSTED facebook@Vinzap-Finds e212c6ad",
-  "12:30:56 READY 1e70f748 Durable Plastic Ice Cube Tray (auto-approved)",
-  "12:31:10 POSTED instagram@Vinzap-Finds 1e70f748: 18118119053037811",
-  "12:31:14 POSTED facebook@Vinzap-Finds 1e70f748: 1428352113685678_122117535087501659",
-  "12:31:18 POSTED facebook@Vijayendra-Singh 1e70f748: 1317760538089559_122128412889480728",
   "13:01:13 READY 9311ecf7 Apex Cozy Coffee Mug 450ml | Cooking (auto-approved)",
   "13:01:45 POSTED instagram@Vinzap-Finds 9311ecf7: 18472925104185081",
   "13:01:49 POSTED facebook@Vinzap-Finds 9311ecf7: 2304955446971601",
@@ -5662,13 +5655,20 @@
   "22:30:58 READY 18588319 Square Ice Cube Mould Set of 4 (auto-approved)",
   "22:31:12 POSTED instagram@Vinzap-Finds 18588319: 18109722059204271",
   "22:31:17 POSTED facebook@Vinzap-Finds 18588319: 1428352113685678_122117904675501659",
-  "22:31:21 POSTED facebook@Vijayendra-Singh 18588319: 1317760538089559_122128936899480728"
+  "22:31:21 POSTED facebook@Vijayendra-Singh 18588319: 1317760538089559_122128936899480728",
+  "12:01:12 READY 9d95b4b0 Multipurpose Vegetable Sharpener and Peeler | Kitchen Gadgets (auto-approved)",
+  "12:01:47 POSTED instagram@Vinzap-Finds 9d95b4b0: 18232131592333640",
+  "12:01:54 POSTED facebook@Vinzap-Finds 9d95b4b0: 1610305176982804",
+  "12:01:55 FAILED post facebook@Vijayendra-Singh 9d95b4b0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevmsDCPI28Dge6mL8diyoGgVA2BsrN6EWvoJDRjWEEBWWORAX2Ox2CzBSrH7kYlkEpqkr13kFFlsuzRy4_QsW49V9684KiBnQ50SJaU8dOxb15418ozLfyKYGRcGZIluls57MgxJwysJbKFhQFzmoV-Ar0q8RQ3zhz8dXaC1_5WOIS4eu3HSfR0d_PBGvUs8qD6z_AnbAnByrd1qaGKUJOIzPu2LnBuucM0Ms67quv_iuZuI7VxFhFr8EgLFWEq_ZW5T-QGggiMTayRoWQ154uwFXV7ejqEbRpQMPhe942jicxcFa1_7vp48n-2UgU2hjM\",\"help_cente",
+  "12:01:55 FAILED post youtube 9d95b4b0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:02:25 STORY POSTED instagram@Vinzap-Finds 9d95b4b0",
+  "12:02:38 STORY POSTED facebook@Vinzap-Finds 9d95b4b0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794502858.5341375,
-  "facebook@Vinzap-Finds": 1794502858.5341375,
-  "facebook@Vijayendra-Singh": 1794502858.5341375,
-  "youtube": 1794497507.333471
+  "instagram@Vinzap-Finds": 1794551472.9505622,
+  "facebook@Vinzap-Finds": 1794551472.9505622,
+  "facebook@Vijayendra-Singh": 1794551472.9505622,
+  "youtube": 1794551472.9505622
  },
- "n": 540
+ "n": 541
 }
