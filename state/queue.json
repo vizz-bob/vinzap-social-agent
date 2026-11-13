@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "fa5d84e6",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Paring Knife",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Surgical-grade stainless steel",
-     "Serrated edge ensures smooth",
-     "Ergonomic handle for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Paring Knife | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Paring Knife"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Paring Knife\n✔ Surgical-grade stainless steel\n✔ Serrated edge ensures smooth\n✔ Ergonomic handle for comfortable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Paring Knife",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794234646.430485,
-     "id": "18100823618423065",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794234646.430485,
-     "id": "1428352113685678_122117071113501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794234646.430485,
-     "id": "1317760538089559_122127904431480728",
-     "dry": false
-    }
-   },
-   "created": 1794234643.941386,
-   "after": 0,
-   "handle": "supermom-premium-stainless-steel-paring-knife-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-stainless-steel-paring-knife-1-pc",
-   "file": "fa5d84e6.jpg",
-   "thumb": "fa5d84e6.jpg"
-  },
-  {
    "id": "458d5075",
    "status": "scheduled",
    "kind": "reel",
@@ -5480,14 +5418,72 @@
      "id": "2157251468228246"
     }
    }
+  },
+  {
+   "id": "2db9a4c8",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Foldable Travel Cup",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 439,
+    "was": 0,
+    "feats": [
+     "Collapsible silicone body folds",
+     "Includes a reusable straw",
+     "Food-grade silicone construction"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Silicone Foldable Travel Cup | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Foldable Travel Cup"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Foldable Travel Cup\n✔ Collapsible silicone body folds\n✔ Includes a reusable straw\n✔ Food-grade silicone construction\n\nOnly ₹439. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
+   "title": "Silicone Foldable Travel Cup",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794578267.787922,
+     "id": "18108376937259858",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794578267.787922,
+     "id": "1428352113685678_122118123303501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794578267.787922,
+     "id": "1317760538089559_122129230485480728",
+     "dry": false
+    }
+   },
+   "created": 1794578265.9513063,
+   "after": 0,
+   "handle": "silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
+   "file": "2db9a4c8.jpg",
+   "thumb": "2db9a4c8.jpg"
   }
  ],
- "last_post": 1794576676.700321,
+ "last_post": 1794578267.787922,
  "log": [
-  "12:01:25 READY a5c8f2b4 Plastic Knife Organizer Stand | Trending Shorts (auto-approved)",
-  "12:02:02 POSTED instagram@Vinzap-Finds a5c8f2b4: 17915103126488729",
-  "12:02:07 POSTED facebook@Vinzap-Finds a5c8f2b4: 2343080539878647",
-  "12:02:09 FAILED post facebook@Vijayendra-Singh a5c8f2b4: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGb9x_OzWnG1MyqPWyU9fjXnlIlzi_h_kh5wQ6HJtT-bCuwUEpf_FuywYrpF-NSp2YJJDO9bUxhNVKBF6JYZpw1_4a-hDwRGm7fzeg9ciKCGsBM8HCfs71kfzTdCfP8j6IkOYR_p7T6RUHuP6_ZdSvP7SEonSVBHmX_9HHi43-iHEOgubhWGfcIPhS2I_1vPbu7AqC70yzVA1vpSvMFrPMBSm2MbVaMZszfSDJTjZzzLby7cqNw-wiVHsOkWrdElC9x0SpSdROuhHS68E7Nyt3EInDZIv0DbZv_VNwMMG4-3_HpP7D9XBHQqkPbC0VYus6\",\"help_cent",
   "12:02:09 FAILED post youtube a5c8f2b4: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "12:02:40 STORY POSTED instagram@Vinzap-Finds a5c8f2b4",
   "12:02:48 STORY POSTED facebook@Vinzap-Finds a5c8f2b4",
@@ -5683,13 +5679,17 @@
   "19:02:01 POSTED facebook@Vijayendra-Singh 86d472b8: 1176339468402254",
   "19:02:33 STORY POSTED instagram@Vinzap-Finds 86d472b8",
   "19:02:43 STORY POSTED facebook@Vinzap-Finds 86d472b8",
-  "19:02:51 STORY POSTED facebook@Vijayendra-Singh 86d472b8"
+  "19:02:51 STORY POSTED facebook@Vijayendra-Singh 86d472b8",
+  "19:27:47 READY 2db9a4c8 Silicone Foldable Travel Cup (auto-approved)",
+  "19:28:01 POSTED instagram@Vinzap-Finds 2db9a4c8: 18108376937259858",
+  "19:28:05 POSTED facebook@Vinzap-Finds 2db9a4c8: 1428352113685678_122118123303501659",
+  "19:28:09 POSTED facebook@Vijayendra-Singh 2db9a4c8: 1317760538089559_122129230485480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794576676.700321,
-  "facebook@Vinzap-Finds": 1794576676.700321,
-  "facebook@Vijayendra-Singh": 1794576676.700321,
+  "instagram@Vinzap-Finds": 1794578267.787922,
+  "facebook@Vinzap-Finds": 1794578267.787922,
+  "facebook@Vijayendra-Singh": 1794578267.787922,
   "youtube": 1794573065.3585553
  },
- "n": 555
+ "n": 556
 }
