@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "02cb969e",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Transparent Stand-Up Zipper Pouch Jar Shape",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 239,
-    "was": 0,
-    "feats": [
-     "Large jar bags",
-     "Medium jar bags",
-     "Small jar bags"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Transparent Stand-Up Zipper Pouch Jar Shape"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nTransparent Stand-Up Zipper Pouch Jar Shape\n✔ Large jar bags\n✔ Medium jar bags\n✔ Small jar bags\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#kitchengadgets #kitchenorganization",
-   "title": "Transparent Stand-Up Zipper Pouch Jar Shape | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794240078.885779,
-     "id": "18044794907833740",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794240078.885779,
-     "id": "1662389885274713",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794240078.885779,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevezBcGAsbXnJBZ5xkh-Ev0z8"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794240078.885779,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794240056.6715813,
-   "after": 0,
-   "handle": "0855-plastics-transparent-jar-shaped-stand-up-pouch-with-zipper",
-   "product_url": "https://www.vinzapstore.in/products/0855-plastics-transparent-jar-shaped-stand-up-pouch-with-zipper",
-   "file": "02cb969e.mp4",
-   "thumb": "02cb969e_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17987157669091789"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2049406919052445"
-    }
-   }
-  },
-  {
    "id": "f57d2906",
    "status": "posted",
    "kind": "image",
@@ -5485,18 +5408,92 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-medium-1",
    "file": "11edb010.jpg",
    "thumb": "11edb010.jpg"
+  },
+  {
+   "id": "acd9eb0b",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Reusable Airtight Mason Jar Zipper Pouch",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 45.86,
+    "was": 0,
+    "feats": [
+     "The unique appearance design",
+     "Realistic Mason jar shape design",
+     "They are lightweight and easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Airtight Mason Jar Zipper Pouch"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Airtight Mason Jar Zipper Pouch\n✔ The unique appearance design\n✔ Realistic Mason jar shape design\n✔ They are lightweight and easy\n\nOnly ₹45.86. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecorideas #diwali",
+   "title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794583878.3289185,
+     "id": "18122423416978484",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794583878.3289185,
+     "id": "1481651977191037",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794583878.3289185,
+     "id": "2742934526163199",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794583878.3289185,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794583859.2784402,
+   "after": 0,
+   "handle": "1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
+   "product_url": "https://www.vinzapstore.in/products/1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
+   "file": "acd9eb0b.mp4",
+   "thumb": "acd9eb0b_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17941269654385876"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2082666845740266"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn Mo"
+    }
+   }
   }
  ],
- "last_post": 1794582061.505554,
+ "last_post": 1794583878.3289185,
  "log": [
-  "13:02:18 STORY POSTED instagram@Vinzap-Finds 01701bf0",
-  "13:02:27 STORY POSTED facebook@Vinzap-Finds 01701bf0",
-  "13:30:56 READY 4dbb6caa Dinosaur Fruit Fork Set (auto-approved)",
-  "13:31:13 POSTED instagram@Vinzap-Finds 4dbb6caa: 18135944017837570",
-  "13:31:18 POSTED facebook@Vinzap-Finds 4dbb6caa: 1428352113685678_122117800365501659",
-  "13:31:23 POSTED facebook@Vijayendra-Singh 4dbb6caa: 1317760538089559_122128774065480728",
-  "14:01:08 READY b33e431e Disposable Plastic Fruit Fork | Trending Shorts (auto-approved)",
-  "14:01:40 POSTED instagram@Vinzap-Finds b33e431e: 18374401807246039",
   "14:01:45 POSTED facebook@Vinzap-Finds b33e431e: 1648803266637317",
   "14:01:46 FAILED post facebook@Vijayendra-Singh b33e431e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevrbvAz_sWQpxRNXmwD7QyX0MmpcKBqU1VeiYwgVR1WstUVNlGc-zgWv60hUoRMpWc9DS0zPvRsPtJ-Rwo5ESwD0k10sFmXiCgIP4RrgxtFXsXGi0Wu70trApilTgKgFQQ7mJJZyGzVFvOp6ZV38N9JxhIQgGXcTxgjXW8pBVqWpTJiJ9cxySkv3DeQoqzjzwzxZXsdwqBhD3e_KVI9LWZ-P0xBDkt8Tm1S2Yv9lzhSOAJb6PLD7PzGfY5EB9UIG29G91IOUKV9UAC017xknuhEKzkM3pqV_rahYCCqLX9N5adI4Gx2QRFrHH-e2xR-MMg\",\"help_cente",
   "14:02:17 STORY POSTED instagram@Vinzap-Finds b33e431e",
@@ -5688,13 +5685,21 @@
   "20:31:01 READY 11edb010 Disposable Clear Plastic Gloves Medium Pack (auto-approved)",
   "20:31:12 POSTED instagram@Vinzap-Finds 11edb010: 18132949960697190",
   "20:31:16 POSTED facebook@Vinzap-Finds 11edb010: 1428352113685678_122118135045501659",
-  "20:31:20 POSTED facebook@Vijayendra-Singh 11edb010: 1317760538089559_122129248395480728"
+  "20:31:20 POSTED facebook@Vijayendra-Singh 11edb010: 1317760538089559_122129248395480728",
+  "21:01:18 READY acd9eb0b Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas (auto-approved)",
+  "21:01:53 POSTED instagram@Vinzap-Finds acd9eb0b: 18122423416978484",
+  "21:01:57 POSTED facebook@Vinzap-Finds acd9eb0b: 1481651977191037",
+  "21:02:00 POSTED facebook@Vijayendra-Singh acd9eb0b: 2742934526163199",
+  "21:02:00 FAILED post youtube acd9eb0b: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "21:02:31 STORY POSTED instagram@Vinzap-Finds acd9eb0b",
+  "21:02:40 STORY POSTED facebook@Vinzap-Finds acd9eb0b",
+  "21:02:41 STORY FAILED facebook@Vijayendra-Singh acd9eb0b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794582061.505554,
-  "facebook@Vinzap-Finds": 1794582061.505554,
-  "facebook@Vijayendra-Singh": 1794582061.505554,
-  "youtube": 1794572645.3585553
+  "instagram@Vinzap-Finds": 1794583878.3289185,
+  "facebook@Vinzap-Finds": 1794583878.3289185,
+  "facebook@Vijayendra-Singh": 1794583878.3289185,
+  "youtube": 1794583878.3289185
  },
- "n": 558
+ "n": 559
 }
