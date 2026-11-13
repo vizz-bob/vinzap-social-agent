@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "a3e87023",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Multipurpose Kitchen Lid and Spoon Holder",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Holds pot lids and cooking",
-     "Prevents spills and keeps",
-     "Stable base for secure placement"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Multipurpose Kitchen Lid and Spoon Holder | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multipurpose Kitchen Lid and Spoon Holder"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultipurpose Kitchen Lid and Spoon Holder\n✔ Holds pot lids and cooking\n✔ Prevents spills and keeps\n✔ Stable base for secure placement\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Multipurpose Kitchen Lid and Spoon Holder",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794238248.2011135,
-     "id": "17894837244617611",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794238248.2011135,
-     "id": "1428352113685678_122117088081501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794238248.2011135,
-     "id": "1317760538089559_122127919797480728",
-     "dry": false
-    }
-   },
-   "created": 1794238245.796291,
-   "after": 0,
-   "handle": "multipurpose-kitchen-lid-spoon-holder-stand-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-kitchen-lid-spoon-holder-stand-1-pc",
-   "file": "a3e87023.jpg",
-   "thumb": "a3e87023.jpg"
-  },
-  {
    "id": "02cb969e",
    "status": "scheduled",
    "kind": "reel",
@@ -5485,14 +5423,72 @@
      "id": "1100303106373223"
     }
    }
+  },
+  {
+   "id": "11edb010",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Disposable Clear Plastic Gloves Medium Pack",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "100 disposable gloves per pack",
+     "size for a comfortable fit",
+     "Transparent design for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Disposable Clear Plastic Gloves Medium Pack | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Clear Plastic Gloves Medium Pack"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Clear Plastic Gloves Medium Pack\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Disposable Clear Plastic Gloves Medium Pack",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794582061.505554,
+     "id": "18132949960697190",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794582061.505554,
+     "id": "1428352113685678_122118135045501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794582061.505554,
+     "id": "1317760538089559_122129248395480728",
+     "dry": false
+    }
+   },
+   "created": 1794582059.2990928,
+   "after": 0,
+   "handle": "disposable-clear-plastic-gloves-100-pc-medium-1",
+   "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-medium-1",
+   "file": "11edb010.jpg",
+   "thumb": "11edb010.jpg"
   }
  ],
- "last_post": 1794580265.104624,
+ "last_post": 1794582061.505554,
  "log": [
-  "13:01:02 READY 01701bf0 Push Soap Dispenser 300ml | Trending Shorts (auto-approved)",
-  "13:01:39 POSTED instagram@Vinzap-Finds 01701bf0: 18183744253431790",
-  "13:01:45 POSTED facebook@Vinzap-Finds 01701bf0: 1391085992978557",
-  "13:01:46 FAILED post facebook@Vijayendra-Singh 01701bf0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesG4MV8Cui9ap2nQ68BCOdzFRKTRupiAFfDHMx_1C7XfNrdCz2ZwuK5nl4gPY5c1y69-sKqm4OF2VfctDc1rkOT7lRagys2hEmr7EuLgYVUVt5MMv22w4Ld-U62qOjp4jtmRGmmbIPFajGNlAcYas04zGlwDN78Sw7cghxu5puT--Wbcxe3KJX7ciwPMwd-YUfyFr5iyEdl4CpSYBi4bzJbR4Su5_96DAKcbXV5KzwKiTbGTOq1R_hcBwzbvw4YGG4_74SyHdK8rFQp48iTMSbCAEr_p7P4FDJT7AbsnDrGVJH2C7TFi0MMtqBhwAygqccX\",\"help_cent",
   "13:02:18 STORY POSTED instagram@Vinzap-Finds 01701bf0",
   "13:02:27 STORY POSTED facebook@Vinzap-Finds 01701bf0",
   "13:30:56 READY 4dbb6caa Dinosaur Fruit Fork Set (auto-approved)",
@@ -5688,13 +5684,17 @@
   "20:01:45 POSTED facebook@Vijayendra-Singh 519e5470: 1688631382673096",
   "20:02:15 STORY POSTED instagram@Vinzap-Finds 519e5470",
   "20:02:22 STORY POSTED facebook@Vinzap-Finds 519e5470",
-  "20:02:30 STORY POSTED facebook@Vijayendra-Singh 519e5470"
+  "20:02:30 STORY POSTED facebook@Vijayendra-Singh 519e5470",
+  "20:31:01 READY 11edb010 Disposable Clear Plastic Gloves Medium Pack (auto-approved)",
+  "20:31:12 POSTED instagram@Vinzap-Finds 11edb010: 18132949960697190",
+  "20:31:16 POSTED facebook@Vinzap-Finds 11edb010: 1428352113685678_122118135045501659",
+  "20:31:20 POSTED facebook@Vijayendra-Singh 11edb010: 1317760538089559_122129248395480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794580265.104624,
-  "facebook@Vinzap-Finds": 1794580265.104624,
-  "facebook@Vijayendra-Singh": 1794580265.104624,
-  "youtube": 1794573065.3585553
+  "instagram@Vinzap-Finds": 1794582061.505554,
+  "facebook@Vinzap-Finds": 1794582061.505554,
+  "facebook@Vijayendra-Singh": 1794582061.505554,
+  "youtube": 1794572645.3585553
  },
- "n": 557
+ "n": 558
 }
