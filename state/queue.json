@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "8c402c74",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kitchen Prep Combo of 3",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Small Meatball Maker and Cake",
-     "Foldable Rotating Wall Mounted",
-     "Plastic Round Puri Cutter"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Kitchen Prep Combo of 3 | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kitchen Prep Combo of 3"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Prep Combo of 3\n✔ Small Meatball Maker and Cake\n✔ Foldable Rotating Wall Mounted\n✔ Plastic Round Puri Cutter\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #combooffer #valuedeals\n#homedecorideas #diwali",
-   "title": "Kitchen Prep Combo of 3 | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794222089.802978,
-     "id": "18093208505690511",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794222089.802978,
-     "id": "1515785783941156",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794222089.802978,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevw2FIeS1BcJBjvkWAnaXTbpn"
-    }
-   },
-   "created": 1794222063.3695447,
-   "after": 0,
-   "handle": "kitchen-prep-combo-of-3",
-   "product_url": "https://www.vinzapstore.in/products/kitchen-prep-combo-of-3",
-   "file": "8c402c74.mp4",
-   "thumb": "8c402c74_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18136113160676108"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1763631204709386"
-    }
-   }
-  },
-  {
    "id": "4ad72a21",
    "status": "posted",
    "kind": "image",
@@ -5463,16 +5391,82 @@
    "product_url": "https://www.vinzapstore.in/products/panda-design-kids-lunch-box-with-separate-compartments-1set",
    "file": "323d1336.jpg",
    "thumb": "323d1336.jpg"
+  },
+  {
+   "id": "473b1d5e",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Heart Shape Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Add water",
+     "DIY & Reserve dessert",
+     "The cubes fit your small diameter"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Heart Shape Ice Cube Tray | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Heart Shape Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nHeart Shape Ice Cube Tray\n✔ Add water\n✔ DIY & Reserve dessert\n✔ The cubes fit your small diameter\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Heart Shape Ice Cube Tray | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794565872.648958,
+     "id": "18195642694397584",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794565872.648958,
+     "id": "1418813203566638",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794565872.648958,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevcZPeD3fz1e2InGU4JUq_e2y"
+    }
+   },
+   "created": 1794565854.8625445,
+   "after": 0,
+   "handle": "1133-heart-shape-ice-cube-tray",
+   "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
+   "file": "473b1d5e.mp4",
+   "thumb": "473b1d5e_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18641985982019320"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1456101895849439"
+    }
+   }
   }
  ],
- "last_post": 1794564062.6567347,
+ "last_post": 1794565872.648958,
  "log": [
-  "16:02:54 POSTED facebook@Vijayendra-Singh be292047: 29597898646500548",
-  "16:03:26 STORY POSTED instagram@Vinzap-Finds be292047",
-  "16:03:36 STORY POSTED facebook@Vinzap-Finds be292047",
-  "16:03:46 STORY POSTED facebook@Vijayendra-Singh be292047",
-  "16:30:54 READY 3823ba77 Stainless Steel Coconut Scraper (auto-approved)",
-  "16:31:04 POSTED instagram@Vinzap-Finds 3823ba77: 18399074641205360",
   "16:31:08 POSTED facebook@Vinzap-Finds 3823ba77: 1428352113685678_122117581365501659",
   "16:31:15 POSTED facebook@Vijayendra-Singh 3823ba77: 1317760538089559_122128490673480728",
   "17:01:03 READY a9d1b300 Liger Multipurpose Dry Fruit and Ginger | Diwali (auto-approved)",
@@ -5666,13 +5660,19 @@
   "15:31:02 READY 323d1336 Panda Design Kids Lunch Box (auto-approved)",
   "15:31:16 POSTED instagram@Vinzap-Finds 323d1336: 18442490437179357",
   "15:31:21 POSTED facebook@Vinzap-Finds 323d1336: 1428352113685678_122118082491501659",
-  "15:31:27 POSTED facebook@Vijayendra-Singh 323d1336: 1317760538089559_122129164281480728"
+  "15:31:27 POSTED facebook@Vijayendra-Singh 323d1336: 1317760538089559_122129164281480728",
+  "16:01:12 READY 473b1d5e Heart Shape Ice Cube Tray | Home Decor Ideas (auto-approved)",
+  "16:01:55 POSTED instagram@Vinzap-Finds 473b1d5e: 18195642694397584",
+  "16:01:59 POSTED facebook@Vinzap-Finds 473b1d5e: 1418813203566638",
+  "16:02:01 FAILED post facebook@Vijayendra-Singh 473b1d5e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevcZPeD3fz1e2InGU4JUq_e2yMQXgCjGoXX4oAqn7Q-iRcYwUrGtrjUXc0UQD68nQXtOojGdEhCaXZKLvczlAs1eXm5LjelIKhTB4XB7Cc7A6_MPmXTLUI-04wEGTqb1cGelxLWdJLEjpHi8u_T36NrfscOSJBCTn01t6AEjFFz-cMdH6qbhbjJ9za3Mm6wTgmvlTojIqyQp0RsB_fscPsOMOUYEAW_KCTy5c5V8wSjZw-D0Rd0Bhe_RVMDODV0dM-rlx-LUcUtY8knviNxsKOzeGpBMvfyYrQMVn2eRtZz5J15fYbffC6FDz-54VLhPu4L\",\"help_cent",
+  "16:02:36 STORY POSTED instagram@Vinzap-Finds 473b1d5e",
+  "16:02:50 STORY POSTED facebook@Vinzap-Finds 473b1d5e"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794564062.6567347,
-  "facebook@Vinzap-Finds": 1794564062.6567347,
-  "facebook@Vijayendra-Singh": 1794564062.6567347,
+  "instagram@Vinzap-Finds": 1794565872.648958,
+  "facebook@Vinzap-Finds": 1794565872.648958,
+  "facebook@Vijayendra-Singh": 1794565872.648958,
   "youtube": 1794562265.7218132
  },
- "n": 548
+ "n": 549
 }
