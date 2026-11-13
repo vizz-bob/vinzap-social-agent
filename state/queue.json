@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "a42c7277",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel House Shape Cookie Cutter",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "3 Pc mix design set",
-     "Stainless steel body",
-     "Creates clean and sharp cookie"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Stainless Steel House Shape Cookie Cutter | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel House Shape Cookie Cutter"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel House Shape Cookie Cutter\n✔ 3 Pc mix design set\n✔ Stainless steel body\n✔ Creates clean and sharp cookie\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Stainless Steel House Shape Cookie Cutter | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794243674.1649148,
-     "id": "18111095050911827",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794243674.1649148,
-     "id": "1793478422783982",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794243674.1649148,
-     "id": "1462783815812655",
-     "dry": false
-    }
-   },
-   "created": 1794243654.8534186,
-   "after": 0,
-   "handle": "stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
-   "file": "a42c7277.mp4",
-   "thumb": "a42c7277_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18101665241401158"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2309315146315159"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2343634806202347"
-    }
-   }
-  },
-  {
    "id": "f5c1b066",
    "status": "posted",
    "kind": "image",
@@ -5490,16 +5413,82 @@
    "product_url": "https://www.vinzapstore.in/products/large-capacity-travel-sipline-tumbler-with-handle-and-straw-lid-1800ml-approx",
    "file": "96e0cae8.jpg",
    "thumb": "96e0cae8.jpg"
+  },
+  {
+   "id": "715f82d5",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Smart 3 in 1 Fruit and Vegetable",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 329,
+    "was": 0,
+    "feats": [
+     "3-in-1 Functionality Wash",
+     "Food-Grade Plastic Construction",
+     "Perforated Colander Base Helps"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Smart 3 in 1 Fruit and Vegetable"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Smart 3 in 1 Fruit and Vegetable\n✔ 3-in-1 Functionality Wash\n✔ Food-Grade Plastic Construction\n✔ Perforated Colander Base Helps\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794587508.5761497,
+     "id": "17946664947366483",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794587508.5761497,
+     "id": "3374908619385677",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794587508.5761497,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuJT7jQ40q-9rIwYD178asKpX"
+    }
+   },
+   "created": 1794587486.4937449,
+   "after": 0,
+   "handle": "apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
+   "product_url": "https://www.vinzapstore.in/products/apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
+   "file": "715f82d5.mp4",
+   "thumb": "715f82d5_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18648277636063491"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "29493708250270222"
+    }
+   }
   }
  ],
- "last_post": 1794585656.1827188,
+ "last_post": 1794587508.5761497,
  "log": [
-  "14:31:10 READY 6485383f Drain Cleaner Powder (auto-approved)",
-  "14:31:22 POSTED instagram@Vinzap-Finds 6485383f: 17979328476152077",
-  "14:31:25 POSTED facebook@Vinzap-Finds 6485383f: 1428352113685678_122117813595501659",
-  "14:31:29 POSTED facebook@Vijayendra-Singh 6485383f: 1317760538089559_122128802553480728",
-  "15:01:19 READY 02b477c2 Stainless Steel Fruit Fork Set | Diwali (auto-approved)",
-  "15:01:54 POSTED instagram@Vinzap-Finds 02b477c2: 18169994395482585",
   "15:02:00 POSTED facebook@Vinzap-Finds 02b477c2: 1486277726712770",
   "15:02:02 FAILED post facebook@Vijayendra-Singh 02b477c2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes57TrLrdXXnDb3oEuDxUCPbJb48OzwIG1vWz0zorJAbiI3Tk_PCmDQNcOb_c4dgbxM4OWq5XeSv3ofj_evn2p3DSfyjiya5nFflgMPeLBS_HZY--9-gxvXwvmR4cuLUjhU6ICR0IdJUlzwZ1wAwMZQTc9tvQydW00T66wzSFF5CH8uma4Qr5cfBlKUsR8ONZH1VqRw2Q-16reoeEOxHmnnHsDo3SyoSDHBGYQFGx3ReDSxf0Leq7uoHrE8XTK_ZURGq2xMRpz6u0TbwakQDf3i4pAGIaCdGSc5h7qDnXg_VLuGf6o4cd3F5LyZ8aOpgvn5\",\"help_cent",
   "15:02:03 FAILED post youtube 02b477c2: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
@@ -5693,13 +5682,19 @@
   "21:30:56 READY 96e0cae8 Large Travel Tumbler 1800ml (auto-approved)",
   "21:31:08 POSTED instagram@Vinzap-Finds 96e0cae8: 17991276000118944",
   "21:31:12 POSTED facebook@Vinzap-Finds 96e0cae8: 1428352113685678_122118148113501659",
-  "21:31:15 POSTED facebook@Vijayendra-Singh 96e0cae8: 1317760538089559_122129267583480728"
+  "21:31:15 POSTED facebook@Vijayendra-Singh 96e0cae8: 1317760538089559_122129267583480728",
+  "22:01:48 READY 715f82d5 Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization (auto-approved)",
+  "22:02:27 POSTED instagram@Vinzap-Finds 715f82d5: 17946664947366483",
+  "22:02:32 POSTED facebook@Vinzap-Finds 715f82d5: 3374908619385677",
+  "22:02:35 FAILED post facebook@Vijayendra-Singh 715f82d5: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuJT7jQ40q-9rIwYD178asKpXsLLF7mZ0-FAZRshsWm-1Q95-yxaMqNSVuUOEAtoX1OorySyxx86UoXQhINZiXTKF56IqeQV_c77ENo1zv5CzKwKEdOo756wMtlDwXB3nNVo-o7uKHg4v-1ez7Hiy7qILkuKC3ZVKGSxnGCpRTuAzVxTFRvh-4WKd7Z__5uWzUePB5KclnUUxcLclqpH-wYOb6BvR4e8PutiHHMvITjmGGw3KPpzmwTL7-eivq0DNOfNlNtov0GlLkcWh7QxgsWaxWrfDMzUi4er0Rc7lmYPe5bnDTHagzlSHGOkvKHCUY\",\"help_cente",
+  "22:03:08 STORY POSTED instagram@Vinzap-Finds 715f82d5",
+  "22:03:22 STORY POSTED facebook@Vinzap-Finds 715f82d5"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794585656.1827188,
-  "facebook@Vinzap-Finds": 1794585656.1827188,
-  "facebook@Vijayendra-Singh": 1794585656.1827188,
+  "instagram@Vinzap-Finds": 1794587508.5761497,
+  "facebook@Vinzap-Finds": 1794587508.5761497,
+  "facebook@Vijayendra-Singh": 1794587508.5761497,
   "youtube": 1794583878.3289185
  },
- "n": 560
+ "n": 561
 }
