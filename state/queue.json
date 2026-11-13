@@ -1,66 +1,6 @@
 {
  "items": [
   {
-   "id": "dec8be58",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Fresca Stainless Steel Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 879,
-    "was": 0,
-    "feats": [
-     "Fresca Stainless Steel 3"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Fresca Stainless Steel Lunch Box | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fresca Stainless Steel Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFresca Stainless Steel Lunch Box\n✔ Fresca Stainless Steel 3\n\nOnly ₹879. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#kitchengadgets #kitchenorganization",
-   "title": "Fresca Stainless Steel Lunch Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794216692.4257445,
-     "id": "17924411499444305",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794216692.4257445,
-     "id": "1428352113685678_122117008845501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794216692.4257445,
-     "id": "1317760538089559_122127788679480728",
-     "dry": false
-    }
-   },
-   "created": 1794216691.0335646,
-   "after": 0,
-   "handle": "fresca-stainless-steel-3-compartment-lunch-box-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/fresca-stainless-steel-3-compartment-lunch-box-1-pc",
-   "file": "dec8be58.jpg",
-   "thumb": "dec8be58.jpg"
-  },
-  {
    "id": "a8e187f4",
    "status": "scheduled",
    "kind": "reel",
@@ -5459,14 +5399,72 @@
      "id": "4665710987030848"
     }
    }
+  },
+  {
+   "id": "7ee6e7ba",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Apex Everyday Plastic Glass Set of 6",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 429,
+    "was": 0,
+    "feats": [
+     "Break-Resistant Polycarbonate",
+     "Clear",
+     "Lightweight and Easy to Handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Apex Everyday Plastic Glass Set of 6 | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Everyday Plastic Glass Set of 6"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Everyday Plastic Glass Set of 6\n✔ Break-Resistant Polycarbonate\n✔ Clear\n✔ Lightweight and Easy to Handle\n\nOnly ₹429. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Apex Everyday Plastic Glass Set of 6",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794560512.489075,
+     "id": "18052871105824217",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794560512.489075,
+     "id": "1428352113685678_122118072093501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794560512.489075,
+     "id": "1317760538089559_122129144439480728",
+     "dry": false
+    }
+   },
+   "created": 1794560510.3859658,
+   "after": 0,
+   "handle": "apex-everyday-plastic-glass-set-6-pieces-lightweight-unbreakable",
+   "product_url": "https://www.vinzapstore.in/products/apex-everyday-plastic-glass-set-6-pieces-lightweight-unbreakable",
+   "file": "7ee6e7ba.jpg",
+   "thumb": "7ee6e7ba.jpg"
   }
  ],
- "last_post": 1794558690.6472466,
+ "last_post": 1794560512.489075,
  "log": [
-  "15:01:11 READY f1db50f5 Knife Sharpening Stone Silicon Carbide | Kitchen Gadgets (auto-approved)",
-  "15:01:48 POSTED instagram@Vinzap-Finds f1db50f5: 18033228110685256",
-  "15:01:52 POSTED facebook@Vinzap-Finds f1db50f5: 1160171910289642",
-  "15:01:57 POSTED facebook@Vijayendra-Singh f1db50f5: 4180700368889060",
   "15:01:57 FAILED post youtube f1db50f5: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "15:02:31 STORY POSTED instagram@Vinzap-Finds f1db50f5",
   "15:02:39 STORY POSTED facebook@Vinzap-Finds f1db50f5",
@@ -5662,13 +5660,17 @@
   "14:02:08 POSTED facebook@Vinzap-Finds 545fb0ae: 1514824627413474",
   "14:02:10 FAILED post facebook@Vijayendra-Singh 545fb0ae: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeumL1oPgpPn471DqNYgxB0g44PwKq12Dsirz1_yRCYV1qMkgEPdrY82jJYuasf0cNrGKY4h4GpYEua5xycv_oDJkUCegGEW68HU8Nbq4ypwAVLfyUiM-PJhF3Wz1RBWNnKSjew9s7dac-7UN9WJ3kvyfGp7fDANsrwKRH2ZA1UXx6oDL7-KO2NtgmFimL08PI-LeTfyulZZashON98Ctz7lYwbscwacHDrjJW1pLRB9Q0ARzF8774s7FOqH17ibLVBGfmJAcF6ZSN-2Jd6VMJA_7A972os848aRd3GXq6SpgthIzWUk7cc0akAWG01Dky8\",\"help_cente",
   "14:02:43 STORY POSTED instagram@Vinzap-Finds 545fb0ae",
-  "14:02:54 STORY POSTED facebook@Vinzap-Finds 545fb0ae"
+  "14:02:54 STORY POSTED facebook@Vinzap-Finds 545fb0ae",
+  "14:31:52 READY 7ee6e7ba Apex Everyday Plastic Glass Set of 6 (auto-approved)",
+  "14:32:03 POSTED instagram@Vinzap-Finds 7ee6e7ba: 18052871105824217",
+  "14:32:07 POSTED facebook@Vinzap-Finds 7ee6e7ba: 1428352113685678_122118072093501659",
+  "14:32:11 POSTED facebook@Vijayendra-Singh 7ee6e7ba: 1317760538089559_122129144439480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794558690.6472466,
-  "facebook@Vinzap-Finds": 1794558690.6472466,
-  "facebook@Vijayendra-Singh": 1794558690.6472466,
-  "youtube": 1794551472.9505622
+  "instagram@Vinzap-Finds": 1794560512.489075,
+  "facebook@Vinzap-Finds": 1794560512.489075,
+  "facebook@Vijayendra-Singh": 1794560512.489075,
+  "youtube": 1794551052.9505622
  },
- "n": 545
+ "n": 546
 }
