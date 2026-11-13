@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "cbcca50d",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Wall Mounted Knife Holder",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 519,
-    "was": 0,
-    "feats": [
-     "Wall-mounted design helps",
-     "Slotted section provides",
-     "Side hooks support scissors"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Wall Mounted Knife Holder | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wall Mounted Knife Holder"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWall Mounted Knife Holder\n✔ Wall-mounted design helps\n✔ Slotted section provides\n✔ Side hooks support scissors\n\nOnly ₹519. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Wall Mounted Knife Holder",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794209449.26891,
-     "id": "18253705654310529",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794209449.26891,
-     "id": "1428352113685678_122116975005501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794209449.26891,
-     "id": "1317760538089559_122127764307480728",
-     "dry": false
-    }
-   },
-   "created": 1794209447.10636,
-   "after": 0,
-   "handle": "wall-mounted-knife-holder-with-hooks-and-roll-bag-dispenser-for-kitchen-storage",
-   "product_url": "https://www.vinzapstore.in/products/wall-mounted-knife-holder-with-hooks-and-roll-bag-dispenser-for-kitchen-storage",
-   "file": "cbcca50d.jpg",
-   "thumb": "cbcca50d.jpg"
-  },
-  {
    "id": "5be2e4d0",
    "status": "scheduled",
    "kind": "reel",
@@ -5459,14 +5397,72 @@
      "id": "3014004752309588"
     }
    }
+  },
+  {
+   "id": "439066b6",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Unbreakable Plastic Mug",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Durable unbreakable plastic",
+     "Elegant ribbed vertical design",
+     "Comfortable ergonomic handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Unbreakable Plastic Mug | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Unbreakable Plastic Mug"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nUnbreakable Plastic Mug\n✔ Durable unbreakable plastic\n✔ Elegant ribbed vertical design\n✔ Comfortable ergonomic handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #mug #giftideas\n#kitchengadgets #kitchenorganization",
+   "title": "Unbreakable Plastic Mug",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794553255.2294495,
+     "id": "17950504467068657",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794553255.2294495,
+     "id": "1428352113685678_122118041565501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794553255.2294495,
+     "id": "1317760538089559_122129125761480728",
+     "dry": false
+    }
+   },
+   "created": 1794553253.0784922,
+   "after": 0,
+   "handle": "unbreakable-plastic-drinking-mug-with-handle-for-coffee-tea-and-milk-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/unbreakable-plastic-drinking-mug-with-handle-for-coffee-tea-and-milk-1-pc",
+   "file": "439066b6.jpg",
+   "thumb": "439066b6.jpg"
   }
  ],
- "last_post": 1794551472.9505622,
+ "last_post": 1794553255.2294495,
  "log": [
-  "13:01:13 READY 9311ecf7 Apex Cozy Coffee Mug 450ml | Cooking (auto-approved)",
-  "13:01:45 POSTED instagram@Vinzap-Finds 9311ecf7: 18472925104185081",
-  "13:01:49 POSTED facebook@Vinzap-Finds 9311ecf7: 2304955446971601",
-  "13:01:50 FAILED post facebook@Vijayendra-Singh 9311ecf7: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuhQlubmh1UHYOEgFsSW37M8ZdQI1fSzXxGw0x6SiwwPGhQHOYrYcxaS6fjA-hNZFeyqploD9sFHAhqVUlqSDXmiuEmdNdSRKA5NjuNFGZIotgKVAlZ-k5yo4A_u69kJvpjApWFoPRK5NufjbfN7yyggKScLj5u2Y8A5Jb87NuaE3tmyeLzgB9HRDxhsRFZga-vWNE_3x5II_T8x7SHtLj4DhZg2hiJiCx2a8r-_rycyAhu5Tof0oyz-LiZpud9N5qFsQ3eRz31VjlNcVUAKZUxl3TKbw2NwAQaQW_Q5ovZMjTCRdaUCCqJ-PbyoKxMdq0h\",\"help_cent",
   "13:02:21 STORY POSTED instagram@Vinzap-Finds 9311ecf7",
   "13:02:29 STORY POSTED facebook@Vinzap-Finds 9311ecf7",
   "13:31:01 READY 8e3fc360 Multipurpose Cheese and Vegetable Grater (auto-approved)",
@@ -5662,13 +5658,17 @@
   "12:01:55 FAILED post facebook@Vijayendra-Singh 9d95b4b0: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevmsDCPI28Dge6mL8diyoGgVA2BsrN6EWvoJDRjWEEBWWORAX2Ox2CzBSrH7kYlkEpqkr13kFFlsuzRy4_QsW49V9684KiBnQ50SJaU8dOxb15418ozLfyKYGRcGZIluls57MgxJwysJbKFhQFzmoV-Ar0q8RQ3zhz8dXaC1_5WOIS4eu3HSfR0d_PBGvUs8qD6z_AnbAnByrd1qaGKUJOIzPu2LnBuucM0Ms67quv_iuZuI7VxFhFr8EgLFWEq_ZW5T-QGggiMTayRoWQ154uwFXV7ejqEbRpQMPhe942jicxcFa1_7vp48n-2UgU2hjM\",\"help_cente",
   "12:01:55 FAILED post youtube 9d95b4b0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "12:02:25 STORY POSTED instagram@Vinzap-Finds 9d95b4b0",
-  "12:02:38 STORY POSTED facebook@Vinzap-Finds 9d95b4b0"
+  "12:02:38 STORY POSTED facebook@Vinzap-Finds 9d95b4b0",
+  "12:30:55 READY 439066b6 Unbreakable Plastic Mug (auto-approved)",
+  "12:31:09 POSTED instagram@Vinzap-Finds 439066b6: 17950504467068657",
+  "12:31:13 POSTED facebook@Vinzap-Finds 439066b6: 1428352113685678_122118041565501659",
+  "12:31:18 POSTED facebook@Vijayendra-Singh 439066b6: 1317760538089559_122129125761480728"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794551472.9505622,
-  "facebook@Vinzap-Finds": 1794551472.9505622,
-  "facebook@Vijayendra-Singh": 1794551472.9505622,
+  "instagram@Vinzap-Finds": 1794553255.2294495,
+  "facebook@Vinzap-Finds": 1794553255.2294495,
+  "facebook@Vijayendra-Singh": 1794553255.2294495,
   "youtube": 1794551472.9505622
  },
- "n": 541
+ "n": 542
 }
