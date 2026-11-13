@@ -1,76 +1,6 @@
 {
  "items": [
   {
-   "id": "d4093b4a",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Lollipop Candy Maker Machine, Pink",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Lollipop Candy Maker and Lollipop"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Lollipop Candy Maker Machine, Pink | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Lollipop Candy Maker Machine, Pink"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLollipop Candy Maker Machine, Pink\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Lollipop Candy Maker Machine, Pink | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794232880.7536435,
-     "id": "18143889397611685",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794232880.7536435,
-     "id": "1119878310947695",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794232880.7536435,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesyd1C2T8IVk9kER9VApRCAp6"
-    }
-   },
-   "created": 1794232859.181241,
-   "after": 0,
-   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
-   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
-   "file": "d4093b4a.mp4",
-   "thumb": "d4093b4a_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18085313045710251"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2198484194405268"
-    }
-   }
-  },
-  {
    "id": "fa5d84e6",
    "status": "posted",
    "kind": "image",
@@ -5473,17 +5403,87 @@
    "product_url": "https://www.vinzapstore.in/products/500-ml-leakproof-portable-sports-water-bottle-1-pc",
    "file": "d2cbb93b.jpg",
    "thumb": "d2cbb93b.jpg"
+  },
+  {
+   "id": "86d472b8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Silicone Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "The mini silicone mold allows you",
+     "Easy to use",
+     "Freezing"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Silicone Ice Cube Tray | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Tray\n✔ The mini silicone mold allows you\n✔ Easy to use\n✔ Freezing\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
+   "title": "Silicone Ice Cube Tray | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794576676.700321,
+     "id": "18086086814370364",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794576676.700321,
+     "id": "1115772251074515",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794576676.700321,
+     "id": "1176339468402254",
+     "dry": false
+    }
+   },
+   "created": 1794576651.252902,
+   "after": 0,
+   "handle": "silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-4",
+   "product_url": "https://www.vinzapstore.in/products/silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-4",
+   "file": "86d472b8.mp4",
+   "thumb": "86d472b8_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "17993815122096383"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1818996626036561"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2157251468228246"
+    }
+   }
   }
  ],
- "last_post": 1794574863.2339268,
+ "last_post": 1794576676.700321,
  "log": [
-  "19:03:36 FAILED post facebook@Vijayendra-Singh 74ae59b3: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesIAbOWLygZqK8n1HVzmn9gBVoedvmiUF-Txw0l-bD6xB8RcvxLCrfQsYZWF8RCaFTYEDIq3PVceiDbgWLsDaD2ToTOHHfho2zD8qTtGDT6IOzAY3rUr7GG7Kg_ttvx6CKae2CrJcsRCLLg5b89EuVcTDLwvQ0xtNnStHDLD7jasRBY375N7LEZT3LlKVHeXM5VejmYSYsR2zza-xI92-qUphjT99GUmJySV7bVf1MvcVvvrtCRqJvCWmfXcpyH_NjRUvK4gJrSHaWk8m6-wDCs08H3a4yYezNZtG6xKxd6krgwaqu8OSiFFTmx4dQZGML7\",\"help_cent",
-  "19:04:13 STORY POSTED instagram@Vinzap-Finds 74ae59b3",
-  "19:04:25 STORY POSTED facebook@Vinzap-Finds 74ae59b3",
-  "22:28:30 READY bd95a5fc Skull Shape Ice Cube Tray 8 Grid (auto-approved)",
-  "22:28:39 POSTED instagram@Vinzap-Finds bd95a5fc: 18113696513071444",
-  "22:28:44 POSTED facebook@Vinzap-Finds bd95a5fc: 1428352113685678_122117651187501659",
-  "22:28:48 POSTED facebook@Vijayendra-Singh bd95a5fc: 1317760538089559_122128583121480728",
   "12:01:25 READY a5c8f2b4 Plastic Knife Organizer Stand | Trending Shorts (auto-approved)",
   "12:02:02 POSTED instagram@Vinzap-Finds a5c8f2b4: 17915103126488729",
   "12:02:07 POSTED facebook@Vinzap-Finds a5c8f2b4: 2343080539878647",
@@ -5676,13 +5676,20 @@
   "18:31:03 READY d2cbb93b Leakproof Sports Water Bottle 500 ml (auto-approved)",
   "18:31:14 POSTED instagram@Vinzap-Finds d2cbb93b: 18041457167648725",
   "18:31:17 POSTED facebook@Vinzap-Finds d2cbb93b: 1428352113685678_122118113031501659",
-  "18:31:21 POSTED facebook@Vijayendra-Singh d2cbb93b: 1317760538089559_122129219103480728"
+  "18:31:21 POSTED facebook@Vijayendra-Singh d2cbb93b: 1317760538089559_122129219103480728",
+  "19:01:16 READY 86d472b8 Silicone Ice Cube Tray | Home Decor Ideas (auto-approved)",
+  "19:01:52 POSTED instagram@Vinzap-Finds 86d472b8: 18086086814370364",
+  "19:01:57 POSTED facebook@Vinzap-Finds 86d472b8: 1115772251074515",
+  "19:02:01 POSTED facebook@Vijayendra-Singh 86d472b8: 1176339468402254",
+  "19:02:33 STORY POSTED instagram@Vinzap-Finds 86d472b8",
+  "19:02:43 STORY POSTED facebook@Vinzap-Finds 86d472b8",
+  "19:02:51 STORY POSTED facebook@Vijayendra-Singh 86d472b8"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794574863.2339268,
-  "facebook@Vinzap-Finds": 1794574863.2339268,
-  "facebook@Vijayendra-Singh": 1794574863.2339268,
+  "instagram@Vinzap-Finds": 1794576676.700321,
+  "facebook@Vinzap-Finds": 1794576676.700321,
+  "facebook@Vijayendra-Singh": 1794576676.700321,
   "youtube": 1794573065.3585553
  },
- "n": 554
+ "n": 555
 }
