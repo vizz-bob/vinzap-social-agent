@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "ab427f8c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Premium Non-Stick Rice Serving Spoon",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Non-stick textured surface",
-     "Raised grip pattern improves",
-     "Food-grade"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Premium Non-Stick Rice Serving Spoon | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Premium Non-Stick Rice Serving Spoon"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPremium Non-Stick Rice Serving Spoon\n✔ Non-stick textured surface\n✔ Raised grip pattern improves\n✔ Food-grade\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Premium Non-Stick Rice Serving Spoon | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794229266.167347,
-     "id": "17926216215442561",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794229266.167347,
-     "id": "2014627072562221",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794229266.167347,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeuiyk4eEKmb1UQ5-7_19U1ij0"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794229266.167347,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794229250.3645892,
-   "after": 0,
-   "handle": "premium-non-stick-rice-serving-spoon-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/premium-non-stick-rice-serving-spoon-1-pc",
-   "file": "ab427f8c.mp4",
-   "thumb": "ab427f8c_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18088493582703366"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1165858745771778"
-    }
-   }
-  },
-  {
    "id": "a7b548e1",
    "status": "posted",
    "kind": "image",
@@ -5468,18 +5391,92 @@
    "product_url": "https://www.vinzapstore.in/products/1-piece-plastic-ice-cream-watermelon-scooper-with-trigger-dipper",
    "file": "ec3ac3f3.jpg",
    "thumb": "ec3ac3f3.jpg"
+  },
+  {
+   "id": "ee51b0f0",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Burger Shape Double Layer Lunch Box 1000ml",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Bento Box with Burger Design is",
+     "The Cute hamburger shaped lunch",
+     "Its is made of food grade plastic"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Burger Shape Double Layer Lunch Box 1000ml | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Burger Shape Double Layer Lunch Box 1000ml"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nBurger Shape Double Layer Lunch Box 1000ml\n✔ Bento Box with Burger Design is\n✔ The Cute hamburger shaped lunch\n✔ Its is made of food grade plastic\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
+   "title": "Burger Shape Double Layer Lunch Box 1000ml | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794573065.3585553,
+     "id": "18020593565954584",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794573065.3585553,
+     "id": "2426605698078833",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794573065.3585553,
+     "id": "1009521404817434",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794573065.3585553,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794573049.8486109,
+   "after": 0,
+   "handle": "5313-burger-shape-lunch-box-plastic-lunch-box-food-container-sets-double-layer-lunchbox-1000ml-with-2-spoon-applicable-to-kids-and-elementary-school-students",
+   "product_url": "https://www.vinzapstore.in/products/5313-burger-shape-lunch-box-plastic-lunch-box-food-container-sets-double-layer-lunchbox-1000ml-with-2-spoon-applicable-to-kids-and-elementary-school-students",
+   "file": "ee51b0f0.mp4",
+   "thumb": "ee51b0f0_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18108394850636653"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3524567061057898"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "28892766590394475"
+    }
+   }
   }
  ],
- "last_post": 1794571255.5588286,
+ "last_post": 1794573065.3585553,
  "log": [
-  "18:02:01 POSTED facebook@Vinzap-Finds c4502c07: 3279151118952970",
-  "18:02:02 FAILED post facebook@Vijayendra-Singh c4502c07: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevUpDH_SCtH2oUfaOS18x4LHA6JQrwYL-kanrxO5zAamtpT1wTNeav9nW8Ku7g_tKgZBf4i2JGe-YRbR63AMUdIYhD8mpK_WeqmkhqfwbjDuZhQ1ZHrioGzQ7lWX98AetZuYZpImpOcWnneduWWKDy-t19CjGPLqHEB0TwC1ltrDeM_NOch6G7_PZYqYR_QJB7B3i4SfIjxy75P6L03fcNeTFhUeOKpoGs99uFAbV85IKYRJbg-D05YK72YQtfddKrPEMDBLY6w9u7pKPmPVEB9dXMACxaWBZ4muVkre9IW6JuAGh4LTkinGx_IgCUwbmOI\",\"help_cent",
-  "18:02:02 FAILED post youtube c4502c07: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "18:02:40 STORY POSTED instagram@Vinzap-Finds c4502c07",
-  "18:02:53 STORY POSTED facebook@Vinzap-Finds c4502c07",
-  "18:31:04 READY 17138954 Cute Cartoon Double Layer Lunch Box (auto-approved)",
-  "18:31:14 POSTED instagram@Vinzap-Finds 17138954: 17994641994053199",
-  "18:31:17 POSTED facebook@Vinzap-Finds 17138954: 1428352113685678_122117605269501659",
   "18:31:21 POSTED facebook@Vijayendra-Singh 17138954: 1317760538089559_122128518699480728",
   "19:02:47 READY 74ae59b3 Silicone Ice Cube Tray | Cooking (auto-approved)",
   "19:03:29 POSTED instagram@Vinzap-Finds 74ae59b3: 18642782593059649",
@@ -5671,13 +5668,21 @@
   "17:30:55 READY ec3ac3f3 Plastic Ice Cream Scooper (auto-approved)",
   "17:31:07 POSTED instagram@Vinzap-Finds ec3ac3f3: 18091971146274472",
   "17:31:12 POSTED facebook@Vinzap-Finds ec3ac3f3: 1428352113685678_122118101943501659",
-  "17:31:16 POSTED facebook@Vijayendra-Singh ec3ac3f3: 1317760538089559_122129206419480728"
+  "17:31:16 POSTED facebook@Vijayendra-Singh ec3ac3f3: 1317760538089559_122129206419480728",
+  "18:01:05 READY ee51b0f0 Burger Shape Double Layer Lunch Box 1000ml | Diwali (auto-approved)",
+  "18:01:30 POSTED instagram@Vinzap-Finds ee51b0f0: 18020593565954584",
+  "18:01:35 POSTED facebook@Vinzap-Finds ee51b0f0: 2426605698078833",
+  "18:01:40 POSTED facebook@Vijayendra-Singh ee51b0f0: 1009521404817434",
+  "18:01:40 FAILED post youtube ee51b0f0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "18:02:13 STORY POSTED instagram@Vinzap-Finds ee51b0f0",
+  "18:02:23 STORY POSTED facebook@Vinzap-Finds ee51b0f0",
+  "18:02:32 STORY POSTED facebook@Vijayendra-Singh ee51b0f0"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794571255.5588286,
-  "facebook@Vinzap-Finds": 1794571255.5588286,
-  "facebook@Vijayendra-Singh": 1794571255.5588286,
-  "youtube": 1794561845.7218132
+  "instagram@Vinzap-Finds": 1794573065.3585553,
+  "facebook@Vinzap-Finds": 1794573065.3585553,
+  "facebook@Vijayendra-Singh": 1794573065.3585553,
+  "youtube": 1794573065.3585553
  },
- "n": 552
+ "n": 553
 }
