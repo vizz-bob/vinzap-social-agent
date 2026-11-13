@@ -1,81 +1,6 @@
 {
  "items": [
   {
-   "id": "a8e187f4",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Potato Peeler",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Apex Stainless Steel Blade Potato"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Stainless Steel Potato Peeler | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Potato Peeler"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Potato Peeler\n✔ Apex Stainless Steel Blade Potato\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Stainless Steel Potato Peeler | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794218511.4501936,
-     "id": "18150097513491238",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794218511.4501936,
-     "id": "4747857798776789",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794218511.4501936,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuRv6KDTcWFW_QK2Ch4s3vRI0"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794218511.4501936,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794218485.7880661,
-   "after": 0,
-   "handle": "apex-stainless-steel-blade-potato-peeler-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-stainless-steel-blade-potato-peeler-1-pc",
-   "file": "a8e187f4.mp4",
-   "thumb": "a8e187f4_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18122322134075515"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2391633218276148"
-    }
-   }
-  },
-  {
    "id": "a9011f37",
    "status": "posted",
    "kind": "image",
@@ -5461,17 +5386,87 @@
    "product_url": "https://www.vinzapstore.in/products/apex-everyday-plastic-glass-set-6-pieces-lightweight-unbreakable",
    "file": "7ee6e7ba.jpg",
    "thumb": "7ee6e7ba.jpg"
+  },
+  {
+   "id": "3879107f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Plastic Squeeze Sauce Bottle",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Easy squeeze design",
+     "Leak-proof cap for safe",
+     "Ideal for pizza sauce"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "diwali"
+    ],
+    "yt_title": "Plastic Squeeze Sauce Bottle | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Squeeze Sauce Bottle"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Squeeze Sauce Bottle\n✔ Easy squeeze design\n✔ Leak-proof cap for safe\n✔ Ideal for pizza sauce\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
+   "title": "Plastic Squeeze Sauce Bottle | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794562265.7218132,
+     "id": "18221959207346280",
+     "dry": false
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794562265.7218132,
+     "id": "1437499111929618",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794562265.7218132,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuV7NN2MCZKgrsAPYtP2M0Wc"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794562265.7218132,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794562244.8736753,
+   "after": 0,
+   "handle": "small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
+   "file": "3879107f.mp4",
+   "thumb": "3879107f_t.jpg",
+   "stories": {
+    "instagram@Vinzap-Finds": {
+     "ok": true,
+     "id": "18007586891793058"
+    },
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1132978992840927"
+    }
+   }
   }
  ],
- "last_post": 1794560512.489075,
+ "last_post": 1794562265.7218132,
  "log": [
-  "15:01:57 FAILED post youtube f1db50f5: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "15:02:31 STORY POSTED instagram@Vinzap-Finds f1db50f5",
-  "15:02:39 STORY POSTED facebook@Vinzap-Finds f1db50f5",
-  "15:02:48 STORY POSTED facebook@Vijayendra-Singh f1db50f5",
-  "15:31:02 READY 1fc5fc13 2 in 1 Fruit Scooper and Cutter Tool (auto-approved)",
-  "15:31:14 POSTED instagram@Vinzap-Finds 1fc5fc13: 18132771731511453",
-  "15:31:17 POSTED facebook@Vinzap-Finds 1fc5fc13: 1428352113685678_122117565957501659",
   "15:31:20 POSTED facebook@Vijayendra-Singh 1fc5fc13: 1317760538089559_122128459473480728",
   "16:02:04 READY be292047 Reusable Plastic Dessert Knife Set of 24 | Cooking (auto-approved)",
   "16:02:42 POSTED instagram@Vinzap-Finds be292047: 18193583731404364",
@@ -5664,13 +5659,20 @@
   "14:31:52 READY 7ee6e7ba Apex Everyday Plastic Glass Set of 6 (auto-approved)",
   "14:32:03 POSTED instagram@Vinzap-Finds 7ee6e7ba: 18052871105824217",
   "14:32:07 POSTED facebook@Vinzap-Finds 7ee6e7ba: 1428352113685678_122118072093501659",
-  "14:32:11 POSTED facebook@Vijayendra-Singh 7ee6e7ba: 1317760538089559_122129144439480728"
+  "14:32:11 POSTED facebook@Vijayendra-Singh 7ee6e7ba: 1317760538089559_122129144439480728",
+  "15:01:05 READY 3879107f Plastic Squeeze Sauce Bottle | Home Decor Ideas (auto-approved)",
+  "15:01:42 POSTED instagram@Vinzap-Finds 3879107f: 18221959207346280",
+  "15:01:47 POSTED facebook@Vinzap-Finds 3879107f: 1437499111929618",
+  "15:01:48 FAILED post facebook@Vijayendra-Singh 3879107f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuV7NN2MCZKgrsAPYtP2M0WcY9nSajnw6Vog-98ZaHKPBxGvFp0PUKY05vMBiDnUSkJdsF3rpaUtGYqUW-lftONISgUB2xXuZrntyH7n-T7a_WY-dKaTgDY7TJfzCmdTXv9Cnt8PuIXiPBHKGoNMPgD-bIQKZMA5bFuntRh2su9dn1o4mqAC-7B56-1fDjMjyepCPUqJcJo-cGnn7ppXWMPUtwO9oXEEbj8s9JymlRFdwzQa9_ww4WtvIvHLfYB-k_hLcpZET7uRMxlI9YRz2NnzJ4PThfDFttXk0W0oKrI8tpLF2X2o1FbR_oXtmg9nJS\",\"help_cent",
+  "15:01:48 FAILED post youtube 3879107f: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "15:02:17 STORY POSTED instagram@Vinzap-Finds 3879107f",
+  "15:02:26 STORY POSTED facebook@Vinzap-Finds 3879107f"
  ],
  "last": {
-  "instagram@Vinzap-Finds": 1794560512.489075,
-  "facebook@Vinzap-Finds": 1794560512.489075,
-  "facebook@Vijayendra-Singh": 1794560512.489075,
-  "youtube": 1794551052.9505622
+  "instagram@Vinzap-Finds": 1794562265.7218132,
+  "facebook@Vinzap-Finds": 1794562265.7218132,
+  "facebook@Vijayendra-Singh": 1794562265.7218132,
+  "youtube": 1794562265.7218132
  },
- "n": 546
+ "n": 547
 }
