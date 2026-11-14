@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "f17789ec",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Green Tea Strainer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 109,
-    "was": 0,
-    "feats": [
-     "High-Quality Wire Mesh : Fine",
-     "Ergonomic Plastic Handle :",
-     "Compact and Lightweight : Easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Green Tea Strainer | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Green Tea Strainer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGreen Tea Strainer\n✔ High-Quality Wire Mesh : Fine\n✔ Ergonomic Plastic Handle :\n✔ Compact and Lightweight : Easy\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Green Tea Strainer | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794294959.1979713,
-     "id": "18099543431407631",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794294959.1979713,
-     "id": "2405088323362359",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794294959.1979713,
-     "id": "1136055715591262",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794294959.1979713,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794294941.9791293,
-   "after": 0,
-   "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
-   "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
-   "file": "f17789ec.mp4",
-   "thumb": "f17789ec_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17961898809251361"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3810804615748487"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1515473301638437"
-    }
-   }
-  },
-  {
    "id": "58b8d70b",
    "status": "posted",
    "kind": "image",
@@ -5483,15 +5401,77 @@
    "product_url": "https://www.vinzapstore.in/products/2662-vegetable-thumb-cutter-and-tool-with-effective-sharp-cutting-blade-system",
    "file": "c172993f.jpg",
    "thumb": "c172993f.jpg"
+  },
+  {
+   "id": "a830088f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Chalkboard Sticker Labels",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Decorative fancy shape chalkboard",
+     "Write",
+     "Strong self adhesive backing"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Chalkboard Sticker Labels | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Chalkboard Sticker Labels"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nChalkboard Sticker Labels\n✔ Decorative fancy shape chalkboard\n✔ Write\n✔ Strong self adhesive backing\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecor #homedecorideas",
+   "title": "Chalkboard Sticker Labels | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794637888.4397485,
+     "id": "1151670760608729",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794637888.4397485,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevviHOtF7nRzxWmv4xHFRdhxe"
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794637888.4397485,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794637869.7167413,
+   "after": 0,
+   "handle": "fancy-shape-chalkboard-sticker-labels-with-marker-pen-jar-labels-1-set",
+   "product_url": "https://www.vinzapstore.in/products/fancy-shape-chalkboard-sticker-labels-with-marker-pen-jar-labels-1-set",
+   "file": "a830088f.mp4",
+   "thumb": "a830088f_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1024873763964296"
+    }
+   }
   }
  ],
- "last_post": 1794589262.6487906,
+ "last_post": 1794637888.4397485,
  "log": [
-  "15:02:48 STORY POSTED facebook@Vinzap-Finds 02b477c2",
-  "15:30:53 READY d00ece42 Portable Plastic Kitchen Dustbin Hanging (auto-approved)",
-  "15:31:03 POSTED instagram@Vinzap-Finds d00ece42: 18155344573601509",
-  "15:31:06 POSTED facebook@Vinzap-Finds d00ece42: 1428352113685678_122117824155501659",
-  "15:31:10 POSTED facebook@Vijayendra-Singh d00ece42: 1317760538089559_122128821075480728",
   "16:01:18 READY 545781a2 Multifunction Collapsible Extendable Stick | Cooking (auto-approved)",
   "16:01:53 POSTED instagram@Vinzap-Finds 545781a2: 18127282588920180",
   "16:01:56 POSTED facebook@Vinzap-Finds 545781a2: 4505664379646934",
@@ -5686,13 +5666,18 @@
   "22:31:02 READY c172993f Vegetable Thumb Cutter (auto-approved)",
   "22:31:13 POSTED instagram@Vinzap-Finds c172993f: 18199410436393268",
   "22:31:16 POSTED facebook@Vinzap-Finds c172993f: 1428352113685678_122118159009501659",
-  "22:31:20 POSTED facebook@Vijayendra-Singh c172993f: 1317760538089559_122129279901480728"
+  "22:31:20 POSTED facebook@Vijayendra-Singh c172993f: 1317760538089559_122129279901480728",
+  "12:01:28 READY a830088f Chalkboard Sticker Labels | Home Decor (auto-approved)",
+  "12:01:32 POSTED facebook@Vinzap-Finds a830088f: 1151670760608729",
+  "12:01:33 FAILED post facebook@Vijayendra-Singh a830088f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevviHOtF7nRzxWmv4xHFRdhxem9BgNI1Y74UexrQUrXZdZAqS3se_ucLfWHlNNWdZl0g35QkK56wySQK7zPg-jOCvjB1CfsmztjNYsBL3bOXFzNBRR2yqVOS6QzEvwB83cwufZGTcJtCKMNfeFpf4G9up5IT-CCIRsn6lvgSyaPSlO-4vSrIUc8IdWYQuRZLXRzY-ak3nkBHhqsHwda02iVD-l_eQmbewD1cLgI1QBRxedve3KLaq4kQksk7508oGeGFtejMQQwMOyurF8UOp2A6ccLQDz8p4sDJf88iaG0hsi7VI_wscOHylqJuiVjWW0C\",\"help_cent",
+  "12:01:33 FAILED post youtube a830088f: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "12:01:43 STORY POSTED facebook@Vinzap-Finds a830088f"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vijayendra-Singh": 1794589262.6487906,
-  "youtube": 1794583878.3289185
+  "facebook@Vinzap-Finds": 1794637888.4397485,
+  "facebook@Vijayendra-Singh": 1794637888.4397485,
+  "youtube": 1794637888.4397485
  },
- "n": 562
+ "n": 563
 }
