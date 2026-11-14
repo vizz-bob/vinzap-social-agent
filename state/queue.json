@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "64376c55",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Lemon Squeezer, Heavy Duty",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 229,
-    "was": 0,
-    "feats": [
-     "High-Quality Stainless Steel Body",
-     "Effortless Juicing : Designed",
-     "Ergonomic Handle Design : Offers"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Stainless Steel Lemon Squeezer, Heavy Duty | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Lemon Squeezer, Heavy Duty"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Lemon Squeezer, Heavy Duty\n✔ High-Quality Stainless Steel Body\n✔ Effortless Juicing : Designed\n✔ Ergonomic Handle Design : Offers\n\nOnly ₹229. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Stainless Steel Lemon Squeezer, Heavy Duty | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794306188.325586,
-     "id": "18119553358799133",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794306188.325586,
-     "id": "992842103300732",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794306188.325586,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetWIyY-zbFjsORnKHGK5DXG5n"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794306188.325586,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794306162.2579033,
-   "after": 0,
-   "handle": "apex-heavy-duty-stainless-steel-lemon-press-squeezer",
-   "product_url": "https://www.vinzapstore.in/products/apex-heavy-duty-stainless-steel-lemon-press-squeezer",
-   "file": "64376c55.mp4",
-   "thumb": "64376c55_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17925406218444618"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1428376942791728"
-    }
-   }
-  },
-  {
    "id": "ac25578e",
    "status": "posted",
    "kind": "image",
@@ -5427,16 +5350,82 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-vacuum-insulated-water-bottle-for-office-travel-everyday-use",
    "file": "a2f1c54d.jpg",
    "thumb": "a2f1c54d.jpg"
+  },
+  {
+   "id": "46e0f896",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Microfiber Soft Cleaning Towel 28x28cm",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Size: 28 x 28 cm",
+     "Dense microfiber pile that",
+     "Lint-free"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Microfiber Soft Cleaning Towel 28x28cm | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Microfiber Soft Cleaning Towel 28x28cm"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMicrofiber Soft Cleaning Towel 28x28cm\n✔ Size: 28 x 28 cm\n✔ Dense microfiber pile that\n✔ Lint-free\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#kitchenorganization #cooking",
+   "title": "Microfiber Soft Cleaning Towel 28x28cm | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794648667.7839124,
+     "id": "1707665034048405",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794648667.7839124,
+     "id": "1455736116753173",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794648667.7839124,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794648643.0567615,
+   "after": 0,
+   "handle": "microfiber-soft-cleaning-towel-absorbent-kitchen-wipe-cloth-28x28-cm-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/microfiber-soft-cleaning-towel-absorbent-kitchen-wipe-cloth-28x28-cm-1-pc",
+   "file": "46e0f896.mp4",
+   "thumb": "46e0f896_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2058977348149724"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "3085537098467846"
+    }
+   }
   }
  ],
- "last_post": 1794646865.2090185,
+ "last_post": 1794648667.7839124,
  "log": [
-  "17:32:06 READY 65fd9fe1 Disposable Small Plastic Gloves (auto-approved)",
-  "17:32:15 POSTED instagram@Vinzap-Finds 65fd9fe1: 18132819949837456",
-  "17:32:20 POSTED facebook@Vinzap-Finds 65fd9fe1: 1428352113685678_122117847519501659",
-  "17:32:24 POSTED facebook@Vijayendra-Singh 65fd9fe1: 1317760538089559_122128859883480728",
-  "18:01:02 READY ab58cf6b Supermom Multipurpose Triangular Kitchen | Home Decor Ideas (auto-approved)",
-  "18:01:30 POSTED instagram@Vinzap-Finds ab58cf6b: 18114355361600266",
   "18:01:34 POSTED facebook@Vinzap-Finds ab58cf6b: 1134521012741434",
   "18:01:38 POSTED facebook@Vijayendra-Singh ab58cf6b: 1145661914712172",
   "18:01:38 FAILED post youtube ab58cf6b: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
@@ -5630,13 +5619,19 @@
   "14:01:27 STORY POSTED facebook@Vinzap-Finds b2721c42",
   "14:31:05 READY a2f1c54d Stainless Steel Vacuum Insulated Water (auto-approved)",
   "14:31:08 POSTED facebook@Vinzap-Finds a2f1c54d: 1428352113685678_122118304143501659",
-  "14:31:12 POSTED facebook@Vijayendra-Singh a2f1c54d: 1317760538089559_122129463717480728"
+  "14:31:12 POSTED facebook@Vijayendra-Singh a2f1c54d: 1317760538089559_122129463717480728",
+  "15:01:07 READY 46e0f896 Microfiber Soft Cleaning Towel 28x28cm | Kitchen Organization (auto-approved)",
+  "15:01:11 POSTED facebook@Vinzap-Finds 46e0f896: 1707665034048405",
+  "15:01:17 POSTED facebook@Vijayendra-Singh 46e0f896: 1455736116753173",
+  "15:01:17 FAILED post youtube 46e0f896: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "15:01:25 STORY POSTED facebook@Vinzap-Finds 46e0f896",
+  "15:01:33 STORY POSTED facebook@Vijayendra-Singh 46e0f896"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794646865.2090185,
-  "facebook@Vijayendra-Singh": 1794646865.2090185,
-  "youtube": 1794637468.4397485
+  "facebook@Vinzap-Finds": 1794648667.7839124,
+  "facebook@Vijayendra-Singh": 1794648667.7839124,
+  "youtube": 1794648667.7839124
  },
- "n": 568
+ "n": 569
 }
