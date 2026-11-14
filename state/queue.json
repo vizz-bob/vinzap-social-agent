@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "9ba2dcb3",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Clear Plastic Gloves Large",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "100 disposable gloves per pack",
-     "size for a comfortable fit",
-     "Transparent design for easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Disposable Clear Plastic Gloves Large | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Clear Plastic Gloves Large"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Clear Plastic Gloves Large\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Disposable Clear Plastic Gloves Large | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794319094.5712025,
-     "id": "18202346563382946",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794319094.5712025,
-     "id": "1627139415519019",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794319094.5712025,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetFhACCY9lmzXRacVYEcZ-Sc0"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794319094.5712025,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794319072.4921403,
-   "after": 0,
-   "handle": "disposable-clear-plastic-gloves-100-pc-large-1",
-   "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-large-1",
-   "file": "9ba2dcb3.mp4",
-   "thumb": "9ba2dcb3_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17972736581962636"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1681261270223913"
-    }
-   }
-  },
-  {
    "id": "edb499b3",
    "status": "posted",
    "kind": "image",
@@ -5396,16 +5319,82 @@
    "product_url": "https://www.vinzapstore.in/products/kitchen-knife-set-with-ergonomic-handles-stainless-steel-chef-knives-12-pc",
    "file": "b6ce543c.jpg",
    "thumb": "b6ce543c.jpg"
+  },
+  {
+   "id": "d54e57b1",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Soap Dispensing Dishwand Scrubber Brush,",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 159,
+    "was": 0,
+    "feats": [
+     "Built-in soap dispenser handle",
+     "Strong dual-layer sponge head",
+     "Long ergonomic handle for better"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Soap Dispensing Dishwand Scrubber Brush, | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Soap Dispensing Dishwand Scrubber Brush,"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSoap Dispensing Dishwand Scrubber Brush,\n✔ Built-in soap dispenser handle\n✔ Strong dual-layer sponge head\n✔ Long ergonomic handle for better\n\nOnly ₹159. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#kitchengadgets #kitchenorganization",
+   "title": "Soap Dispensing Dishwand Scrubber Brush, | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794659488.563348,
+     "id": "1649327146872502",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794659488.563348,
+     "id": "1153913867388285",
+     "dry": false
+    },
+    "youtube": {
+     "ok": false,
+     "ts": 1794659488.563348,
+     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
+    }
+   },
+   "created": 1794659469.3505774,
+   "after": 0,
+   "handle": "heavy-duty-soap-dispensing-dishwand-scrubber-brush-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/heavy-duty-soap-dispensing-dishwand-scrubber-brush-1-pc",
+   "file": "d54e57b1.mp4",
+   "thumb": "d54e57b1_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1551913673639295"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1820488485823712"
+    }
+   }
   }
  ],
- "last_post": 1794657654.746158,
+ "last_post": 1794659488.563348,
  "log": [
-  "19:31:12 POSTED facebook@Vinzap-Finds 2a755089: 1428352113685678_122117873061501659",
-  "19:31:16 POSTED facebook@Vijayendra-Singh 2a755089: 1317760538089559_122128885503480728",
-  "20:01:16 READY 65a44daf 3 in 1 Water Bottle Set 2000 ml, 900 ml and | Kitchen Organization (auto-approved)",
-  "20:01:51 POSTED instagram@Vinzap-Finds 65a44daf: 18120100466280888",
-  "20:01:56 POSTED facebook@Vinzap-Finds 65a44daf: 1115671877896073",
-  "20:01:59 POSTED facebook@Vijayendra-Singh 65a44daf: 1201591655729321",
   "20:02:30 STORY POSTED instagram@Vinzap-Finds 65a44daf",
   "20:02:39 STORY POSTED facebook@Vinzap-Finds 65a44daf",
   "20:02:48 STORY POSTED facebook@Vijayendra-Singh 65a44daf",
@@ -5599,13 +5588,19 @@
   "17:01:34 STORY POSTED facebook@Vijayendra-Singh 57ba4efa",
   "17:30:54 READY b6ce543c Kitchen Knife Set (auto-approved)",
   "17:30:59 POSTED facebook@Vinzap-Finds b6ce543c: 1428352113685678_122118349251501659",
-  "17:31:02 POSTED facebook@Vijayendra-Singh b6ce543c: 1317760538089559_122129528313480728"
+  "17:31:02 POSTED facebook@Vijayendra-Singh b6ce543c: 1317760538089559_122129528313480728",
+  "18:01:28 READY d54e57b1 Soap Dispensing Dishwand Scrubber Brush, | Kitchen Gadgets (auto-approved)",
+  "18:01:33 POSTED facebook@Vinzap-Finds d54e57b1: 1649327146872502",
+  "18:01:38 POSTED facebook@Vijayendra-Singh d54e57b1: 1153913867388285",
+  "18:01:38 FAILED post youtube d54e57b1: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
+  "18:01:52 STORY POSTED facebook@Vinzap-Finds d54e57b1",
+  "18:02:03 STORY POSTED facebook@Vijayendra-Singh d54e57b1"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794657654.746158,
-  "facebook@Vijayendra-Singh": 1794657654.746158,
-  "youtube": 1794648247.7839124
+  "facebook@Vinzap-Finds": 1794659488.563348,
+  "facebook@Vijayendra-Singh": 1794659488.563348,
+  "youtube": 1794659488.563348
  },
- "n": 574
+ "n": 575
 }
