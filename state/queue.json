@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "692fce61",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Squarion Airtight Plastic Storage Container",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 419,
-    "was": 0,
-    "feats": [
-     "Set of 3 storage containers",
-     "Secure airtight flip lock lids",
-     "Locks out moisture and pests"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Squarion Airtight Plastic Storage Container | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Squarion Airtight Plastic Storage Container"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSquarion Airtight Plastic Storage Container\n✔ Set of 3 storage containers\n✔ Secure airtight flip lock lids\n✔ Locks out moisture and pests\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecorideas #diwali",
-   "title": "Squarion Airtight Plastic Storage Container",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794323751.0004132,
-     "id": "18240480688321675",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794323751.0004132,
-     "id": "1428352113685678_122117360535501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794323751.0004132,
-     "id": "1317760538089559_122128231779480728",
-     "dry": false
-    }
-   },
-   "created": 1794323749.1321487,
-   "after": 0,
-   "handle": "squarion-airtight-plastic-storage-containers-set-for-kitchen-grocery-4-pc",
-   "product_url": "https://www.vinzapstore.in/products/squarion-airtight-plastic-storage-containers-set-for-kitchen-grocery-4-pc",
-   "file": "692fce61.jpg",
-   "thumb": "692fce61.jpg"
-  },
-  {
    "id": "df8d32b5",
    "status": "scheduled",
    "kind": "reel",
@@ -5374,12 +5312,60 @@
      "id": "1517719366861103"
     }
    }
+  },
+  {
+   "id": "8133ebd4",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Microfiber Hanging Hand Towel",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "The napkins are highly absorbent",
+     "This range of premium Hanging",
+     "This lovely towel set is soft"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Microfiber Hanging Hand Towel | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Microfiber Hanging Hand Towel"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nMicrofiber Hanging Hand Towel\n✔ The napkins are highly absorbent\n✔ This range of premium Hanging\n✔ This lovely towel set is soft\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Microfiber Hanging Hand Towel",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794675688.2272823,
+     "id": "1428352113685678_122118412113501659",
+     "dry": false
+    }
+   },
+   "created": 1794675673.8986413,
+   "after": 0,
+   "handle": "microfiber-wash-basin-hanging-hand-kitchen-towel-napkin-with-loop",
+   "product_url": "https://www.vinzapstore.in/products/microfiber-wash-basin-hanging-hand-kitchen-towel-napkin-with-loop",
+   "file": "8133ebd4.jpg",
+   "thumb": "8133ebd4.jpg"
   }
  ],
- "last_post": 1794674111.2975914,
+ "last_post": 1794675688.2272823,
  "log": [
-  "21:01:47 READY bb507b2d Lollipop Candy Maker Machine, Red | Home Decor (auto-approved)",
-  "21:02:30 POSTED instagram@Vinzap-Finds bb507b2d: 18110215748203632",
   "21:02:36 POSTED facebook@Vinzap-Finds bb507b2d: 1142650834822899",
   "21:02:38 FAILED post facebook@Vijayendra-Singh bb507b2d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetK_refyYq7-Yv13pSFDsYPOWJggEKKbWTE8EkXFdpik8koJlraYMEmzjlTYvSQk9gdNHuOX873QVQxlyLu2d9D2LWG15z_y312GQcG1O93yivgbxPY8rv32WGlOLP9ACcTE6hilIGYtN7h49thIzwrzUIpMgP9adLA2cZR_nn06ku9FkCYmxm8O5oYSlcC_CWYTGf1P9pJVuPClHqrmkHbkuBrn8DvZ7Cp7Buzpuo0GzhGpmFpg_R_V4aQbf8RPbGv2UjRt7H9fheS05CpSTFcpH_Jq2ZipRupeMYuXzt6r_FiLKmEVuXbwGPUdje1qFA\",\"help_cente",
   "21:02:38 FAILED post youtube bb507b2d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
@@ -5577,13 +5563,15 @@
   "22:05:11 READY e66937a2 Stainless Steel Potato Peeler | Kitchen Organization (auto-approved)",
   "22:05:16 POSTED facebook@Vinzap-Finds e66937a2: 1185968604089337",
   "22:05:23 POSTED youtube e66937a2: 4KKa0KVK-aM",
-  "22:05:32 STORY POSTED facebook@Vinzap-Finds e66937a2"
+  "22:05:32 STORY POSTED facebook@Vinzap-Finds e66937a2",
+  "22:31:28 READY 8133ebd4 Microfiber Hanging Hand Towel (auto-approved)",
+  "22:31:31 POSTED facebook@Vinzap-Finds 8133ebd4: 1428352113685678_122118412113501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794674111.2975914,
+  "facebook@Vinzap-Finds": 1794675688.2272823,
   "facebook@Vijayendra-Singh": 1794672661.263604,
   "youtube": 1794674111.2975914
  },
- "n": 577
+ "n": 578
 }
