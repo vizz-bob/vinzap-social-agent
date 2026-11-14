@@ -14,6 +14,7 @@ FEST = {
     "navratri": dict(name="NAVRATRI", bg1=(110, 15, 90), bg2=(255, 110, 40), accent=(255, 215, 70)),
     "dussehra": dict(name="DUSSEHRA", bg1=(80, 15, 15), bg2=(255, 100, 20), accent=(255, 210, 0)),
     "diwali":   dict(name="DIWALI",   bg1=(20, 15, 70), bg2=(255, 150, 20), accent=(255, 225, 110)),
+    "general":  dict(name="HOME",     bg1=(10, 45, 70), bg2=(245, 140, 40), accent=(255, 225, 110)),
 }
 
 @functools.lru_cache(None)

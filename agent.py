@@ -65,19 +65,20 @@ def new_item(body):
     threading.Thread(target=generate, args=(iid,), daemon=True).start(); return iid
 
 # ---------- store products (everything is captured automatically) ----------
-GREET = {"navratri": "नवरात्रि की हार्दिक शुभकामनाएं 🙏", "dussehra": "दशहरा की हार्दिक शुभकामनाएं 🏹", "diwali": "दीपावली की हार्दिक शुभकामनाएं 🪔"}
+GREET = {"navratri": "नवरात्रि की हार्दिक शुभकामनाएं 🙏", "dussehra": "दशहरा की हार्दिक शुभकामनाएं 🏹", "diwali": "दीपावली की हार्दिक शुभकामनाएं 🪔", "general": "Make your kitchen easier today 🍳"}
 def festival_tag():
     for f in trends.festival_status():
         if f["festival"] == "navratri" and f["status"] != "HAPPENING NOW": continue
-        if f["status"] == "HAPPENING NOW" or f["status"].startswith("in "): return f["festival"]
-    return "diwali"
+        if f["status"] == "HAPPENING NOW": return f["festival"]
+        if f["status"].startswith("in ") and int(f["status"].split()[1]) <= 10: return f["festival"]
+    return "general"   # no festival close by
 
 def build_info(p, c):
     fest = festival_tag(); price, was = p["price"], 0; d = float(c.get("festival_discount_percent") or 0)
     if d > 0: was, price = p["price"], int(round(p["price"]*(1-d/100)))
     elif p.get("compare_at"): was = p["compare_at"]
     name = products.short_name(p["title"]); sale = bool(was); kw = products.trending_keywords(p["handle"])
-    strip = f"{fest.capitalize()} {'Sale' if sale else 'Special'}  |  " + (f"Extra {int(d)}% OFF" if d > 0 else "Home & Kitchen")
+    strip = f"{'Home & Kitchen' if fest == 'general' else fest.capitalize()} {'Sale' if sale else 'Special'}  |  " + (f"Extra {int(d)}% OFF" if d > 0 else "Home & Kitchen")
     return dict(fest=fest, headline=name, strip=strip, price=price, was=was, feats=products.features(p), label2="SALE" if sale else "SPECIAL",
                 cta="Comment LINK to order", site=c["store_url"].replace("https://", ""),
                 kw=kw, yt_title=(name + " | " + kw[0].title()) if kw else name)
@@ -86,9 +87,12 @@ def caption_for(p, info):
     feats = "\n".join("✔ " + f for f in info["feats"])
     price = f"Only ₹{info['price']}" + (f" (was ₹{info['was']})" if info["was"] else "")
     h = trends.HASHTAGS[info["fest"]].split()
+    tags = f"{h[0]} {h[1]} {products.hashtags(p)}" + (" " + " ".join("#" + k.replace(" ", "") for k in info.get("kw", [])) if info.get("kw") else "")
+    seen, uniq = set(), []
+    for t in tags.split():
+        if t.lower() not in seen: seen.add(t.lower()); uniq.append(t)
     return (f"{GREET[info['fest']]}\n\n{info['headline']}\n{feats}\n\n{price}. Comment LINK and we will send it, "
-            f"or order at vinzapstore.in (link in bio).\n\n{h[0]} {h[1]} {products.hashtags(p)}"
-            + ("\n" + " ".join("#" + k.replace(" ", "") for k in info.get("kw", [])) if info.get("kw") else ""))
+            f"or order at vinzapstore.in (link in bio).\n\n" + " ".join(uniq))
 
 def product_items(p, c):
     """one product -> 1 animated Reel + 1 feed poster, both fully designed from store data"""
@@ -131,8 +135,10 @@ def posted_today(q, plat):
     t0 = datetime.datetime.now().replace(hour=0, minute=0, second=0).timestamp()
     return sum(1 for i in q["items"] for p, r in i["posted"].items() if p == plat and r.get("ts", 0) >= t0 and r.get("ok"))
 
-def limits(c, pl):
-    """(interval minutes, daily cap) for a platform. YouTube is limited harder to protect the channel + API quota."""
+def limits(c, pl, tkey=None):
+    """(interval minutes, daily cap) for a target. Per-account override: config "target_limits"."""
+    o = (c.get("target_limits") or {}).get(tkey)
+    if o: return o.get("interval_minutes", c["interval_minutes"]), o.get("daily_cap", c["daily_cap_per_platform"])
     if pl == "youtube": return c.get("youtube_interval_minutes", c["interval_minutes"]), c.get("youtube_daily_cap", c["daily_cap_per_platform"])
     return c["interval_minutes"], c["daily_cap_per_platform"]
 
@@ -143,7 +149,7 @@ def tick():
         q = load(); last = q.setdefault("last", {}); tg = poster.all_targets(c); now = time.time(); changed = False
         for tkey, (pl, m) in tg.items():
             if not c["dry_run"] and not poster.configured(m, pl): continue   # live mode: skip platforms without keys
-            iv, cap = limits(c, pl)
+            iv, cap = limits(c, pl, tkey)
             if now - last.get(tkey, 0) < iv*60: continue
             if posted_today(q, tkey) >= cap: continue
             for it in q["items"]:

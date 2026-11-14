@@ -17,7 +17,7 @@ def main():
     due = []
     for k, (pl, m) in tg.items():
         if not c["dry_run"] and not poster.configured(m, pl): continue
-        iv, cap = agent.limits(c, pl)
+        iv, cap = agent.limits(c, pl, k)
         if now - last.get(k, 0) < iv * 60 - SLACK: continue
         if agent.posted_today(q, k) >= cap: continue
         due.append(k)

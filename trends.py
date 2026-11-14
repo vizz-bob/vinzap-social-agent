@@ -10,6 +10,7 @@ HASHTAGS = {
  "navratri": "#navratri #navratri2026 #garba #dandiya #durgapuja #jaimatadi #festivevibes",
  "dussehra": "#dussehra #vijayadashami #dussehra2026 #ravandahan #jayshriram #festival",
  "diwali":   "#diwali #diwali2026 #happydiwali #diya #rangoli #festivalofLights #shubhdiwali",
+ "general":  "#kitchenessentials #homekitchen #kitchengadgets #homeessentials",
 }
 # ready-made post ideas (hook, main text, sub, cta, caption)
 PACK = {
