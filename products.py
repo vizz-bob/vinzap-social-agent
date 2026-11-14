@@ -2,11 +2,30 @@
 and turns each into everything a poster/reel needs (name, price, features, hashtags)."""
 import json, re, html, urllib.request, os
 
+BACKUP_STORES = ("https://vinzapstore.in", "https://bscha0-z1.myshopify.com")
+
+def _get(store, page):
+    req = urllib.request.Request(f"{store}/products.json?limit=250&page={page}", headers={"User-Agent": "Mozilla/5.0"})
+    return json.load(urllib.request.urlopen(req, timeout=30)).get("products", [])
+
 def fetch(store="https://www.vinzapstore.in", limit=250):
+    import time
+    last = None
+    for st in (store,) + tuple(x for x in BACKUP_STORES if x != store):
+        for attempt in range(2):
+            try:
+                _get(st, 1)
+                return _fetch(st, limit, store)
+            except Exception as e:
+                last = e
+                time.sleep(3)
+        print("store feed failed on", st, "->", str(last)[:120], flush=True)
+    raise last
+
+def _fetch(store, limit, shown_store):
     out, page = [], 1
     while len(out) < limit:
-        req = urllib.request.Request(f"{store}/products.json?limit=250&page={page}", headers={"User-Agent": "Mozilla/5.0"})
-        data = json.load(urllib.request.urlopen(req, timeout=30)).get("products", [])
+        data = _get(store, page)
         if not data: break
         for p in data:
             if not p.get("images"): continue
@@ -17,7 +36,7 @@ def fetch(store="https://www.vinzapstore.in", limit=250):
                             compare_at=int(cmp_) if cmp_ > price else 0, type=p.get("product_type", ""),
                             tags=p.get("tags", []) if isinstance(p.get("tags"), list) else [t.strip() for t in p.get("tags", "").split(",")],
                             images=[i["src"] for i in p["images"][:4]], body=p.get("body_html") or "",
-                            url=f"{store}/products/{p['handle']}"))
+                            url=f"{shown_store}/products/{p['handle']}"))
         page += 1
         if len(data) < 250: break
     return out[:limit]
