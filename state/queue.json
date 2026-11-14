@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "cccef686",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ice Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 259,
-    "was": 0,
-    "feats": [
-     "2-in-1 Compartment: Features",
-     "Durable Construction: Made from",
-     "Space-Saving Design: Ideal"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Ice Tray | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Tray\n✔ 2-in-1 Compartment: Features\n✔ Durable Construction: Made from\n✔ Space-Saving Design: Ideal\n\nOnly ₹259. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#diwali #trendingshorts",
-   "title": "Ice Tray | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794302180.3508198,
-     "id": "17962716567255722",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794302180.3508198,
-     "id": "1695568255533714",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794302180.3508198,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AessrJJMW1iB-b0rB46qWYkMYJ"
-    }
-   },
-   "created": 1794302158.6049356,
-   "after": 0,
-   "handle": "supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
-   "file": "cccef686.mp4",
-   "thumb": "cccef686_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18122539162984271"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1127897416724457"
-    }
-   }
-  },
-  {
    "id": "facbadb4",
    "status": "posted",
    "kind": "image",
@@ -5443,14 +5371,72 @@
    "product_url": "https://www.vinzapstore.in/products/collapsible-travel-electric-kettle-600ml-foldable-silicone-water-boiler-1-pc",
    "file": "de337ba1.jpg",
    "thumb": "de337ba1.jpg"
+  },
+  {
+   "id": "b2721c42",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Ice Cube Tray",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "14-grid design for making",
+     "Comes with a lid to keep ice",
+     "Easy release design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Ice Cube Tray | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Cube Tray"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
+   "title": "Ice Cube Tray | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794645068.7967496,
+     "id": "1096505426350858",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794645068.7967496,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevnChvBCr42joxK-fKHTffGqU"
+    }
+   },
+   "created": 1794645043.8068628,
+   "after": 0,
+   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
+   "file": "b2721c42.mp4",
+   "thumb": "b2721c42_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1035381622923054"
+    }
+   }
   }
  ],
- "last_post": 1794643253.3135371,
+ "last_post": 1794645068.7967496,
  "log": [
-  "17:01:15 READY 0b1a379a Lemon Shape Silicone Ice Cube Tray, 8 Slots | Home Decor Ideas (auto-approved)",
-  "17:01:52 POSTED instagram@Vinzap-Finds 0b1a379a: 18137166544730930",
-  "17:01:57 POSTED facebook@Vinzap-Finds 0b1a379a: 1892122678467252",
-  "17:02:02 POSTED facebook@Vijayendra-Singh 0b1a379a: 1019044161256321",
   "17:02:34 STORY POSTED instagram@Vinzap-Finds 0b1a379a",
   "17:02:44 STORY POSTED facebook@Vinzap-Finds 0b1a379a",
   "17:02:55 STORY POSTED facebook@Vijayendra-Singh 0b1a379a",
@@ -5646,13 +5632,17 @@
   "13:01:27 STORY POSTED facebook@Vinzap-Finds 222ed9fc",
   "13:30:53 READY de337ba1 Collapsible Electric Kettle 600ml, Foldable (auto-approved)",
   "13:30:56 POSTED facebook@Vinzap-Finds de337ba1: 1428352113685678_122118293463501659",
-  "13:31:01 POSTED facebook@Vijayendra-Singh de337ba1: 1317760538089559_122129453535480728"
+  "13:31:01 POSTED facebook@Vijayendra-Singh de337ba1: 1317760538089559_122129453535480728",
+  "14:01:08 READY b2721c42 Ice Cube Tray | Kitchen Organization (auto-approved)",
+  "14:01:14 POSTED facebook@Vinzap-Finds b2721c42: 1096505426350858",
+  "14:01:15 FAILED post facebook@Vijayendra-Singh b2721c42: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevnChvBCr42joxK-fKHTffGqUAyYlcAOlYSSKp0ayDxzyv6Bt1UE1Fbx0jAnS8l5jOJUJexvuGMTV3-akFzgOmacMRjhN_qrKoNyciKzDUg2NugdGLRAzirO-hFQ349yy1aTtknp0NB6QPa-L9dWFDC2Z8nV5EaCYz6t7Q2hzCZE4R_V-x7dq8fy2e3JVdssWF9PrsAM_cYvHEsMCTbJpZgsKKkYIdUT06IUE5v-1ZRylBWzERbLLXvgu-2OCjwLphMT9WwJbjhh3jtkdXx6RGoOvQMGbL16wU49ZzgmB7LSlOg2t4--eGoccSqPr4na06t\",\"help_cent",
+  "14:01:27 STORY POSTED facebook@Vinzap-Finds b2721c42"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794643253.3135371,
-  "facebook@Vijayendra-Singh": 1794643253.3135371,
+  "facebook@Vinzap-Finds": 1794645068.7967496,
+  "facebook@Vijayendra-Singh": 1794645068.7967496,
   "youtube": 1794637888.4397485
  },
- "n": 566
+ "n": 567
 }
