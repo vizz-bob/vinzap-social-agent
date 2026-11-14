@@ -1,66 +1,6 @@
 {
  "items": [
   {
-   "id": "58b8d70b",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Pav Bhaji Masher",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 109,
-    "was": 0,
-    "feats": [
-     "0064A Paubhaji Masher used in all"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Pav Bhaji Masher | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Pav Bhaji Masher"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPav Bhaji Masher\n✔ 0064A Paubhaji Masher used in all\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Pav Bhaji Masher",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794296735.8124602,
-     "id": "18095034347188189",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794296735.8124602,
-     "id": "1428352113685678_122117256009501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794296735.8124602,
-     "id": "1317760538089559_122128121817480728",
-     "dry": false
-    }
-   },
-   "created": 1794296734.3904018,
-   "after": 0,
-   "handle": "0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
-   "product_url": "https://www.vinzapstore.in/products/0066-paubhaji-masher-used-in-all-kinds-of-household-and-kitchen-places-for-mashing-and-making-paubhajis-1",
-   "file": "58b8d70b.jpg",
-   "thumb": "58b8d70b.jpg"
-  },
-  {
    "id": "3b8900a3",
    "status": "scheduled",
    "kind": "reel",
@@ -5468,13 +5408,66 @@
      "id": "1024873763964296"
     }
    }
+  },
+  {
+   "id": "39be8647",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "White Coffee Mug Custom Printed",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 419,
+    "was": 0,
+    "feats": [
+     "Material: glossy ceramic",
+     "Capacity: 11 oz",
+     "Box packing"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen gadgets"
+    ],
+    "yt_title": "White Coffee Mug Custom Printed | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "White Coffee Mug Custom Printed"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nWhite Coffee Mug Custom Printed\n✔ Material: glossy ceramic\n✔ Capacity: 11 oz\n✔ Box packing\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #mug #giftideas #festivegifts\n#trendingshorts #kitchengadgets",
+   "title": "White Coffee Mug Custom Printed",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794639658.8503299,
+     "id": "1428352113685678_122118284073501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794639658.8503299,
+     "id": "1317760538089559_122129444847480728",
+     "dry": false
+    }
+   },
+   "created": 1794639657.8116257,
+   "after": 0,
+   "handle": "white-coffee-mug",
+   "product_url": "https://www.vinzapstore.in/products/white-coffee-mug",
+   "file": "39be8647.jpg",
+   "thumb": "39be8647.jpg"
   }
  ],
- "last_post": 1794637888.4397485,
+ "last_post": 1794639658.8503299,
  "log": [
-  "16:01:18 READY 545781a2 Multifunction Collapsible Extendable Stick | Cooking (auto-approved)",
-  "16:01:53 POSTED instagram@Vinzap-Finds 545781a2: 18127282588920180",
-  "16:01:56 POSTED facebook@Vinzap-Finds 545781a2: 4505664379646934",
   "16:01:57 FAILED post facebook@Vijayendra-Singh 545781a2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesSrZ4xB3kgIpN4qvtDOwhJWpOJ4oS9SZMZm3bs2Qd4FiGRF4OK6IFu9w9XNNjtSf94pzcCLSwvUW9et7V4tObh2Zvl_cW4x0JrodPgu5M5zatFmCiUgpRHskYXpqtfHbv6i3p6SifkKuHQO9SF1gkA4KB-mfrNgC_sMRDHFy4v2Z3KvOlEJX5fU0uCb_UIcPxifzixWMSGlWTgP2SLPqss1qLz8tzu_tw3bN0_T2e2nlkenmEWYWBeq3kahavQS2deGy_y50nb8FvOi3wHKKQ6fKoUWl5WriENtxngvSsVJwrhNwj8oYAxkDW7cgjZatA\",\"help_cente",
   "16:02:26 STORY POSTED instagram@Vinzap-Finds 545781a2",
   "16:02:35 STORY POSTED facebook@Vinzap-Finds 545781a2",
@@ -5671,13 +5664,16 @@
   "12:01:32 POSTED facebook@Vinzap-Finds a830088f: 1151670760608729",
   "12:01:33 FAILED post facebook@Vijayendra-Singh a830088f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevviHOtF7nRzxWmv4xHFRdhxem9BgNI1Y74UexrQUrXZdZAqS3se_ucLfWHlNNWdZl0g35QkK56wySQK7zPg-jOCvjB1CfsmztjNYsBL3bOXFzNBRR2yqVOS6QzEvwB83cwufZGTcJtCKMNfeFpf4G9up5IT-CCIRsn6lvgSyaPSlO-4vSrIUc8IdWYQuRZLXRzY-ak3nkBHhqsHwda02iVD-l_eQmbewD1cLgI1QBRxedve3KLaq4kQksk7508oGeGFtejMQQwMOyurF8UOp2A6ccLQDz8p4sDJf88iaG0hsi7VI_wscOHylqJuiVjWW0C\",\"help_cent",
   "12:01:33 FAILED post youtube a830088f: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "12:01:43 STORY POSTED facebook@Vinzap-Finds a830088f"
+  "12:01:43 STORY POSTED facebook@Vinzap-Finds a830088f",
+  "12:30:58 READY 39be8647 White Coffee Mug Custom Printed (auto-approved)",
+  "12:31:03 POSTED facebook@Vinzap-Finds 39be8647: 1428352113685678_122118284073501659",
+  "12:31:08 POSTED facebook@Vijayendra-Singh 39be8647: 1317760538089559_122129444847480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794637888.4397485,
-  "facebook@Vijayendra-Singh": 1794637888.4397485,
+  "facebook@Vinzap-Finds": 1794639658.8503299,
+  "facebook@Vijayendra-Singh": 1794639658.8503299,
   "youtube": 1794637888.4397485
  },
- "n": 563
+ "n": 564
 }
