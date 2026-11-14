@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "3b8900a3",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Oil Pourer 750ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 639,
-    "was": 0,
-    "feats": [
-     "750ml Approx. Capacity: Ample",
-     "Stainless Steel Body: Made from",
-     "Ergonomic Handle: Comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Stainless Steel Oil Pourer 750ml | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Oil Pourer 750ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Oil Pourer 750ml\n✔ 750ml Approx. Capacity: Ample\n✔ Stainless Steel Body: Made from\n✔ Ergonomic Handle: Comfortable\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Stainless Steel Oil Pourer 750ml | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794298553.3101184,
-     "id": "17978189685157190",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794298553.3101184,
-     "id": "1788601588867140",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794298553.3101184,
-     "id": "2189592851994813",
-     "dry": false
-    }
-   },
-   "created": 1794298538.1536887,
-   "after": 0,
-   "handle": "supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
-   "file": "3b8900a3.mp4",
-   "thumb": "3b8900a3_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18107038877000910"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1118763794397220"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1134482225623723"
-    }
-   }
-  },
-  {
    "id": "5d242ffc",
    "status": "posted",
    "kind": "image",
@@ -5464,14 +5387,72 @@
    "product_url": "https://www.vinzapstore.in/products/white-coffee-mug",
    "file": "39be8647.jpg",
    "thumb": "39be8647.jpg"
+  },
+  {
+   "id": "222ed9fc",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Snap Sink Dispenser Clear Pump Lotion Bottle",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Clear body",
+     "Refillable and reusable pump",
+     "Works for soap"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "diwali",
+     "trending shorts"
+    ],
+    "yt_title": "Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Snap Sink Dispenser Clear Pump Lotion Bottle"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSnap Sink Dispenser Clear Pump Lotion Bottle\n✔ Clear body\n✔ Refillable and reusable pump\n✔ Works for soap\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
+   "title": "Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794641472.547357,
+     "id": "1838167090802073",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": false,
+     "ts": 1794641472.547357,
+     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevbPR3HZZCdU474EVi-S_8kl9"
+    }
+   },
+   "created": 1794641446.0504885,
+   "after": 0,
+   "handle": "snap-sink-dispenser-plastic-clear-empty-pump-lotion-bottles-1-set",
+   "product_url": "https://www.vinzapstore.in/products/snap-sink-dispenser-plastic-clear-empty-pump-lotion-bottles-1-set",
+   "file": "222ed9fc.mp4",
+   "thumb": "222ed9fc_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1857607875362571"
+    }
+   }
   }
  ],
- "last_post": 1794639658.8503299,
+ "last_post": 1794641472.547357,
  "log": [
-  "16:01:57 FAILED post facebook@Vijayendra-Singh 545781a2: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesSrZ4xB3kgIpN4qvtDOwhJWpOJ4oS9SZMZm3bs2Qd4FiGRF4OK6IFu9w9XNNjtSf94pzcCLSwvUW9et7V4tObh2Zvl_cW4x0JrodPgu5M5zatFmCiUgpRHskYXpqtfHbv6i3p6SifkKuHQO9SF1gkA4KB-mfrNgC_sMRDHFy4v2Z3KvOlEJX5fU0uCb_UIcPxifzixWMSGlWTgP2SLPqss1qLz8tzu_tw3bN0_T2e2nlkenmEWYWBeq3kahavQS2deGy_y50nb8FvOi3wHKKQ6fKoUWl5WriENtxngvSsVJwrhNwj8oYAxkDW7cgjZatA\",\"help_cente",
-  "16:02:26 STORY POSTED instagram@Vinzap-Finds 545781a2",
-  "16:02:35 STORY POSTED facebook@Vinzap-Finds 545781a2",
-  "16:31:09 READY db784a1c Stainless Steel Dinner Spoon (auto-approved)",
   "16:31:22 POSTED instagram@Vinzap-Finds db784a1c: 18109429316192189",
   "16:31:26 POSTED facebook@Vinzap-Finds db784a1c: 1428352113685678_122117835789501659",
   "16:31:29 POSTED facebook@Vijayendra-Singh db784a1c: 1317760538089559_122128834467480728",
@@ -5667,13 +5648,17 @@
   "12:01:43 STORY POSTED facebook@Vinzap-Finds a830088f",
   "12:30:58 READY 39be8647 White Coffee Mug Custom Printed (auto-approved)",
   "12:31:03 POSTED facebook@Vinzap-Finds 39be8647: 1428352113685678_122118284073501659",
-  "12:31:08 POSTED facebook@Vijayendra-Singh 39be8647: 1317760538089559_122129444847480728"
+  "12:31:08 POSTED facebook@Vijayendra-Singh 39be8647: 1317760538089559_122129444847480728",
+  "13:01:12 READY 222ed9fc Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali (auto-approved)",
+  "13:01:16 POSTED facebook@Vinzap-Finds 222ed9fc: 1838167090802073",
+  "13:01:17 FAILED post facebook@Vijayendra-Singh 222ed9fc: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevbPR3HZZCdU474EVi-S_8kl9DVVRE2GhxfrLp8xqQHc1AFdMqO_dfeEMX4qGKpRBmTk-p1Suhq3MtzUZfU-ob6xCICzc8d9mtcPe4HDA3csc_upSLefNAFsjtgIxXDoB4Y-OERBiUjl74tDdE6uyc1F7myCkYVzf5aJh3I5KRxpUbr9spgzastqXu-QCebonMknUzDtXD8TLTPWsKToGwz5pYjyUV7L7W5UOVTWURDBdWQTyEqjAaQudMdwVapwXmN8lNNLbHHgc9wIqUCAgfKQ4JdJIIQMvMOgoqHxUCX6TfCDB3gIoZWALunNtH2ass\",\"help_cente",
+  "13:01:27 STORY POSTED facebook@Vinzap-Finds 222ed9fc"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794639658.8503299,
-  "facebook@Vijayendra-Singh": 1794639658.8503299,
+  "facebook@Vinzap-Finds": 1794641472.547357,
+  "facebook@Vijayendra-Singh": 1794641472.547357,
   "youtube": 1794637888.4397485
  },
- "n": 564
+ "n": 565
 }
