@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "facbadb4",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Serving Bowls 360ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Disposable design for quick",
-     "Suitable for dry and semi-liquid",
-     "Sturdy structure helps prevent"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Disposable Serving Bowls 360ml | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Serving Bowls 360ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Serving Bowls 360ml\n✔ Disposable design for quick\n✔ Suitable for dry and semi-liquid\n✔ Sturdy structure helps prevent\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Disposable Serving Bowls 360ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794304281.2214649,
-     "id": "17961317973013257",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794304281.2214649,
-     "id": "1428352113685678_122117280501501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794304281.2214649,
-     "id": "1317760538089559_122128145445480728",
-     "dry": false
-    }
-   },
-   "created": 1794304279.6795945,
-   "after": 0,
-   "handle": "vegnar-disposable-food-serving-bowl-set-of-10-pieces-360-ml-capacity",
-   "product_url": "https://www.vinzapstore.in/products/vegnar-disposable-food-serving-bowl-set-of-10-pieces-360-ml-capacity",
-   "file": "facbadb4.jpg",
-   "thumb": "facbadb4.jpg"
-  },
-  {
    "id": "64376c55",
    "status": "scheduled",
    "kind": "reel",
@@ -5433,13 +5371,66 @@
      "id": "1035381622923054"
     }
    }
+  },
+  {
+   "id": "a2f1c54d",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "diwali",
+    "headline": "Stainless Steel Vacuum Insulated Water",
+    "strip": "Diwali Special  |  Home & Kitchen",
+    "price": 409,
+    "was": 0,
+    "feats": [
+     "Vacuum insulated design supports",
+     "Suitable for carrying hot or cold",
+     "Durable stainless steel"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Vacuum Insulated Water | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Vacuum Insulated Water"
+   },
+   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vacuum Insulated Water\n✔ Vacuum insulated design supports\n✔ Suitable for carrying hot or cold\n✔ Durable stainless steel\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecor #homedecorideas",
+   "title": "Stainless Steel Vacuum Insulated Water",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794646865.2090185,
+     "id": "1428352113685678_122118304143501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794646865.2090185,
+     "id": "1317760538089559_122129463717480728",
+     "dry": false
+    }
+   },
+   "created": 1794646862.8346434,
+   "after": 0,
+   "handle": "stainless-steel-vacuum-insulated-water-bottle-for-office-travel-everyday-use",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vacuum-insulated-water-bottle-for-office-travel-everyday-use",
+   "file": "a2f1c54d.jpg",
+   "thumb": "a2f1c54d.jpg"
   }
  ],
- "last_post": 1794645068.7967496,
+ "last_post": 1794646865.2090185,
  "log": [
-  "17:02:34 STORY POSTED instagram@Vinzap-Finds 0b1a379a",
-  "17:02:44 STORY POSTED facebook@Vinzap-Finds 0b1a379a",
-  "17:02:55 STORY POSTED facebook@Vijayendra-Singh 0b1a379a",
   "17:32:06 READY 65fd9fe1 Disposable Small Plastic Gloves (auto-approved)",
   "17:32:15 POSTED instagram@Vinzap-Finds 65fd9fe1: 18132819949837456",
   "17:32:20 POSTED facebook@Vinzap-Finds 65fd9fe1: 1428352113685678_122117847519501659",
@@ -5636,13 +5627,16 @@
   "14:01:08 READY b2721c42 Ice Cube Tray | Kitchen Organization (auto-approved)",
   "14:01:14 POSTED facebook@Vinzap-Finds b2721c42: 1096505426350858",
   "14:01:15 FAILED post facebook@Vijayendra-Singh b2721c42: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevnChvBCr42joxK-fKHTffGqUAyYlcAOlYSSKp0ayDxzyv6Bt1UE1Fbx0jAnS8l5jOJUJexvuGMTV3-akFzgOmacMRjhN_qrKoNyciKzDUg2NugdGLRAzirO-hFQ349yy1aTtknp0NB6QPa-L9dWFDC2Z8nV5EaCYz6t7Q2hzCZE4R_V-x7dq8fy2e3JVdssWF9PrsAM_cYvHEsMCTbJpZgsKKkYIdUT06IUE5v-1ZRylBWzERbLLXvgu-2OCjwLphMT9WwJbjhh3jtkdXx6RGoOvQMGbL16wU49ZzgmB7LSlOg2t4--eGoccSqPr4na06t\",\"help_cent",
-  "14:01:27 STORY POSTED facebook@Vinzap-Finds b2721c42"
+  "14:01:27 STORY POSTED facebook@Vinzap-Finds b2721c42",
+  "14:31:05 READY a2f1c54d Stainless Steel Vacuum Insulated Water (auto-approved)",
+  "14:31:08 POSTED facebook@Vinzap-Finds a2f1c54d: 1428352113685678_122118304143501659",
+  "14:31:12 POSTED facebook@Vijayendra-Singh a2f1c54d: 1317760538089559_122129463717480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794645068.7967496,
-  "facebook@Vijayendra-Singh": 1794645068.7967496,
-  "youtube": 1794637888.4397485
+  "facebook@Vinzap-Finds": 1794646865.2090185,
+  "facebook@Vijayendra-Singh": 1794646865.2090185,
+  "youtube": 1794637468.4397485
  },
- "n": 567
+ "n": 568
 }
