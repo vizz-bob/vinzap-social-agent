@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "3823ba77",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Coconut Scraper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 579,
-    "was": 0,
-    "feats": [
-     "Stainless Steel Construction –",
-     "Vacuum Base for Stability –",
-     "Effortless Hand Operation –"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Coconut Scraper | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Coconut Scraper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Coconut Scraper\n✔ Stainless Steel Construction –\n✔ Vacuum Base for Stability –\n✔ Effortless Hand Operation –\n\nOnly ₹579. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Coconut Scraper",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794394854.2555702,
-     "id": "18399074641205360",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794394854.2555702,
-     "id": "1428352113685678_122117581365501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794394854.2555702,
-     "id": "1317760538089559_122128490673480728",
-     "dry": false
-    }
-   },
-   "created": 1794394852.0387857,
-   "after": 0,
-   "handle": "supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
-   "file": "3823ba77.jpg",
-   "thumb": "3823ba77.jpg"
-  },
-  {
    "id": "a9d1b300",
    "status": "scheduled",
    "kind": "reel",
@@ -5222,12 +5160,60 @@
      "id": "2211098099758854"
     }
    }
+  },
+  {
+   "id": "4ea6c994",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Manual Garlic Press Crusher",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Efficient garlic crushing",
+     "Ergonomic handle for comfortable",
+     "Manual press mechanism"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Manual Garlic Press Crusher | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Garlic Press Crusher"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nManual Garlic Press Crusher\n✔ Efficient garlic crushing\n✔ Ergonomic handle for comfortable\n✔ Manual press mechanism\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "Manual Garlic Press Crusher",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794747668.2197967,
+     "id": "1428352113685678_122118608655501659",
+     "dry": false
+    }
+   },
+   "created": 1794747654.4379394,
+   "after": 0,
+   "handle": "manual-garlic-press-crusher-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/manual-garlic-press-crusher-tool-1-pc",
+   "file": "4ea6c994.jpg",
+   "thumb": "4ea6c994.jpg"
   }
  ],
- "last_post": 1794745888.6053965,
+ "last_post": 1794747668.2197967,
  "log": [
-  "14:02:43 STORY POSTED instagram@Vinzap-Finds 545fb0ae",
-  "14:02:54 STORY POSTED facebook@Vinzap-Finds 545fb0ae",
   "14:31:52 READY 7ee6e7ba Apex Everyday Plastic Glass Set of 6 (auto-approved)",
   "14:32:03 POSTED instagram@Vinzap-Finds 7ee6e7ba: 18052871105824217",
   "14:32:07 POSTED facebook@Vinzap-Finds 7ee6e7ba: 1428352113685678_122118072093501659",
@@ -5425,13 +5411,15 @@
   "18:01:37 POSTED facebook@Vijayendra-Singh 79e7deae: 2679930615795929",
   "18:01:41 POSTED youtube 79e7deae: gcbb5tmgLtY",
   "18:01:49 STORY POSTED facebook@Vinzap-Finds 79e7deae",
-  "18:01:57 STORY POSTED facebook@Vijayendra-Singh 79e7deae"
+  "18:01:57 STORY POSTED facebook@Vijayendra-Singh 79e7deae",
+  "18:31:08 READY 4ea6c994 Manual Garlic Press Crusher (auto-approved)",
+  "18:31:11 POSTED facebook@Vinzap-Finds 4ea6c994: 1428352113685678_122118608655501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794745888.6053965,
+  "facebook@Vinzap-Finds": 1794747668.2197967,
   "facebook@Vijayendra-Singh": 1794745888.6053965,
   "youtube": 1794745888.6053965
  },
- "n": 591
+ "n": 592
 }
