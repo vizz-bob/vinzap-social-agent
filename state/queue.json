@@ -1,76 +1,6 @@
 {
  "items": [
   {
-   "id": "b7bbf687",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Natural Bamboo Skewers",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 56.76,
-    "was": 0,
-    "feats": [
-     "\" Natural Bamboo Wooden"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Natural Bamboo Skewers | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Natural Bamboo Skewers"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nNatural Bamboo Skewers\n✔ \" Natural Bamboo Wooden\n\nOnly ₹56.76. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Natural Bamboo Skewers | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794385870.3620641,
-     "id": "17911134876327896",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794385870.3620641,
-     "id": "2581146759059511",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794385870.3620641,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuratjfC3zQxA618QLVTetM2g"
-    }
-   },
-   "created": 1794385846.7727594,
-   "after": 0,
-   "handle": "1116-natural-bamboo-wooden-skewersbbq-sticks-for-barbeque-and-grilling",
-   "product_url": "https://www.vinzapstore.in/products/1116-natural-bamboo-wooden-skewersbbq-sticks-for-barbeque-and-grilling",
-   "file": "b7bbf687.mp4",
-   "thumb": "b7bbf687_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18100257188556589"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "28824258347273401"
-    }
-   }
-  },
-  {
    "id": "4955548c",
    "status": "posted",
    "kind": "image",
@@ -5280,13 +5210,67 @@
    "product_url": "https://www.vinzapstore.in/products/electric-kettle-2-3-litre-fast-boiling-water-kettle-with-auto-shut-off-1-pc",
    "file": "d34e5298.jpg",
    "thumb": "d34e5298.jpg"
+  },
+  {
+   "id": "f5afab44",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Apex Ovel Manual Chilli and Dry Fruit",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 329,
+    "was": 0,
+    "feats": [
+     "High-Performance Stainless Steel",
+     "Durable Virgin Plastic Body:",
+     "Manual Hand Crank Design:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Ovel Manual Chilli and Dry Fruit"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nApex Ovel Manual Chilli and Dry Fruit\n✔ High-Performance Stainless Steel\n✔ Durable Virgin Plastic Body:\n✔ Manual Hand Crank Design:\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794738675.4919384,
+     "id": "2945189795880061",
+     "dry": false
+    }
+   },
+   "created": 1794738646.8994982,
+   "after": 0,
+   "handle": "apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
+   "product_url": "https://www.vinzapstore.in/products/apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
+   "file": "f5afab44.mp4",
+   "thumb": "f5afab44_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1677970814053149"
+    }
+   }
   }
  ],
- "last_post": 1794736875.5059543,
+ "last_post": 1794738675.4919384,
  "log": [
-  "12:31:09 POSTED instagram@Vinzap-Finds 439066b6: 17950504467068657",
-  "12:31:13 POSTED facebook@Vinzap-Finds 439066b6: 1428352113685678_122118041565501659",
-  "12:31:18 POSTED facebook@Vijayendra-Singh 439066b6: 1317760538089559_122129125761480728",
   "13:01:25 READY b7473ead Electric Barbecue Grill 2000W | Kitchen Organization (auto-approved)",
   "13:02:02 POSTED instagram@Vinzap-Finds b7473ead: 18095270195693338",
   "13:02:08 POSTED facebook@Vinzap-Finds b7473ead: 1003868028752164",
@@ -5483,13 +5467,16 @@
   "15:02:05 STORY POSTED facebook@Vinzap-Finds 6997d8b4",
   "15:02:15 STORY POSTED facebook@Vijayendra-Singh 6997d8b4",
   "15:31:15 READY d34e5298 Electric Kettle 2.3 Litre Fast Boiling (auto-approved)",
-  "15:31:19 POSTED facebook@Vinzap-Finds d34e5298: 1428352113685678_122118574899501659"
+  "15:31:19 POSTED facebook@Vinzap-Finds d34e5298: 1428352113685678_122118574899501659",
+  "16:01:15 READY f5afab44 Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas (auto-approved)",
+  "16:01:22 POSTED facebook@Vinzap-Finds f5afab44: 2945189795880061",
+  "16:01:31 STORY POSTED facebook@Vinzap-Finds f5afab44"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794736875.5059543,
+  "facebook@Vinzap-Finds": 1794738675.4919384,
   "facebook@Vijayendra-Singh": 1794735099.933702,
   "youtube": 1794735099.933702
  },
- "n": 586
+ "n": 587
 }
