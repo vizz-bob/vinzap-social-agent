@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "74ae59b3",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 159,
-    "was": 0,
-    "feats": [
-     "The mini silicone mold allows you",
-     "Easy to use",
-     "Freezing"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Silicone Ice Cube Tray | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Ice Cube Tray\n✔ The mini silicone mold allows you\n✔ Easy to use\n✔ Freezing\n\nOnly ₹159. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Silicone Ice Cube Tray | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794403967.2216723,
-     "id": "18642782593059649",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794403967.2216723,
-     "id": "29069751466014227",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794403967.2216723,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesIAbOWLygZqK8n1HVzmn9gBV"
-    }
-   },
-   "created": 1794403939.158147,
-   "after": 0,
-   "handle": "silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-5",
-   "product_url": "https://www.vinzapstore.in/products/silicone-mold-ice-cube-tray-creative-sweet-multi-type-ice-tray-buckets-ice-cube-trays-multi-fruit-shape-ice-tray-1-pc-5",
-   "file": "74ae59b3.mp4",
-   "thumb": "74ae59b3_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18183411472436779"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1869272550774479"
-    }
-   }
-  },
-  {
    "id": "bd95a5fc",
    "status": "posted",
    "kind": "image",
@@ -5150,16 +5078,83 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-sink-caddy-organizer-rack-holder-kitchen-sponge-stand-1-pc",
    "file": "ebe60918.jpg",
    "thumb": "ebe60918.jpg"
+  },
+  {
+   "id": "5c904a6f",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Natural Wood Chopping Board",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 459,
+    "was": 0,
+    "feats": [
+     "Wooden cutting board is made from",
+     "It is Ideal for chopping",
+     "Thick Bamboo that can withstand"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Natural Wood Chopping Board | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Natural Wood Chopping Board"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nNatural Wood Chopping Board\n✔ Wooden cutting board is made from\n✔ It is Ideal for chopping\n✔ Thick Bamboo that can withstand\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Natural Wood Chopping Board | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794756690.2548878,
+     "id": "1667149278117208",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794756690.2548878,
+     "id": "2441684803048461",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794756690.2548878,
+     "id": "fGdz9B6t4_g",
+     "dry": false
+    }
+   },
+   "created": 1794756652.2929103,
+   "after": 0,
+   "handle": "2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
+   "product_url": "https://www.vinzapstore.in/products/2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
+   "file": "5c904a6f.mp4",
+   "thumb": "5c904a6f_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4745197355710394"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1151391934017535"
+    }
+   }
   }
  ],
- "last_post": 1794754866.1297853,
+ "last_post": 1794756690.2548878,
  "log": [
-  "15:31:02 READY 323d1336 Panda Design Kids Lunch Box (auto-approved)",
-  "15:31:16 POSTED instagram@Vinzap-Finds 323d1336: 18442490437179357",
-  "15:31:21 POSTED facebook@Vinzap-Finds 323d1336: 1428352113685678_122118082491501659",
-  "15:31:27 POSTED facebook@Vijayendra-Singh 323d1336: 1317760538089559_122129164281480728",
-  "16:01:12 READY 473b1d5e Heart Shape Ice Cube Tray | Home Decor Ideas (auto-approved)",
-  "16:01:55 POSTED instagram@Vinzap-Finds 473b1d5e: 18195642694397584",
   "16:01:59 POSTED facebook@Vinzap-Finds 473b1d5e: 1418813203566638",
   "16:02:01 FAILED post facebook@Vijayendra-Singh 473b1d5e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevcZPeD3fz1e2InGU4JUq_e2yMQXgCjGoXX4oAqn7Q-iRcYwUrGtrjUXc0UQD68nQXtOojGdEhCaXZKLvczlAs1eXm5LjelIKhTB4XB7Cc7A6_MPmXTLUI-04wEGTqb1cGelxLWdJLEjpHi8u_T36NrfscOSJBCTn01t6AEjFFz-cMdH6qbhbjJ9za3Mm6wTgmvlTojIqyQp0RsB_fscPsOMOUYEAW_KCTy5c5V8wSjZw-D0Rd0Bhe_RVMDODV0dM-rlx-LUcUtY8knviNxsKOzeGpBMvfyYrQMVn2eRtZz5J15fYbffC6FDz-54VLhPu4L\",\"help_cent",
   "16:02:36 STORY POSTED instagram@Vinzap-Finds 473b1d5e",
@@ -5353,13 +5348,19 @@
   "20:01:23 POSTED facebook@Vinzap-Finds f4baad6d: 1483225680371516",
   "20:01:31 STORY POSTED facebook@Vinzap-Finds f4baad6d",
   "20:31:06 READY ebe60918 Stainless Steel Sink Caddy Organizer (auto-approved)",
-  "20:31:08 POSTED facebook@Vinzap-Finds ebe60918: 1428352113685678_122118638109501659"
+  "20:31:08 POSTED facebook@Vinzap-Finds ebe60918: 1428352113685678_122118638109501659",
+  "21:01:30 READY 5c904a6f Natural Wood Chopping Board | Home Essentials (auto-approved)",
+  "21:01:34 POSTED facebook@Vinzap-Finds 5c904a6f: 1667149278117208",
+  "21:01:38 POSTED facebook@Vijayendra-Singh 5c904a6f: 2441684803048461",
+  "21:01:45 POSTED youtube 5c904a6f: fGdz9B6t4_g",
+  "21:01:53 STORY POSTED facebook@Vinzap-Finds 5c904a6f",
+  "21:02:02 STORY POSTED facebook@Vijayendra-Singh 5c904a6f"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794754866.1297853,
-  "facebook@Vijayendra-Singh": 1794751264.9101145,
-  "youtube": 1794745468.6053965
+  "facebook@Vinzap-Finds": 1794756690.2548878,
+  "facebook@Vijayendra-Singh": 1794756690.2548878,
+  "youtube": 1794756690.2548878
  },
- "n": 596
+ "n": 597
 }
