@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "87acc485",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Caterpillar Self-Adhesive Wall Toothbrush",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Open-top caterpillar design",
-     "Self-adhesive pad",
-     "Use for toothbrushes"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Caterpillar Self-Adhesive Wall Toothbrush | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Caterpillar Self-Adhesive Wall Toothbrush"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nCaterpillar Self-Adhesive Wall Toothbrush\n✔ Open-top caterpillar design\n✔ Self-adhesive pad\n✔ Use for toothbrushes\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#kitchenorganization #cooking",
-   "title": "Caterpillar Self-Adhesive Wall Toothbrush",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794327343.2552943,
-     "id": "18028820291874271",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794327343.2552943,
-     "id": "1428352113685678_122117373543501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794327343.2552943,
-     "id": "1317760538089559_122128246095480728",
-     "dry": false
-    }
-   },
-   "created": 1794327340.85887,
-   "after": 0,
-   "handle": "plastic-caterpillar-shape-self-adhesive-wall-toothbrush-and-storage-holder-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/plastic-caterpillar-shape-self-adhesive-wall-toothbrush-and-storage-holder-1-pc",
-   "file": "87acc485.jpg",
-   "thumb": "87acc485.jpg"
-  },
-  {
    "id": "e9a959d3",
    "status": "scheduled",
    "kind": "reel",
@@ -5361,12 +5299,60 @@
      "id": "1455627756028650"
     }
    }
+  },
+  {
+   "id": "a786a91e",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Kitchen Sink Corner Filter Holder Compact",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Space-Saving Corner Design: Fits",
+     "Durable Plastic Build: Made from",
+     "Efficient Waste Management: Holds"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Kitchen Sink Corner Filter Holder Compact | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kitchen Sink Corner Filter Holder Compact"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nKitchen Sink Corner Filter Holder Compact\n✔ Space-Saving Corner Design: Fits\n✔ Durable Plastic Build: Made from\n✔ Efficient Waste Management: Holds\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Kitchen Sink Corner Filter Holder Compact",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794726074.923843,
+     "id": "1428352113685678_122118546513501659",
+     "dry": false
+    }
+   },
+   "created": 1794726059.6608481,
+   "after": 0,
+   "handle": "kitchen-sink-corner-filter-holder-compact-multipurpose-rack",
+   "product_url": "https://www.vinzapstore.in/products/kitchen-sink-corner-filter-holder-compact-multipurpose-rack",
+   "file": "a786a91e.jpg",
+   "thumb": "a786a91e.jpg"
   }
  ],
- "last_post": 1794724281.9627268,
+ "last_post": 1794726074.923843,
  "log": [
-  "21:31:56 POSTED instagram@Vinzap-Finds d53ec1d6: 18102679190417297",
-  "21:32:00 POSTED facebook@Vinzap-Finds d53ec1d6: 1428352113685678_122117892837501659",
   "21:32:03 POSTED facebook@Vijayendra-Singh d53ec1d6: 1317760538089559_122128925709480728",
   "22:01:18 READY 0282ea0e Manual Citrus Lemon Orange Squeezer | Kitchen Gadgets (auto-approved)",
   "22:01:53 POSTED instagram@Vinzap-Finds 0282ea0e: 17900976144681010",
@@ -5564,13 +5550,15 @@
   "12:01:33 POSTED facebook@Vijayendra-Singh f685ed2e: 1134860932627452",
   "12:01:37 POSTED youtube f685ed2e: Niy7ApjpiDM",
   "12:01:45 STORY POSTED facebook@Vinzap-Finds f685ed2e",
-  "12:01:53 STORY POSTED facebook@Vijayendra-Singh f685ed2e"
+  "12:01:53 STORY POSTED facebook@Vijayendra-Singh f685ed2e",
+  "12:31:14 READY a786a91e Kitchen Sink Corner Filter Holder Compact (auto-approved)",
+  "12:31:18 POSTED facebook@Vinzap-Finds a786a91e: 1428352113685678_122118546513501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794724281.9627268,
+  "facebook@Vinzap-Finds": 1794726074.923843,
   "facebook@Vijayendra-Singh": 1794724281.9627268,
   "youtube": 1794724281.9627268
  },
- "n": 579
+ "n": 580
 }
