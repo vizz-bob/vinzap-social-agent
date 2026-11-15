@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "eecda9d3",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Portable Electric Kettle 600ml Travel Water",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 5999,
-    "was": 0,
-    "feats": [
-     "Portable 600ml electric boiling",
-     "Multiple temperature settings (45",
-     "Heats water quickly for tea"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Portable Electric Kettle 600ml Travel Water | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Portable Electric Kettle 600ml Travel Water"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPortable Electric Kettle 600ml Travel Water\n✔ Portable 600ml electric boiling\n✔ Multiple temperature settings (45\n✔ Heats water quickly for tea\n\nOnly ₹5999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Portable Electric Kettle 600ml Travel Water",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794398453.9563851,
-     "id": "18115487285127795",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794398453.9563851,
-     "id": "1428352113685678_122117592375501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794398453.9563851,
-     "id": "1317760538089559_122128503105480728",
-     "dry": false
-    }
-   },
-   "created": 1794398452.108024,
-   "after": 0,
-   "handle": "portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/portable-electric-kettle-600ml-travel-water-boiler-bottle-with-temperature-control-1-pc",
-   "file": "eecda9d3.jpg",
-   "thumb": "eecda9d3.jpg"
-  },
-  {
    "id": "c4502c07",
    "status": "scheduled",
    "kind": "reel",
@@ -5190,13 +5128,64 @@
      "id": "1675878440860045"
     }
    }
+  },
+  {
+   "id": "c2aaa284",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Silicone Cooking Spatula 19cm",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Silicone Spatula for Baking, 1 PC"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Silicone Cooking Spatula 19cm | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Cooking Spatula 19cm"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSilicone Cooking Spatula 19cm\n✔ Silicone Spatula for Baking, 1 PC\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
+   "title": "Silicone Cooking Spatula 19cm",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794751264.9101145,
+     "id": "1428352113685678_122118627555501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794751264.9101145,
+     "id": "1317760538089559_122129865381480728",
+     "dry": false
+    }
+   },
+   "created": 1794751249.9678488,
+   "after": 0,
+   "handle": "silicone-cooking-spatula-for-baking-1-pc-19-cm",
+   "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-19-cm",
+   "file": "c2aaa284.jpg",
+   "thumb": "c2aaa284.jpg"
   }
  ],
- "last_post": 1794749296.0268674,
+ "last_post": 1794751264.9101145,
  "log": [
-  "14:32:11 POSTED facebook@Vijayendra-Singh 7ee6e7ba: 1317760538089559_122129144439480728",
-  "15:01:05 READY 3879107f Plastic Squeeze Sauce Bottle | Home Decor Ideas (auto-approved)",
-  "15:01:42 POSTED instagram@Vinzap-Finds 3879107f: 18221959207346280",
   "15:01:47 POSTED facebook@Vinzap-Finds 3879107f: 1437499111929618",
   "15:01:48 FAILED post facebook@Vijayendra-Singh 3879107f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuV7NN2MCZKgrsAPYtP2M0WcY9nSajnw6Vog-98ZaHKPBxGvFp0PUKY05vMBiDnUSkJdsF3rpaUtGYqUW-lftONISgUB2xXuZrntyH7n-T7a_WY-dKaTgDY7TJfzCmdTXv9Cnt8PuIXiPBHKGoNMPgD-bIQKZMA5bFuntRh2su9dn1o4mqAC-7B56-1fDjMjyepCPUqJcJo-cGnn7ppXWMPUtwO9oXEEbj8s9JymlRFdwzQa9_ww4WtvIvHLfYB-k_hLcpZET7uRMxlI9YRz2NnzJ4PThfDFttXk0W0oKrI8tpLF2X2o1FbR_oXtmg9nJS\",\"help_cent",
   "15:01:48 FAILED post youtube 3879107f: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
@@ -5393,13 +5382,16 @@
   "18:31:11 POSTED facebook@Vinzap-Finds 4ea6c994: 1428352113685678_122118608655501659",
   "18:58:16 READY 2989f792 Disposable Clear Plastic Gloves Large | Home Decor (auto-approved)",
   "18:58:21 POSTED facebook@Vinzap-Finds 2989f792: 1096010653469565",
-  "18:58:30 STORY POSTED facebook@Vinzap-Finds 2989f792"
+  "18:58:30 STORY POSTED facebook@Vinzap-Finds 2989f792",
+  "19:31:04 READY c2aaa284 Silicone Cooking Spatula 19cm (auto-approved)",
+  "19:31:08 POSTED facebook@Vinzap-Finds c2aaa284: 1428352113685678_122118627555501659",
+  "19:31:12 POSTED facebook@Vijayendra-Singh c2aaa284: 1317760538089559_122129865381480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794749296.0268674,
-  "facebook@Vijayendra-Singh": 1794745888.6053965,
+  "facebook@Vinzap-Finds": 1794751264.9101145,
+  "facebook@Vijayendra-Singh": 1794751264.9101145,
   "youtube": 1794745888.6053965
  },
- "n": 593
+ "n": 594
 }
