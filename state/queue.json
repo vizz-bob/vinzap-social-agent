@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "4955548c",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Glass Water Bottle 400ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Pure glass body keeps water fresh",
-     "Protective soft silicone sleeve",
-     "400ml capacity — ideal"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Glass Water Bottle 400ml | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Glass Water Bottle 400ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nGlass Water Bottle 400ml\n✔ Pure glass body keeps water fresh\n✔ Protective soft silicone sleeve\n✔ 400ml capacity — ideal\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#cooking #homedecor",
-   "title": "Glass Water Bottle 400ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794387666.543158,
-     "id": "18108940168980948",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794387666.543158,
-     "id": "1428352113685678_122117553441501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794387666.543158,
-     "id": "1317760538089559_122128443189480728",
-     "dry": false
-    }
-   },
-   "created": 1794387664.3547661,
-   "after": 0,
-   "handle": "400-ml-glass-water-bottle-with-silicone-sleeve-for-gym-office-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/400-ml-glass-water-bottle-with-silicone-sleeve-for-gym-office-1-pc",
-   "file": "4955548c.jpg",
-   "thumb": "4955548c.jpg"
-  },
-  {
    "id": "f1db50f5",
    "status": "scheduled",
    "kind": "reel",
@@ -5267,13 +5205,66 @@
      "id": "1677970814053149"
     }
    }
+  },
+  {
+   "id": "57396a35",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Oil and Juice Pourer Dispenser Bottle 1000ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 429,
+    "was": 0,
+    "feats": [
+     "Large Capacity : Approx 1000ml",
+     "Leakproof Sealed Gasket :",
+     "Food-Grade Transparent Body :"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Oil and Juice Pourer Dispenser Bottle 1000ml | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Oil and Juice Pourer Dispenser Bottle 1000ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nOil and Juice Pourer Dispenser Bottle 1000ml\n✔ Large Capacity : Approx 1000ml\n✔ Leakproof Sealed Gasket :\n✔ Food-Grade Transparent Body :\n\nOnly ₹429. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #kitchenorganization #cooking",
+   "title": "Oil and Juice Pourer Dispenser Bottle 1000ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794740496.4238005,
+     "id": "1428352113685678_122118585723501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794740496.4238005,
+     "id": "1317760538089559_122129815077480728",
+     "dry": false
+    }
+   },
+   "created": 1794740482.153456,
+   "after": 0,
+   "handle": "apex-jessy-oil-and-juice-pourer-dispenser-bottle-approx-1000ml-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-jessy-oil-and-juice-pourer-dispenser-bottle-approx-1000ml-1-pc",
+   "file": "57396a35.jpg",
+   "thumb": "57396a35.jpg"
   }
  ],
- "last_post": 1794738675.4919384,
+ "last_post": 1794740496.4238005,
  "log": [
-  "13:01:25 READY b7473ead Electric Barbecue Grill 2000W | Kitchen Organization (auto-approved)",
-  "13:02:02 POSTED instagram@Vinzap-Finds b7473ead: 18095270195693338",
-  "13:02:08 POSTED facebook@Vinzap-Finds b7473ead: 1003868028752164",
   "13:02:10 FAILED post facebook@Vijayendra-Singh b7473ead: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4ApA-8GgVdLgYGA5c7xJZe1egQexvhmbDWSkRro7gkwYl1fN2DrX2xzrRYWkDYpib_3L5ozuGMvijKXd86ciMZSELO3JO6SFWDCMfNfixk0te3hMu6eBbt_4mO9vKacQd5WLSLclS0AMZhhd5unVT89pXoJFppFN2h__w2CK4_xAJAF7jYHbik8HDXXSySZhClrOpi551vSsAjG08BT5CXOYJe92DTdTncSWYa7_wfyUlBkIemhCx-HcHqbe3W4VkHLKmuCFebi5EvHaLYiXzl1AUsRFUo4OvAdGJllgypJ2TDpu7CLn_rzs_9jxhswA\",\"help_cente",
   "13:02:46 STORY POSTED instagram@Vinzap-Finds b7473ead",
   "13:02:59 STORY POSTED facebook@Vinzap-Finds b7473ead",
@@ -5470,13 +5461,16 @@
   "15:31:19 POSTED facebook@Vinzap-Finds d34e5298: 1428352113685678_122118574899501659",
   "16:01:15 READY f5afab44 Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas (auto-approved)",
   "16:01:22 POSTED facebook@Vinzap-Finds f5afab44: 2945189795880061",
-  "16:01:31 STORY POSTED facebook@Vinzap-Finds f5afab44"
+  "16:01:31 STORY POSTED facebook@Vinzap-Finds f5afab44",
+  "16:31:36 READY 57396a35 Oil and Juice Pourer Dispenser Bottle 1000ml (auto-approved)",
+  "16:31:41 POSTED facebook@Vinzap-Finds 57396a35: 1428352113685678_122118585723501659",
+  "16:31:45 POSTED facebook@Vijayendra-Singh 57396a35: 1317760538089559_122129815077480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794738675.4919384,
-  "facebook@Vijayendra-Singh": 1794735099.933702,
+  "facebook@Vinzap-Finds": 1794740496.4238005,
+  "facebook@Vijayendra-Singh": 1794740496.4238005,
   "youtube": 1794735099.933702
  },
- "n": 587
+ "n": 588
 }
