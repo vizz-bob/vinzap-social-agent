@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "be292047",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Plastic Dessert Knife Set of 24",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Pack of 24 reusable plastic",
-     "Made from durable",
-     "Lightweight and easy to handle"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Reusable Plastic Dessert Knife Set of 24 | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Plastic Dessert Knife Set of 24"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Plastic Dessert Knife Set of 24\n✔ Pack of 24 reusable plastic\n✔ Made from durable\n✔ Lightweight and easy to handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Reusable Plastic Dessert Knife Set of 24 | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794393124.583908,
-     "id": "18193583731404364",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794393124.583908,
-     "id": "1165336323113453",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794393124.583908,
-     "id": "29597898646500548",
-     "dry": false
-    }
-   },
-   "created": 1794393097.8222203,
-   "after": 0,
-   "handle": "reusable-multicolor-plastic-dessert-knife-set-for-parties-24-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/reusable-multicolor-plastic-dessert-knife-set-for-parties-24-pc-set",
-   "file": "be292047.mp4",
-   "thumb": "be292047_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18092358578692382"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1157610706799326"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "2050413799000088"
-    }
-   }
-  },
-  {
    "id": "3823ba77",
    "status": "posted",
    "kind": "image",
@@ -5226,16 +5149,83 @@
    "product_url": "https://www.vinzapstore.in/products/ketchup-dispenser-mustard-bottle-gun-1-pc",
    "file": "bcb69854.jpg",
    "thumb": "bcb69854.jpg"
+  },
+  {
+   "id": "79e7deae",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Apple Cutter and Slicer,",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Sharp and efficient slicing",
+     "Built-in core remover for easy",
+     "Creates evenly sized slices"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Stainless Steel Apple Cutter and Slicer, | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Apple Cutter and Slicer,"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Apple Cutter and Slicer,\n✔ Sharp and efficient slicing\n✔ Built-in core remover for easy\n✔ Creates evenly sized slices\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Stainless Steel Apple Cutter and Slicer, | Kitchen Hacks",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794745888.6053965,
+     "id": "3050172065317861",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794745888.6053965,
+     "id": "2679930615795929",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794745888.6053965,
+     "id": "gcbb5tmgLtY",
+     "dry": false
+    }
+   },
+   "created": 1794745850.7107527,
+   "after": 0,
+   "handle": "heavy-duty-stainless-steel-apple-cutter-slicer-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/heavy-duty-stainless-steel-apple-cutter-slicer-1-pc",
+   "file": "79e7deae.mp4",
+   "thumb": "79e7deae_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3185037908370651"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2211098099758854"
+    }
+   }
   }
  ],
- "last_post": 1794744089.8421617,
+ "last_post": 1794745888.6053965,
  "log": [
-  "13:31:10 POSTED facebook@Vinzap-Finds 3c74b18b: 1428352113685678_122118050955501659",
-  "13:31:14 POSTED facebook@Vijayendra-Singh 3c74b18b: 1317760538089559_122129135193480728",
-  "14:01:30 READY 545fb0ae Kitchen Faucet Sprayer | Trending Shorts (auto-approved)",
-  "14:02:01 POSTED instagram@Vinzap-Finds 545fb0ae: 17977382541180429",
-  "14:02:08 POSTED facebook@Vinzap-Finds 545fb0ae: 1514824627413474",
-  "14:02:10 FAILED post facebook@Vijayendra-Singh 545fb0ae: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeumL1oPgpPn471DqNYgxB0g44PwKq12Dsirz1_yRCYV1qMkgEPdrY82jJYuasf0cNrGKY4h4GpYEua5xycv_oDJkUCegGEW68HU8Nbq4ypwAVLfyUiM-PJhF3Wz1RBWNnKSjew9s7dac-7UN9WJ3kvyfGp7fDANsrwKRH2ZA1UXx6oDL7-KO2NtgmFimL08PI-LeTfyulZZashON98Ctz7lYwbscwacHDrjJW1pLRB9Q0ARzF8774s7FOqH17ibLVBGfmJAcF6ZSN-2Jd6VMJA_7A972os848aRd3GXq6SpgthIzWUk7cc0akAWG01Dky8\",\"help_cente",
   "14:02:43 STORY POSTED instagram@Vinzap-Finds 545fb0ae",
   "14:02:54 STORY POSTED facebook@Vinzap-Finds 545fb0ae",
   "14:31:52 READY 7ee6e7ba Apex Everyday Plastic Glass Set of 6 (auto-approved)",
@@ -5429,13 +5419,19 @@
   "17:01:18 POSTED facebook@Vinzap-Finds f4b21173: 1177375914666720",
   "17:01:30 STORY POSTED facebook@Vinzap-Finds f4b21173",
   "17:31:29 READY bcb69854 Ketchup and Mustard Dispenser Bottle Gun (auto-approved)",
-  "17:31:32 POSTED facebook@Vinzap-Finds bcb69854: 1428352113685678_122118596541501659"
+  "17:31:32 POSTED facebook@Vinzap-Finds bcb69854: 1428352113685678_122118596541501659",
+  "18:01:28 READY 79e7deae Stainless Steel Apple Cutter and Slicer, | Kitchen Hacks (auto-approved)",
+  "18:01:33 POSTED facebook@Vinzap-Finds 79e7deae: 3050172065317861",
+  "18:01:37 POSTED facebook@Vijayendra-Singh 79e7deae: 2679930615795929",
+  "18:01:41 POSTED youtube 79e7deae: gcbb5tmgLtY",
+  "18:01:49 STORY POSTED facebook@Vinzap-Finds 79e7deae",
+  "18:01:57 STORY POSTED facebook@Vijayendra-Singh 79e7deae"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794744089.8421617,
-  "facebook@Vijayendra-Singh": 1794740496.4238005,
-  "youtube": 1794734679.933702
+  "facebook@Vinzap-Finds": 1794745888.6053965,
+  "facebook@Vijayendra-Singh": 1794745888.6053965,
+  "youtube": 1794745888.6053965
  },
- "n": 590
+ "n": 591
 }
