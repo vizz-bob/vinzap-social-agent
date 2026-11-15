@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "bd95a5fc",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Skull Shape Ice Cube Tray 8 Grid",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "8 grid design makes multiple",
-     "Fun skull shape adds a cool",
-     "Flexible base makes it easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Skull Shape Ice Cube Tray 8 Grid | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Skull Shape Ice Cube Tray 8 Grid"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSkull Shape Ice Cube Tray 8 Grid\n✔ 8 grid design makes multiple\n✔ Fun skull shape adds a cool\n✔ Flexible base makes it easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Skull Shape Ice Cube Tray 8 Grid",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794416310.883885,
-     "id": "18113696513071444",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794416310.883885,
-     "id": "1428352113685678_122117651187501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794416310.883885,
-     "id": "1317760538089559_122128583121480728",
-     "dry": false
-    }
-   },
-   "created": 1794416308.82264,
-   "after": 0,
-   "handle": "plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
-   "file": "bd95a5fc.jpg",
-   "thumb": "bd95a5fc.jpg"
-  },
-  {
    "id": "a5c8f2b4",
    "status": "scheduled",
    "kind": "reel",
@@ -5151,12 +5089,60 @@
      "id": "1151391934017535"
     }
    }
+  },
+  {
+   "id": "d4ab8929",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel House Shape Cookie Cutter",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "3 Pc mix design set",
+     "Stainless steel body",
+     "Creates clean and sharp cookie"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Stainless Steel House Shape Cookie Cutter | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel House Shape Cookie Cutter"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel House Shape Cookie Cutter\n✔ 3 Pc mix design set\n✔ Stainless steel body\n✔ Creates clean and sharp cookie\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Stainless Steel House Shape Cookie Cutter",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794758491.2727683,
+     "id": "1428352113685678_122118650091501659",
+     "dry": false
+    }
+   },
+   "created": 1794758477.0585191,
+   "after": 0,
+   "handle": "stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
+   "file": "d4ab8929.jpg",
+   "thumb": "d4ab8929.jpg"
   }
  ],
- "last_post": 1794756690.2548878,
+ "last_post": 1794758491.2727683,
  "log": [
-  "16:01:59 POSTED facebook@Vinzap-Finds 473b1d5e: 1418813203566638",
-  "16:02:01 FAILED post facebook@Vijayendra-Singh 473b1d5e: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevcZPeD3fz1e2InGU4JUq_e2yMQXgCjGoXX4oAqn7Q-iRcYwUrGtrjUXc0UQD68nQXtOojGdEhCaXZKLvczlAs1eXm5LjelIKhTB4XB7Cc7A6_MPmXTLUI-04wEGTqb1cGelxLWdJLEjpHi8u_T36NrfscOSJBCTn01t6AEjFFz-cMdH6qbhbjJ9za3Mm6wTgmvlTojIqyQp0RsB_fscPsOMOUYEAW_KCTy5c5V8wSjZw-D0Rd0Bhe_RVMDODV0dM-rlx-LUcUtY8knviNxsKOzeGpBMvfyYrQMVn2eRtZz5J15fYbffC6FDz-54VLhPu4L\",\"help_cent",
   "16:02:36 STORY POSTED instagram@Vinzap-Finds 473b1d5e",
   "16:02:50 STORY POSTED facebook@Vinzap-Finds 473b1d5e",
   "16:31:13 READY 4629fe00 Fish Scaler Scraper (auto-approved)",
@@ -5354,13 +5340,15 @@
   "21:01:38 POSTED facebook@Vijayendra-Singh 5c904a6f: 2441684803048461",
   "21:01:45 POSTED youtube 5c904a6f: fGdz9B6t4_g",
   "21:01:53 STORY POSTED facebook@Vinzap-Finds 5c904a6f",
-  "21:02:02 STORY POSTED facebook@Vijayendra-Singh 5c904a6f"
+  "21:02:02 STORY POSTED facebook@Vijayendra-Singh 5c904a6f",
+  "21:31:31 READY d4ab8929 Stainless Steel House Shape Cookie Cutter (auto-approved)",
+  "21:31:34 POSTED facebook@Vinzap-Finds d4ab8929: 1428352113685678_122118650091501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794756690.2548878,
+  "facebook@Vinzap-Finds": 1794758491.2727683,
   "facebook@Vijayendra-Singh": 1794756690.2548878,
   "youtube": 1794756690.2548878
  },
- "n": 597
+ "n": 598
 }
