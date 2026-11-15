@@ -1,86 +1,6 @@
 {
  "items": [
   {
-   "id": "f1db50f5",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Knife Sharpening Stone Silicon Carbide",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 249,
-    "was": 0,
-    "feats": [
-     "Combination Sharpening Stone –"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Knife Sharpening Stone Silicon Carbide | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Knife Sharpening Stone Silicon Carbide"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKnife Sharpening Stone Silicon Carbide\n✔ Combination Sharpening Stone –\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Knife Sharpening Stone Silicon Carbide | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794389471.5310163,
-     "id": "18033228110685256",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794389471.5310163,
-     "id": "1160171910289642",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794389471.5310163,
-     "id": "4180700368889060",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794389471.5310163,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794389445.775087,
-   "after": 0,
-   "handle": "combination-knife-sharpening-stone-silicon-carbide-whetstone-b-grade-1-pc-1",
-   "product_url": "https://www.vinzapstore.in/products/combination-knife-sharpening-stone-silicon-carbide-whetstone-b-grade-1-pc-1",
-   "file": "f1db50f5.mp4",
-   "thumb": "f1db50f5_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18120047078326455"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1117790031018658"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1169213372332808"
-    }
-   }
-  },
-  {
    "id": "1fc5fc13",
    "status": "posted",
    "kind": "image",
@@ -5261,13 +5181,67 @@
    "product_url": "https://www.vinzapstore.in/products/apex-jessy-oil-and-juice-pourer-dispenser-bottle-approx-1000ml-1-pc",
    "file": "57396a35.jpg",
    "thumb": "57396a35.jpg"
+  },
+  {
+   "id": "f4b21173",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Tea Strainer Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 269,
+    "was": 0,
+    "feats": [
+     "3 piece tea strainer set",
+     "Fine mesh design for effective",
+     "Durable stainless steel"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel Tea Strainer Set | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Tea Strainer Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Tea Strainer Set\n✔ 3 piece tea strainer set\n✔ Fine mesh design for effective\n✔ Durable stainless steel\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
+   "title": "Stainless Steel Tea Strainer Set | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794742274.2680364,
+     "id": "1177375914666720",
+     "dry": false
+    }
+   },
+   "created": 1794742245.8327606,
+   "after": 0,
+   "handle": "stainless-steel-tea-strainer-3-piece-set",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-tea-strainer-3-piece-set",
+   "file": "f4b21173.mp4",
+   "thumb": "f4b21173_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1717422446573344"
+    }
+   }
   }
  ],
- "last_post": 1794740496.4238005,
+ "last_post": 1794742274.2680364,
  "log": [
-  "13:02:10 FAILED post facebook@Vijayendra-Singh b7473ead: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4ApA-8GgVdLgYGA5c7xJZe1egQexvhmbDWSkRro7gkwYl1fN2DrX2xzrRYWkDYpib_3L5ozuGMvijKXd86ciMZSELO3JO6SFWDCMfNfixk0te3hMu6eBbt_4mO9vKacQd5WLSLclS0AMZhhd5unVT89pXoJFppFN2h__w2CK4_xAJAF7jYHbik8HDXXSySZhClrOpi551vSsAjG08BT5CXOYJe92DTdTncSWYa7_wfyUlBkIemhCx-HcHqbe3W4VkHLKmuCFebi5EvHaLYiXzl1AUsRFUo4OvAdGJllgypJ2TDpu7CLn_rzs_9jxhswA\",\"help_cente",
-  "13:02:46 STORY POSTED instagram@Vinzap-Finds b7473ead",
-  "13:02:59 STORY POSTED facebook@Vinzap-Finds b7473ead",
   "13:30:56 READY 3c74b18b Portable Foldable Rotating Clothes Hanger (auto-approved)",
   "13:31:06 POSTED instagram@Vinzap-Finds 3c74b18b: 18654016240052662",
   "13:31:10 POSTED facebook@Vinzap-Finds 3c74b18b: 1428352113685678_122118050955501659",
@@ -5464,13 +5438,16 @@
   "16:01:31 STORY POSTED facebook@Vinzap-Finds f5afab44",
   "16:31:36 READY 57396a35 Oil and Juice Pourer Dispenser Bottle 1000ml (auto-approved)",
   "16:31:41 POSTED facebook@Vinzap-Finds 57396a35: 1428352113685678_122118585723501659",
-  "16:31:45 POSTED facebook@Vijayendra-Singh 57396a35: 1317760538089559_122129815077480728"
+  "16:31:45 POSTED facebook@Vijayendra-Singh 57396a35: 1317760538089559_122129815077480728",
+  "17:01:14 READY f4b21173 Stainless Steel Tea Strainer Set | Kitchen Gadgets (auto-approved)",
+  "17:01:18 POSTED facebook@Vinzap-Finds f4b21173: 1177375914666720",
+  "17:01:30 STORY POSTED facebook@Vinzap-Finds f4b21173"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794740496.4238005,
+  "facebook@Vinzap-Finds": 1794742274.2680364,
   "facebook@Vijayendra-Singh": 1794740496.4238005,
   "youtube": 1794735099.933702
  },
- "n": 588
+ "n": 589
 }
