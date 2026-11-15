@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "a5c8f2b4",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Knife Organizer Stand",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "SPACE SAVING: The angled slots",
-     "ORGANIZATION: The space saving",
-     "NON-SLIP: The organizer has"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Plastic Knife Organizer Stand | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Knife Organizer Stand"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Knife Organizer Stand\n✔ SPACE SAVING: The angled slots\n✔ ORGANIZATION: The space saving\n✔ NON-SLIP: The organizer has\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Plastic Knife Organizer Stand | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794465085.4044993,
-     "id": "17915103126488729",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794465085.4044993,
-     "id": "2343080539878647",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794465085.4044993,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGb9x_OzWnG1MyqPWyU9fjXn"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794465085.4044993,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794465058.7798665,
-   "after": 0,
-   "handle": "5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
-   "product_url": "https://www.vinzapstore.in/products/5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
-   "file": "a5c8f2b4.mp4",
-   "thumb": "a5c8f2b4_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17955311982291174"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1668442274863960"
-    }
-   }
-  },
-  {
    "id": "5fd81854",
    "status": "posted",
    "kind": "image",
@@ -5139,13 +5062,67 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-house-shape-cookie-cutter-set-3-pc-mix-design-set",
    "file": "d4ab8929.jpg",
    "thumb": "d4ab8929.jpg"
+  },
+  {
+   "id": "efacf82d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Air Fryer Skewer Stand Stainless Steel",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Vertical skewer stand design lets",
+     "Durable stainless steel",
+     "Fits inside most air fryers"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Air Fryer Skewer Stand Stainless Steel | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Air Fryer Skewer Stand Stainless Steel"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nAir Fryer Skewer Stand Stainless Steel\n✔ Vertical skewer stand design lets\n✔ Durable stainless steel\n✔ Fits inside most air fryers\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Air Fryer Skewer Stand Stainless Steel | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794760305.3698094,
+     "id": "1454349686159498",
+     "dry": false
+    }
+   },
+   "created": 1794760273.060764,
+   "after": 0,
+   "handle": "air-fryer-skewer-stand-stainless-steel-bbq-kebab-rack-holder-1-set",
+   "product_url": "https://www.vinzapstore.in/products/air-fryer-skewer-stand-stainless-steel-bbq-kebab-rack-holder-1-set",
+   "file": "efacf82d.mp4",
+   "thumb": "efacf82d_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1753150842451887"
+    }
+   }
   }
  ],
- "last_post": 1794758491.2727683,
+ "last_post": 1794760305.3698094,
  "log": [
-  "16:02:36 STORY POSTED instagram@Vinzap-Finds 473b1d5e",
-  "16:02:50 STORY POSTED facebook@Vinzap-Finds 473b1d5e",
-  "16:31:13 READY 4629fe00 Fish Scaler Scraper (auto-approved)",
   "16:31:24 POSTED instagram@Vinzap-Finds 4629fe00: 17886758472547989",
   "16:31:26 POSTED facebook@Vinzap-Finds 4629fe00: 1428352113685678_122118091155501659",
   "16:31:30 POSTED facebook@Vijayendra-Singh 4629fe00: 1317760538089559_122129176353480728",
@@ -5342,13 +5319,16 @@
   "21:01:53 STORY POSTED facebook@Vinzap-Finds 5c904a6f",
   "21:02:02 STORY POSTED facebook@Vijayendra-Singh 5c904a6f",
   "21:31:31 READY d4ab8929 Stainless Steel House Shape Cookie Cutter (auto-approved)",
-  "21:31:34 POSTED facebook@Vinzap-Finds d4ab8929: 1428352113685678_122118650091501659"
+  "21:31:34 POSTED facebook@Vinzap-Finds d4ab8929: 1428352113685678_122118650091501659",
+  "22:01:45 READY efacf82d Air Fryer Skewer Stand Stainless Steel | Home Essentials (auto-approved)",
+  "22:01:51 POSTED facebook@Vinzap-Finds efacf82d: 1454349686159498",
+  "22:02:02 STORY POSTED facebook@Vinzap-Finds efacf82d"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794758491.2727683,
+  "facebook@Vinzap-Finds": 1794760305.3698094,
   "facebook@Vijayendra-Singh": 1794756690.2548878,
   "youtube": 1794756690.2548878
  },
- "n": 598
+ "n": 599
 }
