@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "df8d32b5",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Round Ice Ball Maker Tray, 2-in-1 Portable,",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 899,
-    "was": 0,
-    "feats": [
-     "2 in 1 Function: Our ice cube",
-     "SAFE: The ice cube mold is made",
-     "Suitable for multiple scenarios:"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Round Ice Ball Maker Tray, 2-in-1 Portable, | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Round Ice Ball Maker Tray, 2-in-1 Portable,"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nRound Ice Ball Maker Tray, 2-in-1 Portable,\n✔ 2 in 1 Function: Our ice cube\n✔ SAFE: The ice cube mold is made\n✔ Suitable for multiple scenarios:\n\nOnly ₹899. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Round Ice Ball Maker Tray, 2-in-1 Portable, | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794325659.3382738,
-     "id": "18414426691090711",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794325659.3382738,
-     "id": "1678352366969650",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794325659.3382738,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetFOpLjsGRHyYaGx5aEP2yMty"
-    }
-   },
-   "created": 1794325638.1086023,
-   "after": 0,
-   "handle": "ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
-   "file": "df8d32b5.mp4",
-   "thumb": "df8d32b5_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18144668320613160"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1149783720747037"
-    }
-   }
-  },
-  {
    "id": "87acc485",
    "status": "posted",
    "kind": "image",
@@ -5362,16 +5290,81 @@
    "product_url": "https://www.vinzapstore.in/products/microfiber-wash-basin-hanging-hand-kitchen-towel-napkin-with-loop",
    "file": "8133ebd4.jpg",
    "thumb": "8133ebd4.jpg"
+  },
+  {
+   "id": "f685ed2e",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Silicone Moisturizing Feet Socks Gel, 1 Pair",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 329,
+    "was": 0,
+    "feats": [
+     "Everyday home essential"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Silicone Moisturizing Feet Socks Gel, 1 Pair | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Moisturizing Feet Socks Gel, 1 Pair"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSilicone Moisturizing Feet Socks Gel, 1 Pair\n✔ Everyday home essential\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Silicone Moisturizing Feet Socks Gel, 1 Pair | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794724281.9627268,
+     "id": "2529900880830215",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794724281.9627268,
+     "id": "1134860932627452",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794724281.9627268,
+     "id": "Niy7ApjpiDM",
+     "dry": false
+    }
+   },
+   "created": 1794724253.5747058,
+   "after": 0,
+   "handle": "503-silicone-moisturizing-feet-socks-gel-1-pair",
+   "product_url": "https://www.vinzapstore.in/products/503-silicone-moisturizing-feet-socks-gel-1-pair",
+   "file": "f685ed2e.mp4",
+   "thumb": "f685ed2e_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1139979912360777"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1455627756028650"
+    }
+   }
   }
  ],
- "last_post": 1794675688.2272823,
+ "last_post": 1794724281.9627268,
  "log": [
-  "21:02:36 POSTED facebook@Vinzap-Finds bb507b2d: 1142650834822899",
-  "21:02:38 FAILED post facebook@Vijayendra-Singh bb507b2d: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetK_refyYq7-Yv13pSFDsYPOWJggEKKbWTE8EkXFdpik8koJlraYMEmzjlTYvSQk9gdNHuOX873QVQxlyLu2d9D2LWG15z_y312GQcG1O93yivgbxPY8rv32WGlOLP9ACcTE6hilIGYtN7h49thIzwrzUIpMgP9adLA2cZR_nn06ku9FkCYmxm8O5oYSlcC_CWYTGf1P9pJVuPClHqrmkHbkuBrn8DvZ7Cp7Buzpuo0GzhGpmFpg_R_V4aQbf8RPbGv2UjRt7H9fheS05CpSTFcpH_Jq2ZipRupeMYuXzt6r_FiLKmEVuXbwGPUdje1qFA\",\"help_cente",
-  "21:02:38 FAILED post youtube bb507b2d: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "21:03:11 STORY POSTED instagram@Vinzap-Finds bb507b2d",
-  "21:03:25 STORY POSTED facebook@Vinzap-Finds bb507b2d",
-  "21:31:45 READY d53ec1d6 Cooking Essentials Combo (auto-approved)",
   "21:31:56 POSTED instagram@Vinzap-Finds d53ec1d6: 18102679190417297",
   "21:32:00 POSTED facebook@Vinzap-Finds d53ec1d6: 1428352113685678_122117892837501659",
   "21:32:03 POSTED facebook@Vijayendra-Singh d53ec1d6: 1317760538089559_122128925709480728",
@@ -5565,13 +5558,19 @@
   "22:05:23 POSTED youtube e66937a2: 4KKa0KVK-aM",
   "22:05:32 STORY POSTED facebook@Vinzap-Finds e66937a2",
   "22:31:28 READY 8133ebd4 Microfiber Hanging Hand Towel (auto-approved)",
-  "22:31:31 POSTED facebook@Vinzap-Finds 8133ebd4: 1428352113685678_122118412113501659"
+  "22:31:31 POSTED facebook@Vinzap-Finds 8133ebd4: 1428352113685678_122118412113501659",
+  "12:01:21 READY f685ed2e Silicone Moisturizing Feet Socks Gel, 1 Pair | Home Essentials (auto-approved)",
+  "12:01:26 POSTED facebook@Vinzap-Finds f685ed2e: 2529900880830215",
+  "12:01:33 POSTED facebook@Vijayendra-Singh f685ed2e: 1134860932627452",
+  "12:01:37 POSTED youtube f685ed2e: Niy7ApjpiDM",
+  "12:01:45 STORY POSTED facebook@Vinzap-Finds f685ed2e",
+  "12:01:53 STORY POSTED facebook@Vijayendra-Singh f685ed2e"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794675688.2272823,
-  "facebook@Vijayendra-Singh": 1794672661.263604,
-  "youtube": 1794674111.2975914
+  "facebook@Vinzap-Finds": 1794724281.9627268,
+  "facebook@Vijayendra-Singh": 1794724281.9627268,
+  "youtube": 1794724281.9627268
  },
- "n": 578
+ "n": 579
 }
