@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "c4502c07",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Wire Skimmer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 189,
-    "was": 0,
-    "feats": [
-     "Fine stainless steel wire mesh",
-     "Strong metal frame for durability",
-     "Wooden handle for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Stainless Steel Wire Skimmer | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Wire Skimmer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Wire Skimmer\n✔ Fine stainless steel wire mesh\n✔ Strong metal frame for durability\n✔ Wooden handle for comfortable\n\nOnly ₹189. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Stainless Steel Wire Skimmer | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794400278.2261457,
-     "id": "17920675830466635",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794400278.2261457,
-     "id": "3279151118952970",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794400278.2261457,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevUpDH_SCtH2oUfaOS18x4LHA"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794400278.2261457,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794400253.3321517,
-   "after": 0,
-   "handle": "stainless-steel-wire-skimmer-with-wooden-handle-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-wire-skimmer-with-wooden-handle-1-pc",
-   "file": "c4502c07.mp4",
-   "thumb": "c4502c07_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17877224475593905"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1750259129404102"
-    }
-   }
-  },
-  {
    "id": "17138954",
    "status": "posted",
    "kind": "image",
@@ -5182,13 +5105,67 @@
    "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-19-cm",
    "file": "c2aaa284.jpg",
    "thumb": "c2aaa284.jpg"
+  },
+  {
+   "id": "f4baad6d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Green Tea Strainer",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 109,
+    "was": 0,
+    "feats": [
+     "High-Quality Wire Mesh : Fine",
+     "Ergonomic Plastic Handle :",
+     "Compact and Lightweight : Easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Green Tea Strainer | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Green Tea Strainer"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nGreen Tea Strainer\n✔ High-Quality Wire Mesh : Fine\n✔ Ergonomic Plastic Handle :\n✔ Compact and Lightweight : Easy\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
+   "title": "Green Tea Strainer | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794753079.20795,
+     "id": "1483225680371516",
+     "dry": false
+    }
+   },
+   "created": 1794753045.424119,
+   "after": 0,
+   "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
+   "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
+   "file": "f4baad6d.mp4",
+   "thumb": "f4baad6d_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1702398811516767"
+    }
+   }
   }
  ],
- "last_post": 1794751264.9101145,
+ "last_post": 1794753079.20795,
  "log": [
-  "15:01:47 POSTED facebook@Vinzap-Finds 3879107f: 1437499111929618",
-  "15:01:48 FAILED post facebook@Vijayendra-Singh 3879107f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuV7NN2MCZKgrsAPYtP2M0WcY9nSajnw6Vog-98ZaHKPBxGvFp0PUKY05vMBiDnUSkJdsF3rpaUtGYqUW-lftONISgUB2xXuZrntyH7n-T7a_WY-dKaTgDY7TJfzCmdTXv9Cnt8PuIXiPBHKGoNMPgD-bIQKZMA5bFuntRh2su9dn1o4mqAC-7B56-1fDjMjyepCPUqJcJo-cGnn7ppXWMPUtwO9oXEEbj8s9JymlRFdwzQa9_ww4WtvIvHLfYB-k_hLcpZET7uRMxlI9YRz2NnzJ4PThfDFttXk0W0oKrI8tpLF2X2o1FbR_oXtmg9nJS\",\"help_cent",
-  "15:01:48 FAILED post youtube 3879107f: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "15:02:17 STORY POSTED instagram@Vinzap-Finds 3879107f",
   "15:02:26 STORY POSTED facebook@Vinzap-Finds 3879107f",
   "15:31:02 READY 323d1336 Panda Design Kids Lunch Box (auto-approved)",
@@ -5385,13 +5362,16 @@
   "18:58:30 STORY POSTED facebook@Vinzap-Finds 2989f792",
   "19:31:04 READY c2aaa284 Silicone Cooking Spatula 19cm (auto-approved)",
   "19:31:08 POSTED facebook@Vinzap-Finds c2aaa284: 1428352113685678_122118627555501659",
-  "19:31:12 POSTED facebook@Vijayendra-Singh c2aaa284: 1317760538089559_122129865381480728"
+  "19:31:12 POSTED facebook@Vijayendra-Singh c2aaa284: 1317760538089559_122129865381480728",
+  "20:01:19 READY f4baad6d Green Tea Strainer | Kitchen Gadgets (auto-approved)",
+  "20:01:23 POSTED facebook@Vinzap-Finds f4baad6d: 1483225680371516",
+  "20:01:31 STORY POSTED facebook@Vinzap-Finds f4baad6d"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794751264.9101145,
+  "facebook@Vinzap-Finds": 1794753079.20795,
   "facebook@Vijayendra-Singh": 1794751264.9101145,
   "youtube": 1794745888.6053965
  },
- "n": 594
+ "n": 595
 }
