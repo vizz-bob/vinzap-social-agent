@@ -1,81 +1,6 @@
 {
  "items": [
   {
-   "id": "bb507b2d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Lollipop Candy Maker Machine, Red",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Lollipop Candy Maker and Lollipop"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Lollipop Candy Maker Machine, Red | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Lollipop Candy Maker Machine, Red"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLollipop Candy Maker Machine, Red\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Lollipop Candy Maker Machine, Red | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794497507.333471,
-     "id": "18110215748203632",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794497507.333471,
-     "id": "1142650834822899",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794497507.333471,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetK_refyYq7-Yv13pSFDsYPOW"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794497507.333471,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794497480.45531,
-   "after": 0,
-   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-red",
-   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-red",
-   "file": "bb507b2d.mp4",
-   "thumb": "bb507b2d_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18377887744210289"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1777518340026458"
-    }
-   }
-  },
-  {
    "id": "d53ec1d6",
    "status": "posted",
    "kind": "image",
@@ -4931,13 +4856,67 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
    "file": "3de62b66.jpg",
    "thumb": "3de62b66.jpg"
+  },
+  {
+   "id": "a6e7778a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Kids Tumbler 900ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 349,
+    "was": 0,
+    "feats": [
+     "Large 900ml capacity holds plenty",
+     "Comes with a secure flip lid",
+     "Comfortable side handle gives"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Kids Tumbler 900ml | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kids Tumbler 900ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nKids Tumbler 900ml\n✔ Large 900ml capacity holds plenty\n✔ Comes with a secure flip lid\n✔ Comfortable side handle gives\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #homedecor #homedecorideas",
+   "title": "Kids Tumbler 900ml | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794839480.6043515,
+     "id": "1706449567506486",
+     "dry": false
+    }
+   },
+   "created": 1794839446.9629776,
+   "after": 0,
+   "handle": "kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
+   "file": "a6e7778a.mp4",
+   "thumb": "a6e7778a_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1459478632996498"
+    }
+   }
   }
  ],
- "last_post": 1794837663.4237945,
+ "last_post": 1794839480.6043515,
  "log": [
-  "21:02:41 STORY FAILED facebook@Vijayendra-Singh acd9eb0b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from",
-  "21:30:56 READY 96e0cae8 Large Travel Tumbler 1800ml (auto-approved)",
-  "21:31:08 POSTED instagram@Vinzap-Finds 96e0cae8: 17991276000118944",
   "21:31:12 POSTED facebook@Vinzap-Finds 96e0cae8: 1428352113685678_122118148113501659",
   "21:31:15 POSTED facebook@Vijayendra-Singh 96e0cae8: 1317760538089559_122129267583480728",
   "22:01:48 READY 715f82d5 Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization (auto-approved)",
@@ -5134,13 +5113,16 @@
   "19:01:40 STORY POSTED facebook@Vinzap-Finds 7dbda4b7",
   "19:31:03 READY 3de62b66 Stainless Steel Chopping Board (auto-approved)",
   "19:31:07 POSTED facebook@Vinzap-Finds 3de62b66: 1428352113685678_122118859395501659",
-  "19:31:12 POSTED facebook@Vijayendra-Singh 3de62b66: 1317760538089559_122130185799480728"
+  "19:31:12 POSTED facebook@Vijayendra-Singh 3de62b66: 1317760538089559_122130185799480728",
+  "20:01:20 READY a6e7778a Kids Tumbler 900ml | Home Decor (auto-approved)",
+  "20:01:27 POSTED facebook@Vinzap-Finds a6e7778a: 1706449567506486",
+  "20:01:37 STORY POSTED facebook@Vinzap-Finds a6e7778a"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794837663.4237945,
+  "facebook@Vinzap-Finds": 1794839480.6043515,
   "facebook@Vijayendra-Singh": 1794837663.4237945,
   "youtube": 1794832270.6826403
  },
- "n": 616
+ "n": 617
 }
