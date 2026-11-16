@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "ab58cf6b",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Supermom Multipurpose Triangular Kitchen",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 599,
-    "was": 0,
-    "feats": [
-     "Multipurpose: vegetables",
-     "Evenly spaced drainage holes",
-     "Handle for a firm grip when"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Supermom Multipurpose Triangular Kitchen | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Multipurpose Triangular Kitchen"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSupermom Multipurpose Triangular Kitchen\n✔ Multipurpose: vegetables\n✔ Evenly spaced drainage holes\n✔ Handle for a firm grip when\n\nOnly ₹599. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Supermom Multipurpose Triangular Kitchen | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794486662.1313984,
-     "id": "18114355361600266",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794486662.1313984,
-     "id": "1134521012741434",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794486662.1313984,
-     "id": "1145661914712172",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794486662.1313984,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794486645.3249035,
-   "after": 0,
-   "handle": "supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-multipurpose-triangular-kitchen-colander-1-pc",
-   "file": "ab58cf6b.mp4",
-   "thumb": "ab58cf6b_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18109083665570710"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2625650981228166"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "973818908725522"
-    }
-   }
-  },
-  {
    "id": "a33dfe01",
    "status": "posted",
    "kind": "image",
@@ -5014,13 +4932,65 @@
    "product_url": "https://www.vinzapstore.in/products/vegnar-4-compartment-disposable-food-serving-plate-set-10-pc",
    "file": "e27bfbd4.jpg",
    "thumb": "e27bfbd4.jpg"
+  },
+  {
+   "id": "4dd8697f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Lollipop Candy Maker Machine, Blue",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Lollipop Candy Maker and Lollipop"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Lollipop Candy Maker Machine, Blue | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Lollipop Candy Maker Machine, Blue"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nLollipop Candy Maker Machine, Blue\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Lollipop Candy Maker Machine, Blue | Kitchen Hacks",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794828689.3612242,
+     "id": "1542294124586783",
+     "dry": false
+    }
+   },
+   "created": 1794828655.8441799,
+   "after": 0,
+   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-blue",
+   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-blue",
+   "file": "4dd8697f.mp4",
+   "thumb": "4dd8697f_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2354013778746396"
+    }
+   }
   }
  ],
- "last_post": 1794826894.0110207,
+ "last_post": 1794828689.3612242,
  "log": [
-  "19:28:09 POSTED facebook@Vijayendra-Singh 2db9a4c8: 1317760538089559_122129230485480728",
-  "20:01:05 READY 519e5470 Multifunction Melon Baller and Fruit Cutter | Kitchen Organization (auto-approved)",
-  "20:01:37 POSTED instagram@Vinzap-Finds 519e5470: 18202489987387938",
   "20:01:41 POSTED facebook@Vinzap-Finds 519e5470: 1784556689422308",
   "20:01:45 POSTED facebook@Vijayendra-Singh 519e5470: 1688631382673096",
   "20:02:15 STORY POSTED instagram@Vinzap-Finds 519e5470",
@@ -5217,13 +5187,16 @@
   "16:02:00 STORY POSTED facebook@Vinzap-Finds 0fd8b96d",
   "16:31:34 READY e27bfbd4 Disposable 4 Compartment Serving Plates (auto-approved)",
   "16:31:38 POSTED facebook@Vinzap-Finds e27bfbd4: 1428352113685678_122118818721501659",
-  "16:31:41 POSTED facebook@Vijayendra-Singh e27bfbd4: 1317760538089559_122130141825480728"
+  "16:31:41 POSTED facebook@Vijayendra-Singh e27bfbd4: 1317760538089559_122130141825480728",
+  "17:01:29 READY 4dd8697f Lollipop Candy Maker Machine, Blue | Kitchen Hacks (auto-approved)",
+  "17:01:35 POSTED facebook@Vinzap-Finds 4dd8697f: 1542294124586783",
+  "17:01:48 STORY POSTED facebook@Vinzap-Finds 4dd8697f"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794826894.0110207,
+  "facebook@Vinzap-Finds": 1794828689.3612242,
   "facebook@Vijayendra-Singh": 1794826894.0110207,
   "youtube": 1794821505.9545598
  },
- "n": 610
+ "n": 611
 }
