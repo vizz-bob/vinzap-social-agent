@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "18588319",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Square Ice Cube Mould Set of 4",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Set of 4 moulds with snap-on lids",
-     "One large square cube per mould",
-     "Lids keep freezer smells out"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Square Ice Cube Mould Set of 4 | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Square Ice Cube Mould Set of 4"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSquare Ice Cube Mould Set of 4\n✔ Set of 4 moulds with snap-on lids\n✔ One large square cube per mould\n✔ Lids keep freezer smells out\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Square Ice Cube Mould Set of 4",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794502858.5341375,
-     "id": "18109722059204271",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794502858.5341375,
-     "id": "1428352113685678_122117904675501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794502858.5341375,
-     "id": "1317760538089559_122128936899480728",
-     "dry": false
-    }
-   },
-   "created": 1794502856.1377945,
-   "after": 0,
-   "handle": "square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
-   "product_url": "https://www.vinzapstore.in/products/square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
-   "file": "18588319.jpg",
-   "thumb": "18588319.jpg"
-  },
-  {
    "id": "9d95b4b0",
    "status": "scheduled",
    "kind": "reel",
@@ -4903,12 +4841,60 @@
      "id": "2413581612780862"
     }
    }
+  },
+  {
+   "id": "ba4887ff",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Citrus Juicer, Manual Hand",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 799,
+    "was": 0,
+    "feats": [
+     "Made of durable",
+     "Ridged reamer cone for quick",
+     "Built-in strainer to separate"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Stainless Steel Citrus Juicer, Manual Hand | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Citrus Juicer, Manual Hand"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Citrus Juicer, Manual Hand\n✔ Made of durable\n✔ Ridged reamer cone for quick\n✔ Built-in strainer to separate\n\nOnly ₹799. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Stainless Steel Citrus Juicer, Manual Hand",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794844911.9091432,
+     "id": "1428352113685678_122118884841501659",
+     "dry": false
+    }
+   },
+   "created": 1794844897.1407506,
+   "after": 0,
+   "handle": "stainless-steel-citrus-juicer-easy-manual-hand-press-for-fresh-juice",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-citrus-juicer-easy-manual-hand-press-for-fresh-juice",
+   "file": "ba4887ff.jpg",
+   "thumb": "ba4887ff.jpg"
   }
  ],
- "last_post": 1794843081.2106743,
+ "last_post": 1794844911.9091432,
  "log": [
-  "22:31:02 READY c172993f Vegetable Thumb Cutter (auto-approved)",
-  "22:31:13 POSTED instagram@Vinzap-Finds c172993f: 18199410436393268",
   "22:31:16 POSTED facebook@Vinzap-Finds c172993f: 1428352113685678_122118159009501659",
   "22:31:20 POSTED facebook@Vijayendra-Singh c172993f: 1317760538089559_122129279901480728",
   "12:01:28 READY a830088f Chalkboard Sticker Labels | Home Decor (auto-approved)",
@@ -5106,13 +5092,15 @@
   "21:01:29 POSTED facebook@Vijayendra-Singh e353bccc: 1135737575821658",
   "21:01:37 POSTED youtube e353bccc: z4NlxnpVlUA",
   "21:01:47 STORY POSTED facebook@Vinzap-Finds e353bccc",
-  "21:01:55 STORY POSTED facebook@Vijayendra-Singh e353bccc"
+  "21:01:55 STORY POSTED facebook@Vijayendra-Singh e353bccc",
+  "21:31:51 READY ba4887ff Stainless Steel Citrus Juicer, Manual Hand (auto-approved)",
+  "21:31:57 POSTED facebook@Vinzap-Finds ba4887ff: 1428352113685678_122118884841501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794843081.2106743,
+  "facebook@Vinzap-Finds": 1794844911.9091432,
   "facebook@Vijayendra-Singh": 1794843081.2106743,
   "youtube": 1794843081.2106743
  },
- "n": 619
+ "n": 620
 }
