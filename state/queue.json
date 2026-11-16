@@ -1,66 +1,6 @@
 {
  "items": [
   {
-   "id": "6485383f",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Drain Cleaner Powder",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 69,
-    "was": 0,
-    "feats": [
-     "All Pipe Safe Drain Cleaner"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Drain Cleaner Powder | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Drain Cleaner Powder"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDrain Cleaner Powder\n✔ All Pipe Safe Drain Cleaner\n\nOnly ₹69. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#homedecor #homedecorideas",
-   "title": "Drain Cleaner Powder",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794474070.7428775,
-     "id": "17979328476152077",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794474070.7428775,
-     "id": "1428352113685678_122117813595501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794474070.7428775,
-     "id": "1317760538089559_122128802553480728",
-     "dry": false
-    }
-   },
-   "created": 1794474068.9687836,
-   "after": 0,
-   "handle": "1383-all-pipe-safe-drain-cleaner-powder-clear-clogged-sinks-pipes-50-gram-pack",
-   "product_url": "https://www.vinzapstore.in/products/1383-all-pipe-safe-drain-cleaner-powder-clear-clogged-sinks-pipes-50-gram-pack",
-   "file": "6485383f.jpg",
-   "thumb": "6485383f.jpg"
-  },
-  {
    "id": "02b477c2",
    "status": "scheduled",
    "kind": "reel",
@@ -5087,13 +5027,66 @@
      "id": "1707524134226977"
     }
    }
+  },
+  {
+   "id": "6eb7a31f",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Egg Steamer Rack, Folding",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 269,
+    "was": 0,
+    "feats": [
+     "Sturdy stainless steel rack",
+     "Folding legs adjust between two",
+     "Fold height about 3.2 cm"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Egg Steamer Rack, Folding | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Egg Steamer Rack, Folding"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Egg Steamer Rack, Folding\n✔ Sturdy stainless steel rack\n✔ Folding legs adjust between two\n✔ Fold height about 3.2 cm\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "Stainless Steel Egg Steamer Rack, Folding",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794816095.0840664,
+     "id": "1428352113685678_122118788565501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794816095.0840664,
+     "id": "1317760538089559_122130096879480728",
+     "dry": false
+    }
+   },
+   "created": 1794816080.8973172,
+   "after": 0,
+   "handle": "stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-round-egg-steamer-rack-folding-trivet-stand-for-pot-1-pc",
+   "file": "6eb7a31f.jpg",
+   "thumb": "6eb7a31f.jpg"
   }
  ],
- "last_post": 1794814290.7154112,
+ "last_post": 1794816095.0840664,
  "log": [
-  "18:01:05 READY ee51b0f0 Burger Shape Double Layer Lunch Box 1000ml | Diwali (auto-approved)",
-  "18:01:30 POSTED instagram@Vinzap-Finds ee51b0f0: 18020593565954584",
-  "18:01:35 POSTED facebook@Vinzap-Finds ee51b0f0: 2426605698078833",
   "18:01:40 POSTED facebook@Vijayendra-Singh ee51b0f0: 1009521404817434",
   "18:01:40 FAILED post youtube ee51b0f0: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "18:02:13 STORY POSTED instagram@Vinzap-Finds ee51b0f0",
@@ -5290,13 +5283,16 @@
   "12:31:11 POSTED facebook@Vinzap-Finds b40b181f: 1428352113685678_122118779037501659",
   "13:01:30 READY 5c7bcbdb Stainless Steel Vegetable Cutter | Cooking (auto-approved)",
   "13:01:37 POSTED facebook@Vinzap-Finds 5c7bcbdb: 1616874536880639",
-  "13:01:48 STORY POSTED facebook@Vinzap-Finds 5c7bcbdb"
+  "13:01:48 STORY POSTED facebook@Vinzap-Finds 5c7bcbdb",
+  "13:31:35 READY 6eb7a31f Stainless Steel Egg Steamer Rack, Folding (auto-approved)",
+  "13:31:37 POSTED facebook@Vinzap-Finds 6eb7a31f: 1428352113685678_122118788565501659",
+  "13:31:41 POSTED facebook@Vijayendra-Singh 6eb7a31f: 1317760538089559_122130096879480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794814290.7154112,
-  "facebook@Vijayendra-Singh": 1794810695.203406,
+  "facebook@Vinzap-Finds": 1794816095.0840664,
+  "facebook@Vijayendra-Singh": 1794816095.0840664,
   "youtube": 1794810695.203406
  },
- "n": 603
+ "n": 604
 }
