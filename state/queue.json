@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "0b1a379a",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Lemon Shape Silicone Ice Cube Tray, 8 Slots",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "✅ Unique lemon wedge design – 8",
-     "✅ Made from BPA-free",
-     "✅ Flexible and easy-release"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Lemon Shape Silicone Ice Cube Tray, 8 Slots | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Lemon Shape Silicone Ice Cube Tray, 8 Slots"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLemon Shape Silicone Ice Cube Tray, 8 Slots\n✔ ✅ Unique lemon wedge design – 8\n✔ ✅ Made from BPA-free\n✔ ✅ Flexible and easy-release\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Lemon Shape Silicone Ice Cube Tray, 8 Slots | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794483075.7241573,
-     "id": "18137166544730930",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794483075.7241573,
-     "id": "1892122678467252",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794483075.7241573,
-     "id": "1019044161256321",
-     "dry": false
-    }
-   },
-   "created": 1794483049.587209,
-   "after": 0,
-   "handle": "lemon-shape-flexible-silicone-ice-cube-tray-8-slot-round-ice-mold-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/lemon-shape-flexible-silicone-ice-cube-tray-8-slot-round-ice-mold-1-pc",
-   "file": "0b1a379a.mp4",
-   "thumb": "0b1a379a_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17922193095245895"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1169770356009987"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1000556156450454"
-    }
-   }
-  },
-  {
    "id": "65fd9fe1",
    "status": "posted",
    "kind": "image",
@@ -5040,13 +4963,67 @@
    "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-fruit-fork-set-10-pieces-with-soft-non-slip-handle",
    "file": "3e173570.jpg",
    "thumb": "3e173570.jpg"
+  },
+  {
+   "id": "0fd8b96d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Coconut Scraper",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 579,
+    "was": 0,
+    "feats": [
+     "Stainless Steel Construction –",
+     "Vacuum Base for Stability –",
+     "Effortless Hand Operation –"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Stainless Steel Coconut Scraper | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Coconut Scraper"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Coconut Scraper\n✔ Stainless Steel Construction –\n✔ Vacuum Base for Stability –\n✔ Effortless Hand Operation –\n\nOnly ₹579. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Stainless Steel Coconut Scraper | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794825104.388292,
+     "id": "1171815732195142",
+     "dry": false
+    }
+   },
+   "created": 1794825072.4449966,
+   "after": 0,
+   "handle": "supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-stainless-steel-coconut-scraper-with-vacuum-base-1-pc",
+   "file": "0fd8b96d.mp4",
+   "thumb": "0fd8b96d_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1800068811269663"
+    }
+   }
   }
  ],
- "last_post": 1794823313.3655913,
+ "last_post": 1794825104.388292,
  "log": [
-  "19:02:33 STORY POSTED instagram@Vinzap-Finds 86d472b8",
-  "19:02:43 STORY POSTED facebook@Vinzap-Finds 86d472b8",
-  "19:02:51 STORY POSTED facebook@Vijayendra-Singh 86d472b8",
   "19:27:47 READY 2db9a4c8 Silicone Foldable Travel Cup (auto-approved)",
   "19:28:01 POSTED instagram@Vinzap-Finds 2db9a4c8: 18108376937259858",
   "19:28:05 POSTED facebook@Vinzap-Finds 2db9a4c8: 1428352113685678_122118123303501659",
@@ -5243,13 +5220,16 @@
   "15:02:14 STORY POSTED facebook@Vinzap-Finds 983e6f75",
   "15:02:26 STORY POSTED facebook@Vijayendra-Singh 983e6f75",
   "15:31:53 READY 3e173570 Stainless Steel Fruit Fork Set (auto-approved)",
-  "15:31:57 POSTED facebook@Vinzap-Finds 3e173570: 1428352113685678_122118809931501659"
+  "15:31:57 POSTED facebook@Vinzap-Finds 3e173570: 1428352113685678_122118809931501659",
+  "16:01:44 READY 0fd8b96d Stainless Steel Coconut Scraper | Home Essentials (auto-approved)",
+  "16:01:49 POSTED facebook@Vinzap-Finds 0fd8b96d: 1171815732195142",
+  "16:02:00 STORY POSTED facebook@Vinzap-Finds 0fd8b96d"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794823313.3655913,
+  "facebook@Vinzap-Finds": 1794825104.388292,
   "facebook@Vijayendra-Singh": 1794821505.9545598,
   "youtube": 1794821505.9545598
  },
- "n": 608
+ "n": 609
 }
