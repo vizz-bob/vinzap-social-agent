@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "2a755089",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Manual Plastic Fruit and Vegetable Juicer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "All parts are easily detachable",
-     "Made from abs plastic.",
-     "Non-electrical. Easy to operate."
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Manual Plastic Fruit and Vegetable Juicer | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Manual Plastic Fruit and Vegetable Juicer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nManual Plastic Fruit and Vegetable Juicer\n✔ All parts are easily detachable\n✔ Made from abs plastic.\n✔ Non-electrical. Easy to operate.\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Manual Plastic Fruit and Vegetable Juicer",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794492058.64832,
-     "id": "17924343450451767",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794492058.64832,
-     "id": "1428352113685678_122117873061501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794492058.64832,
-     "id": "1317760538089559_122128885503480728",
-     "dry": false
-    }
-   },
-   "created": 1794492055.7475922,
-   "after": 0,
-   "handle": "manual-juicer-modern-plastic-fruit-and-vegetable-juicer-1-pc-bowl-not-included",
-   "product_url": "https://www.vinzapstore.in/products/manual-juicer-modern-plastic-fruit-and-vegetable-juicer-1-pc-bowl-not-included",
-   "file": "2a755089.jpg",
-   "thumb": "2a755089.jpg"
-  },
-  {
    "id": "65a44daf",
    "status": "scheduled",
    "kind": "reel",
@@ -4971,12 +4909,58 @@
      "id": "2371598653676167"
     }
    }
+  },
+  {
+   "id": "3dae0654",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Scalloped Disposable Paper Napkins 23x23cm",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 209,
+    "was": 0,
+    "feats": [
+     "Royal Scalloped Disposable Paper"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Scalloped Disposable Paper Napkins 23x23cm | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Scalloped Disposable Paper Napkins 23x23cm"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nScalloped Disposable Paper Napkins 23x23cm\n✔ Royal Scalloped Disposable Paper\n\nOnly ₹209. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Scalloped Disposable Paper Napkins 23x23cm",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794834114.997232,
+     "id": "1428352113685678_122118846609501659",
+     "dry": false
+    }
+   },
+   "created": 1794834100.1295252,
+   "after": 0,
+   "handle": "royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
+   "product_url": "https://www.vinzapstore.in/products/royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
+   "file": "3dae0654.jpg",
+   "thumb": "3dae0654.jpg"
   }
  ],
- "last_post": 1794832270.6826403,
+ "last_post": 1794834114.997232,
  "log": [
-  "20:31:20 POSTED facebook@Vijayendra-Singh 11edb010: 1317760538089559_122129248395480728",
-  "21:01:18 READY acd9eb0b Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas (auto-approved)",
   "21:01:53 POSTED instagram@Vinzap-Finds acd9eb0b: 18122423416978484",
   "21:01:57 POSTED facebook@Vinzap-Finds acd9eb0b: 1481651977191037",
   "21:02:00 POSTED facebook@Vijayendra-Singh acd9eb0b: 2742934526163199",
@@ -5174,13 +5158,15 @@
   "18:01:22 POSTED facebook@Vijayendra-Singh 0ca901e1: 1431625418651160",
   "18:01:26 POSTED youtube 0ca901e1: zHLY30T-Sfo",
   "18:01:36 STORY POSTED facebook@Vinzap-Finds 0ca901e1",
-  "18:01:47 STORY POSTED facebook@Vijayendra-Singh 0ca901e1"
+  "18:01:47 STORY POSTED facebook@Vijayendra-Singh 0ca901e1",
+  "18:31:54 READY 3dae0654 Scalloped Disposable Paper Napkins 23x23cm (auto-approved)",
+  "18:31:59 POSTED facebook@Vinzap-Finds 3dae0654: 1428352113685678_122118846609501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794832270.6826403,
+  "facebook@Vinzap-Finds": 1794834114.997232,
   "facebook@Vijayendra-Singh": 1794832270.6826403,
   "youtube": 1794832270.6826403
  },
- "n": 613
+ "n": 614
 }
