@@ -1,76 +1,6 @@
 {
  "items": [
   {
-   "id": "545781a2",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Multifunction Collapsible Extendable Stick",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 739,
-    "was": 0,
-    "feats": [
-     "Multi-Function Collapsible"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Multifunction Collapsible Extendable Stick | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multifunction Collapsible Extendable Stick"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultifunction Collapsible Extendable Stick\n✔ Multi-Function Collapsible\n\nOnly ₹739. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Multifunction Collapsible Extendable Stick | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794479478.6481628,
-     "id": "18127282588920180",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794479478.6481628,
-     "id": "4505664379646934",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794479478.6481628,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesSrZ4xB3kgIpN4qvtDOwhJWp"
-    }
-   },
-   "created": 1794479459.2923613,
-   "after": 0,
-   "handle": "576-multi-function-collapsible-self-defense-stick-extended",
-   "product_url": "https://www.vinzapstore.in/products/576-multi-function-collapsible-self-defense-stick-extended",
-   "file": "545781a2.mp4",
-   "thumb": "545781a2_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18082908593532340"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1383810883621965"
-    }
-   }
-  },
-  {
    "id": "db784a1c",
    "status": "posted",
    "kind": "image",
@@ -5049,16 +4979,83 @@
    "product_url": "https://www.vinzapstore.in/products/wall-mounted-knife-holder-with-hooks-and-roll-bag-dispenser-for-kitchen-storage",
    "file": "91439869.jpg",
    "thumb": "91439869.jpg"
+  },
+  {
+   "id": "983e6f75",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Handheld Vegetable & Fruit Peeler",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Sharp peeling edge for smooth",
+     "Handheld design for better",
+     "Ergonomic handle for comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Handheld Vegetable & Fruit Peeler | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Handheld Vegetable & Fruit Peeler"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nHandheld Vegetable & Fruit Peeler\n✔ Sharp peeling edge for smooth\n✔ Handheld design for better\n✔ Ergonomic handle for comfortable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Handheld Vegetable & Fruit Peeler | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794821505.9545598,
+     "id": "1667505591710513",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794821505.9545598,
+     "id": "1832233820997524",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794821505.9545598,
+     "id": "XTvwRNLcxWg",
+     "dry": false
+    }
+   },
+   "created": 1794821475.1834328,
+   "after": 0,
+   "handle": "handheld-vegetable-and-fruit-peeler-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/handheld-vegetable-and-fruit-peeler-1-pc",
+   "file": "983e6f75.mp4",
+   "thumb": "983e6f75_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1610742256871344"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "924775990603105"
+    }
+   }
   }
  ],
- "last_post": 1794819704.7352993,
+ "last_post": 1794821505.9545598,
  "log": [
-  "18:31:03 READY d2cbb93b Leakproof Sports Water Bottle 500 ml (auto-approved)",
-  "18:31:14 POSTED instagram@Vinzap-Finds d2cbb93b: 18041457167648725",
-  "18:31:17 POSTED facebook@Vinzap-Finds d2cbb93b: 1428352113685678_122118113031501659",
-  "18:31:21 POSTED facebook@Vijayendra-Singh d2cbb93b: 1317760538089559_122129219103480728",
-  "19:01:16 READY 86d472b8 Silicone Ice Cube Tray | Home Decor Ideas (auto-approved)",
-  "19:01:52 POSTED instagram@Vinzap-Finds 86d472b8: 18086086814370364",
   "19:01:57 POSTED facebook@Vinzap-Finds 86d472b8: 1115772251074515",
   "19:02:01 POSTED facebook@Vijayendra-Singh 86d472b8: 1176339468402254",
   "19:02:33 STORY POSTED instagram@Vinzap-Finds 86d472b8",
@@ -5252,13 +5249,19 @@
   "14:01:21 POSTED facebook@Vinzap-Finds 16273b84: 28273095405699264",
   "14:01:32 STORY POSTED facebook@Vinzap-Finds 16273b84",
   "14:31:44 READY 91439869 Wall Mounted Knife Holder (auto-approved)",
-  "14:31:50 POSTED facebook@Vinzap-Finds 91439869: 1428352113685678_122118799173501659"
+  "14:31:50 POSTED facebook@Vinzap-Finds 91439869: 1428352113685678_122118799173501659",
+  "15:01:45 READY 983e6f75 Handheld Vegetable & Fruit Peeler | Cooking (auto-approved)",
+  "15:01:51 POSTED facebook@Vinzap-Finds 983e6f75: 1667505591710513",
+  "15:01:56 POSTED facebook@Vijayendra-Singh 983e6f75: 1832233820997524",
+  "15:02:03 POSTED youtube 983e6f75: XTvwRNLcxWg",
+  "15:02:14 STORY POSTED facebook@Vinzap-Finds 983e6f75",
+  "15:02:26 STORY POSTED facebook@Vijayendra-Singh 983e6f75"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794819704.7352993,
-  "facebook@Vijayendra-Singh": 1794816095.0840664,
-  "youtube": 1794810275.203406
+  "facebook@Vinzap-Finds": 1794821505.9545598,
+  "facebook@Vijayendra-Singh": 1794821505.9545598,
+  "youtube": 1794821505.9545598
  },
- "n": 606
+ "n": 607
 }
