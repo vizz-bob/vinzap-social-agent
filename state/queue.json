@@ -1,76 +1,6 @@
 {
  "items": [
   {
-   "id": "01701bf0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Push Soap Dispenser 300ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 249,
-    "was": 0,
-    "feats": [
-     "Apex Push It! Soap Dispenser |"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Push Soap Dispenser 300ml | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Push Soap Dispenser 300ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPush Soap Dispenser 300ml\n✔ Apex Push It! Soap Dispenser |\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bathroomaccessories\n#trendingshorts #kitchengadgets",
-   "title": "Push Soap Dispenser 300ml | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794468662.1246252,
-     "id": "18183744253431790",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794468662.1246252,
-     "id": "1391085992978557",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794468662.1246252,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesG4MV8Cui9ap2nQ68BCOdzFR"
-    }
-   },
-   "created": 1794468644.9894607,
-   "after": 0,
-   "handle": "apex-push-it-soap-dispenser-approx-300ml-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-push-it-soap-dispenser-approx-300ml-1-pc",
-   "file": "01701bf0.mp4",
-   "thumb": "01701bf0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18138078727656055"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1681573226742815"
-    }
-   }
-  },
-  {
    "id": "4dbb6caa",
    "status": "posted",
    "kind": "image",
@@ -5113,16 +5043,83 @@
    "product_url": "https://www.vinzapstore.in/products/wall-mounted-stainless-steel-cup-mug-holder-rack-25-x-25-cm-1-pc",
    "file": "25836f5f.jpg",
    "thumb": "25836f5f.jpg"
+  },
+  {
+   "id": "7ef7acdd",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Electric Popper Maker Machine",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 2559,
+    "was": 0,
+    "feats": [
+     "Customize you snack: melted",
+     "Make delicious popcorn",
+     "Material: The popping chamber is"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Electric Popper Maker Machine | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Popper Maker Machine"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nElectric Popper Maker Machine\n✔ Customize you snack: melted\n✔ Make delicious popcorn\n✔ Material: The popping chamber is\n\nOnly ₹2559. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Electric Popper Maker Machine | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794810695.203406,
+     "id": "2406975013377730",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794810695.203406,
+     "id": "940774685633397",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794810695.203406,
+     "id": "pMC_vZDOpFQ",
+     "dry": false
+    }
+   },
+   "created": 1794810656.259976,
+   "after": 0,
+   "handle": "2432-popper-maker-machine-electric-snack-maker",
+   "product_url": "https://www.vinzapstore.in/products/2432-popper-maker-machine-electric-snack-maker",
+   "file": "7ef7acdd.mp4",
+   "thumb": "7ef7acdd_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1024381827371938"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1661243245664836"
+    }
+   }
   }
  ],
- "last_post": 1794762079.21411,
+ "last_post": 1794810695.203406,
  "log": [
-  "17:01:03 READY dfbadad8 Plastic Lunch Box | Kitchen Organization (auto-approved)",
-  "17:01:38 POSTED instagram@Vinzap-Finds dfbadad8: 18214144303363924",
-  "17:01:43 POSTED facebook@Vinzap-Finds dfbadad8: 2395795150956198",
-  "17:01:47 POSTED facebook@Vijayendra-Singh dfbadad8: 1664064835366697",
-  "17:02:19 STORY POSTED instagram@Vinzap-Finds dfbadad8",
-  "17:02:25 STORY POSTED facebook@Vinzap-Finds dfbadad8",
   "17:02:34 STORY POSTED facebook@Vijayendra-Singh dfbadad8",
   "17:30:55 READY ec3ac3f3 Plastic Ice Cream Scooper (auto-approved)",
   "17:31:07 POSTED instagram@Vinzap-Finds ec3ac3f3: 18091971146274472",
@@ -5316,13 +5313,19 @@
   "22:02:02 STORY POSTED facebook@Vinzap-Finds efacf82d",
   "22:31:19 READY 25836f5f Wall Mounted Stainless Steel Cup and Mug (auto-approved)",
   "22:31:23 POSTED facebook@Vinzap-Finds 25836f5f: 1428352113685678_122118659373501659",
-  "22:31:27 POSTED facebook@Vijayendra-Singh 25836f5f: 1317760538089559_122129922747480728"
+  "22:31:27 POSTED facebook@Vijayendra-Singh 25836f5f: 1317760538089559_122129922747480728",
+  "12:01:35 READY 7ef7acdd Electric Popper Maker Machine | Home Decor Ideas (auto-approved)",
+  "12:01:38 POSTED facebook@Vinzap-Finds 7ef7acdd: 2406975013377730",
+  "12:01:43 POSTED facebook@Vijayendra-Singh 7ef7acdd: 940774685633397",
+  "12:01:47 POSTED youtube 7ef7acdd: pMC_vZDOpFQ",
+  "12:01:59 STORY POSTED facebook@Vinzap-Finds 7ef7acdd",
+  "12:02:10 STORY POSTED facebook@Vijayendra-Singh 7ef7acdd"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794762079.21411,
-  "facebook@Vijayendra-Singh": 1794762079.21411,
-  "youtube": 1794756690.2548878
+  "facebook@Vinzap-Finds": 1794810695.203406,
+  "facebook@Vijayendra-Singh": 1794810695.203406,
+  "youtube": 1794810695.203406
  },
- "n": 600
+ "n": 601
 }
