@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "9d95b4b0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Multipurpose Vegetable Sharpener and Peeler",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Dual-function design",
-     "Smooth peeling action for fruits",
-     "Compact and lightweight for easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Multipurpose Vegetable Sharpener and Peeler | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multipurpose Vegetable Sharpener and Peeler"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultipurpose Vegetable Sharpener and Peeler\n✔ Dual-function design\n✔ Smooth peeling action for fruits\n✔ Compact and lightweight for easy\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchengadgets #kitchenorganization",
-   "title": "Multipurpose Vegetable Sharpener and Peeler | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794551472.9505622,
-     "id": "18232131592333640",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794551472.9505622,
-     "id": "1610305176982804",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794551472.9505622,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevmsDCPI28Dge6mL8diyoGgVA"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794551472.9505622,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794551446.633576,
-   "after": 0,
-   "handle": "multipurpose-vegetable-sharpener-peeler-tool-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-vegetable-sharpener-peeler-tool-1-pc",
-   "file": "9d95b4b0.mp4",
-   "thumb": "9d95b4b0_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17920986858596150"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3014004752309588"
-    }
-   }
-  },
-  {
    "id": "439066b6",
    "status": "posted",
    "kind": "image",
@@ -4891,13 +4814,67 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-citrus-juicer-easy-manual-hand-press-for-fresh-juice",
    "file": "ba4887ff.jpg",
    "thumb": "ba4887ff.jpg"
+  },
+  {
+   "id": "70a7aacb",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Apex Power-X Hand-Pull Vegetable Chopper",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "500ML Capacity: Perfect",
+     "Triple Stainless Steel Blades:",
+     "Patented Pull-Cord Mechanism:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Apex Power-X Hand-Pull Vegetable Chopper | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Power-X Hand-Pull Vegetable Chopper"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nApex Power-X Hand-Pull Vegetable Chopper\n✔ 500ML Capacity: Perfect\n✔ Triple Stainless Steel Blades:\n✔ Patented Pull-Cord Mechanism:\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
+   "title": "Apex Power-X Hand-Pull Vegetable Chopper | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794846683.5515623,
+     "id": "2702794253507873",
+     "dry": false
+    }
+   },
+   "created": 1794846645.4230626,
+   "after": 0,
+   "handle": "apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
+   "product_url": "https://www.vinzapstore.in/products/apex-power-x-triple-stainless-steel-blades-and-hand-pull-vegetable-chopper-500ml",
+   "file": "70a7aacb.mp4",
+   "thumb": "70a7aacb_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2966072720459168"
+    }
+   }
   }
  ],
- "last_post": 1794844911.9091432,
+ "last_post": 1794846683.5515623,
  "log": [
-  "22:31:16 POSTED facebook@Vinzap-Finds c172993f: 1428352113685678_122118159009501659",
-  "22:31:20 POSTED facebook@Vijayendra-Singh c172993f: 1317760538089559_122129279901480728",
-  "12:01:28 READY a830088f Chalkboard Sticker Labels | Home Decor (auto-approved)",
   "12:01:32 POSTED facebook@Vinzap-Finds a830088f: 1151670760608729",
   "12:01:33 FAILED post facebook@Vijayendra-Singh a830088f: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevviHOtF7nRzxWmv4xHFRdhxem9BgNI1Y74UexrQUrXZdZAqS3se_ucLfWHlNNWdZl0g35QkK56wySQK7zPg-jOCvjB1CfsmztjNYsBL3bOXFzNBRR2yqVOS6QzEvwB83cwufZGTcJtCKMNfeFpf4G9up5IT-CCIRsn6lvgSyaPSlO-4vSrIUc8IdWYQuRZLXRzY-ak3nkBHhqsHwda02iVD-l_eQmbewD1cLgI1QBRxedve3KLaq4kQksk7508oGeGFtejMQQwMOyurF8UOp2A6ccLQDz8p4sDJf88iaG0hsi7VI_wscOHylqJuiVjWW0C\",\"help_cent",
   "12:01:33 FAILED post youtube a830088f: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
@@ -5094,13 +5071,16 @@
   "21:01:47 STORY POSTED facebook@Vinzap-Finds e353bccc",
   "21:01:55 STORY POSTED facebook@Vijayendra-Singh e353bccc",
   "21:31:51 READY ba4887ff Stainless Steel Citrus Juicer, Manual Hand (auto-approved)",
-  "21:31:57 POSTED facebook@Vinzap-Finds ba4887ff: 1428352113685678_122118884841501659"
+  "21:31:57 POSTED facebook@Vinzap-Finds ba4887ff: 1428352113685678_122118884841501659",
+  "22:01:23 READY 70a7aacb Apex Power-X Hand-Pull Vegetable Chopper | Kitchen Gadgets (auto-approved)",
+  "22:01:30 POSTED facebook@Vinzap-Finds 70a7aacb: 2702794253507873",
+  "22:01:43 STORY POSTED facebook@Vinzap-Finds 70a7aacb"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794844911.9091432,
+  "facebook@Vinzap-Finds": 1794846683.5515623,
   "facebook@Vijayendra-Singh": 1794843081.2106743,
   "youtube": 1794843081.2106743
  },
- "n": 620
+ "n": 621
 }
