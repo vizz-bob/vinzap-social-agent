@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "d502638a",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Round Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 249,
-    "was": 0,
-    "feats": [
-     "1 Pc round ice cube tray with lid",
-     "Easy release design for quick ice",
-     "Lid prevents freezer smell"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Round Ice Cube Tray | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Round Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nRound Ice Cube Tray\n✔ 1 Pc round ice cube tray with lid\n✔ Easy release design for quick ice\n✔ Lid prevents freezer smell\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#diwali #trendingshorts",
-   "title": "Round Ice Cube Tray | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794490281.351591,
-     "id": "17963386926255090",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794490281.351591,
-     "id": "1705838924213239",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794490281.351591,
-     "id": "1842252460311297",
-     "dry": false
-    }
-   },
-   "created": 1794490259.9555054,
-   "after": 0,
-   "handle": "premium-round-ice-cube-tray-with-lid-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/premium-round-ice-cube-tray-with-lid-1-pc",
-   "file": "d502638a.mp4",
-   "thumb": "d502638a_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18111126008223593"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2861810450887363"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1671320148002391"
-    }
-   }
-  },
-  {
    "id": "2a755089",
    "status": "posted",
    "kind": "image",
@@ -4975,16 +4898,83 @@
    "product_url": "https://www.vinzapstore.in/products/ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
    "file": "d5e95754.jpg",
    "thumb": "d5e95754.jpg"
+  },
+  {
+   "id": "0ca901e1",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Caterpillar Self-Adhesive Wall Toothbrush",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Open-top caterpillar design",
+     "Self-adhesive pad",
+     "Use for toothbrushes"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Caterpillar Self-Adhesive Wall Toothbrush | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Caterpillar Self-Adhesive Wall Toothbrush"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nCaterpillar Self-Adhesive Wall Toothbrush\n✔ Open-top caterpillar design\n✔ Self-adhesive pad\n✔ Use for toothbrushes\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bathroomaccessories #homedecor #homedecorideas",
+   "title": "Caterpillar Self-Adhesive Wall Toothbrush | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794832270.6826403,
+     "id": "1568823325291677",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794832270.6826403,
+     "id": "1431625418651160",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794832270.6826403,
+     "id": "zHLY30T-Sfo",
+     "dry": false
+    }
+   },
+   "created": 1794832241.5990994,
+   "after": 0,
+   "handle": "plastic-caterpillar-shape-self-adhesive-wall-toothbrush-and-storage-holder-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/plastic-caterpillar-shape-self-adhesive-wall-toothbrush-and-storage-holder-1-pc",
+   "file": "0ca901e1.mp4",
+   "thumb": "0ca901e1_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1679406430362143"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2371598653676167"
+    }
+   }
   }
  ],
- "last_post": 1794830472.0788994,
+ "last_post": 1794832270.6826403,
  "log": [
-  "20:02:15 STORY POSTED instagram@Vinzap-Finds 519e5470",
-  "20:02:22 STORY POSTED facebook@Vinzap-Finds 519e5470",
-  "20:02:30 STORY POSTED facebook@Vijayendra-Singh 519e5470",
-  "20:31:01 READY 11edb010 Disposable Clear Plastic Gloves Medium Pack (auto-approved)",
-  "20:31:12 POSTED instagram@Vinzap-Finds 11edb010: 18132949960697190",
-  "20:31:16 POSTED facebook@Vinzap-Finds 11edb010: 1428352113685678_122118135045501659",
   "20:31:20 POSTED facebook@Vijayendra-Singh 11edb010: 1317760538089559_122129248395480728",
   "21:01:18 READY acd9eb0b Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas (auto-approved)",
   "21:01:53 POSTED instagram@Vinzap-Finds acd9eb0b: 18122423416978484",
@@ -5178,13 +5168,19 @@
   "17:01:35 POSTED facebook@Vinzap-Finds 4dd8697f: 1542294124586783",
   "17:01:48 STORY POSTED facebook@Vinzap-Finds 4dd8697f",
   "17:31:12 READY d5e95754 Round Ice Ball Maker Tray, 2-in-1 Portable, (auto-approved)",
-  "17:31:16 POSTED facebook@Vinzap-Finds d5e95754: 1428352113685678_122118835533501659"
+  "17:31:16 POSTED facebook@Vinzap-Finds d5e95754: 1428352113685678_122118835533501659",
+  "18:01:10 READY 0ca901e1 Caterpillar Self-Adhesive Wall Toothbrush | Home Decor (auto-approved)",
+  "18:01:16 POSTED facebook@Vinzap-Finds 0ca901e1: 1568823325291677",
+  "18:01:22 POSTED facebook@Vijayendra-Singh 0ca901e1: 1431625418651160",
+  "18:01:26 POSTED youtube 0ca901e1: zHLY30T-Sfo",
+  "18:01:36 STORY POSTED facebook@Vinzap-Finds 0ca901e1",
+  "18:01:47 STORY POSTED facebook@Vijayendra-Singh 0ca901e1"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794830472.0788994,
-  "facebook@Vijayendra-Singh": 1794826894.0110207,
-  "youtube": 1794821085.9545598
+  "facebook@Vinzap-Finds": 1794832270.6826403,
+  "facebook@Vijayendra-Singh": 1794832270.6826403,
+  "youtube": 1794832270.6826403
  },
- "n": 612
+ "n": 613
 }
