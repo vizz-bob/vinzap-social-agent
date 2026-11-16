@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "77175ce1",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "2-in-1 Pet Food Scoop",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 119,
-    "was": 0,
-    "feats": [
-     "Dual Function Design: Works as",
-     "Durable & Safe Material: Made",
-     "Ergonomic Handle: Comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "2-in-1 Pet Food Scoop | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "2-in-1 Pet Food Scoop"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\n2-in-1 Pet Food Scoop\n✔ Dual Function Design: Works as\n✔ Durable & Safe Material: Made\n✔ Ergonomic Handle: Comfortable\n\nOnly ₹119. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #petlovers #petessentials\n#kitchengadgets #kitchenorganization",
-   "title": "2-in-1 Pet Food Scoop",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794495728.5766206,
-     "id": "18222410329349393",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794495728.5766206,
-     "id": "1428352113685678_122117883705501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794495728.5766206,
-     "id": "1317760538089559_122128899471480728",
-     "dry": false
-    }
-   },
-   "created": 1794495726.6236675,
-   "after": 0,
-   "handle": "2-in-1-pet-food-scoop-with-bag-clip",
-   "product_url": "https://www.vinzapstore.in/products/2-in-1-pet-food-scoop-with-bag-clip",
-   "file": "77175ce1.jpg",
-   "thumb": "77175ce1.jpg"
-  },
-  {
    "id": "bb507b2d",
    "status": "scheduled",
    "kind": "reel",
@@ -4937,13 +4875,66 @@
      "id": "4081550628820499"
     }
    }
+  },
+  {
+   "id": "3de62b66",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Chopping Board",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 409,
+    "was": 0,
+    "feats": [
+     "【 Material 】：The cutting board is",
+     "【 Advantage 】：Not easy to crack",
+     "【Maintenance】：The surface"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Stainless Steel Chopping Board | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Chopping Board"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Chopping Board\n✔ 【 Material 】：The cutting board is\n✔ 【 Advantage 】：Not easy to crack\n✔ 【Maintenance】：The surface\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Stainless Steel Chopping Board",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794837663.4237945,
+     "id": "1428352113685678_122118859395501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794837663.4237945,
+     "id": "1317760538089559_122130185799480728",
+     "dry": false
+    }
+   },
+   "created": 1794837648.1338522,
+   "after": 0,
+   "handle": "stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
+   "file": "3de62b66.jpg",
+   "thumb": "3de62b66.jpg"
   }
  ],
- "last_post": 1794835885.27599,
+ "last_post": 1794837663.4237945,
  "log": [
-  "21:02:00 FAILED post youtube acd9eb0b: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "21:02:31 STORY POSTED instagram@Vinzap-Finds acd9eb0b",
-  "21:02:40 STORY POSTED facebook@Vinzap-Finds acd9eb0b",
   "21:02:41 STORY FAILED facebook@Vijayendra-Singh acd9eb0b: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from",
   "21:30:56 READY 96e0cae8 Large Travel Tumbler 1800ml (auto-approved)",
   "21:31:08 POSTED instagram@Vinzap-Finds 96e0cae8: 17991276000118944",
@@ -5140,13 +5131,16 @@
   "18:31:59 POSTED facebook@Vinzap-Finds 3dae0654: 1428352113685678_122118846609501659",
   "19:01:25 READY 7dbda4b7 Glass Water Jug | Kitchen Gadgets (auto-approved)",
   "19:01:29 POSTED facebook@Vinzap-Finds 7dbda4b7: 937487629300104",
-  "19:01:40 STORY POSTED facebook@Vinzap-Finds 7dbda4b7"
+  "19:01:40 STORY POSTED facebook@Vinzap-Finds 7dbda4b7",
+  "19:31:03 READY 3de62b66 Stainless Steel Chopping Board (auto-approved)",
+  "19:31:07 POSTED facebook@Vinzap-Finds 3de62b66: 1428352113685678_122118859395501659",
+  "19:31:12 POSTED facebook@Vijayendra-Singh 3de62b66: 1317760538089559_122130185799480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794835885.27599,
-  "facebook@Vijayendra-Singh": 1794832270.6826403,
+  "facebook@Vinzap-Finds": 1794837663.4237945,
+  "facebook@Vijayendra-Singh": 1794837663.4237945,
   "youtube": 1794832270.6826403
  },
- "n": 615
+ "n": 616
 }
