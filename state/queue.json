@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "11edb010",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Disposable Clear Plastic Gloves Medium Pack",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "100 disposable gloves per pack",
-     "size for a comfortable fit",
-     "Transparent design for easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Disposable Clear Plastic Gloves Medium Pack | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Disposable Clear Plastic Gloves Medium Pack"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nDisposable Clear Plastic Gloves Medium Pack\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Disposable Clear Plastic Gloves Medium Pack",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794582061.505554,
-     "id": "18132949960697190",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794582061.505554,
-     "id": "1428352113685678_122118135045501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794582061.505554,
-     "id": "1317760538089559_122129248395480728",
-     "dry": false
-    }
-   },
-   "created": 1794582059.2990928,
-   "after": 0,
-   "handle": "disposable-clear-plastic-gloves-100-pc-medium-1",
-   "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-medium-1",
-   "file": "11edb010.jpg",
-   "thumb": "11edb010.jpg"
-  },
-  {
    "id": "acd9eb0b",
    "status": "scheduled",
    "kind": "reel",
@@ -4685,13 +4623,66 @@
      "id": "1885552885958863"
     }
    }
+  },
+  {
+   "id": "f3ed80b3",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Reusable Pizza Storage Container",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 699,
+    "was": 0,
+    "feats": [
+     "【Space Saving】The pizza storage",
+     "【Sealing & Keep Fresh】Each pizza",
+     "【Multifunction】Pizza container"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Reusable Pizza Storage Container | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Pizza Storage Container"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nReusable Pizza Storage Container\n✔ 【Space Saving】The pizza storage\n✔ 【Sealing & Keep Fresh】Each pizza\n✔ 【Multifunction】Pizza container\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homedecorideas #trendingshorts",
+   "title": "Reusable Pizza Storage Container",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794924071.9030654,
+     "id": "1428352113685678_122119121109501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794924071.9030654,
+     "id": "1317760538089559_122130508065480728",
+     "dry": false
+    }
+   },
+   "created": 1794924057.5249262,
+   "after": 0,
+   "handle": "10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
+   "product_url": "https://www.vinzapstore.in/products/10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
+   "file": "f3ed80b3.jpg",
+   "thumb": "f3ed80b3.jpg"
   }
  ],
- "last_post": 1794922275.9570158,
+ "last_post": 1794924071.9030654,
  "log": [
-  "21:41:01 READY 0e6d3888 Aluminium Gas Stove Burner Protector Covers (auto-approved)",
-  "21:41:04 POSTED facebook@Vinzap-Finds 0e6d3888: 1428352113685678_122118402669501659",
-  "21:41:09 POSTED facebook@Vijayendra-Singh 0e6d3888: 1317760538089559_122129595945480728",
   "22:05:11 READY e66937a2 Stainless Steel Potato Peeler | Kitchen Organization (auto-approved)",
   "22:05:16 POSTED facebook@Vinzap-Finds e66937a2: 1185968604089337",
   "22:05:23 POSTED youtube e66937a2: 4KKa0KVK-aM",
@@ -4888,13 +4879,16 @@
   "18:31:21 POSTED facebook@Vinzap-Finds 5d869f51: 1428352113685678_122119105485501659",
   "19:01:15 READY d070670a Skull Shape Ice Cube Tray 8 Grid | Home Essentials (auto-approved)",
   "19:01:20 POSTED facebook@Vinzap-Finds d070670a: 1173445618585082",
-  "19:01:29 STORY POSTED facebook@Vinzap-Finds d070670a"
+  "19:01:29 STORY POSTED facebook@Vinzap-Finds d070670a",
+  "19:31:11 READY f3ed80b3 Reusable Pizza Storage Container (auto-approved)",
+  "19:31:17 POSTED facebook@Vinzap-Finds f3ed80b3: 1428352113685678_122119121109501659",
+  "19:31:22 POSTED facebook@Vijayendra-Singh f3ed80b3: 1317760538089559_122130508065480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794922275.9570158,
-  "facebook@Vijayendra-Singh": 1794918674.559823,
+  "facebook@Vinzap-Finds": 1794924071.9030654,
+  "facebook@Vijayendra-Singh": 1794924071.9030654,
   "youtube": 1794918674.559823
  },
- "n": 637
+ "n": 638
 }
