@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "2db9a4c8",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Silicone Foldable Travel Cup",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 439,
-    "was": 0,
-    "feats": [
-     "Collapsible silicone body folds",
-     "Includes a reusable straw",
-     "Food-grade silicone construction"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Silicone Foldable Travel Cup | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Foldable Travel Cup"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSilicone Foldable Travel Cup\n✔ Collapsible silicone body folds\n✔ Includes a reusable straw\n✔ Food-grade silicone construction\n\nOnly ₹439. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecor #homedecorideas",
-   "title": "Silicone Foldable Travel Cup",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794578267.787922,
-     "id": "18108376937259858",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794578267.787922,
-     "id": "1428352113685678_122118123303501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794578267.787922,
-     "id": "1317760538089559_122129230485480728",
-     "dry": false
-    }
-   },
-   "created": 1794578265.9513063,
-   "after": 0,
-   "handle": "silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
-   "file": "2db9a4c8.jpg",
-   "thumb": "2db9a4c8.jpg"
-  },
-  {
    "id": "519e5470",
    "status": "scheduled",
    "kind": "reel",
@@ -4717,12 +4655,60 @@
      "id": "2115040895813652"
     }
    }
+  },
+  {
+   "id": "5d869f51",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Multipurpose Cheese and Vegetable Grater",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 79,
+    "was": 0,
+    "feats": [
+     "High-quality stainless steel",
+     "Strong plastic frame",
+     "Ideal for grating cheese"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Multipurpose Cheese and Vegetable Grater | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Multipurpose Cheese and Vegetable Grater"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nMultipurpose Cheese and Vegetable Grater\n✔ High-quality stainless steel\n✔ Strong plastic frame\n✔ Ideal for grating cheese\n\nOnly ₹79. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Multipurpose Cheese and Vegetable Grater",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794920478.5162919,
+     "id": "1428352113685678_122119105485501659",
+     "dry": false
+    }
+   },
+   "created": 1794920463.3854685,
+   "after": 0,
+   "handle": "multipurpose-cheese-vegetable-grater-1-pc-1",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-cheese-vegetable-grater-1-pc-1",
+   "file": "5d869f51.jpg",
+   "thumb": "5d869f51.jpg"
   }
  ],
- "last_post": 1794918674.559823,
+ "last_post": 1794920478.5162919,
  "log": [
-  "18:01:33 POSTED facebook@Vinzap-Finds d54e57b1: 1649327146872502",
-  "18:01:38 POSTED facebook@Vijayendra-Singh d54e57b1: 1153913867388285",
   "18:01:38 FAILED post youtube d54e57b1: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
   "18:01:52 STORY POSTED facebook@Vinzap-Finds d54e57b1",
   "18:02:03 STORY POSTED facebook@Vijayendra-Singh d54e57b1",
@@ -4920,13 +4906,15 @@
   "18:01:26 POSTED facebook@Vijayendra-Singh 9a33e0d6: 1393894235918962",
   "18:01:30 POSTED youtube 9a33e0d6: jjKQrGgtX0g",
   "18:01:42 STORY POSTED facebook@Vinzap-Finds 9a33e0d6",
-  "18:01:52 STORY POSTED facebook@Vijayendra-Singh 9a33e0d6"
+  "18:01:52 STORY POSTED facebook@Vijayendra-Singh 9a33e0d6",
+  "18:31:18 READY 5d869f51 Multipurpose Cheese and Vegetable Grater (auto-approved)",
+  "18:31:21 POSTED facebook@Vinzap-Finds 5d869f51: 1428352113685678_122119105485501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794918674.559823,
+  "facebook@Vinzap-Finds": 1794920478.5162919,
   "facebook@Vijayendra-Singh": 1794918674.559823,
   "youtube": 1794918674.559823
  },
- "n": 635
+ "n": 636
 }
