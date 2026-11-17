@@ -1,66 +1,6 @@
 {
  "items": [
   {
-   "id": "c172993f",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Vegetable Thumb Cutter",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "2662 Vegetable Thumb Cutter"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Vegetable Thumb Cutter | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Vegetable Thumb Cutter"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nVegetable Thumb Cutter\n✔ 2662 Vegetable Thumb Cutter\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Vegetable Thumb Cutter",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794589262.6487906,
-     "id": "18199410436393268",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794589262.6487906,
-     "id": "1428352113685678_122118159009501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794589262.6487906,
-     "id": "1317760538089559_122129279901480728",
-     "dry": false
-    }
-   },
-   "created": 1794589259.7099016,
-   "after": 0,
-   "handle": "2662-vegetable-thumb-cutter-and-tool-with-effective-sharp-cutting-blade-system",
-   "product_url": "https://www.vinzapstore.in/products/2662-vegetable-thumb-cutter-and-tool-with-effective-sharp-cutting-blade-system",
-   "file": "c172993f.jpg",
-   "thumb": "c172993f.jpg"
-  },
-  {
    "id": "a830088f",
    "status": "scheduled",
    "kind": "reel",
@@ -4643,12 +4583,60 @@
      "id": "1792254162061074"
     }
    }
+  },
+  {
+   "id": "75fb0057",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Potato Masher 17cm",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Premium food-grade stainless",
+     "Wide mashing plate",
+     "Ergonomic handle with anti-slip"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Stainless Steel Potato Masher 17cm | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Potato Masher 17cm"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Potato Masher 17cm\n✔ Premium food-grade stainless\n✔ Wide mashing plate\n✔ Ergonomic handle with anti-slip\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "Stainless Steel Potato Masher 17cm",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794931267.6226492,
+     "id": "1428352113685678_122119142211501659",
+     "dry": false
+    }
+   },
+   "created": 1794931252.9639125,
+   "after": 0,
+   "handle": "stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
+   "file": "75fb0057.jpg",
+   "thumb": "75fb0057.jpg"
   }
  ],
- "last_post": 1794929584.8958297,
+ "last_post": 1794931267.6226492,
  "log": [
-  "12:01:53 STORY POSTED facebook@Vijayendra-Singh f685ed2e",
-  "12:31:14 READY a786a91e Kitchen Sink Corner Filter Holder Compact (auto-approved)",
   "12:31:18 POSTED facebook@Vinzap-Finds a786a91e: 1428352113685678_122118546513501659",
   "13:01:20 READY 63540e23 Stainless Steel Frying Skimmer Strainer | Kitchen Gadgets (auto-approved)",
   "13:01:24 POSTED facebook@Vinzap-Finds 63540e23: 3794940697332425",
@@ -4846,13 +4834,15 @@
   "21:03:15 POSTED facebook@Vijayendra-Singh 7d009b87: 1855185519008997",
   "21:03:24 POSTED youtube 7d009b87: c7XSNzoMSHE",
   "21:03:33 STORY POSTED facebook@Vinzap-Finds 7d009b87",
-  "21:03:42 STORY POSTED facebook@Vijayendra-Singh 7d009b87"
+  "21:03:42 STORY POSTED facebook@Vijayendra-Singh 7d009b87",
+  "21:31:07 READY 75fb0057 Stainless Steel Potato Masher 17cm (auto-approved)",
+  "21:31:11 POSTED facebook@Vinzap-Finds 75fb0057: 1428352113685678_122119142211501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794929584.8958297,
+  "facebook@Vinzap-Finds": 1794931267.6226492,
   "facebook@Vijayendra-Singh": 1794929584.8958297,
   "youtube": 1794929584.8958297
  },
- "n": 641
+ "n": 642
 }
