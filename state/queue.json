@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "3879107f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Squeeze Sauce Bottle",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Easy squeeze design",
-     "Leak-proof cap for safe",
-     "Ideal for pizza sauce"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Plastic Squeeze Sauce Bottle | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Squeeze Sauce Bottle"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Squeeze Sauce Bottle\n✔ Easy squeeze design\n✔ Leak-proof cap for safe\n✔ Ideal for pizza sauce\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecorideas #diwali",
-   "title": "Plastic Squeeze Sauce Bottle | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794562265.7218132,
-     "id": "18221959207346280",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794562265.7218132,
-     "id": "1437499111929618",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794562265.7218132,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetuV7NN2MCZKgrsAPYtP2M0Wc"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794562265.7218132,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794562244.8736753,
-   "after": 0,
-   "handle": "small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
-   "file": "3879107f.mp4",
-   "thumb": "3879107f_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18007586891793058"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1132978992840927"
-    }
-   }
-  },
-  {
    "id": "323d1336",
    "status": "posted",
    "kind": "image",
@@ -4831,13 +4754,65 @@
    "product_url": "https://www.vinzapstore.in/products/4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
    "file": "216c0b8b.jpg",
    "thumb": "216c0b8b.jpg"
+  },
+  {
+   "id": "c21a9d75",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Lunch Box Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Premium Stainless Steel Lunch Box"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel Lunch Box Set | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Lunch Box Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Lunch Box Set\n✔ Premium Stainless Steel Lunch Box\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #lunchbox #tiffin #kitchenorganization",
+   "title": "Stainless Steel Lunch Box Set | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794904286.5097833,
+     "id": "1174634485512304",
+     "dry": false
+    }
+   },
+   "created": 1794904250.0777855,
+   "after": 0,
+   "handle": "premium-stainless-steel-lunch-box-set",
+   "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-lunch-box-set",
+   "file": "c21a9d75.mp4",
+   "thumb": "c21a9d75_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1134745889402046"
+    }
+   }
   }
  ],
- "last_post": 1794902496.9254143,
+ "last_post": 1794904286.5097833,
  "log": [
-  "14:01:27 STORY POSTED facebook@Vinzap-Finds b2721c42",
-  "14:31:05 READY a2f1c54d Stainless Steel Vacuum Insulated Water (auto-approved)",
-  "14:31:08 POSTED facebook@Vinzap-Finds a2f1c54d: 1428352113685678_122118304143501659",
   "14:31:12 POSTED facebook@Vijayendra-Singh a2f1c54d: 1317760538089559_122129463717480728",
   "15:01:07 READY 46e0f896 Microfiber Soft Cleaning Towel 28x28cm | Kitchen Organization (auto-approved)",
   "15:01:11 POSTED facebook@Vinzap-Finds 46e0f896: 1707665034048405",
@@ -5034,13 +5009,16 @@
   "13:02:14 STORY POSTED facebook@Vinzap-Finds 4bb41247",
   "13:31:36 READY 216c0b8b 4-in-1 Silicone Bottle Cleaning Brush (auto-approved)",
   "13:31:40 POSTED facebook@Vinzap-Finds 216c0b8b: 1428352113685678_122119053411501659",
-  "13:31:43 POSTED facebook@Vijayendra-Singh 216c0b8b: 1317760538089559_122130399849480728"
+  "13:31:43 POSTED facebook@Vijayendra-Singh 216c0b8b: 1317760538089559_122130399849480728",
+  "14:01:26 READY c21a9d75 Stainless Steel Lunch Box Set | Kitchen Gadgets (auto-approved)",
+  "14:01:30 POSTED facebook@Vinzap-Finds c21a9d75: 1174634485512304",
+  "14:01:38 STORY POSTED facebook@Vinzap-Finds c21a9d75"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794902496.9254143,
+  "facebook@Vinzap-Finds": 1794904286.5097833,
   "facebook@Vijayendra-Singh": 1794902496.9254143,
   "youtube": 1794897079.3172145
  },
- "n": 626
+ "n": 627
 }
