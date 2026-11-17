@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "96e0cae8",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Large Travel Tumbler 1800ml",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 409,
-    "was": 0,
-    "feats": [
-     "Large capacity design",
-     "Convenient handle for easy",
-     "Straw lid for smooth"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Large Travel Tumbler 1800ml | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Large Travel Tumbler 1800ml"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nLarge Travel Tumbler 1800ml\n✔ Large capacity design\n✔ Convenient handle for easy\n✔ Straw lid for smooth\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#kitchenorganization #cooking",
-   "title": "Large Travel Tumbler 1800ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794585656.1827188,
-     "id": "17991276000118944",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794585656.1827188,
-     "id": "1428352113685678_122118148113501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794585656.1827188,
-     "id": "1317760538089559_122129267583480728",
-     "dry": false
-    }
-   },
-   "created": 1794585653.6388192,
-   "after": 0,
-   "handle": "large-capacity-travel-sipline-tumbler-with-handle-and-straw-lid-1800ml-approx",
-   "product_url": "https://www.vinzapstore.in/products/large-capacity-travel-sipline-tumbler-with-handle-and-straw-lid-1800ml-approx",
-   "file": "96e0cae8.jpg",
-   "thumb": "96e0cae8.jpg"
-  },
-  {
    "id": "715f82d5",
    "status": "scheduled",
    "kind": "reel",
@@ -4654,12 +4592,60 @@
      "id": "1491343919848314"
     }
    }
+  },
+  {
+   "id": "6d97c798",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Apex Cozy Coffee Mug 450ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 499,
+    "was": 0,
+    "feats": [
+     "Lid sits over the top",
+     "Also keeps dust out when you step",
+     "450 ML holds a proper mug of chai"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Apex Cozy Coffee Mug 450ml | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Cozy Coffee Mug 450ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nApex Cozy Coffee Mug 450ml\n✔ Lid sits over the top\n✔ Also keeps dust out when you step\n✔ 450 ML holds a proper mug of chai\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #homeessentials",
+   "title": "Apex Cozy Coffee Mug 450ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794927678.7252944,
+     "id": "1428352113685678_122119130979501659",
+     "dry": false
+    }
+   },
+   "created": 1794927663.4713774,
+   "after": 0,
+   "handle": "apex-cozy-coffee-mug-450-ml-with-lid-and-steel-rim-for-desk-use-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-cozy-coffee-mug-450-ml-with-lid-and-steel-rim-for-desk-use-1-pc",
+   "file": "6d97c798.jpg",
+   "thumb": "6d97c798.jpg"
   }
  ],
- "last_post": 1794925883.6913264,
+ "last_post": 1794927678.7252944,
  "log": [
-  "22:05:32 STORY POSTED facebook@Vinzap-Finds e66937a2",
-  "22:31:28 READY 8133ebd4 Microfiber Hanging Hand Towel (auto-approved)",
   "22:31:31 POSTED facebook@Vinzap-Finds 8133ebd4: 1428352113685678_122118412113501659",
   "12:01:21 READY f685ed2e Silicone Moisturizing Feet Socks Gel, 1 Pair | Home Essentials (auto-approved)",
   "12:01:26 POSTED facebook@Vinzap-Finds f685ed2e: 2529900880830215",
@@ -4857,13 +4843,15 @@
   "19:31:22 POSTED facebook@Vijayendra-Singh f3ed80b3: 1317760538089559_122130508065480728",
   "20:01:23 READY 539df717 Cartoon Self Adhesive Hooks, Set of 2 | Kitchen Hacks (auto-approved)",
   "20:01:27 POSTED facebook@Vinzap-Finds 539df717: 1885169152638959",
-  "20:01:35 STORY POSTED facebook@Vinzap-Finds 539df717"
+  "20:01:35 STORY POSTED facebook@Vinzap-Finds 539df717",
+  "20:31:18 READY 6d97c798 Apex Cozy Coffee Mug 450ml (auto-approved)",
+  "20:31:24 POSTED facebook@Vinzap-Finds 6d97c798: 1428352113685678_122119130979501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794925883.6913264,
+  "facebook@Vinzap-Finds": 1794927678.7252944,
   "facebook@Vijayendra-Singh": 1794924071.9030654,
-  "youtube": 1794918674.559823
+  "youtube": 1794918254.559823
  },
- "n": 639
+ "n": 640
 }
