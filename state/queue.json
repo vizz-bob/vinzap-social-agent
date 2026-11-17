@@ -1,83 +1,6 @@
 {
  "items": [
   {
-   "id": "519e5470",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Multifunction Melon Baller and Fruit Cutter",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Includes 1 melon baller and 1",
-     "Made of durable stainless steel",
-     "Perfect for melons"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Multifunction Melon Baller and Fruit Cutter | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multifunction Melon Baller and Fruit Cutter"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMultifunction Melon Baller and Fruit Cutter\n✔ Includes 1 melon baller and 1\n✔ Made of durable stainless steel\n✔ Perfect for melons\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Multifunction Melon Baller and Fruit Cutter | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794580265.104624,
-     "id": "18202489987387938",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794580265.104624,
-     "id": "1784556689422308",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794580265.104624,
-     "id": "1688631382673096",
-     "dry": false
-    }
-   },
-   "created": 1794580247.7599084,
-   "after": 0,
-   "handle": "multi-function-melon-baller-and-fruit-cutter-set",
-   "product_url": "https://www.vinzapstore.in/products/multi-function-melon-baller-and-fruit-cutter-set",
-   "file": "519e5470.mp4",
-   "thumb": "519e5470_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17993086076861986"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2014468219940272"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1100303106373223"
-    }
-   }
-  },
-  {
    "id": "11edb010",
    "status": "posted",
    "kind": "image",
@@ -4705,13 +4628,67 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-cheese-vegetable-grater-1-pc-1",
    "file": "5d869f51.jpg",
    "thumb": "5d869f51.jpg"
+  },
+  {
+   "id": "d070670a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Skull Shape Ice Cube Tray 8 Grid",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "8 grid design makes multiple",
+     "Fun skull shape adds a cool",
+     "Flexible base makes it easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Skull Shape Ice Cube Tray 8 Grid | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Skull Shape Ice Cube Tray 8 Grid"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSkull Shape Ice Cube Tray 8 Grid\n✔ 8 grid design makes multiple\n✔ Fun skull shape adds a cool\n✔ Flexible base makes it easy\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Skull Shape Ice Cube Tray 8 Grid | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794922275.9570158,
+     "id": "1173445618585082",
+     "dry": false
+    }
+   },
+   "created": 1794922247.557122,
+   "after": 0,
+   "handle": "plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
+   "file": "d070670a.mp4",
+   "thumb": "d070670a_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1885552885958863"
+    }
+   }
   }
  ],
- "last_post": 1794920478.5162919,
+ "last_post": 1794922275.9570158,
  "log": [
-  "18:01:38 FAILED post youtube d54e57b1: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "18:01:52 STORY POSTED facebook@Vinzap-Finds d54e57b1",
-  "18:02:03 STORY POSTED facebook@Vijayendra-Singh d54e57b1",
   "21:41:01 READY 0e6d3888 Aluminium Gas Stove Burner Protector Covers (auto-approved)",
   "21:41:04 POSTED facebook@Vinzap-Finds 0e6d3888: 1428352113685678_122118402669501659",
   "21:41:09 POSTED facebook@Vijayendra-Singh 0e6d3888: 1317760538089559_122129595945480728",
@@ -4908,13 +4885,16 @@
   "18:01:42 STORY POSTED facebook@Vinzap-Finds 9a33e0d6",
   "18:01:52 STORY POSTED facebook@Vijayendra-Singh 9a33e0d6",
   "18:31:18 READY 5d869f51 Multipurpose Cheese and Vegetable Grater (auto-approved)",
-  "18:31:21 POSTED facebook@Vinzap-Finds 5d869f51: 1428352113685678_122119105485501659"
+  "18:31:21 POSTED facebook@Vinzap-Finds 5d869f51: 1428352113685678_122119105485501659",
+  "19:01:15 READY d070670a Skull Shape Ice Cube Tray 8 Grid | Home Essentials (auto-approved)",
+  "19:01:20 POSTED facebook@Vinzap-Finds d070670a: 1173445618585082",
+  "19:01:29 STORY POSTED facebook@Vinzap-Finds d070670a"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794920478.5162919,
+  "facebook@Vinzap-Finds": 1794922275.9570158,
   "facebook@Vijayendra-Singh": 1794918674.559823,
   "youtube": 1794918674.559823
  },
- "n": 636
+ "n": 637
 }
