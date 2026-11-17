@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "473b1d5e",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Heart Shape Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Add water",
-     "DIY & Reserve dessert",
-     "The cubes fit your small diameter"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Heart Shape Ice Cube Tray | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Heart Shape Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nHeart Shape Ice Cube Tray\n✔ Add water\n✔ DIY & Reserve dessert\n✔ The cubes fit your small diameter\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Heart Shape Ice Cube Tray | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794565872.648958,
-     "id": "18195642694397584",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794565872.648958,
-     "id": "1418813203566638",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794565872.648958,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevcZPeD3fz1e2InGU4JUq_e2y"
-    }
-   },
-   "created": 1794565854.8625445,
-   "after": 0,
-   "handle": "1133-heart-shape-ice-cube-tray",
-   "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
-   "file": "473b1d5e.mp4",
-   "thumb": "473b1d5e_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18641985982019320"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1456101895849439"
-    }
-   }
-  },
-  {
    "id": "4629fe00",
    "status": "posted",
    "kind": "image",
@@ -4797,16 +4725,83 @@
    "product_url": "https://www.vinzapstore.in/products/square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
    "file": "995818c5.jpg",
    "thumb": "995818c5.jpg"
+  },
+  {
+   "id": "1979ab40",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Manual Melon Slicer Cutter",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Wide slotted head slices soft",
+     "Doubles as a scoop that lifts out",
+     "Long ergonomic handle keeps hands"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Manual Melon Slicer Cutter | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Melon Slicer Cutter"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nManual Melon Slicer Cutter\n✔ Wide slotted head slices soft\n✔ Doubles as a scoop that lifts out\n✔ Long ergonomic handle keeps hands\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Manual Melon Slicer Cutter | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794907875.327388,
+     "id": "1132313746440182",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794907875.327388,
+     "id": "1125524530378295",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794907875.327388,
+     "id": "7Gxbsf3HzjM",
+     "dry": false
+    }
+   },
+   "created": 1794907845.5740092,
+   "after": 0,
+   "handle": "manual-melon-slicer-cutter-tool-for-watermelon-avocado-and-fruits-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/manual-melon-slicer-cutter-tool-for-watermelon-avocado-and-fruits-1-pc",
+   "file": "1979ab40.mp4",
+   "thumb": "1979ab40_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2358531528271779"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1172999675123841"
+    }
+   }
   }
  ],
- "last_post": 1794906070.5286756,
+ "last_post": 1794907875.327388,
  "log": [
-  "15:01:11 POSTED facebook@Vinzap-Finds 46e0f896: 1707665034048405",
-  "15:01:17 POSTED facebook@Vijayendra-Singh 46e0f896: 1455736116753173",
-  "15:01:17 FAILED post youtube 46e0f896: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
-  "15:01:25 STORY POSTED facebook@Vinzap-Finds 46e0f896",
-  "15:01:33 STORY POSTED facebook@Vijayendra-Singh 46e0f896",
-  "15:31:13 READY 64f628ae Heart Shaped Kumkum Holder Kankavati (auto-approved)",
   "15:31:17 POSTED facebook@Vinzap-Finds 64f628ae: 1428352113685678_122118314265501659",
   "15:31:21 POSTED facebook@Vijayendra-Singh 64f628ae: 1317760538089559_122129484753480728",
   "16:01:21 READY 1a6b8695 Apex Miny Steel Mixing Bowl Set | Diwali (auto-approved)",
@@ -5000,13 +4995,19 @@
   "14:01:30 POSTED facebook@Vinzap-Finds c21a9d75: 1174634485512304",
   "14:01:38 STORY POSTED facebook@Vinzap-Finds c21a9d75",
   "14:31:10 READY 995818c5 Square Ice Cube Mould Set of 4 (auto-approved)",
-  "14:31:14 POSTED facebook@Vinzap-Finds 995818c5: 1428352113685678_122119064541501659"
+  "14:31:14 POSTED facebook@Vinzap-Finds 995818c5: 1428352113685678_122119064541501659",
+  "15:01:15 READY 1979ab40 Manual Melon Slicer Cutter | Home Decor Ideas (auto-approved)",
+  "15:01:19 POSTED facebook@Vinzap-Finds 1979ab40: 1132313746440182",
+  "15:01:24 POSTED facebook@Vijayendra-Singh 1979ab40: 1125524530378295",
+  "15:01:29 POSTED youtube 1979ab40: 7Gxbsf3HzjM",
+  "15:01:37 STORY POSTED facebook@Vinzap-Finds 1979ab40",
+  "15:01:45 STORY POSTED facebook@Vijayendra-Singh 1979ab40"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794906070.5286756,
-  "facebook@Vijayendra-Singh": 1794902496.9254143,
-  "youtube": 1794896659.3172145
+  "facebook@Vinzap-Finds": 1794907875.327388,
+  "facebook@Vijayendra-Singh": 1794907875.327388,
+  "youtube": 1794907875.327388
  },
- "n": 628
+ "n": 629
 }
