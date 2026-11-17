@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "b7473ead",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Electric Barbecue Grill 2000W",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 2889,
-    "was": 0,
-    "feats": [
-     "Perfect electric barbecue grill",
-     "It has a non-stick steel grill",
-     "Cool touch handles"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Electric Barbecue Grill 2000W | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Barbecue Grill 2000W"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nElectric Barbecue Grill 2000W\n✔ Perfect electric barbecue grill\n✔ It has a non-stick steel grill\n✔ Cool touch handles\n\nOnly ₹2889. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Electric Barbecue Grill 2000W | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794555085.8881972,
-     "id": "18095270195693338",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794555085.8881972,
-     "id": "1003868028752164",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794555085.8881972,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu4ApA-8GgVdLgYGA5c7xJZe1"
-    }
-   },
-   "created": 1794555059.6313457,
-   "after": 0,
-   "handle": "electric-barbecue-grill-2000w-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/electric-barbecue-grill-2000w-1-pc",
-   "file": "b7473ead.mp4",
-   "thumb": "b7473ead_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18097236569260635"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4189644324664537"
-    }
-   }
-  },
-  {
    "id": "3c74b18b",
    "status": "posted",
    "kind": "image",
@@ -4865,16 +4793,83 @@
    "product_url": "https://www.vinzapstore.in/products/wall-mount-liquid-soap-and-hand-wash-dispenser-500-ml-1-pc",
    "file": "f3cd5291.jpg",
    "thumb": "f3cd5291.jpg"
+  },
+  {
+   "id": "7cd64899",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "5-in-1 Stainless Steel Grater and Slicer",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "5-in-1 multifunctional grater",
+     "High-quality food-grade stainless",
+     "Sharp blades for smooth"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "5-in-1 Stainless Steel Grater and Slicer | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "5-in-1 Stainless Steel Grater and Slicer"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\n5-in-1 Stainless Steel Grater and Slicer\n✔ 5-in-1 multifunctional grater\n✔ High-quality food-grade stainless\n✔ Sharp blades for smooth\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "5-in-1 Stainless Steel Grater and Slicer | Kitchen Hacks",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794897079.3172145,
+     "id": "1618889072894289",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794897079.3172145,
+     "id": "2053539322525536",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794897079.3172145,
+     "id": "-3qOBre3_2A",
+     "dry": false
+    }
+   },
+   "created": 1794897044.950488,
+   "after": 0,
+   "handle": "supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-5-in-1-stainless-steel-grater-and-slicer",
+   "file": "7cd64899.mp4",
+   "thumb": "7cd64899_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1769191100831487"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1074015155656144"
+    }
+   }
   }
  ],
- "last_post": 1794849364.395885,
+ "last_post": 1794897079.3172145,
  "log": [
-  "12:01:43 STORY POSTED facebook@Vinzap-Finds a830088f",
-  "12:30:58 READY 39be8647 White Coffee Mug Custom Printed (auto-approved)",
-  "12:31:03 POSTED facebook@Vinzap-Finds 39be8647: 1428352113685678_122118284073501659",
-  "12:31:08 POSTED facebook@Vijayendra-Singh 39be8647: 1317760538089559_122129444847480728",
-  "13:01:12 READY 222ed9fc Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali (auto-approved)",
-  "13:01:16 POSTED facebook@Vinzap-Finds 222ed9fc: 1838167090802073",
   "13:01:17 FAILED post facebook@Vijayendra-Singh 222ed9fc: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevbPR3HZZCdU474EVi-S_8kl9DVVRE2GhxfrLp8xqQHc1AFdMqO_dfeEMX4qGKpRBmTk-p1Suhq3MtzUZfU-ob6xCICzc8d9mtcPe4HDA3csc_upSLefNAFsjtgIxXDoB4Y-OERBiUjl74tDdE6uyc1F7myCkYVzf5aJh3I5KRxpUbr9spgzastqXu-QCebonMknUzDtXD8TLTPWsKToGwz5pYjyUV7L7W5UOVTWURDBdWQTyEqjAaQudMdwVapwXmN8lNNLbHHgc9wIqUCAgfKQ4JdJIIQMvMOgoqHxUCX6TfCDB3gIoZWALunNtH2ass\",\"help_cente",
   "13:01:27 STORY POSTED facebook@Vinzap-Finds 222ed9fc",
   "13:30:53 READY de337ba1 Collapsible Electric Kettle 600ml, Foldable (auto-approved)",
@@ -5068,13 +5063,19 @@
   "22:01:43 STORY POSTED facebook@Vinzap-Finds 70a7aacb",
   "22:46:04 READY f3cd5291 Wall Mount Liquid Soap and Hand Wash (auto-approved)",
   "22:46:08 POSTED facebook@Vinzap-Finds f3cd5291: 1428352113685678_122118895527501659",
-  "22:46:12 POSTED facebook@Vijayendra-Singh f3cd5291: 1317760538089559_122130224673480728"
+  "22:46:12 POSTED facebook@Vijayendra-Singh f3cd5291: 1317760538089559_122130224673480728",
+  "12:01:19 READY 7cd64899 5-in-1 Stainless Steel Grater and Slicer | Kitchen Hacks (auto-approved)",
+  "12:01:26 POSTED facebook@Vinzap-Finds 7cd64899: 1618889072894289",
+  "12:01:30 POSTED facebook@Vijayendra-Singh 7cd64899: 2053539322525536",
+  "12:01:37 POSTED youtube 7cd64899: -3qOBre3_2A",
+  "12:01:47 STORY POSTED facebook@Vinzap-Finds 7cd64899",
+  "12:01:57 STORY POSTED facebook@Vijayendra-Singh 7cd64899"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794849364.395885,
-  "facebook@Vijayendra-Singh": 1794849364.395885,
-  "youtube": 1794843081.2106743
+  "facebook@Vinzap-Finds": 1794897079.3172145,
+  "facebook@Vijayendra-Singh": 1794897079.3172145,
+  "youtube": 1794897079.3172145
  },
- "n": 622
+ "n": 623
 }
