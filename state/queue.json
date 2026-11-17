@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "323d1336",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Panda Design Kids Lunch Box",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Cute Panda design that appeals",
-     "Comes with a fork and spoon",
-     "Multiple compartments to store"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Panda Design Kids Lunch Box | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Panda Design Kids Lunch Box"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPanda Design Kids Lunch Box\n✔ Cute Panda design that appeals\n✔ Comes with a fork and spoon\n✔ Multiple compartments to store\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #lunchbox #tiffin\n#diwali #trendingshorts",
-   "title": "Panda Design Kids Lunch Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794564062.6567347,
-     "id": "18442490437179357",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794564062.6567347,
-     "id": "1428352113685678_122118082491501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794564062.6567347,
-     "id": "1317760538089559_122129164281480728",
-     "dry": false
-    }
-   },
-   "created": 1794564060.901022,
-   "after": 0,
-   "handle": "panda-design-kids-lunch-box-with-separate-compartments-1set",
-   "product_url": "https://www.vinzapstore.in/products/panda-design-kids-lunch-box-with-separate-compartments-1set",
-   "file": "323d1336.jpg",
-   "thumb": "323d1336.jpg"
-  },
-  {
    "id": "473b1d5e",
    "status": "scheduled",
    "kind": "reel",
@@ -4809,12 +4747,60 @@
      "id": "1134745889402046"
     }
    }
+  },
+  {
+   "id": "995818c5",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Square Ice Cube Mould Set of 4",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Set of 4 moulds with snap-on lids",
+     "One large square cube per mould",
+     "Lids keep freezer smells out"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Square Ice Cube Mould Set of 4 | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Square Ice Cube Mould Set of 4"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSquare Ice Cube Mould Set of 4\n✔ Set of 4 moulds with snap-on lids\n✔ One large square cube per mould\n✔ Lids keep freezer smells out\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Square Ice Cube Mould Set of 4",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794906070.5286756,
+     "id": "1428352113685678_122119064541501659",
+     "dry": false
+    }
+   },
+   "created": 1794906055.6997995,
+   "after": 0,
+   "handle": "square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
+   "product_url": "https://www.vinzapstore.in/products/square-ice-cube-mould-set-with-lids-multicolor-for-drinks-and-cocktails-4-pc",
+   "file": "995818c5.jpg",
+   "thumb": "995818c5.jpg"
   }
  ],
- "last_post": 1794904286.5097833,
+ "last_post": 1794906070.5286756,
  "log": [
-  "14:31:12 POSTED facebook@Vijayendra-Singh a2f1c54d: 1317760538089559_122129463717480728",
-  "15:01:07 READY 46e0f896 Microfiber Soft Cleaning Towel 28x28cm | Kitchen Organization (auto-approved)",
   "15:01:11 POSTED facebook@Vinzap-Finds 46e0f896: 1707665034048405",
   "15:01:17 POSTED facebook@Vijayendra-Singh 46e0f896: 1455736116753173",
   "15:01:17 FAILED post youtube 46e0f896: HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}",
@@ -5012,13 +4998,15 @@
   "13:31:43 POSTED facebook@Vijayendra-Singh 216c0b8b: 1317760538089559_122130399849480728",
   "14:01:26 READY c21a9d75 Stainless Steel Lunch Box Set | Kitchen Gadgets (auto-approved)",
   "14:01:30 POSTED facebook@Vinzap-Finds c21a9d75: 1174634485512304",
-  "14:01:38 STORY POSTED facebook@Vinzap-Finds c21a9d75"
+  "14:01:38 STORY POSTED facebook@Vinzap-Finds c21a9d75",
+  "14:31:10 READY 995818c5 Square Ice Cube Mould Set of 4 (auto-approved)",
+  "14:31:14 POSTED facebook@Vinzap-Finds 995818c5: 1428352113685678_122119064541501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794904286.5097833,
+  "facebook@Vinzap-Finds": 1794906070.5286756,
   "facebook@Vijayendra-Singh": 1794902496.9254143,
-  "youtube": 1794897079.3172145
+  "youtube": 1794896659.3172145
  },
- "n": 627
+ "n": 628
 }
