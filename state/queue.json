@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "545fb0ae",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Kitchen Faucet Sprayer",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 329,
-    "was": 0,
-    "feats": [
-     "Flexible coiled extension allows",
-     "Rotating sprayer head helps",
-     "Spray outlet supports efficient"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Kitchen Faucet Sprayer | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kitchen Faucet Sprayer"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nKitchen Faucet Sprayer\n✔ Flexible coiled extension allows\n✔ Rotating sprayer head helps\n✔ Spray outlet supports efficient\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#trendingshorts #kitchengadgets",
-   "title": "Kitchen Faucet Sprayer | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794558690.6472466,
-     "id": "17977382541180429",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794558690.6472466,
-     "id": "1514824627413474",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794558690.6472466,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeumL1oPgpPn471DqNYgxB0g44"
-    }
-   },
-   "created": 1794558664.6143486,
-   "after": 0,
-   "handle": "flexible-kitchen-water-faucet-sprayer-with-rotating-tap-head-for-sink-use-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/flexible-kitchen-water-faucet-sprayer-with-rotating-tap-head-for-sink-use-1-pc",
-   "file": "545fb0ae.mp4",
-   "thumb": "545fb0ae_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18145163029610916"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4665710987030848"
-    }
-   }
-  },
-  {
    "id": "7ee6e7ba",
    "status": "posted",
    "kind": "image",
@@ -4854,13 +4782,65 @@
    "product_url": "https://www.vinzapstore.in/products/5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
    "file": "03151593.jpg",
    "thumb": "03151593.jpg"
+  },
+  {
+   "id": "4bb41247",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Vegetable Grater",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 229,
+    "was": 0,
+    "feats": [
+     "Apex Premium Stainless Steel"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Stainless Steel Vegetable Grater | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Vegetable Grater"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Vegetable Grater\n✔ Apex Premium Stainless Steel\n\nOnly ₹229. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Stainless Steel Vegetable Grater | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794900721.2890193,
+     "id": "2198546237707332",
+     "dry": false
+    }
+   },
+   "created": 1794900688.257796,
+   "after": 0,
+   "handle": "apex-premium-stainless-steel-vegetable-grater-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-premium-stainless-steel-vegetable-grater-1-pc",
+   "file": "4bb41247.mp4",
+   "thumb": "4bb41247_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1642252920678249"
+    }
+   }
   }
  ],
- "last_post": 1794898862.3093731,
+ "last_post": 1794900721.2890193,
  "log": [
-  "13:30:53 READY de337ba1 Collapsible Electric Kettle 600ml, Foldable (auto-approved)",
-  "13:30:56 POSTED facebook@Vinzap-Finds de337ba1: 1428352113685678_122118293463501659",
-  "13:31:01 POSTED facebook@Vijayendra-Singh de337ba1: 1317760538089559_122129453535480728",
   "14:01:08 READY b2721c42 Ice Cube Tray | Kitchen Organization (auto-approved)",
   "14:01:14 POSTED facebook@Vinzap-Finds b2721c42: 1096505426350858",
   "14:01:15 FAILED post facebook@Vijayendra-Singh b2721c42: HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevnChvBCr42joxK-fKHTffGqUAyYlcAOlYSSKp0ayDxzyv6Bt1UE1Fbx0jAnS8l5jOJUJexvuGMTV3-akFzgOmacMRjhN_qrKoNyciKzDUg2NugdGLRAzirO-hFQ349yy1aTtknp0NB6QPa-L9dWFDC2Z8nV5EaCYz6t7Q2hzCZE4R_V-x7dq8fy2e3JVdssWF9PrsAM_cYvHEsMCTbJpZgsKKkYIdUT06IUE5v-1ZRylBWzERbLLXvgu-2OCjwLphMT9WwJbjhh3jtkdXx6RGoOvQMGbL16wU49ZzgmB7LSlOg2t4--eGoccSqPr4na06t\",\"help_cent",
@@ -5057,13 +5037,16 @@
   "12:01:47 STORY POSTED facebook@Vinzap-Finds 7cd64899",
   "12:01:57 STORY POSTED facebook@Vijayendra-Singh 7cd64899",
   "12:31:02 READY 03151593 Plastic Knife Organizer Stand (auto-approved)",
-  "12:31:05 POSTED facebook@Vinzap-Finds 03151593: 1428352113685678_122119045005501659"
+  "12:31:05 POSTED facebook@Vinzap-Finds 03151593: 1428352113685678_122119045005501659",
+  "13:02:01 READY 4bb41247 Stainless Steel Vegetable Grater | Home Essentials (auto-approved)",
+  "13:02:06 POSTED facebook@Vinzap-Finds 4bb41247: 2198546237707332",
+  "13:02:14 STORY POSTED facebook@Vinzap-Finds 4bb41247"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794898862.3093731,
+  "facebook@Vinzap-Finds": 1794900721.2890193,
   "facebook@Vijayendra-Singh": 1794897079.3172145,
   "youtube": 1794897079.3172145
  },
- "n": 624
+ "n": 625
 }
