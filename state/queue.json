@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "a830088f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Chalkboard Sticker Labels",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Decorative fancy shape chalkboard",
-     "Write",
-     "Strong self adhesive backing"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Chalkboard Sticker Labels | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Chalkboard Sticker Labels"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nChalkboard Sticker Labels\n✔ Decorative fancy shape chalkboard\n✔ Write\n✔ Strong self adhesive backing\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecor #homedecorideas",
-   "title": "Chalkboard Sticker Labels | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794637888.4397485,
-     "id": "1151670760608729",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794637888.4397485,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevviHOtF7nRzxWmv4xHFRdhxe"
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794637888.4397485,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794637869.7167413,
-   "after": 0,
-   "handle": "fancy-shape-chalkboard-sticker-labels-with-marker-pen-jar-labels-1-set",
-   "product_url": "https://www.vinzapstore.in/products/fancy-shape-chalkboard-sticker-labels-with-marker-pen-jar-labels-1-set",
-   "file": "a830088f.mp4",
-   "thumb": "a830088f_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1024873763964296"
-    }
-   }
-  },
-  {
    "id": "39be8647",
    "status": "posted",
    "kind": "image",
@@ -4633,13 +4566,67 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
    "file": "75fb0057.jpg",
    "thumb": "75fb0057.jpg"
+  },
+  {
+   "id": "03e74ddb",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Cute Cartoon Double Layer Lunch Box",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 1999,
+    "was": 0,
+    "feats": [
+     "Double layer for separate food",
+     "Cartoon-themed look",
+     "Side locks and a carry handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Cute Cartoon Double Layer Lunch Box | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Cute Cartoon Double Layer Lunch Box"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nCute Cartoon Double Layer Lunch Box\n✔ Double layer for separate food\n✔ Cartoon-themed look\n✔ Side locks and a carry handle\n\nOnly ₹1999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #lunchbox #tiffin #kitchenorganization #cooking",
+   "title": "Cute Cartoon Double Layer Lunch Box | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794933106.5930743,
+     "id": "2133600583919779",
+     "dry": false
+    }
+   },
+   "created": 1794933068.1564083,
+   "after": 0,
+   "handle": "cute-cartoon-double-layer-lunch-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/cute-cartoon-double-layer-lunch-box-1-pc",
+   "file": "03e74ddb.mp4",
+   "thumb": "03e74ddb_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1453283800274089"
+    }
+   }
   }
  ],
- "last_post": 1794931267.6226492,
+ "last_post": 1794933106.5930743,
  "log": [
-  "12:31:18 POSTED facebook@Vinzap-Finds a786a91e: 1428352113685678_122118546513501659",
-  "13:01:20 READY 63540e23 Stainless Steel Frying Skimmer Strainer | Kitchen Gadgets (auto-approved)",
-  "13:01:24 POSTED facebook@Vinzap-Finds 63540e23: 3794940697332425",
   "13:01:34 STORY POSTED facebook@Vinzap-Finds 63540e23",
   "13:31:02 READY fefb78be Supermom Spring Masher Stainless Steel (auto-approved)",
   "13:31:05 POSTED facebook@Vinzap-Finds fefb78be: 1428352113685678_122118554805501659",
@@ -4836,13 +4823,16 @@
   "21:03:33 STORY POSTED facebook@Vinzap-Finds 7d009b87",
   "21:03:42 STORY POSTED facebook@Vijayendra-Singh 7d009b87",
   "21:31:07 READY 75fb0057 Stainless Steel Potato Masher 17cm (auto-approved)",
-  "21:31:11 POSTED facebook@Vinzap-Finds 75fb0057: 1428352113685678_122119142211501659"
+  "21:31:11 POSTED facebook@Vinzap-Finds 75fb0057: 1428352113685678_122119142211501659",
+  "22:01:46 READY 03e74ddb Cute Cartoon Double Layer Lunch Box | Kitchen Organization (auto-approved)",
+  "22:01:51 POSTED facebook@Vinzap-Finds 03e74ddb: 2133600583919779",
+  "22:02:04 STORY POSTED facebook@Vinzap-Finds 03e74ddb"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794931267.6226492,
+  "facebook@Vinzap-Finds": 1794933106.5930743,
   "facebook@Vijayendra-Singh": 1794929584.8958297,
   "youtube": 1794929584.8958297
  },
- "n": 642
+ "n": 643
 }
