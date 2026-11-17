@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "ec3ac3f3",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Plastic Ice Cream Scooper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "High-quality material: Made",
-     "Unique design: Each shovel has",
-     "【Package Includes】1 spoons"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Plastic Ice Cream Scooper | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Plastic Ice Cream Scooper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nPlastic Ice Cream Scooper\n✔ High-quality material: Made\n✔ Unique design: Each shovel has\n✔ 【Package Includes】1 spoons\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#cooking #homedecor",
-   "title": "Plastic Ice Cream Scooper",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794571255.5588286,
-     "id": "18091971146274472",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794571255.5588286,
-     "id": "1428352113685678_122118101943501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794571255.5588286,
-     "id": "1317760538089559_122129206419480728",
-     "dry": false
-    }
-   },
-   "created": 1794571253.1212623,
-   "after": 0,
-   "handle": "1-piece-plastic-ice-cream-watermelon-scooper-with-trigger-dipper",
-   "product_url": "https://www.vinzapstore.in/products/1-piece-plastic-ice-cream-watermelon-scooper-with-trigger-dipper",
-   "file": "ec3ac3f3.jpg",
-   "thumb": "ec3ac3f3.jpg"
-  },
-  {
    "id": "ee51b0f0",
    "status": "scheduled",
    "kind": "reel",
@@ -4766,13 +4704,66 @@
      "id": "3549867185200927"
     }
    }
+  },
+  {
+   "id": "59911138",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Disposable Plastic Fruit Fork",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Clear transparent plastic fruit",
+     "2-tine design for easy fruit",
+     "Decorative beaded handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Disposable Plastic Fruit Fork | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Plastic Fruit Fork"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nDisposable Plastic Fruit Fork\n✔ Clear transparent plastic fruit\n✔ 2-tine design for easy fruit\n✔ Decorative beaded handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Disposable Plastic Fruit Fork",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794913266.4769037,
+     "id": "1428352113685678_122119083873501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794913266.4769037,
+     "id": "1317760538089559_122130434403480728",
+     "dry": false
+    }
+   },
+   "created": 1794913248.5903573,
+   "after": 0,
+   "handle": "mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
+   "product_url": "https://www.vinzapstore.in/products/mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
+   "file": "59911138.jpg",
+   "thumb": "59911138.jpg"
   }
  ],
- "last_post": 1794911498.2538018,
+ "last_post": 1794913266.4769037,
  "log": [
-  "16:01:46 STORY POSTED facebook@Vinzap-Finds 1a6b8695",
-  "16:02:01 STORY POSTED facebook@Vijayendra-Singh 1a6b8695",
-  "16:31:01 READY 6bc345da Reusable Plastic Spoon Set of 20 (auto-approved)",
   "16:31:06 POSTED facebook@Vinzap-Finds 6bc345da: 1428352113685678_122118324699501659",
   "16:31:11 POSTED facebook@Vijayendra-Singh 6bc345da: 1317760538089559_122129495361480728",
   "17:01:01 READY 57ba4efa Ice Tray | Diwali (auto-approved)",
@@ -4969,13 +4960,16 @@
   "15:31:40 POSTED facebook@Vinzap-Finds d1cd3ed3: 1428352113685678_122119074411501659",
   "16:01:38 READY f0fac402 Fish Scaler Scraper | Kitchen Gadgets (auto-approved)",
   "16:01:44 POSTED facebook@Vinzap-Finds f0fac402: 3356977284511898",
-  "16:01:53 STORY POSTED facebook@Vinzap-Finds f0fac402"
+  "16:01:53 STORY POSTED facebook@Vinzap-Finds f0fac402",
+  "16:31:06 READY 59911138 Disposable Plastic Fruit Fork (auto-approved)",
+  "16:31:13 POSTED facebook@Vinzap-Finds 59911138: 1428352113685678_122119083873501659",
+  "16:31:18 POSTED facebook@Vijayendra-Singh 59911138: 1317760538089559_122130434403480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794911498.2538018,
-  "facebook@Vijayendra-Singh": 1794907875.327388,
+  "facebook@Vinzap-Finds": 1794913266.4769037,
+  "facebook@Vijayendra-Singh": 1794913266.4769037,
   "youtube": 1794907875.327388
  },
- "n": 631
+ "n": 632
 }
