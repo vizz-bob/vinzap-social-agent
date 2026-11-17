@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "715f82d5",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Smart 3 in 1 Fruit and Vegetable",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 329,
-    "was": 0,
-    "feats": [
-     "3-in-1 Functionality Wash",
-     "Food-Grade Plastic Construction",
-     "Perforated Colander Base Helps"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Smart 3 in 1 Fruit and Vegetable"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Smart 3 in 1 Fruit and Vegetable\n✔ 3-in-1 Functionality Wash\n✔ Food-Grade Plastic Construction\n✔ Perforated Colander Base Helps\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Apex Smart 3 in 1 Fruit and Vegetable | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794587508.5761497,
-     "id": "17946664947366483",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794587508.5761497,
-     "id": "3374908619385677",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794587508.5761497,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuJT7jQ40q-9rIwYD178asKpX"
-    }
-   },
-   "created": 1794587486.4937449,
-   "after": 0,
-   "handle": "apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
-   "file": "715f82d5.mp4",
-   "thumb": "715f82d5_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "18648277636063491"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "29493708250270222"
-    }
-   }
-  },
-  {
    "id": "c172993f",
    "status": "posted",
    "kind": "image",
@@ -4642,16 +4570,83 @@
    "product_url": "https://www.vinzapstore.in/products/apex-cozy-coffee-mug-450-ml-with-lid-and-steel-rim-for-desk-use-1-pc",
    "file": "6d97c798.jpg",
    "thumb": "6d97c798.jpg"
+  },
+  {
+   "id": "752f17bf",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Leakproof Sports Water Bottle 500 ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "One-touch easy drinking spout",
+     "Leakproof design for safe carrying",
+     "Transparent body with clear"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Leakproof Sports Water Bottle 500 ml | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Leakproof Sports Water Bottle 500 ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nLeakproof Sports Water Bottle 500 ml\n✔ One-touch easy drinking spout\n✔ Leakproof design for safe carrying\n✔ Transparent body with clear\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #kitchenorganization",
+   "title": "Leakproof Sports Water Bottle 500 ml | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794929476.2212298,
+     "id": "1150339957468755",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794929476.2212298,
+     "id": "1812852886431798",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794929476.2212298,
+     "id": "yekQcyikALA",
+     "dry": false
+    }
+   },
+   "created": 1794929437.6588447,
+   "after": 0,
+   "handle": "500-ml-leakproof-portable-sports-water-bottle-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/500-ml-leakproof-portable-sports-water-bottle-1-pc",
+   "file": "752f17bf.mp4",
+   "thumb": "752f17bf_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2260670378184613"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2344384796361031"
+    }
+   }
   }
  ],
- "last_post": 1794927678.7252944,
+ "last_post": 1794929476.2212298,
  "log": [
-  "22:31:31 POSTED facebook@Vinzap-Finds 8133ebd4: 1428352113685678_122118412113501659",
-  "12:01:21 READY f685ed2e Silicone Moisturizing Feet Socks Gel, 1 Pair | Home Essentials (auto-approved)",
-  "12:01:26 POSTED facebook@Vinzap-Finds f685ed2e: 2529900880830215",
-  "12:01:33 POSTED facebook@Vijayendra-Singh f685ed2e: 1134860932627452",
-  "12:01:37 POSTED youtube f685ed2e: Niy7ApjpiDM",
-  "12:01:45 STORY POSTED facebook@Vinzap-Finds f685ed2e",
   "12:01:53 STORY POSTED facebook@Vijayendra-Singh f685ed2e",
   "12:31:14 READY a786a91e Kitchen Sink Corner Filter Holder Compact (auto-approved)",
   "12:31:18 POSTED facebook@Vinzap-Finds a786a91e: 1428352113685678_122118546513501659",
@@ -4845,13 +4840,19 @@
   "20:01:27 POSTED facebook@Vinzap-Finds 539df717: 1885169152638959",
   "20:01:35 STORY POSTED facebook@Vinzap-Finds 539df717",
   "20:31:18 READY 6d97c798 Apex Cozy Coffee Mug 450ml (auto-approved)",
-  "20:31:24 POSTED facebook@Vinzap-Finds 6d97c798: 1428352113685678_122119130979501659"
+  "20:31:24 POSTED facebook@Vinzap-Finds 6d97c798: 1428352113685678_122119130979501659",
+  "21:01:16 READY 752f17bf Leakproof Sports Water Bottle 500 ml | Kitchen Gadgets (auto-approved)",
+  "21:01:21 POSTED facebook@Vinzap-Finds 752f17bf: 1150339957468755",
+  "21:01:26 POSTED facebook@Vijayendra-Singh 752f17bf: 1812852886431798",
+  "21:01:33 POSTED youtube 752f17bf: yekQcyikALA",
+  "21:01:43 STORY POSTED facebook@Vinzap-Finds 752f17bf",
+  "21:01:52 STORY POSTED facebook@Vijayendra-Singh 752f17bf"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794927678.7252944,
-  "facebook@Vijayendra-Singh": 1794924071.9030654,
-  "youtube": 1794918254.559823
+  "facebook@Vinzap-Finds": 1794929476.2212298,
+  "facebook@Vijayendra-Singh": 1794929476.2212298,
+  "youtube": 1794929476.2212298
  },
- "n": 640
+ "n": 641
 }
