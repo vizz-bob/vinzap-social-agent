@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "4629fe00",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Fish Scaler Scraper",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Sharp serrated scraper removes",
-     "Attached lid acts as a scale",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Fish Scaler Scraper | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fish Scaler Scraper"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nFish Scaler Scraper\n✔ Sharp serrated scraper removes\n✔ Attached lid acts as a scale\n✔ Comfortable handle gives a firm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#trendingshorts #kitchengadgets",
-   "title": "Fish Scaler Scraper",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794567673.883385,
-     "id": "17886758472547989",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794567673.883385,
-     "id": "1428352113685678_122118091155501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794567673.883385,
-     "id": "1317760538089559_122129176353480728",
-     "dry": false
-    }
-   },
-   "created": 1794567671.6654525,
-   "after": 0,
-   "handle": "fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "file": "4629fe00.jpg",
-   "thumb": "4629fe00.jpg"
-  },
-  {
    "id": "dfbadad8",
    "status": "scheduled",
    "kind": "reel",
@@ -4798,12 +4736,60 @@
      "id": "1172999675123841"
     }
    }
+  },
+  {
+   "id": "d1cd3ed3",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Apex Mocktail Mug Glass Set of 2, 400ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 269,
+    "was": 0,
+    "feats": [
+     "Elegant",
+     "Built to Last Made from virgin",
+     "Perfect Size"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Apex Mocktail Mug Glass Set of 2, 400ml | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Mocktail Mug Glass Set of 2, 400ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nApex Mocktail Mug Glass Set of 2, 400ml\n✔ Elegant\n✔ Built to Last Made from virgin\n✔ Perfect Size\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #homedecor #homedecorideas",
+   "title": "Apex Mocktail Mug Glass Set of 2, 400ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794909695.4729052,
+     "id": "1428352113685678_122119074411501659",
+     "dry": false
+    }
+   },
+   "created": 1794909651.2923224,
+   "after": 0,
+   "handle": "apex-mocktail-mug-glass-2-pc-set-400-ml",
+   "product_url": "https://www.vinzapstore.in/products/apex-mocktail-mug-glass-2-pc-set-400-ml",
+   "file": "d1cd3ed3.jpg",
+   "thumb": "d1cd3ed3.jpg"
   }
  ],
- "last_post": 1794907875.327388,
+ "last_post": 1794909695.4729052,
  "log": [
-  "15:31:17 POSTED facebook@Vinzap-Finds 64f628ae: 1428352113685678_122118314265501659",
-  "15:31:21 POSTED facebook@Vijayendra-Singh 64f628ae: 1317760538089559_122129484753480728",
   "16:01:21 READY 1a6b8695 Apex Miny Steel Mixing Bowl Set | Diwali (auto-approved)",
   "16:01:28 POSTED facebook@Vinzap-Finds 1a6b8695: 1113972218226359",
   "16:01:33 POSTED facebook@Vijayendra-Singh 1a6b8695: 1163382496120233",
@@ -5001,13 +4987,15 @@
   "15:01:24 POSTED facebook@Vijayendra-Singh 1979ab40: 1125524530378295",
   "15:01:29 POSTED youtube 1979ab40: 7Gxbsf3HzjM",
   "15:01:37 STORY POSTED facebook@Vinzap-Finds 1979ab40",
-  "15:01:45 STORY POSTED facebook@Vijayendra-Singh 1979ab40"
+  "15:01:45 STORY POSTED facebook@Vijayendra-Singh 1979ab40",
+  "15:31:35 READY d1cd3ed3 Apex Mocktail Mug Glass Set of 2, 400ml (auto-approved)",
+  "15:31:40 POSTED facebook@Vinzap-Finds d1cd3ed3: 1428352113685678_122119074411501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794907875.327388,
+  "facebook@Vinzap-Finds": 1794909695.4729052,
   "facebook@Vijayendra-Singh": 1794907875.327388,
   "youtube": 1794907875.327388
  },
- "n": 629
+ "n": 630
 }
