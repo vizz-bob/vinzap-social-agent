@@ -1,88 +1,6 @@
 {
  "items": [
   {
-   "id": "acd9eb0b",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Airtight Mason Jar Zipper Pouch",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 45.86,
-    "was": 0,
-    "feats": [
-     "The unique appearance design",
-     "Realistic Mason jar shape design",
-     "They are lightweight and easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Airtight Mason Jar Zipper Pouch"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Airtight Mason Jar Zipper Pouch\n✔ The unique appearance design\n✔ Realistic Mason jar shape design\n✔ They are lightweight and easy\n\nOnly ₹45.86. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#homedecorideas #diwali",
-   "title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794583878.3289185,
-     "id": "18122423416978484",
-     "dry": false
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794583878.3289185,
-     "id": "1481651977191037",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794583878.3289185,
-     "id": "2742934526163199",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794583878.3289185,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794583859.2784402,
-   "after": 0,
-   "handle": "1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
-   "product_url": "https://www.vinzapstore.in/products/1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
-   "file": "acd9eb0b.mp4",
-   "thumb": "acd9eb0b_t.jpg",
-   "stories": {
-    "instagram@Vinzap-Finds": {
-     "ok": true,
-     "id": "17941269654385876"
-    },
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2082666845740266"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn Mo"
-    }
-   }
-  },
-  {
    "id": "96e0cae8",
    "status": "posted",
    "kind": "image",
@@ -4679,13 +4597,67 @@
    "product_url": "https://www.vinzapstore.in/products/10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
    "file": "f3ed80b3.jpg",
    "thumb": "f3ed80b3.jpg"
+  },
+  {
+   "id": "539df717",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Cartoon Self Adhesive Hooks, Set of 2",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "【Durable Materials】 The carefully",
+     "The hooks are very easy",
+     "Suitable for hanging small items"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Cartoon Self Adhesive Hooks, Set of 2 | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Cartoon Self Adhesive Hooks, Set of 2"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nCartoon Self Adhesive Hooks, Set of 2\n✔ 【Durable Materials】 The carefully\n✔ The hooks are very easy\n✔ Suitable for hanging small items\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Cartoon Self Adhesive Hooks, Set of 2 | Kitchen Hacks",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794925883.6913264,
+     "id": "1885169152638959",
+     "dry": false
+    }
+   },
+   "created": 1794925850.6131241,
+   "after": 0,
+   "handle": "multipurpose-strong-cartoon-hook-self-adhesive-hooks-2-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-strong-cartoon-hook-self-adhesive-hooks-2-pc-set",
+   "file": "539df717.mp4",
+   "thumb": "539df717_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1491343919848314"
+    }
+   }
   }
  ],
- "last_post": 1794924071.9030654,
+ "last_post": 1794925883.6913264,
  "log": [
-  "22:05:11 READY e66937a2 Stainless Steel Potato Peeler | Kitchen Organization (auto-approved)",
-  "22:05:16 POSTED facebook@Vinzap-Finds e66937a2: 1185968604089337",
-  "22:05:23 POSTED youtube e66937a2: 4KKa0KVK-aM",
   "22:05:32 STORY POSTED facebook@Vinzap-Finds e66937a2",
   "22:31:28 READY 8133ebd4 Microfiber Hanging Hand Towel (auto-approved)",
   "22:31:31 POSTED facebook@Vinzap-Finds 8133ebd4: 1428352113685678_122118412113501659",
@@ -4882,13 +4854,16 @@
   "19:01:29 STORY POSTED facebook@Vinzap-Finds d070670a",
   "19:31:11 READY f3ed80b3 Reusable Pizza Storage Container (auto-approved)",
   "19:31:17 POSTED facebook@Vinzap-Finds f3ed80b3: 1428352113685678_122119121109501659",
-  "19:31:22 POSTED facebook@Vijayendra-Singh f3ed80b3: 1317760538089559_122130508065480728"
+  "19:31:22 POSTED facebook@Vijayendra-Singh f3ed80b3: 1317760538089559_122130508065480728",
+  "20:01:23 READY 539df717 Cartoon Self Adhesive Hooks, Set of 2 | Kitchen Hacks (auto-approved)",
+  "20:01:27 POSTED facebook@Vinzap-Finds 539df717: 1885169152638959",
+  "20:01:35 STORY POSTED facebook@Vinzap-Finds 539df717"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794924071.9030654,
+  "facebook@Vinzap-Finds": 1794925883.6913264,
   "facebook@Vijayendra-Singh": 1794924071.9030654,
   "youtube": 1794918674.559823
  },
- "n": 638
+ "n": 639
 }
