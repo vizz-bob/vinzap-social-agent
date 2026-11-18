@@ -1,62 +1,6 @@
 {
  "items": [
   {
-   "id": "6bc345da",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Reusable Plastic Spoon Set of 20",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Value pack of 20 spoons provides",
-     "Reusable and durable plastic is",
-     "Bright colour adds a fun"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "diwali"
-    ],
-    "yt_title": "Reusable Plastic Spoon Set of 20 | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Plastic Spoon Set of 20"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nReusable Plastic Spoon Set of 20\n✔ Value pack of 20 spoons provides\n✔ Reusable and durable plastic is\n✔ Bright colour adds a fun\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#homedecorideas #diwali",
-   "title": "Reusable Plastic Spoon Set of 20",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794654061.6397653,
-     "id": "1428352113685678_122118324699501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794654061.6397653,
-     "id": "1317760538089559_122129495361480728",
-     "dry": false
-    }
-   },
-   "created": 1794654059.3782916,
-   "after": 0,
-   "handle": "plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
-   "file": "6bc345da.jpg",
-   "thumb": "6bc345da.jpg"
-  },
-  {
    "id": "57ba4efa",
    "status": "scheduled",
    "kind": "reel",
@@ -4608,12 +4552,60 @@
      "id": "1190432303510390"
     }
    }
+  },
+  {
+   "id": "7fd7ebc5",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Apex Manual Citrus Juicer",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 259,
+    "was": 0,
+    "feats": [
+     "Manual Citrus Juicer :",
+     "Multipurpose Use : Suitable",
+     "Durable BPA-Free Plastic : Safe"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Apex Manual Citrus Juicer | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Manual Citrus Juicer"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nApex Manual Citrus Juicer\n✔ Manual Citrus Juicer :\n✔ Multipurpose Use : Suitable\n✔ Durable BPA-Free Plastic : Safe\n\nOnly ₹259. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Apex Manual Citrus Juicer",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794996966.9640045,
+     "id": "1428352113685678_122119314813501659",
+     "dry": false
+    }
+   },
+   "created": 1794996952.231327,
+   "after": 0,
+   "handle": "apex-manual-citrus-juicer",
+   "product_url": "https://www.vinzapstore.in/products/apex-manual-citrus-juicer",
+   "file": "7fd7ebc5.jpg",
+   "thumb": "7fd7ebc5.jpg"
   }
  ],
- "last_post": 1794995163.6087599,
+ "last_post": 1794996966.9640045,
  "log": [
-  "18:01:28 READY 79e7deae Stainless Steel Apple Cutter and Slicer, | Kitchen Hacks (auto-approved)",
-  "18:01:33 POSTED facebook@Vinzap-Finds 79e7deae: 3050172065317861",
   "18:01:37 POSTED facebook@Vijayendra-Singh 79e7deae: 2679930615795929",
   "18:01:41 POSTED youtube 79e7deae: gcbb5tmgLtY",
   "18:01:49 STORY POSTED facebook@Vinzap-Finds 79e7deae",
@@ -4811,13 +4803,15 @@
   "15:16:12 POSTED facebook@Vijayendra-Singh 7dbffbac: 1147820697753147",
   "15:16:20 POSTED youtube 7dbffbac: 3uYNagrjzQk",
   "15:16:30 STORY POSTED facebook@Vinzap-Finds 7dbffbac",
-  "15:16:39 STORY POSTED facebook@Vijayendra-Singh 7dbffbac"
+  "15:16:39 STORY POSTED facebook@Vijayendra-Singh 7dbffbac",
+  "15:46:06 READY 7fd7ebc5 Apex Manual Citrus Juicer (auto-approved)",
+  "15:46:10 POSTED facebook@Vinzap-Finds 7fd7ebc5: 1428352113685678_122119314813501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794995163.6087599,
+  "facebook@Vinzap-Finds": 1794996966.9640045,
   "facebook@Vijayendra-Singh": 1794995163.6087599,
   "youtube": 1794995163.6087599
  },
- "n": 651
+ "n": 652
 }
