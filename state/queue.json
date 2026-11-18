@@ -1,79 +1,6 @@
 {
  "items": [
   {
-   "id": "6997d8b4",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "5 in 1 Multipurpose Kitchen Tool Combo Set",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 509,
-    "was": 0,
-    "feats": [
-     "Complete 5-in-1 kitchen utility",
-     "Includes knife",
-     "Suitable for cutting"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "5 in 1 Multipurpose Kitchen Tool Combo Set"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\n5 in 1 Multipurpose Kitchen Tool Combo Set\n✔ Complete 5-in-1 kitchen utility\n✔ Includes knife\n✔ Suitable for cutting\n\nOnly ₹509. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #combooffer #valuedeals #kitchenorganization #cooking",
-   "title": "5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794735099.933702,
-     "id": "1843197990263424",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794735099.933702,
-     "id": "1835450074270292",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1794735099.933702,
-     "id": "4r9cxnKH4Ls",
-     "dry": false
-    }
-   },
-   "created": 1794735067.6395247,
-   "after": 0,
-   "handle": "5-in-1-multipurpose-kitchen-tool-combo-set-1-set",
-   "product_url": "https://www.vinzapstore.in/products/5-in-1-multipurpose-kitchen-tool-combo-set-1-set",
-   "file": "6997d8b4.mp4",
-   "thumb": "6997d8b4_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1430781818766840"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1173432478596625"
-    }
-   }
-  },
-  {
    "id": "d34e5298",
    "status": "scheduled",
    "kind": "image",
@@ -4586,13 +4513,67 @@
    "product_url": "https://www.vinzapstore.in/products/white-enamel-mugs",
    "file": "ec3e567e.jpg",
    "thumb": "ec3e567e.jpg"
+  },
+  {
+   "id": "1df2b1cb",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Knife Sharpener",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Rotating sharpening wheels",
+     "Peel-and-stick adhesive base",
+     "Stable one-hand operation keeps"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Knife Sharpener | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Knife Sharpener"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nKnife Sharpener\n✔ Rotating sharpening wheels\n✔ Peel-and-stick adhesive base\n✔ Stable one-hand operation keeps\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
+   "title": "Knife Sharpener | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795021415.865305,
+     "id": "1658516145724741",
+     "dry": false
+    }
+   },
+   "created": 1795021383.2796514,
+   "after": 0,
+   "handle": "compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/compact-knife-sharpener-with-adhesive-base-manual-roller-blade-sharpener-1-pc",
+   "file": "1df2b1cb.mp4",
+   "thumb": "1df2b1cb_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1174299795045208"
+    }
+   }
   }
  ],
- "last_post": 1795018554.2077339,
+ "last_post": 1795021415.865305,
  "log": [
-  "12:31:11 POSTED facebook@Vinzap-Finds b40b181f: 1428352113685678_122118779037501659",
-  "13:01:30 READY 5c7bcbdb Stainless Steel Vegetable Cutter | Cooking (auto-approved)",
-  "13:01:37 POSTED facebook@Vinzap-Finds 5c7bcbdb: 1616874536880639",
   "13:01:48 STORY POSTED facebook@Vinzap-Finds 5c7bcbdb",
   "13:31:35 READY 6eb7a31f Stainless Steel Egg Steamer Rack, Folding (auto-approved)",
   "13:31:37 POSTED facebook@Vinzap-Finds 6eb7a31f: 1428352113685678_122118788565501659",
@@ -4789,13 +4770,16 @@
   "21:16:33 STORY POSTED facebook@Vinzap-Finds 3157da68",
   "21:16:42 STORY POSTED facebook@Vijayendra-Singh 3157da68",
   "21:45:54 READY ec3e567e White Enamel Mug Custom Printed (auto-approved)",
-  "21:45:59 POSTED facebook@Vinzap-Finds ec3e567e: 1428352113685678_122119375473501659"
+  "21:45:59 POSTED facebook@Vinzap-Finds ec3e567e: 1428352113685678_122119375473501659",
+  "22:33:35 READY 1df2b1cb Knife Sharpener | Trending Shorts (auto-approved)",
+  "22:33:40 POSTED facebook@Vinzap-Finds 1df2b1cb: 1658516145724741",
+  "22:33:49 STORY POSTED facebook@Vinzap-Finds 1df2b1cb"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795018554.2077339,
+  "facebook@Vinzap-Finds": 1795021415.865305,
   "facebook@Vijayendra-Singh": 1795016763.2509432,
   "youtube": 1795016763.2509432
  },
- "n": 664
+ "n": 665
 }
