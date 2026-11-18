@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "63540e23",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Frying Skimmer Strainer",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Wide mesh design for efficient",
-     "Long handle for safe",
-     "Ideal for lifting and straining"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Stainless Steel Frying Skimmer Strainer | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Frying Skimmer Strainer"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Frying Skimmer Strainer\n✔ Wide mesh design for efficient\n✔ Long handle for safe\n✔ Ideal for lifting and straining\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
-   "title": "Stainless Steel Frying Skimmer Strainer | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794727880.3701246,
-     "id": "3794940697332425",
-     "dry": false
-    }
-   },
-   "created": 1794727846.307071,
-   "after": 0,
-   "handle": "stainless-steel-frying-skimmer-strainer-with-wooden-handle-1-pc-45-cm",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-frying-skimmer-strainer-with-wooden-handle-1-pc-45-cm",
-   "file": "63540e23.mp4",
-   "thumb": "63540e23_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "957737807170262"
-    }
-   }
-  },
-  {
    "id": "fefb78be",
    "status": "posted",
    "kind": "image",
@@ -4575,13 +4518,67 @@
    "product_url": "https://www.vinzapstore.in/products/adjustable-kitchen-cooking-apron-for-chefs-baking-cleaning-and-gardening-1-pc",
    "file": "afa3e83d.jpg",
    "thumb": "afa3e83d.jpg"
+  },
+  {
+   "id": "371a3a33",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Kitchen Knife Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Ergonomic Handles: Comfortable",
+     "Sharp Stainless Steel Blades:",
+     "Versatile Set: Includes knives"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Kitchen Knife Set | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kitchen Knife Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nKitchen Knife Set\n✔ Ergonomic Handles: Comfortable\n✔ Sharp Stainless Steel Blades:\n✔ Versatile Set: Includes knives\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Kitchen Knife Set | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795013195.4350204,
+     "id": "2447269282785066",
+     "dry": false
+    }
+   },
+   "created": 1795013157.6424258,
+   "after": 0,
+   "handle": "kitchen-knife-set-with-ergonomic-handles-stainless-steel-chef-knives-12-pc",
+   "product_url": "https://www.vinzapstore.in/products/kitchen-knife-set-with-ergonomic-handles-stainless-steel-chef-knives-12-pc",
+   "file": "371a3a33.mp4",
+   "thumb": "371a3a33_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3218681478336820"
+    }
+   }
   }
  ],
- "last_post": 1795011353.225859,
+ "last_post": 1795013195.4350204,
  "log": [
-  "22:01:45 READY efacf82d Air Fryer Skewer Stand Stainless Steel | Home Essentials (auto-approved)",
-  "22:01:51 POSTED facebook@Vinzap-Finds efacf82d: 1454349686159498",
-  "22:02:02 STORY POSTED facebook@Vinzap-Finds efacf82d",
   "22:31:19 READY 25836f5f Wall Mounted Stainless Steel Cup and Mug (auto-approved)",
   "22:31:23 POSTED facebook@Vinzap-Finds 25836f5f: 1428352113685678_122118659373501659",
   "22:31:27 POSTED facebook@Vijayendra-Singh 25836f5f: 1317760538089559_122129922747480728",
@@ -4778,13 +4775,16 @@
   "19:16:36 STORY POSTED facebook@Vinzap-Finds 4aaf9345",
   "19:45:53 READY afa3e83d Adjustable Kitchen Cooking Apron (auto-approved)",
   "19:45:56 POSTED facebook@Vinzap-Finds afa3e83d: 1428352113685678_122119354965501659",
-  "19:45:59 POSTED facebook@Vijayendra-Singh afa3e83d: 1317760538089559_122130841593480728"
+  "19:45:59 POSTED facebook@Vijayendra-Singh afa3e83d: 1317760538089559_122130841593480728",
+  "20:16:35 READY 371a3a33 Kitchen Knife Set | Home Essentials (auto-approved)",
+  "20:16:40 POSTED facebook@Vinzap-Finds 371a3a33: 2447269282785066",
+  "20:16:53 STORY POSTED facebook@Vinzap-Finds 371a3a33"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795011353.225859,
+  "facebook@Vinzap-Finds": 1795013195.4350204,
   "facebook@Vijayendra-Singh": 1795011353.225859,
   "youtube": 1795005973.3827786
  },
- "n": 660
+ "n": 661
 }
