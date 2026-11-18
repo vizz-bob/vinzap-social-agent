@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "d54e57b1",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Soap Dispensing Dishwand Scrubber Brush,",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 159,
-    "was": 0,
-    "feats": [
-     "Built-in soap dispenser handle",
-     "Strong dual-layer sponge head",
-     "Long ergonomic handle for better"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Soap Dispensing Dishwand Scrubber Brush, | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Soap Dispensing Dishwand Scrubber Brush,"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSoap Dispensing Dishwand Scrubber Brush,\n✔ Built-in soap dispenser handle\n✔ Strong dual-layer sponge head\n✔ Long ergonomic handle for better\n\nOnly ₹159. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#kitchengadgets #kitchenorganization",
-   "title": "Soap Dispensing Dishwand Scrubber Brush, | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794659488.563348,
-     "id": "1649327146872502",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794659488.563348,
-     "id": "1153913867388285",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794659488.563348,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794659469.3505774,
-   "after": 0,
-   "handle": "heavy-duty-soap-dispensing-dishwand-scrubber-brush-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/heavy-duty-soap-dispensing-dishwand-scrubber-brush-1-pc",
-   "file": "d54e57b1.mp4",
-   "thumb": "d54e57b1_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1551913673639295"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1820488485823712"
-    }
-   }
-  },
-  {
    "id": "0e6d3888",
    "status": "posted",
    "kind": "image",
@@ -4592,13 +4520,67 @@
    "product_url": "https://www.vinzapstore.in/products/fruit-veg-slicing-combo-of-3",
    "file": "220077d4.jpg",
    "thumb": "220077d4.jpg"
+  },
+  {
+   "id": "1bad943a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Adjustable Microwave Oven Storage Rack",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 3359,
+    "was": 0,
+    "feats": [
+     "Adjustable expandable width fits",
+     "Upper shelf turns dead space",
+     "Side hooks hang ladles"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Adjustable Microwave Oven Storage Rack | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Adjustable Microwave Oven Storage Rack"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nAdjustable Microwave Oven Storage Rack\n✔ Adjustable expandable width fits\n✔ Upper shelf turns dead space\n✔ Side hooks hang ladles\n\nOnly ₹3359. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #trendingshorts #kitchenhacks",
+   "title": "Adjustable Microwave Oven Storage Rack | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795002370.760228,
+     "id": "1126342533498464",
+     "dry": false
+    }
+   },
+   "created": 1795002341.0721152,
+   "after": 0,
+   "handle": "adjustable-microwave-oven-storage-rack-metal-kitchen-shelf-with-hooks-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/adjustable-microwave-oven-storage-rack-metal-kitchen-shelf-with-hooks-1-pc",
+   "file": "1bad943a.mp4",
+   "thumb": "1bad943a_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1936497300663013"
+    }
+   }
   }
  ],
- "last_post": 1795000559.111239,
+ "last_post": 1795002370.760228,
  "log": [
-  "18:58:16 READY 2989f792 Disposable Clear Plastic Gloves Large | Home Decor (auto-approved)",
-  "18:58:21 POSTED facebook@Vinzap-Finds 2989f792: 1096010653469565",
-  "18:58:30 STORY POSTED facebook@Vinzap-Finds 2989f792",
   "19:31:04 READY c2aaa284 Silicone Cooking Spatula 19cm (auto-approved)",
   "19:31:08 POSTED facebook@Vinzap-Finds c2aaa284: 1428352113685678_122118627555501659",
   "19:31:12 POSTED facebook@Vijayendra-Singh c2aaa284: 1317760538089559_122129865381480728",
@@ -4795,13 +4777,16 @@
   "16:16:23 STORY POSTED facebook@Vinzap-Finds a4ad98f7",
   "16:45:59 READY 220077d4 Fruit and Veg Slicing Combo of 3 (auto-approved)",
   "16:46:02 POSTED facebook@Vinzap-Finds 220077d4: 1428352113685678_122119325427501659",
-  "16:46:06 POSTED facebook@Vijayendra-Singh 220077d4: 1317760538089559_122130783723480728"
+  "16:46:06 POSTED facebook@Vijayendra-Singh 220077d4: 1317760538089559_122130783723480728",
+  "17:16:10 READY 1bad943a Adjustable Microwave Oven Storage Rack | Trending Shorts (auto-approved)",
+  "17:16:16 POSTED facebook@Vinzap-Finds 1bad943a: 1126342533498464",
+  "17:16:27 STORY POSTED facebook@Vinzap-Finds 1bad943a"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795000559.111239,
+  "facebook@Vinzap-Finds": 1795002370.760228,
   "facebook@Vijayendra-Singh": 1795000559.111239,
   "youtube": 1794995163.6087599
  },
- "n": 654
+ "n": 655
 }
