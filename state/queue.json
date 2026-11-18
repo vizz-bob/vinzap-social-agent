@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "b2721c42",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Ice Cube Tray",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "14-grid design for making",
-     "Comes with a lid to keep ice",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Ice Cube Tray | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Cube Tray"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials\n#kitchenorganization #cooking",
-   "title": "Ice Cube Tray | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794645068.7967496,
-     "id": "1096505426350858",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794645068.7967496,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevnChvBCr42joxK-fKHTffGqU"
-    }
-   },
-   "created": 1794645043.8068628,
-   "after": 0,
-   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
-   "file": "b2721c42.mp4",
-   "thumb": "b2721c42_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1035381622923054"
-    }
-   }
-  },
-  {
    "id": "a2f1c54d",
    "status": "posted",
    "kind": "image",
@@ -4628,13 +4566,67 @@
    "product_url": "https://www.vinzapstore.in/products/suta-electric-glass-kettle-2-litre-stainless-steel-hot-water-boiler-for-tea-1-pc",
    "file": "2df74d9a.jpg",
    "thumb": "2df74d9a.jpg"
+  },
+  {
+   "id": "fbe1fc52",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Transparent Plastic Cup",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Transparent body lets you see",
+     "Comfortable side handle",
+     "Anti-slip grip band around"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Transparent Plastic Cup | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Transparent Plastic Cup"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nTransparent Plastic Cup\n✔ Transparent body lets you see\n✔ Comfortable side handle\n✔ Anti-slip grip band around\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #trendingshorts #kitchenhacks",
+   "title": "Transparent Plastic Cup | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794987971.5249395,
+     "id": "2246334259277922",
+     "dry": false
+    }
+   },
+   "created": 1794987933.5719693,
+   "after": 0,
+   "handle": "transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
+   "file": "fbe1fc52.mp4",
+   "thumb": "fbe1fc52_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2201813217430397"
+    }
+   }
   }
  ],
- "last_post": 1794986152.3796124,
+ "last_post": 1794987971.5249395,
  "log": [
-  "15:01:51 POSTED facebook@Vijayendra-Singh 6997d8b4: 1835450074270292",
-  "15:01:56 POSTED youtube 6997d8b4: 4r9cxnKH4Ls",
-  "15:02:05 STORY POSTED facebook@Vinzap-Finds 6997d8b4",
   "15:02:15 STORY POSTED facebook@Vijayendra-Singh 6997d8b4",
   "15:31:15 READY d34e5298 Electric Kettle 2.3 Litre Fast Boiling (auto-approved)",
   "15:31:19 POSTED facebook@Vinzap-Finds d34e5298: 1428352113685678_122118574899501659",
@@ -4831,13 +4823,16 @@
   "12:12:00 STORY POSTED facebook@Vinzap-Finds 9ecced4c",
   "12:12:13 STORY POSTED facebook@Vijayendra-Singh 9ecced4c",
   "12:45:52 READY 2df74d9a Electric Glass Kettle 2 Litre (auto-approved)",
-  "12:45:56 POSTED facebook@Vinzap-Finds 2df74d9a: 1428352113685678_122119287393501659"
+  "12:45:56 POSTED facebook@Vinzap-Finds 2df74d9a: 1428352113685678_122119287393501659",
+  "13:16:11 READY fbe1fc52 Transparent Plastic Cup | Trending Shorts (auto-approved)",
+  "13:16:15 POSTED facebook@Vinzap-Finds fbe1fc52: 2246334259277922",
+  "13:16:24 STORY POSTED facebook@Vinzap-Finds fbe1fc52"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794986152.3796124,
+  "facebook@Vinzap-Finds": 1794987971.5249395,
   "facebook@Vijayendra-Singh": 1794984087.9743626,
   "youtube": 1794984087.9743626
  },
- "n": 646
+ "n": 647
 }
