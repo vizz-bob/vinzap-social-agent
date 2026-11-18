@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "46e0f896",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Microfiber Soft Cleaning Towel 28x28cm",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Size: 28 x 28 cm",
-     "Dense microfiber pile that",
-     "Lint-free"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Microfiber Soft Cleaning Towel 28x28cm | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Microfiber Soft Cleaning Towel 28x28cm"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nMicrofiber Soft Cleaning Towel 28x28cm\n✔ Size: 28 x 28 cm\n✔ Dense microfiber pile that\n✔ Lint-free\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #cleaninghacks #homecleaning\n#kitchenorganization #cooking",
-   "title": "Microfiber Soft Cleaning Towel 28x28cm | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794648667.7839124,
-     "id": "1707665034048405",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794648667.7839124,
-     "id": "1455736116753173",
-     "dry": false
-    },
-    "youtube": {
-     "ok": false,
-     "ts": 1794648667.7839124,
-     "error": "HTTP 400: {\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
-    }
-   },
-   "created": 1794648643.0567615,
-   "after": 0,
-   "handle": "microfiber-soft-cleaning-towel-absorbent-kitchen-wipe-cloth-28x28-cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/microfiber-soft-cleaning-towel-absorbent-kitchen-wipe-cloth-28x28-cm-1-pc",
-   "file": "46e0f896.mp4",
-   "thumb": "46e0f896_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2058977348149724"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "3085537098467846"
-    }
-   }
-  },
-  {
    "id": "64f628ae",
    "status": "posted",
    "kind": "image",
@@ -4623,13 +4551,67 @@
    "product_url": "https://www.vinzapstore.in/products/500-ml-leakproof-portable-sports-water-bottle-1-pc",
    "file": "0042ddd2.jpg",
    "thumb": "0042ddd2.jpg"
+  },
+  {
+   "id": "8f61102f",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Apex Smart 3 in 1 Fruit and Vegetable",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 329,
+    "was": 0,
+    "feats": [
+     "3-in-1 Functionality Wash",
+     "Food-Grade Plastic Construction",
+     "Perforated Colander Base Helps"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Smart 3 in 1 Fruit and Vegetable"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nApex Smart 3 in 1 Fruit and Vegetable\n✔ 3-in-1 Functionality Wash\n✔ Food-Grade Plastic Construction\n✔ Perforated Colander Base Helps\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794991567.2961223,
+     "id": "1115098927964638",
+     "dry": false
+    }
+   },
+   "created": 1794991537.0463948,
+   "after": 0,
+   "handle": "apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
+   "product_url": "https://www.vinzapstore.in/products/apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
+   "file": "8f61102f.mp4",
+   "thumb": "8f61102f_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3292763781114239"
+    }
+   }
   }
  ],
- "last_post": 1794989749.4414704,
+ "last_post": 1794991567.2961223,
  "log": [
-  "16:01:15 READY f5afab44 Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas (auto-approved)",
-  "16:01:22 POSTED facebook@Vinzap-Finds f5afab44: 2945189795880061",
-  "16:01:31 STORY POSTED facebook@Vinzap-Finds f5afab44",
   "16:31:36 READY 57396a35 Oil and Juice Pourer Dispenser Bottle 1000ml (auto-approved)",
   "16:31:41 POSTED facebook@Vinzap-Finds 57396a35: 1428352113685678_122118585723501659",
   "16:31:45 POSTED facebook@Vijayendra-Singh 57396a35: 1317760538089559_122129815077480728",
@@ -4826,13 +4808,16 @@
   "13:16:24 STORY POSTED facebook@Vinzap-Finds fbe1fc52",
   "13:45:49 READY 0042ddd2 Leakproof Sports Water Bottle 500 ml (auto-approved)",
   "13:45:55 POSTED facebook@Vinzap-Finds 0042ddd2: 1428352113685678_122119296027501659",
-  "13:46:00 POSTED facebook@Vijayendra-Singh 0042ddd2: 1317760538089559_122130737301480728"
+  "13:46:00 POSTED facebook@Vijayendra-Singh 0042ddd2: 1317760538089559_122130737301480728",
+  "14:16:07 READY 8f61102f Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas (auto-approved)",
+  "14:16:12 POSTED facebook@Vinzap-Finds 8f61102f: 1115098927964638",
+  "14:16:24 STORY POSTED facebook@Vinzap-Finds 8f61102f"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794989749.4414704,
+  "facebook@Vinzap-Finds": 1794991567.2961223,
   "facebook@Vijayendra-Singh": 1794989749.4414704,
   "youtube": 1794984087.9743626
  },
- "n": 648
+ "n": 649
 }
