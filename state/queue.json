@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "8133ebd4",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Microfiber Hanging Hand Towel",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "The napkins are highly absorbent",
-     "This range of premium Hanging",
-     "This lovely towel set is soft"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Microfiber Hanging Hand Towel | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Microfiber Hanging Hand Towel"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nMicrofiber Hanging Hand Towel\n✔ The napkins are highly absorbent\n✔ This range of premium Hanging\n✔ This lovely towel set is soft\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
-   "title": "Microfiber Hanging Hand Towel",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794675688.2272823,
-     "id": "1428352113685678_122118412113501659",
-     "dry": false
-    }
-   },
-   "created": 1794675673.8986413,
-   "after": 0,
-   "handle": "microfiber-wash-basin-hanging-hand-kitchen-towel-napkin-with-loop",
-   "product_url": "https://www.vinzapstore.in/products/microfiber-wash-basin-hanging-hand-kitchen-towel-napkin-with-loop",
-   "file": "8133ebd4.jpg",
-   "thumb": "8133ebd4.jpg"
-  },
-  {
    "id": "f685ed2e",
    "status": "posted",
    "kind": "reel",
@@ -4583,12 +4533,60 @@
      "id": "1433245258839249"
     }
    }
+  },
+  {
+   "id": "c00dfbbc",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Black Coffee Mug Custom Printed",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 432,
+    "was": 0,
+    "feats": [
+     "Material: glossy ceramic",
+     "Capacity: 11 oz",
+     "Clean black finish"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Black Coffee Mug Custom Printed | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Black Coffee Mug Custom Printed"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nBlack Coffee Mug Custom Printed\n✔ Material: glossy ceramic\n✔ Capacity: 11 oz\n✔ Clean black finish\n\nOnly ₹432. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #mug #giftideas #festivegifts #kitchenhacks #homeessentials",
+   "title": "Black Coffee Mug Custom Printed",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795007761.9862506,
+     "id": "1428352113685678_122119344921501659",
+     "dry": false
+    }
+   },
+   "created": 1795007748.7575371,
+   "after": 0,
+   "handle": "black-coffee-mug",
+   "product_url": "https://www.vinzapstore.in/products/black-coffee-mug",
+   "file": "c00dfbbc.jpg",
+   "thumb": "c00dfbbc.jpg"
   }
  ],
- "last_post": 1795005973.3827786,
+ "last_post": 1795007761.9862506,
  "log": [
-  "21:01:30 READY 5c904a6f Natural Wood Chopping Board | Home Essentials (auto-approved)",
-  "21:01:34 POSTED facebook@Vinzap-Finds 5c904a6f: 1667149278117208",
   "21:01:38 POSTED facebook@Vijayendra-Singh 5c904a6f: 2441684803048461",
   "21:01:45 POSTED youtube 5c904a6f: fGdz9B6t4_g",
   "21:01:53 STORY POSTED facebook@Vinzap-Finds 5c904a6f",
@@ -4786,13 +4784,15 @@
   "18:16:21 POSTED facebook@Vijayendra-Singh 5af3fa0e: 1843262486913831",
   "18:16:25 POSTED youtube 5af3fa0e: HrB7EHP34uM",
   "18:16:33 STORY POSTED facebook@Vinzap-Finds 5af3fa0e",
-  "18:16:41 STORY POSTED facebook@Vijayendra-Singh 5af3fa0e"
+  "18:16:41 STORY POSTED facebook@Vijayendra-Singh 5af3fa0e",
+  "18:46:01 READY c00dfbbc Black Coffee Mug Custom Printed (auto-approved)",
+  "18:46:07 POSTED facebook@Vinzap-Finds c00dfbbc: 1428352113685678_122119344921501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795005973.3827786,
+  "facebook@Vinzap-Finds": 1795007761.9862506,
   "facebook@Vijayendra-Singh": 1795005973.3827786,
   "youtube": 1795005973.3827786
  },
- "n": 657
+ "n": 658
 }
