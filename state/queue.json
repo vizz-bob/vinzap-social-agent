@@ -1,77 +1,6 @@
 {
  "items": [
   {
-   "id": "f685ed2e",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Silicone Moisturizing Feet Socks Gel, 1 Pair",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 329,
-    "was": 0,
-    "feats": [
-     "Everyday home essential"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Silicone Moisturizing Feet Socks Gel, 1 Pair | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Moisturizing Feet Socks Gel, 1 Pair"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nSilicone Moisturizing Feet Socks Gel, 1 Pair\n✔ Everyday home essential\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
-   "title": "Silicone Moisturizing Feet Socks Gel, 1 Pair | Home Essentials",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794724281.9627268,
-     "id": "2529900880830215",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794724281.9627268,
-     "id": "1134860932627452",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1794724281.9627268,
-     "id": "Niy7ApjpiDM",
-     "dry": false
-    }
-   },
-   "created": 1794724253.5747058,
-   "after": 0,
-   "handle": "503-silicone-moisturizing-feet-socks-gel-1-pair",
-   "product_url": "https://www.vinzapstore.in/products/503-silicone-moisturizing-feet-socks-gel-1-pair",
-   "file": "f685ed2e.mp4",
-   "thumb": "f685ed2e_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1139979912360777"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1455627756028650"
-    }
-   }
-  },
-  {
    "id": "a786a91e",
    "status": "scheduled",
    "kind": "image",
@@ -4583,13 +4512,67 @@
    "product_url": "https://www.vinzapstore.in/products/black-coffee-mug",
    "file": "c00dfbbc.jpg",
    "thumb": "c00dfbbc.jpg"
+  },
+  {
+   "id": "4aaf9345",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Bottle Cleaning Brush",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Connects to standard plastic",
+     "Durable and firm nylon bristles",
+     "Built-in scraper helps remove"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Bottle Cleaning Brush | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Bottle Cleaning Brush"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nBottle Cleaning Brush\n✔ Connects to standard plastic\n✔ Durable and firm nylon bristles\n✔ Built-in scraper helps remove\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cleaninghacks #homecleaning #bottle #homeessentials #homedecor #homedecorideas",
+   "title": "Bottle Cleaning Brush | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795009580.0143013,
+     "id": "1058634760586739",
+     "dry": false
+    }
+   },
+   "created": 1795009545.8959088,
+   "after": 0,
+   "handle": "multipurpose-bottle-connectable-cleaning-brush-with-built-in-scraper-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-bottle-connectable-cleaning-brush-with-built-in-scraper-1-pc",
+   "file": "4aaf9345.mp4",
+   "thumb": "4aaf9345_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1150076251264773"
+    }
+   }
   }
  ],
- "last_post": 1795007761.9862506,
+ "last_post": 1795009580.0143013,
  "log": [
-  "21:01:38 POSTED facebook@Vijayendra-Singh 5c904a6f: 2441684803048461",
-  "21:01:45 POSTED youtube 5c904a6f: fGdz9B6t4_g",
-  "21:01:53 STORY POSTED facebook@Vinzap-Finds 5c904a6f",
   "21:02:02 STORY POSTED facebook@Vijayendra-Singh 5c904a6f",
   "21:31:31 READY d4ab8929 Stainless Steel House Shape Cookie Cutter (auto-approved)",
   "21:31:34 POSTED facebook@Vinzap-Finds d4ab8929: 1428352113685678_122118650091501659",
@@ -4786,13 +4769,16 @@
   "18:16:33 STORY POSTED facebook@Vinzap-Finds 5af3fa0e",
   "18:16:41 STORY POSTED facebook@Vijayendra-Singh 5af3fa0e",
   "18:46:01 READY c00dfbbc Black Coffee Mug Custom Printed (auto-approved)",
-  "18:46:07 POSTED facebook@Vinzap-Finds c00dfbbc: 1428352113685678_122119344921501659"
+  "18:46:07 POSTED facebook@Vinzap-Finds c00dfbbc: 1428352113685678_122119344921501659",
+  "19:16:20 READY 4aaf9345 Bottle Cleaning Brush | Home Decor (auto-approved)",
+  "19:16:26 POSTED facebook@Vinzap-Finds 4aaf9345: 1058634760586739",
+  "19:16:36 STORY POSTED facebook@Vinzap-Finds 4aaf9345"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795007761.9862506,
+  "facebook@Vinzap-Finds": 1795009580.0143013,
   "facebook@Vijayendra-Singh": 1795005973.3827786,
   "youtube": 1795005973.3827786
  },
- "n": 658
+ "n": 659
 }
