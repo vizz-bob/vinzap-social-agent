@@ -1,62 +1,6 @@
 {
  "items": [
   {
-   "id": "fefb78be",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Supermom Spring Masher Stainless Steel",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 419,
-    "was": 0,
-    "feats": [
-     "Strong stainless steel spring",
-     "Ergonomic handle with non-slip",
-     "Ideal for potatoes"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Supermom Spring Masher Stainless Steel | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Spring Masher Stainless Steel"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nSupermom Spring Masher Stainless Steel\n✔ Strong stainless steel spring\n✔ Ergonomic handle with non-slip\n✔ Ideal for potatoes\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
-   "title": "Supermom Spring Masher Stainless Steel",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794729662.2971165,
-     "id": "1428352113685678_122118554805501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794729662.2971165,
-     "id": "1317760538089559_122129752731480728",
-     "dry": false
-    }
-   },
-   "created": 1794729647.0591009,
-   "after": 0,
-   "handle": "supermom-spring-omasher-heavy-duty-stainless-steel-vegetable-potato-masher",
-   "product_url": "https://www.vinzapstore.in/products/supermom-spring-omasher-heavy-duty-stainless-steel-vegetable-potato-masher",
-   "file": "fefb78be.jpg",
-   "thumb": "fefb78be.jpg"
-  },
-  {
    "id": "b187d5b6",
    "status": "scheduled",
    "kind": "reel",
@@ -4575,12 +4519,60 @@
      "id": "3218681478336820"
     }
    }
+  },
+  {
+   "id": "2bb4dd9a",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "LED Dual Flow Faucet Adapter",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "Dual-flow outlet supports",
+     "Aerator-style head helps create",
+     "Splash-reducing design supports"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "LED Dual Flow Faucet Adapter | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "LED Dual Flow Faucet Adapter"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nLED Dual Flow Faucet Adapter\n✔ Dual-flow outlet supports\n✔ Aerator-style head helps create\n✔ Splash-reducing design supports\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "LED Dual Flow Faucet Adapter",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795014989.5986857,
+     "id": "1428352113685678_122119365843501659",
+     "dry": false
+    }
+   },
+   "created": 1795014974.4997706,
+   "after": 0,
+   "handle": "led-light-dual-flow-faucet-tap-adapter-with-splash-filter-aerator-for-kitchen-sink-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/led-light-dual-flow-faucet-tap-adapter-with-splash-filter-aerator-for-kitchen-sink-1-pc",
+   "file": "2bb4dd9a.jpg",
+   "thumb": "2bb4dd9a.jpg"
   }
  ],
- "last_post": 1795013195.4350204,
+ "last_post": 1795014989.5986857,
  "log": [
-  "22:31:19 READY 25836f5f Wall Mounted Stainless Steel Cup and Mug (auto-approved)",
-  "22:31:23 POSTED facebook@Vinzap-Finds 25836f5f: 1428352113685678_122118659373501659",
   "22:31:27 POSTED facebook@Vijayendra-Singh 25836f5f: 1317760538089559_122129922747480728",
   "12:01:35 READY 7ef7acdd Electric Popper Maker Machine | Home Decor Ideas (auto-approved)",
   "12:01:38 POSTED facebook@Vinzap-Finds 7ef7acdd: 2406975013377730",
@@ -4778,13 +4770,15 @@
   "19:45:59 POSTED facebook@Vijayendra-Singh afa3e83d: 1317760538089559_122130841593480728",
   "20:16:35 READY 371a3a33 Kitchen Knife Set | Home Essentials (auto-approved)",
   "20:16:40 POSTED facebook@Vinzap-Finds 371a3a33: 2447269282785066",
-  "20:16:53 STORY POSTED facebook@Vinzap-Finds 371a3a33"
+  "20:16:53 STORY POSTED facebook@Vinzap-Finds 371a3a33",
+  "20:46:29 READY 2bb4dd9a LED Dual Flow Faucet Adapter (auto-approved)",
+  "20:46:33 POSTED facebook@Vinzap-Finds 2bb4dd9a: 1428352113685678_122119365843501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795013195.4350204,
+  "facebook@Vinzap-Finds": 1795014989.5986857,
   "facebook@Vijayendra-Singh": 1795011353.225859,
-  "youtube": 1795005973.3827786
+  "youtube": 1795005553.3827786
  },
- "n": 661
+ "n": 662
 }
