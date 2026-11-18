@@ -1,67 +1,6 @@
 {
  "items": [
   {
-   "id": "e66937a2",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Potato Peeler",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Apex Stainless Steel Blade Potato"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Stainless Steel Potato Peeler | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Potato Peeler"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Potato Peeler\n✔ Apex Stainless Steel Blade Potato\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization #cooking",
-   "title": "Stainless Steel Potato Peeler | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794674111.2975914,
-     "id": "1185968604089337",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1794674111.2975914,
-     "id": "4KKa0KVK-aM",
-     "dry": false
-    }
-   },
-   "created": 1794674083.4885657,
-   "after": 0,
-   "handle": "apex-stainless-steel-blade-potato-peeler-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-stainless-steel-blade-potato-peeler-1-pc",
-   "file": "e66937a2.mp4",
-   "thumb": "e66937a2_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1517719366861103"
-    }
-   }
-  },
-  {
    "id": "8133ebd4",
    "status": "scheduled",
    "kind": "image",
@@ -4571,16 +4510,83 @@
    "product_url": "https://www.vinzapstore.in/products/durable-plastic-ice-cube-tray-1-pc",
    "file": "1d086f6c.jpg",
    "thumb": "1d086f6c.jpg"
+  },
+  {
+   "id": "5af3fa0e",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Paring Knife",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Surgical-grade stainless steel",
+     "Serrated edge ensures smooth",
+     "Ergonomic handle for comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Stainless Steel Paring Knife | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Paring Knife"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Paring Knife\n✔ Surgical-grade stainless steel\n✔ Serrated edge ensures smooth\n✔ Ergonomic handle for comfortable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
+   "title": "Stainless Steel Paring Knife | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795005973.3827786,
+     "id": "1602920221120815",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795005973.3827786,
+     "id": "1843262486913831",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795005973.3827786,
+     "id": "HrB7EHP34uM",
+     "dry": false
+    }
+   },
+   "created": 1795005936.5704565,
+   "after": 0,
+   "handle": "supermom-premium-stainless-steel-paring-knife-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-premium-stainless-steel-paring-knife-1-pc",
+   "file": "5af3fa0e.mp4",
+   "thumb": "5af3fa0e_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1457857505778394"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1433245258839249"
+    }
+   }
   }
  ],
- "last_post": 1795004173.3921633,
+ "last_post": 1795005973.3827786,
  "log": [
-  "19:31:12 POSTED facebook@Vijayendra-Singh c2aaa284: 1317760538089559_122129865381480728",
-  "20:01:19 READY f4baad6d Green Tea Strainer | Kitchen Gadgets (auto-approved)",
-  "20:01:23 POSTED facebook@Vinzap-Finds f4baad6d: 1483225680371516",
-  "20:01:31 STORY POSTED facebook@Vinzap-Finds f4baad6d",
-  "20:31:06 READY ebe60918 Stainless Steel Sink Caddy Organizer (auto-approved)",
-  "20:31:08 POSTED facebook@Vinzap-Finds ebe60918: 1428352113685678_122118638109501659",
   "21:01:30 READY 5c904a6f Natural Wood Chopping Board | Home Essentials (auto-approved)",
   "21:01:34 POSTED facebook@Vinzap-Finds 5c904a6f: 1667149278117208",
   "21:01:38 POSTED facebook@Vijayendra-Singh 5c904a6f: 2441684803048461",
@@ -4774,13 +4780,19 @@
   "17:16:16 POSTED facebook@Vinzap-Finds 1bad943a: 1126342533498464",
   "17:16:27 STORY POSTED facebook@Vinzap-Finds 1bad943a",
   "17:46:13 READY 1d086f6c Durable Plastic Ice Cube Tray (auto-approved)",
-  "17:46:18 POSTED facebook@Vinzap-Finds 1d086f6c: 1428352113685678_122119335381501659"
+  "17:46:18 POSTED facebook@Vinzap-Finds 1d086f6c: 1428352113685678_122119335381501659",
+  "18:16:13 READY 5af3fa0e Stainless Steel Paring Knife | Kitchen Gadgets (auto-approved)",
+  "18:16:18 POSTED facebook@Vinzap-Finds 5af3fa0e: 1602920221120815",
+  "18:16:21 POSTED facebook@Vijayendra-Singh 5af3fa0e: 1843262486913831",
+  "18:16:25 POSTED youtube 5af3fa0e: HrB7EHP34uM",
+  "18:16:33 STORY POSTED facebook@Vinzap-Finds 5af3fa0e",
+  "18:16:41 STORY POSTED facebook@Vijayendra-Singh 5af3fa0e"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795004173.3921633,
-  "facebook@Vijayendra-Singh": 1795000559.111239,
-  "youtube": 1794994743.6087599
+  "facebook@Vinzap-Finds": 1795005973.3827786,
+  "facebook@Vijayendra-Singh": 1795005973.3827786,
+  "youtube": 1795005973.3827786
  },
- "n": 656
+ "n": 657
 }
