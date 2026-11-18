@@ -1,62 +1,6 @@
 {
  "items": [
   {
-   "id": "a2f1c54d",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Stainless Steel Vacuum Insulated Water",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 409,
-    "was": 0,
-    "feats": [
-     "Vacuum insulated design supports",
-     "Suitable for carrying hot or cold",
-     "Durable stainless steel"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Vacuum Insulated Water | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Vacuum Insulated Water"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nStainless Steel Vacuum Insulated Water\n✔ Vacuum insulated design supports\n✔ Suitable for carrying hot or cold\n✔ Durable stainless steel\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#homedecor #homedecorideas",
-   "title": "Stainless Steel Vacuum Insulated Water",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794646865.2090185,
-     "id": "1428352113685678_122118304143501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794646865.2090185,
-     "id": "1317760538089559_122129463717480728",
-     "dry": false
-    }
-   },
-   "created": 1794646862.8346434,
-   "after": 0,
-   "handle": "stainless-steel-vacuum-insulated-water-bottle-for-office-travel-everyday-use",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vacuum-insulated-water-bottle-for-office-travel-everyday-use",
-   "file": "a2f1c54d.jpg",
-   "thumb": "a2f1c54d.jpg"
-  },
-  {
    "id": "46e0f896",
    "status": "scheduled",
    "kind": "reel",
@@ -4623,13 +4567,66 @@
      "id": "2201813217430397"
     }
    }
+  },
+  {
+   "id": "0042ddd2",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Leakproof Sports Water Bottle 500 ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "One-touch easy drinking spout",
+     "Leakproof design for safe carrying",
+     "Transparent body with clear"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Leakproof Sports Water Bottle 500 ml | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Leakproof Sports Water Bottle 500 ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nLeakproof Sports Water Bottle 500 ml\n✔ One-touch easy drinking spout\n✔ Leakproof design for safe carrying\n✔ Transparent body with clear\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #kitchenorganization",
+   "title": "Leakproof Sports Water Bottle 500 ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794989749.4414704,
+     "id": "1428352113685678_122119296027501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794989749.4414704,
+     "id": "1317760538089559_122130737301480728",
+     "dry": false
+    }
+   },
+   "created": 1794989734.3182917,
+   "after": 0,
+   "handle": "500-ml-leakproof-portable-sports-water-bottle-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/500-ml-leakproof-portable-sports-water-bottle-1-pc",
+   "file": "0042ddd2.jpg",
+   "thumb": "0042ddd2.jpg"
   }
  ],
- "last_post": 1794987971.5249395,
+ "last_post": 1794989749.4414704,
  "log": [
-  "15:02:15 STORY POSTED facebook@Vijayendra-Singh 6997d8b4",
-  "15:31:15 READY d34e5298 Electric Kettle 2.3 Litre Fast Boiling (auto-approved)",
-  "15:31:19 POSTED facebook@Vinzap-Finds d34e5298: 1428352113685678_122118574899501659",
   "16:01:15 READY f5afab44 Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas (auto-approved)",
   "16:01:22 POSTED facebook@Vinzap-Finds f5afab44: 2945189795880061",
   "16:01:31 STORY POSTED facebook@Vinzap-Finds f5afab44",
@@ -4826,13 +4823,16 @@
   "12:45:56 POSTED facebook@Vinzap-Finds 2df74d9a: 1428352113685678_122119287393501659",
   "13:16:11 READY fbe1fc52 Transparent Plastic Cup | Trending Shorts (auto-approved)",
   "13:16:15 POSTED facebook@Vinzap-Finds fbe1fc52: 2246334259277922",
-  "13:16:24 STORY POSTED facebook@Vinzap-Finds fbe1fc52"
+  "13:16:24 STORY POSTED facebook@Vinzap-Finds fbe1fc52",
+  "13:45:49 READY 0042ddd2 Leakproof Sports Water Bottle 500 ml (auto-approved)",
+  "13:45:55 POSTED facebook@Vinzap-Finds 0042ddd2: 1428352113685678_122119296027501659",
+  "13:46:00 POSTED facebook@Vijayendra-Singh 0042ddd2: 1317760538089559_122130737301480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794987971.5249395,
-  "facebook@Vijayendra-Singh": 1794984087.9743626,
+  "facebook@Vinzap-Finds": 1794989749.4414704,
+  "facebook@Vijayendra-Singh": 1794989749.4414704,
   "youtube": 1794984087.9743626
  },
- "n": 647
+ "n": 648
 }
