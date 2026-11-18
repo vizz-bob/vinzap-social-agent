@@ -1,68 +1,6 @@
 {
  "items": [
   {
-   "id": "222ed9fc",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Snap Sink Dispenser Clear Pump Lotion Bottle",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Clear body",
-     "Refillable and reusable pump",
-     "Works for soap"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Snap Sink Dispenser Clear Pump Lotion Bottle"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nSnap Sink Dispenser Clear Pump Lotion Bottle\n✔ Clear body\n✔ Refillable and reusable pump\n✔ Works for soap\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #bottle #homeessentials\n#diwali #trendingshorts",
-   "title": "Snap Sink Dispenser Clear Pump Lotion Bottle | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794641472.547357,
-     "id": "1838167090802073",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": false,
-     "ts": 1794641472.547357,
-     "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevbPR3HZZCdU474EVi-S_8kl9"
-    }
-   },
-   "created": 1794641446.0504885,
-   "after": 0,
-   "handle": "snap-sink-dispenser-plastic-clear-empty-pump-lotion-bottles-1-set",
-   "product_url": "https://www.vinzapstore.in/products/snap-sink-dispenser-plastic-clear-empty-pump-lotion-bottles-1-set",
-   "file": "222ed9fc.mp4",
-   "thumb": "222ed9fc_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1857607875362571"
-    }
-   }
-  },
-  {
    "id": "de337ba1",
    "status": "posted",
    "kind": "image",
@@ -4623,16 +4561,83 @@
    "product_url": "https://www.vinzapstore.in/products/3-in-1-tea-coffee-accessories-combo-set",
    "file": "ef1a546b.jpg",
    "thumb": "ef1a546b.jpg"
+  },
+  {
+   "id": "9ecced4c",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Plastic Squeeze Sauce Bottle",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Easy squeeze design",
+     "Leak-proof cap for safe",
+     "Ideal for pizza sauce"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Plastic Squeeze Sauce Bottle | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Squeeze Sauce Bottle"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nPlastic Squeeze Sauce Bottle\n✔ Easy squeeze design\n✔ Leak-proof cap for safe\n✔ Ideal for pizza sauce\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #kitchenhacks",
+   "title": "Plastic Squeeze Sauce Bottle | Kitchen Hacks",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794984087.9743626,
+     "id": "1170911295382027",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794984087.9743626,
+     "id": "967284789475121",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794984087.9743626,
+     "id": "hhd87rwbVjs",
+     "dry": false
+    }
+   },
+   "created": 1794984056.5861924,
+   "after": 0,
+   "handle": "small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/small-plastic-squeeze-sauce-bottle-for-pizza-ketchup-mayonnaise-dispensing-1-pc",
+   "file": "9ecced4c.mp4",
+   "thumb": "9ecced4c_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1483187940416292"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1733811491635328"
+    }
+   }
   }
  ],
- "last_post": 1794934900.9630373,
+ "last_post": 1794984087.9743626,
  "log": [
-  "13:31:09 POSTED facebook@Vijayendra-Singh fefb78be: 1317760538089559_122129752731480728",
-  "14:01:36 READY b187d5b6 Finger Guard Protector | Kitchen Hacks (auto-approved)",
-  "14:01:41 POSTED facebook@Vinzap-Finds b187d5b6: 1867930491011547",
-  "14:01:53 STORY POSTED facebook@Vinzap-Finds b187d5b6",
-  "14:31:32 READY ff2384b5 Large Stainless Steel Chopping Board (auto-approved)",
-  "14:31:35 POSTED facebook@Vinzap-Finds ff2384b5: 1428352113685678_122118566349501659",
   "15:01:39 READY 6997d8b4 5 in 1 Multipurpose Kitchen Tool Combo Set | Kitchen Organization (auto-approved)",
   "15:01:46 POSTED facebook@Vinzap-Finds 6997d8b4: 1843197990263424",
   "15:01:51 POSTED facebook@Vijayendra-Singh 6997d8b4: 1835450074270292",
@@ -4826,13 +4831,19 @@
   "22:02:04 STORY POSTED facebook@Vinzap-Finds 03e74ddb",
   "22:31:40 READY ef1a546b 3-in-1 Tea and Coffee Accessories Combo Set (auto-approved)",
   "22:31:45 POSTED facebook@Vinzap-Finds ef1a546b: 1428352113685678_122119157559501659",
-  "22:31:48 POSTED facebook@Vijayendra-Singh ef1a546b: 1317760538089559_122130548343480728"
+  "22:31:48 POSTED facebook@Vijayendra-Singh ef1a546b: 1317760538089559_122130548343480728",
+  "12:11:27 READY 9ecced4c Plastic Squeeze Sauce Bottle | Kitchen Hacks (auto-approved)",
+  "12:11:33 POSTED facebook@Vinzap-Finds 9ecced4c: 1170911295382027",
+  "12:11:38 POSTED facebook@Vijayendra-Singh 9ecced4c: 967284789475121",
+  "12:11:48 POSTED youtube 9ecced4c: hhd87rwbVjs",
+  "12:12:00 STORY POSTED facebook@Vinzap-Finds 9ecced4c",
+  "12:12:13 STORY POSTED facebook@Vijayendra-Singh 9ecced4c"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794934900.9630373,
-  "facebook@Vijayendra-Singh": 1794934900.9630373,
-  "youtube": 1794929584.8958297
+  "facebook@Vinzap-Finds": 1794984087.9743626,
+  "facebook@Vijayendra-Singh": 1794984087.9743626,
+  "youtube": 1794984087.9743626
  },
- "n": 644
+ "n": 645
 }
