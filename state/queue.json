@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "1a6b8695",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "diwali",
-    "headline": "Apex Miny Steel Mixing Bowl Set",
-    "strip": "Diwali Special  |  Home & Kitchen",
-    "price": 569,
-    "was": 0,
-    "feats": [
-     "Three graduated sizes cover mixing",
-     "Snap on lids turn each mixing",
-     "Stainless steel body does not"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "diwali",
-     "trending shorts"
-    ],
-    "yt_title": "Apex Miny Steel Mixing Bowl Set | Diwali"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Miny Steel Mixing Bowl Set"
-   },
-   "caption": "दीपावली की हार्दिक शुभकामनाएं 🪔\n\nApex Miny Steel Mixing Bowl Set\n✔ Three graduated sizes cover mixing\n✔ Snap on lids turn each mixing\n✔ Stainless steel body does not\n\nOnly ₹569. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#diwali #diwali2026 #homekitchen #vinzapstore #kitchengadgets #kitchenessentials #storageideas #organizer\n#diwali #trendingshorts",
-   "title": "Apex Miny Steel Mixing Bowl Set | Diwali",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794652282.0017743,
-     "id": "1113972218226359",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794652282.0017743,
-     "id": "1163382496120233",
-     "dry": false
-    }
-   },
-   "created": 1794652260.781943,
-   "after": 0,
-   "handle": "apex-miny-steel-container-set-mixing-bowls-with-lids-for-kitchen-3-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/apex-miny-steel-container-set-mixing-bowls-with-lids-for-kitchen-3-pc-set",
-   "file": "1a6b8695.mp4",
-   "thumb": "1a6b8695_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1783193726316349"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1574941444318516"
-    }
-   }
-  },
-  {
    "id": "6bc345da",
    "status": "posted",
    "kind": "image",
@@ -4602,16 +4535,83 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-portable-pet-hair-and-lint-remover-brush-for-clothes-and-furniture-1-pc",
    "file": "b8cee14e.jpg",
    "thumb": "b8cee14e.jpg"
+  },
+  {
+   "id": "7dbffbac",
+   "status": "posted",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Multifunction Melon Baller and Fruit Cutter",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Includes 1 melon baller and 1",
+     "Made of durable stainless steel",
+     "Perfect for melons"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Multifunction Melon Baller and Fruit Cutter | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Multifunction Melon Baller and Fruit Cutter"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nMultifunction Melon Baller and Fruit Cutter\n✔ Includes 1 melon baller and 1\n✔ Made of durable stainless steel\n✔ Perfect for melons\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Multifunction Melon Baller and Fruit Cutter | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1794995163.6087599,
+     "id": "1924450705588840",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1794995163.6087599,
+     "id": "1147820697753147",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1794995163.6087599,
+     "id": "3uYNagrjzQk",
+     "dry": false
+    }
+   },
+   "created": 1794995134.370552,
+   "after": 0,
+   "handle": "multi-function-melon-baller-and-fruit-cutter-set",
+   "product_url": "https://www.vinzapstore.in/products/multi-function-melon-baller-and-fruit-cutter-set",
+   "file": "7dbffbac.mp4",
+   "thumb": "7dbffbac_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1762874951878254"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1190432303510390"
+    }
+   }
   }
  ],
- "last_post": 1794993355.4796312,
+ "last_post": 1794995163.6087599,
  "log": [
-  "16:31:45 POSTED facebook@Vijayendra-Singh 57396a35: 1317760538089559_122129815077480728",
-  "17:01:14 READY f4b21173 Stainless Steel Tea Strainer Set | Kitchen Gadgets (auto-approved)",
-  "17:01:18 POSTED facebook@Vinzap-Finds f4b21173: 1177375914666720",
-  "17:01:30 STORY POSTED facebook@Vinzap-Finds f4b21173",
-  "17:31:29 READY bcb69854 Ketchup and Mustard Dispenser Bottle Gun (auto-approved)",
-  "17:31:32 POSTED facebook@Vinzap-Finds bcb69854: 1428352113685678_122118596541501659",
   "18:01:28 READY 79e7deae Stainless Steel Apple Cutter and Slicer, | Kitchen Hacks (auto-approved)",
   "18:01:33 POSTED facebook@Vinzap-Finds 79e7deae: 3050172065317861",
   "18:01:37 POSTED facebook@Vijayendra-Singh 79e7deae: 2679930615795929",
@@ -4805,13 +4805,19 @@
   "14:16:12 POSTED facebook@Vinzap-Finds 8f61102f: 1115098927964638",
   "14:16:24 STORY POSTED facebook@Vinzap-Finds 8f61102f",
   "14:45:55 READY b8cee14e Pet Hair and Lint Remover Brush 2 in 1 (auto-approved)",
-  "14:45:58 POSTED facebook@Vinzap-Finds b8cee14e: 1428352113685678_122119305525501659"
+  "14:45:58 POSTED facebook@Vinzap-Finds b8cee14e: 1428352113685678_122119305525501659",
+  "15:16:03 READY 7dbffbac Multifunction Melon Baller and Fruit Cutter | Home Essentials (auto-approved)",
+  "15:16:07 POSTED facebook@Vinzap-Finds 7dbffbac: 1924450705588840",
+  "15:16:12 POSTED facebook@Vijayendra-Singh 7dbffbac: 1147820697753147",
+  "15:16:20 POSTED youtube 7dbffbac: 3uYNagrjzQk",
+  "15:16:30 STORY POSTED facebook@Vinzap-Finds 7dbffbac",
+  "15:16:39 STORY POSTED facebook@Vijayendra-Singh 7dbffbac"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1794993355.4796312,
-  "facebook@Vijayendra-Singh": 1794989749.4414704,
-  "youtube": 1794983667.9743626
+  "facebook@Vinzap-Finds": 1794995163.6087599,
+  "facebook@Vijayendra-Singh": 1794995163.6087599,
+  "youtube": 1794995163.6087599
  },
- "n": 650
+ "n": 651
 }
