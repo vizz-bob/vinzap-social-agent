@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "f4baad6d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Green Tea Strainer",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 109,
-    "was": 0,
-    "feats": [
-     "High-Quality Wire Mesh : Fine",
-     "Ergonomic Plastic Handle :",
-     "Compact and Lightweight : Easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Green Tea Strainer | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Green Tea Strainer"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nGreen Tea Strainer\n✔ High-Quality Wire Mesh : Fine\n✔ Ergonomic Plastic Handle :\n✔ Compact and Lightweight : Easy\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
-   "title": "Green Tea Strainer | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794753079.20795,
-     "id": "1483225680371516",
-     "dry": false
-    }
-   },
-   "created": 1794753045.424119,
-   "after": 0,
-   "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
-   "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
-   "file": "f4baad6d.mp4",
-   "thumb": "f4baad6d_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1702398811516767"
-    }
-   }
-  },
-  {
    "id": "ebe60918",
    "status": "scheduled",
    "kind": "image",
@@ -4578,15 +4521,77 @@
    "product_url": "https://www.vinzapstore.in/products/4-compartment-multipurpose-plastic-food-storage-container-1-pc",
    "file": "ef64dfba.jpg",
    "thumb": "ef64dfba.jpg"
+  },
+  {
+   "id": "11f82731",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Reusable Plastic Spoon Set of 20",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Value pack of 20 spoons provides",
+     "Reusable and durable plastic is",
+     "Bright colour adds a fun"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Reusable Plastic Spoon Set of 20 | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Plastic Spoon Set of 20"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nReusable Plastic Spoon Set of 20\n✔ Value pack of 20 spoons provides\n✔ Reusable and durable plastic is\n✔ Bright colour adds a fun\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Reusable Plastic Spoon Set of 20 | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795087930.4825056,
+     "id": "2057351148316851",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795087930.4825056,
+     "id": "1393531879523995",
+     "dry": false
+    }
+   },
+   "created": 1795087896.4179776,
+   "after": 0,
+   "handle": "plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
+   "file": "11f82731.mp4",
+   "thumb": "11f82731_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1678432614063310"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1774845190285331"
+    }
+   }
   }
  ],
- "last_post": 1795085991.1104653,
+ "last_post": 1795087930.4825056,
  "log": [
-  "18:01:10 READY 0ca901e1 Caterpillar Self-Adhesive Wall Toothbrush | Home Decor (auto-approved)",
-  "18:01:16 POSTED facebook@Vinzap-Finds 0ca901e1: 1568823325291677",
-  "18:01:22 POSTED facebook@Vijayendra-Singh 0ca901e1: 1431625418651160",
-  "18:01:26 POSTED youtube 0ca901e1: zHLY30T-Sfo",
-  "18:01:36 STORY POSTED facebook@Vinzap-Finds 0ca901e1",
   "18:01:47 STORY POSTED facebook@Vijayendra-Singh 0ca901e1",
   "18:31:54 READY 3dae0654 Scalloped Disposable Paper Napkins 23x23cm (auto-approved)",
   "18:31:59 POSTED facebook@Vinzap-Finds 3dae0654: 1428352113685678_122118846609501659",
@@ -4781,13 +4786,18 @@
   "15:46:52 POSTED youtube 86c22cdf: xmls9DsK4Gk",
   "15:47:01 STORY POSTED facebook@Vinzap-Finds 86c22cdf",
   "16:29:51 READY ef64dfba 4 Compartment Plastic Food Storage Container (auto-approved)",
-  "16:29:56 POSTED facebook@Vinzap-Finds ef64dfba: 1428352113685678_122119545549501659"
+  "16:29:56 POSTED facebook@Vinzap-Finds ef64dfba: 1428352113685678_122119545549501659",
+  "17:02:10 READY 11f82731 Reusable Plastic Spoon Set of 20 | Cooking (auto-approved)",
+  "17:02:15 POSTED facebook@Vinzap-Finds 11f82731: 2057351148316851",
+  "17:02:22 POSTED facebook@Vijayendra-Singh 11f82731: 1393531879523995",
+  "17:02:32 STORY POSTED facebook@Vinzap-Finds 11f82731",
+  "17:02:40 STORY POSTED facebook@Vijayendra-Singh 11f82731"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795085991.1104653,
-  "facebook@Vijayendra-Singh": 1795081547.0281143,
+  "facebook@Vinzap-Finds": 1795087930.4825056,
+  "facebook@Vijayendra-Singh": 1795087930.4825056,
   "youtube": 1795083403.452095
  },
- "n": 674
+ "n": 675
 }
