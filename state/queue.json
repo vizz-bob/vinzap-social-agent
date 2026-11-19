@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "d34e5298",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Electric Kettle 2.3 Litre Fast Boiling",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 2999,
-    "was": 0,
-    "feats": [
-     "Large 2.3 litre capacity",
-     "Powerful element boils water",
-     "Auto shut-off switches off once"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Electric Kettle 2.3 Litre Fast Boiling | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Kettle 2.3 Litre Fast Boiling"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nElectric Kettle 2.3 Litre Fast Boiling\n✔ Large 2.3 litre capacity\n✔ Powerful element boils water\n✔ Auto shut-off switches off once\n\nOnly ₹2999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
-   "title": "Electric Kettle 2.3 Litre Fast Boiling",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794736875.5059543,
-     "id": "1428352113685678_122118574899501659",
-     "dry": false
-    }
-   },
-   "created": 1794736861.1893895,
-   "after": 0,
-   "handle": "electric-kettle-2-3-litre-fast-boiling-water-kettle-with-auto-shut-off-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/electric-kettle-2-3-litre-fast-boiling-water-kettle-with-auto-shut-off-1-pc",
-   "file": "d34e5298.jpg",
-   "thumb": "d34e5298.jpg"
-  },
-  {
    "id": "f5afab44",
    "status": "scheduled",
    "kind": "reel",
@@ -4570,13 +4520,66 @@
      "id": "887335294436544"
     }
    }
+  },
+  {
+   "id": "b765ec1e",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Kids Stainless Steel Cutlery Set 3 in 1",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Complete 3-in-1 set – fork",
+     "Smooth stainless steel heads that",
+     "Comfortable easy-grip handles"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Kids Stainless Steel Cutlery Set 3 in 1 | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Kids Stainless Steel Cutlery Set 3 in 1"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nKids Stainless Steel Cutlery Set 3 in 1\n✔ Complete 3-in-1 set – fork\n✔ Smooth stainless steel heads that\n✔ Comfortable easy-grip handles\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Kids Stainless Steel Cutlery Set 3 in 1",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795069860.4869924,
+     "id": "1428352113685678_122119504695501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795069860.4869924,
+     "id": "1317760538089559_122131064463480728",
+     "dry": false
+    }
+   },
+   "created": 1795069845.4858437,
+   "after": 0,
+   "handle": "kids-stainless-steel-cutlery-set-3-in-1-fork-knife-spoon-with-case-3-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/kids-stainless-steel-cutlery-set-3-in-1-fork-knife-spoon-with-case-3-pc-set",
+   "file": "b765ec1e.jpg",
+   "thumb": "b765ec1e.jpg"
   }
  ],
- "last_post": 1795021516.869014,
+ "last_post": 1795069860.4869924,
  "log": [
-  "13:01:48 STORY POSTED facebook@Vinzap-Finds 5c7bcbdb",
-  "13:31:35 READY 6eb7a31f Stainless Steel Egg Steamer Rack, Folding (auto-approved)",
-  "13:31:37 POSTED facebook@Vinzap-Finds 6eb7a31f: 1428352113685678_122118788565501659",
   "13:31:41 POSTED facebook@Vijayendra-Singh 6eb7a31f: 1317760538089559_122130096879480728",
   "14:01:17 READY 16273b84 Knife Sharpening Stone Silicon Carbide | Kitchen Organization (auto-approved)",
   "14:01:21 POSTED facebook@Vinzap-Finds 16273b84: 28273095405699264",
@@ -4773,13 +4776,16 @@
   "21:45:59 POSTED facebook@Vinzap-Finds ec3e567e: 1428352113685678_122119375473501659",
   "22:35:16 READY 16078e13 3 in 1 Water Bottle Set 2000 ml, 900 ml and | Home Essentials (auto-approved)",
   "22:35:21 POSTED facebook@Vinzap-Finds 16078e13: 2980735615640448",
-  "22:35:29 STORY POSTED facebook@Vinzap-Finds 16078e13"
+  "22:35:29 STORY POSTED facebook@Vinzap-Finds 16078e13",
+  "12:01:00 READY b765ec1e Kids Stainless Steel Cutlery Set 3 in 1 (auto-approved)",
+  "12:01:05 POSTED facebook@Vinzap-Finds b765ec1e: 1428352113685678_122119504695501659",
+  "12:01:09 POSTED facebook@Vijayendra-Singh b765ec1e: 1317760538089559_122131064463480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795021516.869014,
-  "facebook@Vijayendra-Singh": 1795016763.2509432,
-  "youtube": 1795016763.2509432
+  "facebook@Vinzap-Finds": 1795069860.4869924,
+  "facebook@Vijayendra-Singh": 1795069860.4869924,
+  "youtube": 1795016343.2509432
  },
- "n": 665
+ "n": 666
 }
