@@ -1,54 +1,6 @@
 {
  "items": [
   {
-   "id": "b40b181f",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Supermom Premium Curve Garlic Press Crusher",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Supermom Premium Curve Garlic"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Supermom Premium Curve Garlic Press Crusher | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Supermom Premium Curve Garlic Press Crusher"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nSupermom Premium Curve Garlic Press Crusher\n✔ Supermom Premium Curve Garlic\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
-   "title": "Supermom Premium Curve Garlic Press Crusher",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794812465.434386,
-     "id": "1428352113685678_122118779037501659",
-     "dry": false
-    }
-   },
-   "created": 1794812450.2425752,
-   "after": 0,
-   "handle": "supermom-premium-curve-garlic-press-crusher-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-premium-curve-garlic-press-crusher-1-pc",
-   "file": "b40b181f.jpg",
-   "thumb": "b40b181f.jpg"
-  },
-  {
    "id": "5c7bcbdb",
    "status": "scheduled",
    "kind": "reel",
@@ -4570,12 +4522,60 @@
      "id": "1156367280310465"
     }
    }
+  },
+  {
+   "id": "1e7e6d3e",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "2 in 1 Fruit Scooper and Cutter Tool",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Dual-function design with fruit",
+     "Easy slicing and scooping of soft",
+     "Smooth edges for safe"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "2 in 1 Fruit Scooper and Cutter Tool | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "2 in 1 Fruit Scooper and Cutter Tool"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\n2 in 1 Fruit Scooper and Cutter Tool\n✔ Dual-function design with fruit\n✔ Easy slicing and scooping of soft\n✔ Smooth edges for safe\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "2 in 1 Fruit Scooper and Cutter Tool",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795101355.1803167,
+     "id": "1428352113685678_122119590201501659",
+     "dry": false
+    }
+   },
+   "created": 1795101340.5115802,
+   "after": 0,
+   "handle": "2-in-1-fruit-scooper-and-cutter-tool-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/2-in-1-fruit-scooper-and-cutter-tool-1-pc",
+   "file": "1e7e6d3e.jpg",
+   "thumb": "1e7e6d3e.jpg"
   }
  ],
- "last_post": 1795099582.4614105,
+ "last_post": 1795101355.1803167,
  "log": [
-  "21:01:55 STORY POSTED facebook@Vijayendra-Singh e353bccc",
-  "21:31:51 READY ba4887ff Stainless Steel Citrus Juicer, Manual Hand (auto-approved)",
   "21:31:57 POSTED facebook@Vinzap-Finds ba4887ff: 1428352113685678_122118884841501659",
   "22:01:23 READY 70a7aacb Apex Power-X Hand-Pull Vegetable Chopper | Kitchen Gadgets (auto-approved)",
   "22:01:30 POSTED facebook@Vinzap-Finds 70a7aacb: 2702794253507873",
@@ -4773,13 +4773,15 @@
   "20:16:26 POSTED facebook@Vinzap-Finds 6a227357: 1704668937685492",
   "20:16:30 POSTED facebook@Vijayendra-Singh 6a227357: 1963131847997684",
   "20:16:36 STORY POSTED facebook@Vinzap-Finds 6a227357",
-  "20:16:43 STORY POSTED facebook@Vijayendra-Singh 6a227357"
+  "20:16:43 STORY POSTED facebook@Vijayendra-Singh 6a227357",
+  "20:45:55 READY 1e7e6d3e 2 in 1 Fruit Scooper and Cutter Tool (auto-approved)",
+  "20:45:58 POSTED facebook@Vinzap-Finds 1e7e6d3e: 1428352113685678_122119590201501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795099582.4614105,
+  "facebook@Vinzap-Finds": 1795101355.1803167,
   "facebook@Vijayendra-Singh": 1795099582.4614105,
-  "youtube": 1795092370.697341
+  "youtube": 1795091950.697341
  },
- "n": 681
+ "n": 682
 }
