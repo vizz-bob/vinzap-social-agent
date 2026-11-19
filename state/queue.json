@@ -1,62 +1,6 @@
 {
  "items": [
   {
-   "id": "25836f5f",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Wall Mounted Stainless Steel Cup and Mug",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 489,
-    "was": 0,
-    "feats": [
-     "Wall-mounted design",
-     "Helps organize cups",
-     "Open structure allows quick"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Wall Mounted Stainless Steel Cup and Mug | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wall Mounted Stainless Steel Cup and Mug"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nWall Mounted Stainless Steel Cup and Mug\n✔ Wall-mounted design\n✔ Helps organize cups\n✔ Open structure allows quick\n\nOnly ₹489. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #kitchenorganization",
-   "title": "Wall Mounted Stainless Steel Cup and Mug",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794762079.21411,
-     "id": "1428352113685678_122118659373501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794762079.21411,
-     "id": "1317760538089559_122129922747480728",
-     "dry": false
-    }
-   },
-   "created": 1794762064.6108606,
-   "after": 0,
-   "handle": "wall-mounted-stainless-steel-cup-mug-holder-rack-25-x-25-cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/wall-mounted-stainless-steel-cup-mug-holder-rack-25-x-25-cm-1-pc",
-   "file": "25836f5f.jpg",
-   "thumb": "25836f5f.jpg"
-  },
-  {
    "id": "7ef7acdd",
    "status": "posted",
    "kind": "reel",
@@ -4582,12 +4526,60 @@
      "id": "1007876131705399"
     }
    }
+  },
+  {
+   "id": "545f6cf0",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Reusable Airtight Mason Jar Zipper Pouch",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 45.86,
+    "was": 0,
+    "feats": [
+     "The unique appearance design",
+     "Realistic Mason jar shape design",
+     "They are lightweight and easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Airtight Mason Jar Zipper Pouch"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nReusable Airtight Mason Jar Zipper Pouch\n✔ The unique appearance design\n✔ Realistic Mason jar shape design\n✔ They are lightweight and easy\n\nOnly ₹45.86. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homedecorideas #trendingshorts",
+   "title": "Reusable Airtight Mason Jar Zipper Pouch",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795097993.8614333,
+     "id": "1428352113685678_122119579605501659",
+     "dry": false
+    }
+   },
+   "created": 1795097979.3510349,
+   "after": 0,
+   "handle": "1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
+   "product_url": "https://www.vinzapstore.in/products/1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
+   "file": "545f6cf0.jpg",
+   "thumb": "545f6cf0.jpg"
   }
  ],
- "last_post": 1795095980.455953,
+ "last_post": 1795097993.8614333,
  "log": [
-  "20:31:14 READY 79af192e Masala Box (auto-approved)",
-  "20:31:20 POSTED facebook@Vinzap-Finds 79af192e: 1428352113685678_122118870429501659",
   "21:01:21 READY e353bccc Microfiber Chenille Hanging Hand Towel | Home Decor Ideas (auto-approved)",
   "21:01:24 POSTED facebook@Vinzap-Finds e353bccc: 1491619606276793",
   "21:01:29 POSTED facebook@Vijayendra-Singh e353bccc: 1135737575821658",
@@ -4785,13 +4777,15 @@
   "18:46:13 POSTED facebook@Vijayendra-Singh c0e29811: 1317760538089559_122131194087480728",
   "19:16:20 READY 6d2fed01 Lollipop Candy Maker Machine, Pink | Home Decor Ideas (auto-approved)",
   "19:16:24 POSTED facebook@Vinzap-Finds 6d2fed01: 4599475900309187",
-  "19:16:33 STORY POSTED facebook@Vinzap-Finds 6d2fed01"
+  "19:16:33 STORY POSTED facebook@Vinzap-Finds 6d2fed01",
+  "19:49:53 READY 545f6cf0 Reusable Airtight Mason Jar Zipper Pouch (auto-approved)",
+  "19:49:58 POSTED facebook@Vinzap-Finds 545f6cf0: 1428352113685678_122119579605501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795095980.455953,
+  "facebook@Vinzap-Finds": 1795097993.8614333,
   "facebook@Vijayendra-Singh": 1795094165.6992288,
   "youtube": 1795092370.697341
  },
- "n": 679
+ "n": 680
 }
