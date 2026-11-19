@@ -1,79 +1,6 @@
 {
  "items": [
   {
-   "id": "5c904a6f",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Natural Wood Chopping Board",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 459,
-    "was": 0,
-    "feats": [
-     "Wooden cutting board is made from",
-     "It is Ideal for chopping",
-     "Thick Bamboo that can withstand"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Natural Wood Chopping Board | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Natural Wood Chopping Board"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nNatural Wood Chopping Board\n✔ Wooden cutting board is made from\n✔ It is Ideal for chopping\n✔ Thick Bamboo that can withstand\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
-   "title": "Natural Wood Chopping Board | Home Essentials",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794756690.2548878,
-     "id": "1667149278117208",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794756690.2548878,
-     "id": "2441684803048461",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1794756690.2548878,
-     "id": "fGdz9B6t4_g",
-     "dry": false
-    }
-   },
-   "created": 1794756652.2929103,
-   "after": 0,
-   "handle": "2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
-   "product_url": "https://www.vinzapstore.in/products/2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
-   "file": "5c904a6f.mp4",
-   "thumb": "5c904a6f_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4745197355710394"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1151391934017535"
-    }
-   }
-  },
-  {
    "id": "d4ab8929",
    "status": "scheduled",
    "kind": "image",
@@ -4588,14 +4515,73 @@
    "product_url": "https://www.vinzapstore.in/products/6-in-1-premium-kitchen-knife-set-1-set",
    "file": "f83d620d.jpg",
    "thumb": "f83d620d.jpg"
+  },
+  {
+   "id": "d0fc2aaf",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Reusable Plastic Dessert Knife Set of 24",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Pack of 24 reusable plastic",
+     "Made from durable",
+     "Lightweight and easy to handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Reusable Plastic Dessert Knife Set of 24 | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Reusable Plastic Dessert Knife Set of 24"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nReusable Plastic Dessert Knife Set of 24\n✔ Pack of 24 reusable plastic\n✔ Made from durable\n✔ Lightweight and easy to handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Reusable Plastic Dessert Knife Set of 24 | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795092370.697341,
+     "id": "1857683198590642",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795092370.697341,
+     "id": "-ratYZObSPA",
+     "dry": false
+    }
+   },
+   "created": 1795092341.1171784,
+   "after": 0,
+   "handle": "reusable-multicolor-plastic-dessert-knife-set-for-parties-24-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/reusable-multicolor-plastic-dessert-knife-set-for-parties-24-pc-set",
+   "file": "d0fc2aaf.mp4",
+   "thumb": "d0fc2aaf_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1596897302476395"
+    }
+   }
   }
  ],
- "last_post": 1795090883.6567101,
+ "last_post": 1795092370.697341,
  "log": [
-  "18:31:59 POSTED facebook@Vinzap-Finds 3dae0654: 1428352113685678_122118846609501659",
-  "19:01:25 READY 7dbda4b7 Glass Water Jug | Kitchen Gadgets (auto-approved)",
-  "19:01:29 POSTED facebook@Vinzap-Finds 7dbda4b7: 937487629300104",
-  "19:01:40 STORY POSTED facebook@Vinzap-Finds 7dbda4b7",
   "19:31:03 READY 3de62b66 Stainless Steel Chopping Board (auto-approved)",
   "19:31:07 POSTED facebook@Vinzap-Finds 3de62b66: 1428352113685678_122118859395501659",
   "19:31:12 POSTED facebook@Vijayendra-Singh 3de62b66: 1317760538089559_122130185799480728",
@@ -4791,13 +4777,17 @@
   "17:02:32 STORY POSTED facebook@Vinzap-Finds 11f82731",
   "17:02:40 STORY POSTED facebook@Vijayendra-Singh 11f82731",
   "17:51:23 READY f83d620d 6 in 1 Premium Kitchen Knife Set (auto-approved)",
-  "17:51:27 POSTED facebook@Vinzap-Finds f83d620d: 1428352113685678_122119557183501659"
+  "17:51:27 POSTED facebook@Vinzap-Finds f83d620d: 1428352113685678_122119557183501659",
+  "18:16:10 READY d0fc2aaf Reusable Plastic Dessert Knife Set of 24 | Home Decor Ideas (auto-approved)",
+  "18:16:15 POSTED facebook@Vinzap-Finds d0fc2aaf: 1857683198590642",
+  "18:16:19 POSTED youtube d0fc2aaf: -ratYZObSPA",
+  "18:16:28 STORY POSTED facebook@Vinzap-Finds d0fc2aaf"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795090883.6567101,
+  "facebook@Vinzap-Finds": 1795092370.697341,
   "facebook@Vijayendra-Singh": 1795087930.4825056,
-  "youtube": 1795083403.452095
+  "youtube": 1795092370.697341
  },
- "n": 676
+ "n": 677
 }
