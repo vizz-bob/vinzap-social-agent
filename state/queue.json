@@ -1,79 +1,6 @@
 {
  "items": [
   {
-   "id": "7ef7acdd",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Electric Popper Maker Machine",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 2559,
-    "was": 0,
-    "feats": [
-     "Customize you snack: melted",
-     "Make delicious popcorn",
-     "Material: The popping chamber is"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "trending shorts"
-    ],
-    "yt_title": "Electric Popper Maker Machine | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Popper Maker Machine"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nElectric Popper Maker Machine\n✔ Customize you snack: melted\n✔ Make delicious popcorn\n✔ Material: The popping chamber is\n\nOnly ₹2559. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
-   "title": "Electric Popper Maker Machine | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794810695.203406,
-     "id": "2406975013377730",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794810695.203406,
-     "id": "940774685633397",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1794810695.203406,
-     "id": "pMC_vZDOpFQ",
-     "dry": false
-    }
-   },
-   "created": 1794810656.259976,
-   "after": 0,
-   "handle": "2432-popper-maker-machine-electric-snack-maker",
-   "product_url": "https://www.vinzapstore.in/products/2432-popper-maker-machine-electric-snack-maker",
-   "file": "7ef7acdd.mp4",
-   "thumb": "7ef7acdd_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1024381827371938"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1661243245664836"
-    }
-   }
-  },
-  {
    "id": "b40b181f",
    "status": "scheduled",
    "kind": "image",
@@ -4576,15 +4503,77 @@
    "product_url": "https://www.vinzapstore.in/products/1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
    "file": "545f6cf0.jpg",
    "thumb": "545f6cf0.jpg"
+  },
+  {
+   "id": "6a227357",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Apex Ovel Manual Chilli and Dry Fruit",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 329,
+    "was": 0,
+    "feats": [
+     "High-Performance Stainless Steel",
+     "Durable Virgin Plastic Body:",
+     "Manual Hand Crank Design:"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Ovel Manual Chilli and Dry Fruit"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nApex Ovel Manual Chilli and Dry Fruit\n✔ High-Performance Stainless Steel\n✔ Durable Virgin Plastic Body:\n✔ Manual Hand Crank Design:\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795099582.4614105,
+     "id": "1704668937685492",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795099582.4614105,
+     "id": "1963131847997684",
+     "dry": false
+    }
+   },
+   "created": 1795099543.2447014,
+   "after": 0,
+   "handle": "apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
+   "product_url": "https://www.vinzapstore.in/products/apex-ovel-manual-chilly-dry-fruit-cutter-grinder",
+   "file": "6a227357.mp4",
+   "thumb": "6a227357_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1714944010251553"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1156367280310465"
+    }
+   }
   }
  ],
- "last_post": 1795097993.8614333,
+ "last_post": 1795099582.4614105,
  "log": [
-  "21:01:21 READY e353bccc Microfiber Chenille Hanging Hand Towel | Home Decor Ideas (auto-approved)",
-  "21:01:24 POSTED facebook@Vinzap-Finds e353bccc: 1491619606276793",
-  "21:01:29 POSTED facebook@Vijayendra-Singh e353bccc: 1135737575821658",
-  "21:01:37 POSTED youtube e353bccc: z4NlxnpVlUA",
-  "21:01:47 STORY POSTED facebook@Vinzap-Finds e353bccc",
   "21:01:55 STORY POSTED facebook@Vijayendra-Singh e353bccc",
   "21:31:51 READY ba4887ff Stainless Steel Citrus Juicer, Manual Hand (auto-approved)",
   "21:31:57 POSTED facebook@Vinzap-Finds ba4887ff: 1428352113685678_122118884841501659",
@@ -4779,13 +4768,18 @@
   "19:16:24 POSTED facebook@Vinzap-Finds 6d2fed01: 4599475900309187",
   "19:16:33 STORY POSTED facebook@Vinzap-Finds 6d2fed01",
   "19:49:53 READY 545f6cf0 Reusable Airtight Mason Jar Zipper Pouch (auto-approved)",
-  "19:49:58 POSTED facebook@Vinzap-Finds 545f6cf0: 1428352113685678_122119579605501659"
+  "19:49:58 POSTED facebook@Vinzap-Finds 545f6cf0: 1428352113685678_122119579605501659",
+  "20:16:22 READY 6a227357 Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas (auto-approved)",
+  "20:16:26 POSTED facebook@Vinzap-Finds 6a227357: 1704668937685492",
+  "20:16:30 POSTED facebook@Vijayendra-Singh 6a227357: 1963131847997684",
+  "20:16:36 STORY POSTED facebook@Vinzap-Finds 6a227357",
+  "20:16:43 STORY POSTED facebook@Vijayendra-Singh 6a227357"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795097993.8614333,
-  "facebook@Vijayendra-Singh": 1795094165.6992288,
+  "facebook@Vinzap-Finds": 1795099582.4614105,
+  "facebook@Vijayendra-Singh": 1795099582.4614105,
   "youtube": 1795092370.697341
  },
- "n": 680
+ "n": 681
 }
