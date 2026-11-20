@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "79af192e",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Masala Box",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "6 Compartment Design: Offers",
-     "Durable Plastic Construction:",
-     "Transparent Lid: Allows easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Masala Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Masala Box"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nMasala Box\n✔ 6 Compartment Design: Offers\n✔ Durable Plastic Construction:\n✔ Transparent Lid: Allows easy\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #kitchenorganization #cooking",
-   "title": "Masala Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794841274.0693507,
-     "id": "1428352113685678_122118870429501659",
-     "dry": false
-    }
-   },
-   "created": 1794841259.440468,
-   "after": 0,
-   "handle": "plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
-   "product_url": "https://www.vinzapstore.in/products/plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
-   "file": "79af192e.jpg",
-   "thumb": "79af192e.jpg"
-  },
-  {
    "id": "e353bccc",
    "status": "posted",
    "kind": "reel",
@@ -4580,13 +4530,66 @@
      "id": "1874410787318989"
     }
    }
+  },
+  {
+   "id": "cb0a659a",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Bagasse Clamshell Food Box 9x6 Inch",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "Premium bagasse clamshell food",
+     "Pack of 10 pieces for restaurant",
+     "9x6 inch size ideal for lunch"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Bagasse Clamshell Food Box 9x6 Inch | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Bagasse Clamshell Food Box 9x6 Inch"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nBagasse Clamshell Food Box 9x6 Inch\n✔ Premium bagasse clamshell food\n✔ Pack of 10 pieces for restaurant\n✔ 9x6 inch size ideal for lunch\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Bagasse Clamshell Food Box 9x6 Inch",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795177868.8470502,
+     "id": "1428352113685678_122119801599501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795177868.8470502,
+     "id": "1317760538089559_122131598253480728",
+     "dry": false
+    }
+   },
+   "created": 1795177854.36617,
+   "after": 0,
+   "handle": "vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
+   "product_url": "https://www.vinzapstore.in/products/vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
+   "file": "cb0a659a.jpg",
+   "thumb": "cb0a659a.jpg"
   }
  ],
- "last_post": 1795176087.2922308,
+ "last_post": 1795177868.8470502,
  "log": [
-  "18:01:30 POSTED youtube 9a33e0d6: jjKQrGgtX0g",
-  "18:01:42 STORY POSTED facebook@Vinzap-Finds 9a33e0d6",
-  "18:01:52 STORY POSTED facebook@Vijayendra-Singh 9a33e0d6",
   "18:31:18 READY 5d869f51 Multipurpose Cheese and Vegetable Grater (auto-approved)",
   "18:31:21 POSTED facebook@Vinzap-Finds 5d869f51: 1428352113685678_122119105485501659",
   "19:01:15 READY d070670a Skull Shape Ice Cube Tray 8 Grid | Home Essentials (auto-approved)",
@@ -4783,13 +4786,16 @@
   "17:01:27 POSTED facebook@Vinzap-Finds 1f221fcd: 1428352113685678_122119791471501659",
   "17:31:27 READY 84b0883a Vegetable and Fruit Peeler | Cooking (auto-approved)",
   "17:31:31 POSTED facebook@Vinzap-Finds 84b0883a: 4613172268971643",
-  "17:31:38 STORY POSTED facebook@Vinzap-Finds 84b0883a"
+  "17:31:38 STORY POSTED facebook@Vinzap-Finds 84b0883a",
+  "18:01:08 READY cb0a659a Bagasse Clamshell Food Box 9x6 Inch (auto-approved)",
+  "18:01:13 POSTED facebook@Vinzap-Finds cb0a659a: 1428352113685678_122119801599501659",
+  "18:01:17 POSTED facebook@Vijayendra-Singh cb0a659a: 1317760538089559_122131598253480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795176087.2922308,
-  "facebook@Vijayendra-Singh": 1795172526.7650898,
-  "youtube": 1795168887.770469
+  "facebook@Vinzap-Finds": 1795177868.8470502,
+  "facebook@Vijayendra-Singh": 1795177868.8470502,
+  "youtube": 1795168467.770469
  },
- "n": 697
+ "n": 698
 }
