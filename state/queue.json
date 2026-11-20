@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "ba4887ff",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Citrus Juicer, Manual Hand",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 799,
-    "was": 0,
-    "feats": [
-     "Made of durable",
-     "Ridged reamer cone for quick",
-     "Built-in strainer to separate"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Stainless Steel Citrus Juicer, Manual Hand | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Citrus Juicer, Manual Hand"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Citrus Juicer, Manual Hand\n✔ Made of durable\n✔ Ridged reamer cone for quick\n✔ Built-in strainer to separate\n\nOnly ₹799. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
-   "title": "Stainless Steel Citrus Juicer, Manual Hand",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794844911.9091432,
-     "id": "1428352113685678_122118884841501659",
-     "dry": false
-    }
-   },
-   "created": 1794844897.1407506,
-   "after": 0,
-   "handle": "stainless-steel-citrus-juicer-easy-manual-hand-press-for-fresh-juice",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-citrus-juicer-easy-manual-hand-press-for-fresh-juice",
-   "file": "ba4887ff.jpg",
-   "thumb": "ba4887ff.jpg"
-  },
-  {
    "id": "70a7aacb",
    "status": "scheduled",
    "kind": "reel",
@@ -4574,12 +4524,58 @@
      "id": "1676856681060707"
     }
    }
+  },
+  {
+   "id": "321b5fcc",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Lollipop Candy Maker Machine, Blue",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Lollipop Candy Maker and Lollipop"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Lollipop Candy Maker Machine, Blue | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Lollipop Candy Maker Machine, Blue"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nLollipop Candy Maker Machine, Blue\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Lollipop Candy Maker Machine, Blue",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795181457.6143909,
+     "id": "1428352113685678_122119812159501659",
+     "dry": false
+    }
+   },
+   "created": 1795181443.623457,
+   "after": 0,
+   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-blue",
+   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-blue",
+   "file": "321b5fcc.jpg",
+   "thumb": "321b5fcc.jpg"
   }
  ],
- "last_post": 1795179744.5162992,
+ "last_post": 1795181457.6143909,
  "log": [
-  "19:01:29 STORY POSTED facebook@Vinzap-Finds d070670a",
-  "19:31:11 READY f3ed80b3 Reusable Pizza Storage Container (auto-approved)",
   "19:31:17 POSTED facebook@Vinzap-Finds f3ed80b3: 1428352113685678_122119121109501659",
   "19:31:22 POSTED facebook@Vijayendra-Singh f3ed80b3: 1317760538089559_122130508065480728",
   "20:01:23 READY 539df717 Cartoon Self Adhesive Hooks, Set of 2 | Kitchen Hacks (auto-approved)",
@@ -4777,13 +4773,15 @@
   "18:32:24 READY 47c0ba50 Multifunction Collapsible Extendable Stick | Home Essentials (auto-approved)",
   "18:32:29 POSTED facebook@Vinzap-Finds 47c0ba50: 2937547719949927",
   "18:32:39 POSTED youtube 47c0ba50: Y2cdEIwLfdg",
-  "18:32:46 STORY POSTED facebook@Vinzap-Finds 47c0ba50"
+  "18:32:46 STORY POSTED facebook@Vinzap-Finds 47c0ba50",
+  "19:00:57 READY 321b5fcc Lollipop Candy Maker Machine, Blue (auto-approved)",
+  "19:01:02 POSTED facebook@Vinzap-Finds 321b5fcc: 1428352113685678_122119812159501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795179744.5162992,
+  "facebook@Vinzap-Finds": 1795181457.6143909,
   "facebook@Vijayendra-Singh": 1795177868.8470502,
   "youtube": 1795179744.5162992
  },
- "n": 699
+ "n": 700
 }
