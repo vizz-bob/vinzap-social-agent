@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "3e173570",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Fruit Fork Set",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 459,
-    "was": 0,
-    "feats": [
-     "✅ Premium Quality Material – Made",
-     "✅ Ergonomic Design – Soft-grip",
-     "✅ Multipurpose Use – Ideal"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Stainless Steel Fruit Fork Set | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Fruit Fork Set"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Fruit Fork Set\n✔ ✅ Premium Quality Material – Made\n✔ ✅ Ergonomic Design – Soft-grip\n✔ ✅ Multipurpose Use – Ideal\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
-   "title": "Stainless Steel Fruit Fork Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794823313.3655913,
-     "id": "1428352113685678_122118809931501659",
-     "dry": false
-    }
-   },
-   "created": 1794823297.9858801,
-   "after": 0,
-   "handle": "premium-stainless-steel-fruit-fork-set-10-pieces-with-soft-non-slip-handle",
-   "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-fruit-fork-set-10-pieces-with-soft-non-slip-handle",
-   "file": "3e173570.jpg",
-   "thumb": "3e173570.jpg"
-  },
-  {
    "id": "0fd8b96d",
    "status": "scheduled",
    "kind": "reel",
@@ -4574,12 +4524,60 @@
      "id": "1164255242746056"
     }
    }
+  },
+  {
+   "id": "4a8ecdec",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Portable Plastic Kitchen Dustbin Hanging",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 609,
+    "was": 0,
+    "feats": [
+     "Compact portable dustbin",
+     "Hanging design suitable",
+     "Lid helps keep waste covered"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Portable Plastic Kitchen Dustbin Hanging | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Portable Plastic Kitchen Dustbin Hanging"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nPortable Plastic Kitchen Dustbin Hanging\n✔ Compact portable dustbin\n✔ Hanging design suitable\n✔ Lid helps keep waste covered\n\nOnly ₹609. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Portable Plastic Kitchen Dustbin Hanging",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795159886.780571,
+     "id": "1428352113685678_122119751127501659",
+     "dry": false
+    }
+   },
+   "created": 1795159872.494181,
+   "after": 0,
+   "handle": "portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
+   "product_url": "https://www.vinzapstore.in/products/portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
+   "file": "4a8ecdec.jpg",
+   "thumb": "4a8ecdec.jpg"
   }
  ],
- "last_post": 1795158087.3167489,
+ "last_post": 1795159886.780571,
  "log": [
-  "13:02:14 STORY POSTED facebook@Vinzap-Finds 4bb41247",
-  "13:31:36 READY 216c0b8b 4-in-1 Silicone Bottle Cleaning Brush (auto-approved)",
   "13:31:40 POSTED facebook@Vinzap-Finds 216c0b8b: 1428352113685678_122119053411501659",
   "13:31:43 POSTED facebook@Vijayendra-Singh 216c0b8b: 1317760538089559_122130399849480728",
   "14:01:26 READY c21a9d75 Stainless Steel Lunch Box Set | Kitchen Gadgets (auto-approved)",
@@ -4777,13 +4775,15 @@
   "12:31:27 READY 3bc8d6c8 Food Grade Cling Wrap Bags,  300x300mm | Home Decor (auto-approved)",
   "12:31:31 POSTED facebook@Vinzap-Finds 3bc8d6c8: 1456700325875446",
   "12:31:38 POSTED youtube 3bc8d6c8: vU4NW97tacw",
-  "12:31:46 STORY POSTED facebook@Vinzap-Finds 3bc8d6c8"
+  "12:31:46 STORY POSTED facebook@Vinzap-Finds 3bc8d6c8",
+  "13:01:26 READY 4a8ecdec Portable Plastic Kitchen Dustbin Hanging (auto-approved)",
+  "13:01:30 POSTED facebook@Vinzap-Finds 4a8ecdec: 1428352113685678_122119751127501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795158087.3167489,
+  "facebook@Vinzap-Finds": 1795159886.780571,
   "facebook@Vijayendra-Singh": 1795156259.253844,
   "youtube": 1795158087.3167489
  },
- "n": 687
+ "n": 688
 }
