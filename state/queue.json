@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "7dbda4b7",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Glass Water Jug",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 709,
-    "was": 0,
-    "feats": [
-     "7-piece drinkware set : 1 jug",
-     "Made from durable",
-     "Food-safe and hygienic material"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Glass Water Jug | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Glass Water Jug"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nGlass Water Jug\n✔ 7-piece drinkware set : 1 jug\n✔ Made from durable\n✔ Food-safe and hygienic material\n\nOnly ₹709. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
-   "title": "Glass Water Jug | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794835885.27599,
-     "id": "937487629300104",
-     "dry": false
-    }
-   },
-   "created": 1794835846.6511211,
-   "after": 0,
-   "handle": "supermom-marina-jug-with-6-glass-set",
-   "product_url": "https://www.vinzapstore.in/products/supermom-marina-jug-with-6-glass-set",
-   "file": "7dbda4b7.mp4",
-   "thumb": "7dbda4b7_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "4081550628820499"
-    }
-   }
-  },
-  {
    "id": "3de62b66",
    "status": "posted",
    "kind": "image",
@@ -4576,15 +4519,77 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-pet-food-scoop-with-bag-clip",
    "file": "10fe3790.jpg",
    "thumb": "10fe3790.jpg"
+  },
+  {
+   "id": "454b299c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Ice Cube Tray",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "2 trays with 14-grid design each",
+     "Each tray comes with a lid",
+     "Easy release design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Ice Cube Tray | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Cube Tray"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nIce Cube Tray\n✔ 2 trays with 14-grid design each\n✔ Each tray comes with a lid\n✔ Easy release design\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "Ice Cube Tray | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795172526.7650898,
+     "id": "1143989228214396",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795172526.7650898,
+     "id": "2044677582861925",
+     "dry": false
+    }
+   },
+   "created": 1795172494.7024167,
+   "after": 0,
+   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-pack-of-2-14-grid-each",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-pack-of-2-14-grid-each",
+   "file": "454b299c.mp4",
+   "thumb": "454b299c_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2376251726460334"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1148513091423959"
+    }
+   }
   }
  ],
- "last_post": 1795170692.0219972,
+ "last_post": 1795172526.7650898,
  "log": [
-  "16:31:13 POSTED facebook@Vinzap-Finds 59911138: 1428352113685678_122119083873501659",
-  "16:31:18 POSTED facebook@Vijayendra-Singh 59911138: 1317760538089559_122130434403480728",
-  "17:01:59 READY 7b08bfd4 Reusable Plastic Fork Set of 24 Multicolour | Home Essentials (auto-approved)",
-  "17:02:06 POSTED facebook@Vinzap-Finds 7b08bfd4: 1146425174758569",
-  "17:02:16 STORY POSTED facebook@Vinzap-Finds 7b08bfd4",
   "17:31:49 READY fb0997a6 Dish Brush Set (auto-approved)",
   "17:31:53 POSTED facebook@Vinzap-Finds fb0997a6: 1428352113685678_122119094403501659",
   "18:01:14 READY 9a33e0d6 Leak Proof Sports Water Bottle 400ml BPA | Kitchen Organization (auto-approved)",
@@ -4779,13 +4784,18 @@
   "15:31:37 POSTED youtube d1a8097d: N3LT9vw07Wk",
   "15:31:46 STORY POSTED facebook@Vinzap-Finds d1a8097d",
   "16:01:32 READY 10fe3790 2-in-1 Pet Food Scoop (auto-approved)",
-  "16:01:35 POSTED facebook@Vinzap-Finds 10fe3790: 1428352113685678_122119781067501659"
+  "16:01:35 POSTED facebook@Vinzap-Finds 10fe3790: 1428352113685678_122119781067501659",
+  "16:32:06 READY 454b299c Ice Cube Tray | Home Decor (auto-approved)",
+  "16:32:11 POSTED facebook@Vinzap-Finds 454b299c: 1143989228214396",
+  "16:32:16 POSTED facebook@Vijayendra-Singh 454b299c: 2044677582861925",
+  "16:32:25 STORY POSTED facebook@Vinzap-Finds 454b299c",
+  "16:32:34 STORY POSTED facebook@Vijayendra-Singh 454b299c"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795170692.0219972,
-  "facebook@Vijayendra-Singh": 1795167065.664387,
+  "facebook@Vinzap-Finds": 1795172526.7650898,
+  "facebook@Vijayendra-Singh": 1795172526.7650898,
   "youtube": 1795168887.770469
  },
- "n": 694
+ "n": 695
 }
