@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "d5e95754",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Round Ice Ball Maker Tray, 2-in-1 Portable,",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 899,
-    "was": 0,
-    "feats": [
-     "2 in 1 Function: Our ice cube",
-     "SAFE: The ice cube mold is made",
-     "Suitable for multiple scenarios:"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen hacks",
-     "home essentials"
-    ],
-    "yt_title": "Round Ice Ball Maker Tray, 2-in-1 Portable, | Kitchen Hacks"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Round Ice Ball Maker Tray, 2-in-1 Portable,"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nRound Ice Ball Maker Tray, 2-in-1 Portable,\n✔ 2 in 1 Function: Our ice cube\n✔ SAFE: The ice cube mold is made\n✔ Suitable for multiple scenarios:\n\nOnly ₹899. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
-   "title": "Round Ice Ball Maker Tray, 2-in-1 Portable,",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794830472.0788994,
-     "id": "1428352113685678_122118835533501659",
-     "dry": false
-    }
-   },
-   "created": 1794830457.126628,
-   "after": 0,
-   "handle": "ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
-   "file": "d5e95754.jpg",
-   "thumb": "d5e95754.jpg"
-  },
-  {
    "id": "0ca901e1",
    "status": "posted",
    "kind": "reel",
@@ -4580,13 +4530,66 @@
      "id": "2037388053624133"
     }
    }
+  },
+  {
+   "id": "ba920a55",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Electric Kettle 2.3 Litre Fast Boiling",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 2999,
+    "was": 0,
+    "feats": [
+     "Large 2.3 litre capacity",
+     "Powerful element boils water",
+     "Auto shut-off switches off once"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Electric Kettle 2.3 Litre Fast Boiling | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Kettle 2.3 Litre Fast Boiling"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nElectric Kettle 2.3 Litre Fast Boiling\n✔ Large 2.3 litre capacity\n✔ Powerful element boils water\n✔ Auto shut-off switches off once\n\nOnly ₹2999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
+   "title": "Electric Kettle 2.3 Litre Fast Boiling",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795167065.664387,
+     "id": "1428352113685678_122119771089501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795167065.664387,
+     "id": "1317760538089559_122131520055480728",
+     "dry": false
+    }
+   },
+   "created": 1795167051.021358,
+   "after": 0,
+   "handle": "electric-kettle-2-3-litre-fast-boiling-water-kettle-with-auto-shut-off-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/electric-kettle-2-3-litre-fast-boiling-water-kettle-with-auto-shut-off-1-pc",
+   "file": "ba920a55.jpg",
+   "thumb": "ba920a55.jpg"
   }
  ],
- "last_post": 1795165280.593605,
+ "last_post": 1795167065.664387,
  "log": [
-  "15:01:29 POSTED youtube 1979ab40: 7Gxbsf3HzjM",
-  "15:01:37 STORY POSTED facebook@Vinzap-Finds 1979ab40",
-  "15:01:45 STORY POSTED facebook@Vijayendra-Singh 1979ab40",
   "15:31:35 READY d1cd3ed3 Apex Mocktail Mug Glass Set of 2, 400ml (auto-approved)",
   "15:31:40 POSTED facebook@Vinzap-Finds d1cd3ed3: 1428352113685678_122119074411501659",
   "16:01:38 READY f0fac402 Fish Scaler Scraper | Kitchen Gadgets (auto-approved)",
@@ -4783,13 +4786,16 @@
   "14:01:23 POSTED facebook@Vinzap-Finds 5917da97: 1428352113685678_122119762089501659",
   "14:31:20 READY b1ce359f Silicone Ice Cube Tray | Cooking (auto-approved)",
   "14:31:25 POSTED facebook@Vinzap-Finds b1ce359f: 1718850316522511",
-  "14:31:36 STORY POSTED facebook@Vinzap-Finds b1ce359f"
+  "14:31:36 STORY POSTED facebook@Vinzap-Finds b1ce359f",
+  "15:01:05 READY ba920a55 Electric Kettle 2.3 Litre Fast Boiling (auto-approved)",
+  "15:01:09 POSTED facebook@Vinzap-Finds ba920a55: 1428352113685678_122119771089501659",
+  "15:01:13 POSTED facebook@Vijayendra-Singh ba920a55: 1317760538089559_122131520055480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795165280.593605,
-  "facebook@Vijayendra-Singh": 1795161679.173014,
-  "youtube": 1795158087.3167489
+  "facebook@Vinzap-Finds": 1795167065.664387,
+  "facebook@Vijayendra-Singh": 1795167065.664387,
+  "youtube": 1795157667.3167489
  },
- "n": 691
+ "n": 692
 }
