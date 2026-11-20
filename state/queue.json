@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "a6e7778a",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Kids Tumbler 900ml",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 349,
-    "was": 0,
-    "feats": [
-     "Large 900ml capacity holds plenty",
-     "Comes with a secure flip lid",
-     "Comfortable side handle gives"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Kids Tumbler 900ml | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kids Tumbler 900ml"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nKids Tumbler 900ml\n✔ Large 900ml capacity holds plenty\n✔ Comes with a secure flip lid\n✔ Comfortable side handle gives\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #homedecor #homedecorideas",
-   "title": "Kids Tumbler 900ml | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794839480.6043515,
-     "id": "1706449567506486",
-     "dry": false
-    }
-   },
-   "created": 1794839446.9629776,
-   "after": 0,
-   "handle": "kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/kids-tumbler-900ml-with-handle-lid-and-straw-ribbed-water-sipper-cup-1-pc",
-   "file": "a6e7778a.mp4",
-   "thumb": "a6e7778a_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1459478632996498"
-    }
-   }
-  },
-  {
    "id": "79af192e",
    "status": "scheduled",
    "kind": "image",
@@ -4580,13 +4523,67 @@
    "product_url": "https://www.vinzapstore.in/products/multipurpose-vegetable-sharpener-peeler-tool-1-pc",
    "file": "1f221fcd.jpg",
    "thumb": "1f221fcd.jpg"
+  },
+  {
+   "id": "84b0883a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Vegetable and Fruit Peeler",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "High-Quality Steel Blade:",
+     "Wooden Handle: Designed",
+     "Versatile Use: Ideal for peeling"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Vegetable and Fruit Peeler | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Vegetable and Fruit Peeler"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nVegetable and Fruit Peeler\n✔ High-Quality Steel Blade:\n✔ Wooden Handle: Designed\n✔ Versatile Use: Ideal for peeling\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Vegetable and Fruit Peeler | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795176087.2922308,
+     "id": "4613172268971643",
+     "dry": false
+    }
+   },
+   "created": 1795176053.9203565,
+   "after": 0,
+   "handle": "vegetable-and-fruit-peeler-with-wooden-handle-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/vegetable-and-fruit-peeler-with-wooden-handle-1-pc",
+   "file": "84b0883a.mp4",
+   "thumb": "84b0883a_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1874410787318989"
+    }
+   }
   }
  ],
- "last_post": 1795174280.9048197,
+ "last_post": 1795176087.2922308,
  "log": [
-  "18:01:14 READY 9a33e0d6 Leak Proof Sports Water Bottle 400ml BPA | Kitchen Organization (auto-approved)",
-  "18:01:20 POSTED facebook@Vinzap-Finds 9a33e0d6: 1609364171207682",
-  "18:01:26 POSTED facebook@Vijayendra-Singh 9a33e0d6: 1393894235918962",
   "18:01:30 POSTED youtube 9a33e0d6: jjKQrGgtX0g",
   "18:01:42 STORY POSTED facebook@Vinzap-Finds 9a33e0d6",
   "18:01:52 STORY POSTED facebook@Vijayendra-Singh 9a33e0d6",
@@ -4783,13 +4780,16 @@
   "16:32:25 STORY POSTED facebook@Vinzap-Finds 454b299c",
   "16:32:34 STORY POSTED facebook@Vijayendra-Singh 454b299c",
   "17:01:20 READY 1f221fcd Multipurpose Vegetable Sharpener and Peeler (auto-approved)",
-  "17:01:27 POSTED facebook@Vinzap-Finds 1f221fcd: 1428352113685678_122119791471501659"
+  "17:01:27 POSTED facebook@Vinzap-Finds 1f221fcd: 1428352113685678_122119791471501659",
+  "17:31:27 READY 84b0883a Vegetable and Fruit Peeler | Cooking (auto-approved)",
+  "17:31:31 POSTED facebook@Vinzap-Finds 84b0883a: 4613172268971643",
+  "17:31:38 STORY POSTED facebook@Vinzap-Finds 84b0883a"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795174280.9048197,
+  "facebook@Vinzap-Finds": 1795176087.2922308,
   "facebook@Vijayendra-Singh": 1795172526.7650898,
   "youtube": 1795168887.770469
  },
- "n": 696
+ "n": 697
 }
