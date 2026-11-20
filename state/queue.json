@@ -1,61 +1,6 @@
 {
  "items": [
   {
-   "id": "c21a9d75",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Lunch Box Set",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Premium Stainless Steel Lunch Box"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Stainless Steel Lunch Box Set | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Lunch Box Set"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Lunch Box Set\n✔ Premium Stainless Steel Lunch Box\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #lunchbox #tiffin #kitchenorganization",
-   "title": "Stainless Steel Lunch Box Set | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794904286.5097833,
-     "id": "1174634485512304",
-     "dry": false
-    }
-   },
-   "created": 1794904250.0777855,
-   "after": 0,
-   "handle": "premium-stainless-steel-lunch-box-set",
-   "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-lunch-box-set",
-   "file": "c21a9d75.mp4",
-   "thumb": "c21a9d75_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1134745889402046"
-    }
-   }
-  },
-  {
    "id": "995818c5",
    "status": "scheduled",
    "kind": "image",
@@ -4566,15 +4511,77 @@
    "product_url": "https://www.vinzapstore.in/products/apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
    "file": "eca04714.jpg",
    "thumb": "eca04714.jpg"
+  },
+  {
+   "id": "01a75977",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Fancy Ice Tray",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 169,
+    "was": 0,
+    "feats": [
+     "Pack of 4 trays",
+     "Fun shapes for drinks",
+     "Fits household fridge freezers"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Fancy Ice Tray | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fancy Ice Tray"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nFancy Ice Tray\n✔ Pack of 4 trays\n✔ Fun shapes for drinks\n✔ Fits household fridge freezers\n\nOnly ₹169. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "Fancy Ice Tray | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795195357.5640838,
+     "id": "1145363757982347",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795195357.5640838,
+     "id": "1744560433755573",
+     "dry": false
+    }
+   },
+   "created": 1795195328.2943158,
+   "after": 0,
+   "handle": "0784-4-pc-fancy-ice-tray-used-widely-in-all-kinds-of-household-places-while-making-ices-and-all-purposes",
+   "product_url": "https://www.vinzapstore.in/products/0784-4-pc-fancy-ice-tray-used-widely-in-all-kinds-of-household-places-while-making-ices-and-all-purposes",
+   "file": "01a75977.mp4",
+   "thumb": "01a75977_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1857311518956174"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "40630867516504037"
+    }
+   }
   }
  ],
- "last_post": 1795192300.4879718,
+ "last_post": 1795195357.5640838,
  "log": [
-  "22:31:45 POSTED facebook@Vinzap-Finds ef1a546b: 1428352113685678_122119157559501659",
-  "22:31:48 POSTED facebook@Vijayendra-Singh ef1a546b: 1317760538089559_122130548343480728",
-  "12:11:27 READY 9ecced4c Plastic Squeeze Sauce Bottle | Kitchen Hacks (auto-approved)",
-  "12:11:33 POSTED facebook@Vinzap-Finds 9ecced4c: 1170911295382027",
-  "12:11:38 POSTED facebook@Vijayendra-Singh 9ecced4c: 967284789475121",
   "12:11:48 POSTED youtube 9ecced4c: hhd87rwbVjs",
   "12:12:00 STORY POSTED facebook@Vinzap-Finds 9ecced4c",
   "12:12:13 STORY POSTED facebook@Vijayendra-Singh 9ecced4c",
@@ -4769,13 +4776,18 @@
   "21:32:09 POSTED youtube 8ffafbbc: sntxTzD7ca0",
   "21:32:21 STORY POSTED facebook@Vinzap-Finds 8ffafbbc",
   "22:01:40 READY eca04714 Apex Flexi Stainless Steel Lunch Box (auto-approved)",
-  "22:01:44 POSTED facebook@Vinzap-Finds eca04714: 1428352113685678_122119852503501659"
+  "22:01:44 POSTED facebook@Vinzap-Finds eca04714: 1428352113685678_122119852503501659",
+  "22:52:37 READY 01a75977 Fancy Ice Tray | Home Decor (auto-approved)",
+  "22:52:43 POSTED facebook@Vinzap-Finds 01a75977: 1145363757982347",
+  "22:52:48 POSTED facebook@Vijayendra-Singh 01a75977: 1744560433755573",
+  "22:52:57 STORY POSTED facebook@Vinzap-Finds 01a75977",
+  "22:53:06 STORY POSTED facebook@Vijayendra-Singh 01a75977"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795192300.4879718,
-  "facebook@Vijayendra-Singh": 1795188699.5594409,
+  "facebook@Vinzap-Finds": 1795195357.5640838,
+  "facebook@Vijayendra-Singh": 1795195357.5640838,
   "youtube": 1795190515.7303414
  },
- "n": 706
+ "n": 707
 }
