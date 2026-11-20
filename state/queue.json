@@ -1,61 +1,6 @@
 {
  "items": [
   {
-   "id": "4bb41247",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Vegetable Grater",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 229,
-    "was": 0,
-    "feats": [
-     "Apex Premium Stainless Steel"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Stainless Steel Vegetable Grater | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Vegetable Grater"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Vegetable Grater\n✔ Apex Premium Stainless Steel\n\nOnly ₹229. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
-   "title": "Stainless Steel Vegetable Grater | Home Essentials",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794900721.2890193,
-     "id": "2198546237707332",
-     "dry": false
-    }
-   },
-   "created": 1794900688.257796,
-   "after": 0,
-   "handle": "apex-premium-stainless-steel-vegetable-grater-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-premium-stainless-steel-vegetable-grater-1-pc",
-   "file": "4bb41247.mp4",
-   "thumb": "4bb41247_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1642252920678249"
-    }
-   }
-  },
-  {
    "id": "216c0b8b",
    "status": "posted",
    "kind": "image",
@@ -4564,14 +4509,73 @@
    "product_url": "https://www.vinzapstore.in/products/503-silicone-moisturizing-feet-socks-gel-1-pair",
    "file": "faabb09d.jpg",
    "thumb": "faabb09d.jpg"
+  },
+  {
+   "id": "8ffafbbc",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Plastic Ice Cream Scooper",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "High-quality material: Made",
+     "Unique design: Each shovel has",
+     "【Package Includes】1 spoons"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Plastic Ice Cream Scooper | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Plastic Ice Cream Scooper"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nPlastic Ice Cream Scooper\n✔ High-quality material: Made\n✔ Unique design: Each shovel has\n✔ 【Package Includes】1 spoons\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Plastic Ice Cream Scooper | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795190515.7303414,
+     "id": "29236709392624819",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795190515.7303414,
+     "id": "sntxTzD7ca0",
+     "dry": false
+    }
+   },
+   "created": 1795190481.7303965,
+   "after": 0,
+   "handle": "1-piece-plastic-ice-cream-watermelon-scooper-with-trigger-dipper",
+   "product_url": "https://www.vinzapstore.in/products/1-piece-plastic-ice-cream-watermelon-scooper-with-trigger-dipper",
+   "file": "8ffafbbc.mp4",
+   "thumb": "8ffafbbc_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1835263111576773"
+    }
+   }
   }
  ],
- "last_post": 1795188699.5594409,
+ "last_post": 1795190515.7303414,
  "log": [
-  "21:31:07 READY 75fb0057 Stainless Steel Potato Masher 17cm (auto-approved)",
-  "21:31:11 POSTED facebook@Vinzap-Finds 75fb0057: 1428352113685678_122119142211501659",
-  "22:01:46 READY 03e74ddb Cute Cartoon Double Layer Lunch Box | Kitchen Organization (auto-approved)",
-  "22:01:51 POSTED facebook@Vinzap-Finds 03e74ddb: 2133600583919779",
   "22:02:04 STORY POSTED facebook@Vinzap-Finds 03e74ddb",
   "22:31:40 READY ef1a546b 3-in-1 Tea and Coffee Accessories Combo Set (auto-approved)",
   "22:31:45 POSTED facebook@Vinzap-Finds ef1a546b: 1428352113685678_122119157559501659",
@@ -4767,13 +4771,17 @@
   "20:25:37 STORY POSTED facebook@Vinzap-Finds 53c2b1db",
   "21:01:39 READY faabb09d Silicone Moisturizing Feet Socks Gel, 1 Pair (auto-approved)",
   "21:01:45 POSTED facebook@Vinzap-Finds faabb09d: 1428352113685678_122119839207501659",
-  "21:01:50 POSTED facebook@Vijayendra-Singh faabb09d: 1317760538089559_122131646061480728"
+  "21:01:50 POSTED facebook@Vijayendra-Singh faabb09d: 1317760538089559_122131646061480728",
+  "21:31:55 READY 8ffafbbc Plastic Ice Cream Scooper | Home Essentials (auto-approved)",
+  "21:32:01 POSTED facebook@Vinzap-Finds 8ffafbbc: 29236709392624819",
+  "21:32:09 POSTED youtube 8ffafbbc: sntxTzD7ca0",
+  "21:32:21 STORY POSTED facebook@Vinzap-Finds 8ffafbbc"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795188699.5594409,
+  "facebook@Vinzap-Finds": 1795190515.7303414,
   "facebook@Vijayendra-Singh": 1795188699.5594409,
-  "youtube": 1795179324.5162992
+  "youtube": 1795190515.7303414
  },
- "n": 704
+ "n": 705
 }
