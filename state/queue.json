@@ -1,79 +1,6 @@
 {
  "items": [
   {
-   "id": "983e6f75",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Handheld Vegetable & Fruit Peeler",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Sharp peeling edge for smooth",
-     "Handheld design for better",
-     "Ergonomic handle for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Handheld Vegetable & Fruit Peeler | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Handheld Vegetable & Fruit Peeler"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nHandheld Vegetable & Fruit Peeler\n✔ Sharp peeling edge for smooth\n✔ Handheld design for better\n✔ Ergonomic handle for comfortable\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
-   "title": "Handheld Vegetable & Fruit Peeler | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794821505.9545598,
-     "id": "1667505591710513",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794821505.9545598,
-     "id": "1832233820997524",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1794821505.9545598,
-     "id": "XTvwRNLcxWg",
-     "dry": false
-    }
-   },
-   "created": 1794821475.1834328,
-   "after": 0,
-   "handle": "handheld-vegetable-and-fruit-peeler-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/handheld-vegetable-and-fruit-peeler-1-pc",
-   "file": "983e6f75.mp4",
-   "thumb": "983e6f75_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1610742256871344"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "924775990603105"
-    }
-   }
-  },
-  {
    "id": "3e173570",
    "status": "scheduled",
    "kind": "image",
@@ -4584,14 +4511,73 @@
    "product_url": "https://www.vinzapstore.in/products/heavy-duty-stainless-steel-apple-cutter-slicer-1-pc",
    "file": "ea4d1917.jpg",
    "thumb": "ea4d1917.jpg"
+  },
+  {
+   "id": "3bc8d6c8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Food Grade Cling Wrap Bags,  300x300mm",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 639,
+    "was": 0,
+    "feats": [
+     "Strong and stretchable wrap",
+     "Transparent design for easy",
+     "Helps retain freshness"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Food Grade Cling Wrap Bags,  300x300mm | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Food Grade Cling Wrap Bags,  300x300mm"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nFood Grade Cling Wrap Bags,  300x300mm\n✔ Strong and stretchable wrap\n✔ Transparent design for easy\n✔ Helps retain freshness\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homedecor #homedecorideas",
+   "title": "Food Grade Cling Wrap Bags,  300x300mm | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795158087.3167489,
+     "id": "1456700325875446",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795158087.3167489,
+     "id": "vU4NW97tacw",
+     "dry": false
+    }
+   },
+   "created": 1795158053.007429,
+   "after": 0,
+   "handle": "food-grade-cling-wrap-roll-30-bag-300x300-mm",
+   "product_url": "https://www.vinzapstore.in/products/food-grade-cling-wrap-roll-30-bag-300x300-mm",
+   "file": "3bc8d6c8.mp4",
+   "thumb": "3bc8d6c8_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1164255242746056"
+    }
+   }
   }
  ],
- "last_post": 1795156259.253844,
+ "last_post": 1795158087.3167489,
  "log": [
-  "12:31:02 READY 03151593 Plastic Knife Organizer Stand (auto-approved)",
-  "12:31:05 POSTED facebook@Vinzap-Finds 03151593: 1428352113685678_122119045005501659",
-  "13:02:01 READY 4bb41247 Stainless Steel Vegetable Grater | Home Essentials (auto-approved)",
-  "13:02:06 POSTED facebook@Vinzap-Finds 4bb41247: 2198546237707332",
   "13:02:14 STORY POSTED facebook@Vinzap-Finds 4bb41247",
   "13:31:36 READY 216c0b8b 4-in-1 Silicone Bottle Cleaning Brush (auto-approved)",
   "13:31:40 POSTED facebook@Vinzap-Finds 216c0b8b: 1428352113685678_122119053411501659",
@@ -4787,13 +4773,17 @@
   "22:31:41 STORY POSTED facebook@Vinzap-Finds 124b8bae",
   "12:00:59 READY ea4d1917 Stainless Steel Apple Cutter and Slicer, (auto-approved)",
   "12:01:03 POSTED facebook@Vinzap-Finds ea4d1917: 1428352113685678_122119736121501659",
-  "12:01:07 POSTED facebook@Vijayendra-Singh ea4d1917: 1317760538089559_122131429653480728"
+  "12:01:07 POSTED facebook@Vijayendra-Singh ea4d1917: 1317760538089559_122131429653480728",
+  "12:31:27 READY 3bc8d6c8 Food Grade Cling Wrap Bags,  300x300mm | Home Decor (auto-approved)",
+  "12:31:31 POSTED facebook@Vinzap-Finds 3bc8d6c8: 1456700325875446",
+  "12:31:38 POSTED youtube 3bc8d6c8: vU4NW97tacw",
+  "12:31:46 STORY POSTED facebook@Vinzap-Finds 3bc8d6c8"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795156259.253844,
+  "facebook@Vinzap-Finds": 1795158087.3167489,
   "facebook@Vijayendra-Singh": 1795156259.253844,
-  "youtube": 1795103309.1659112
+  "youtube": 1795158087.3167489
  },
- "n": 686
+ "n": 687
 }
