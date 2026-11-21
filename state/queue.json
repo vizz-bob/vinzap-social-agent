@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "03e74ddb",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Cute Cartoon Double Layer Lunch Box",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 1999,
-    "was": 0,
-    "feats": [
-     "Double layer for separate food",
-     "Cartoon-themed look",
-     "Side locks and a carry handle"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Cute Cartoon Double Layer Lunch Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Cute Cartoon Double Layer Lunch Box"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nCute Cartoon Double Layer Lunch Box\n✔ Double layer for separate food\n✔ Cartoon-themed look\n✔ Side locks and a carry handle\n\nOnly ₹1999. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #lunchbox #tiffin #kitchenorganization #cooking",
-   "title": "Cute Cartoon Double Layer Lunch Box | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794933106.5930743,
-     "id": "2133600583919779",
-     "dry": false
-    }
-   },
-   "created": 1794933068.1564083,
-   "after": 0,
-   "handle": "cute-cartoon-double-layer-lunch-box-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/cute-cartoon-double-layer-lunch-box-1-pc",
-   "file": "03e74ddb.mp4",
-   "thumb": "03e74ddb_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1453283800274089"
-    }
-   }
-  },
-  {
    "id": "ef1a546b",
    "status": "posted",
    "kind": "image",
@@ -4572,15 +4515,77 @@
    "product_url": "https://www.vinzapstore.in/products/400-ml-glass-water-bottle-with-silicone-sleeve-for-gym-office-1-pc",
    "file": "d0adac94.jpg",
    "thumb": "d0adac94.jpg"
+  },
+  {
+   "id": "dfef5808",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Premium Round Tea Cup Set of 6",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 419,
+    "was": 0,
+    "feats": [
+     "Set of 6 matching tea cups",
+     "Elegant round design enhances",
+     "Comfortable handle for easy grip"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Premium Round Tea Cup Set of 6 | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Premium Round Tea Cup Set of 6"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nPremium Round Tea Cup Set of 6\n✔ Set of 6 matching tea cups\n✔ Elegant round design enhances\n✔ Comfortable handle for easy grip\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Premium Round Tea Cup Set of 6 | Kitchen Hacks",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795269694.6517158,
+     "id": "985473227519007",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795269694.6517158,
+     "id": "2463529557722991",
+     "dry": false
+    }
+   },
+   "created": 1795269660.8793516,
+   "after": 0,
+   "handle": "premium-round-tea-cup-set-6-pc-set",
+   "product_url": "https://www.vinzapstore.in/products/premium-round-tea-cup-set-6-pc-set",
+   "file": "dfef5808.mp4",
+   "thumb": "dfef5808_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2251787725383274"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1125391743802409"
+    }
+   }
   }
  ],
- "last_post": 1795267864.7420895,
+ "last_post": 1795269694.6517158,
  "log": [
-  "19:45:56 POSTED facebook@Vinzap-Finds afa3e83d: 1428352113685678_122119354965501659",
-  "19:45:59 POSTED facebook@Vijayendra-Singh afa3e83d: 1317760538089559_122130841593480728",
-  "20:16:35 READY 371a3a33 Kitchen Knife Set | Home Essentials (auto-approved)",
-  "20:16:40 POSTED facebook@Vinzap-Finds 371a3a33: 2447269282785066",
-  "20:16:53 STORY POSTED facebook@Vinzap-Finds 371a3a33",
   "20:46:29 READY 2bb4dd9a LED Dual Flow Faucet Adapter (auto-approved)",
   "20:46:33 POSTED facebook@Vinzap-Finds 2bb4dd9a: 1428352113685678_122119365843501659",
   "21:16:03 READY 3157da68 Cooking Essentials Combo | Home Decor (auto-approved)",
@@ -4775,13 +4780,18 @@
   "18:31:37 POSTED youtube 2ab6e67c: d8SPp34Bv9s",
   "18:31:45 STORY POSTED facebook@Vinzap-Finds 2ab6e67c",
   "19:01:04 READY d0adac94 Glass Water Bottle 400ml (auto-approved)",
-  "19:01:08 POSTED facebook@Vinzap-Finds d0adac94: 1428352113685678_122120051703501659"
+  "19:01:08 POSTED facebook@Vinzap-Finds d0adac94: 1428352113685678_122120051703501659",
+  "19:31:34 READY dfef5808 Premium Round Tea Cup Set of 6 | Kitchen Hacks (auto-approved)",
+  "19:31:40 POSTED facebook@Vinzap-Finds dfef5808: 985473227519007",
+  "19:31:44 POSTED facebook@Vijayendra-Singh dfef5808: 2463529557722991",
+  "19:31:53 STORY POSTED facebook@Vinzap-Finds dfef5808",
+  "19:32:01 STORY POSTED facebook@Vijayendra-Singh dfef5808"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795267864.7420895,
-  "facebook@Vijayendra-Singh": 1795264255.455593,
+  "facebook@Vinzap-Finds": 1795269694.6517158,
+  "facebook@Vijayendra-Singh": 1795269694.6517158,
   "youtube": 1795266088.2437499
  },
- "n": 722
+ "n": 723
 }
