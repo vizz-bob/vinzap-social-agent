@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "75fb0057",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Potato Masher 17cm",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Premium food-grade stainless",
-     "Wide mashing plate",
-     "Ergonomic handle with anti-slip"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Potato Masher 17cm | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Potato Masher 17cm"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Potato Masher 17cm\n✔ Premium food-grade stainless\n✔ Wide mashing plate\n✔ Ergonomic handle with anti-slip\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
-   "title": "Stainless Steel Potato Masher 17cm",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794931267.6226492,
-     "id": "1428352113685678_122119142211501659",
-     "dry": false
-    }
-   },
-   "created": 1794931252.9639125,
-   "after": 0,
-   "handle": "stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-potato-masher-with-ergonomic-handle-17cm-1-pc",
-   "file": "75fb0057.jpg",
-   "thumb": "75fb0057.jpg"
-  },
-  {
    "id": "03e74ddb",
    "status": "scheduled",
    "kind": "reel",
@@ -4572,12 +4522,60 @@
      "id": "1146254937761439"
     }
    }
+  },
+  {
+   "id": "d0adac94",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Glass Water Bottle 400ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Pure glass body keeps water fresh",
+     "Protective soft silicone sleeve",
+     "400ml capacity — ideal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Glass Water Bottle 400ml | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Glass Water Bottle 400ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nGlass Water Bottle 400ml\n✔ Pure glass body keeps water fresh\n✔ Protective soft silicone sleeve\n✔ 400ml capacity — ideal\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #kitchenorganization #cooking",
+   "title": "Glass Water Bottle 400ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795267864.7420895,
+     "id": "1428352113685678_122120051703501659",
+     "dry": false
+    }
+   },
+   "created": 1795267850.861603,
+   "after": 0,
+   "handle": "400-ml-glass-water-bottle-with-silicone-sleeve-for-gym-office-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/400-ml-glass-water-bottle-with-silicone-sleeve-for-gym-office-1-pc",
+   "file": "d0adac94.jpg",
+   "thumb": "d0adac94.jpg"
   }
  ],
- "last_post": 1795266088.2437499,
+ "last_post": 1795267864.7420895,
  "log": [
-  "19:16:36 STORY POSTED facebook@Vinzap-Finds 4aaf9345",
-  "19:45:53 READY afa3e83d Adjustable Kitchen Cooking Apron (auto-approved)",
   "19:45:56 POSTED facebook@Vinzap-Finds afa3e83d: 1428352113685678_122119354965501659",
   "19:45:59 POSTED facebook@Vijayendra-Singh afa3e83d: 1317760538089559_122130841593480728",
   "20:16:35 READY 371a3a33 Kitchen Knife Set | Home Essentials (auto-approved)",
@@ -4775,13 +4773,15 @@
   "18:31:28 READY 2ab6e67c Natural Wood Chopping Board | Home Essentials (auto-approved)",
   "18:31:32 POSTED facebook@Vinzap-Finds 2ab6e67c: 1320721293514224",
   "18:31:37 POSTED youtube 2ab6e67c: d8SPp34Bv9s",
-  "18:31:45 STORY POSTED facebook@Vinzap-Finds 2ab6e67c"
+  "18:31:45 STORY POSTED facebook@Vinzap-Finds 2ab6e67c",
+  "19:01:04 READY d0adac94 Glass Water Bottle 400ml (auto-approved)",
+  "19:01:08 POSTED facebook@Vinzap-Finds d0adac94: 1428352113685678_122120051703501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795266088.2437499,
+  "facebook@Vinzap-Finds": 1795267864.7420895,
   "facebook@Vijayendra-Singh": 1795264255.455593,
   "youtube": 1795266088.2437499
  },
- "n": 721
+ "n": 722
 }
