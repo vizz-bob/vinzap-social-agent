@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "fbe1fc52",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Transparent Plastic Cup",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Transparent body lets you see",
-     "Comfortable side handle",
-     "Anti-slip grip band around"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Transparent Plastic Cup | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Transparent Plastic Cup"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nTransparent Plastic Cup\n✔ Transparent body lets you see\n✔ Comfortable side handle\n✔ Anti-slip grip band around\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #trendingshorts #kitchenhacks",
-   "title": "Transparent Plastic Cup | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794987971.5249395,
-     "id": "2246334259277922",
-     "dry": false
-    }
-   },
-   "created": 1794987933.5719693,
-   "after": 0,
-   "handle": "transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
-   "file": "fbe1fc52.mp4",
-   "thumb": "fbe1fc52_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2201813217430397"
-    }
-   }
-  },
-  {
    "id": "0042ddd2",
    "status": "posted",
    "kind": "image",
@@ -4564,14 +4507,73 @@
    "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-fruit-fork-set-10-pieces-with-soft-non-slip-handle",
    "file": "e89b56f4.jpg",
    "thumb": "e89b56f4.jpg"
+  },
+  {
+   "id": "1cab394a",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Disposable Clear Plastic Gloves Medium Pack",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "100 disposable gloves per pack",
+     "size for a comfortable fit",
+     "Transparent design for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Disposable Clear Plastic Gloves Medium Pack | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Clear Plastic Gloves Medium Pack"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nDisposable Clear Plastic Gloves Medium Pack\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Disposable Clear Plastic Gloves Medium Pack | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795276882.1722083,
+     "id": "2190203728292517",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795276882.1722083,
+     "id": "cSJx3xQdteM",
+     "dry": false
+    }
+   },
+   "created": 1795276850.525729,
+   "after": 0,
+   "handle": "disposable-clear-plastic-gloves-100-pc-medium-1",
+   "product_url": "https://www.vinzapstore.in/products/disposable-clear-plastic-gloves-100-pc-medium-1",
+   "file": "1cab394a.mp4",
+   "thumb": "1cab394a_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1630928074662287"
+    }
+   }
   }
  ],
- "last_post": 1795275063.314933,
+ "last_post": 1795276882.1722083,
  "log": [
-  "21:45:54 READY ec3e567e White Enamel Mug Custom Printed (auto-approved)",
-  "21:45:59 POSTED facebook@Vinzap-Finds ec3e567e: 1428352113685678_122119375473501659",
-  "22:35:16 READY 16078e13 3 in 1 Water Bottle Set 2000 ml, 900 ml and | Home Essentials (auto-approved)",
-  "22:35:21 POSTED facebook@Vinzap-Finds 16078e13: 2980735615640448",
   "22:35:29 STORY POSTED facebook@Vinzap-Finds 16078e13",
   "12:01:00 READY b765ec1e Kids Stainless Steel Cutlery Set 3 in 1 (auto-approved)",
   "12:01:05 POSTED facebook@Vinzap-Finds b765ec1e: 1428352113685678_122119504695501659",
@@ -4767,13 +4769,17 @@
   "20:31:55 STORY POSTED facebook@Vinzap-Finds aa2cfce5",
   "21:01:03 READY e89b56f4 Stainless Steel Fruit Fork Set (auto-approved)",
   "21:01:08 POSTED facebook@Vinzap-Finds e89b56f4: 1428352113685678_122120075625501659",
-  "21:01:13 POSTED facebook@Vijayendra-Singh e89b56f4: 1317760538089559_122132017431480728"
+  "21:01:13 POSTED facebook@Vijayendra-Singh e89b56f4: 1317760538089559_122132017431480728",
+  "21:31:22 READY 1cab394a Disposable Clear Plastic Gloves Medium Pack | Home Essentials (auto-approved)",
+  "21:31:26 POSTED facebook@Vinzap-Finds 1cab394a: 2190203728292517",
+  "21:31:30 POSTED youtube 1cab394a: cSJx3xQdteM",
+  "21:31:40 STORY POSTED facebook@Vinzap-Finds 1cab394a"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795275063.314933,
+  "facebook@Vinzap-Finds": 1795276882.1722083,
   "facebook@Vijayendra-Singh": 1795275063.314933,
-  "youtube": 1795265668.2437499
+  "youtube": 1795276882.1722083
  },
- "n": 726
+ "n": 727
 }
