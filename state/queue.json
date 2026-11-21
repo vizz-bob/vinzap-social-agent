@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "f0fac402",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Fish Scaler Scraper",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Sharp serrated scraper removes",
-     "Attached lid acts as a scale",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Fish Scaler Scraper | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fish Scaler Scraper"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nFish Scaler Scraper\n✔ Sharp serrated scraper removes\n✔ Attached lid acts as a scale\n✔ Comfortable handle gives a firm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cleaninghacks #homecleaning #kitchenorganization",
-   "title": "Fish Scaler Scraper | Kitchen Gadgets",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794911498.2538018,
-     "id": "3356977284511898",
-     "dry": false
-    }
-   },
-   "created": 1794911466.0888996,
-   "after": 0,
-   "handle": "fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/fish-scaler-scraper-with-lid-scale-remover-skin-cleaner-for-kitchen-1-pc",
-   "file": "f0fac402.mp4",
-   "thumb": "f0fac402_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3549867185200927"
-    }
-   }
-  },
-  {
    "id": "59911138",
    "status": "posted",
    "kind": "image",
@@ -4574,15 +4517,75 @@
    "product_url": "https://www.vinzapstore.in/products/4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
    "file": "ffb9c852.jpg",
    "thumb": "ffb9c852.jpg"
+  },
+  {
+   "id": "90693edc",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Potato Peeler",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Apex Stainless Steel Blade Potato"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Stainless Steel Potato Peeler | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Potato Peeler"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Potato Peeler\n✔ Apex Stainless Steel Blade Potato\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization #cooking",
+   "title": "Stainless Steel Potato Peeler | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795248078.1434617,
+     "id": "1812357666636836",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795248078.1434617,
+     "id": "1096304733408555",
+     "dry": false
+    }
+   },
+   "created": 1795248048.027487,
+   "after": 0,
+   "handle": "apex-stainless-steel-blade-potato-peeler-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-stainless-steel-blade-potato-peeler-1-pc",
+   "file": "90693edc.mp4",
+   "thumb": "90693edc_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1817514096126859"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1456545525889330"
+    }
+   }
   }
  ],
- "last_post": 1795246263.3140624,
+ "last_post": 1795248078.1434617,
  "log": [
-  "13:45:55 POSTED facebook@Vinzap-Finds 0042ddd2: 1428352113685678_122119296027501659",
-  "13:46:00 POSTED facebook@Vijayendra-Singh 0042ddd2: 1317760538089559_122130737301480728",
-  "14:16:07 READY 8f61102f Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas (auto-approved)",
-  "14:16:12 POSTED facebook@Vinzap-Finds 8f61102f: 1115098927964638",
-  "14:16:24 STORY POSTED facebook@Vinzap-Finds 8f61102f",
   "14:45:55 READY b8cee14e Pet Hair and Lint Remover Brush 2 in 1 (auto-approved)",
   "14:45:58 POSTED facebook@Vinzap-Finds b8cee14e: 1428352113685678_122119305525501659",
   "15:16:03 READY 7dbffbac Multifunction Melon Baller and Fruit Cutter | Home Essentials (auto-approved)",
@@ -4777,13 +4780,18 @@
   "12:31:48 POSTED youtube 9f8e446c: fnmo68lTWoM",
   "12:31:56 STORY POSTED facebook@Vinzap-Finds 9f8e446c",
   "13:01:03 READY ffb9c852 4-in-1 Silicone Bottle Cleaning Brush (auto-approved)",
-  "13:01:07 POSTED facebook@Vinzap-Finds ffb9c852: 1428352113685678_122119988991501659"
+  "13:01:07 POSTED facebook@Vinzap-Finds ffb9c852: 1428352113685678_122119988991501659",
+  "13:31:18 READY 90693edc Stainless Steel Potato Peeler | Kitchen Organization (auto-approved)",
+  "13:31:22 POSTED facebook@Vinzap-Finds 90693edc: 1812357666636836",
+  "13:31:27 POSTED facebook@Vijayendra-Singh 90693edc: 1096304733408555",
+  "13:31:36 STORY POSTED facebook@Vinzap-Finds 90693edc",
+  "13:31:45 STORY POSTED facebook@Vijayendra-Singh 90693edc"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795246263.3140624,
-  "facebook@Vijayendra-Singh": 1795242657.3959851,
+  "facebook@Vinzap-Finds": 1795248078.1434617,
+  "facebook@Vijayendra-Singh": 1795248078.1434617,
   "youtube": 1795244501.1167083
  },
- "n": 710
+ "n": 711
 }
