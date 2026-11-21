@@ -1,62 +1,6 @@
 {
  "items": [
   {
-   "id": "f3ed80b3",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Reusable Pizza Storage Container",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 699,
-    "was": 0,
-    "feats": [
-     "【Space Saving】The pizza storage",
-     "【Sealing & Keep Fresh】Each pizza",
-     "【Multifunction】Pizza container"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "trending shorts"
-    ],
-    "yt_title": "Reusable Pizza Storage Container | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Pizza Storage Container"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nReusable Pizza Storage Container\n✔ 【Space Saving】The pizza storage\n✔ 【Sealing & Keep Fresh】Each pizza\n✔ 【Multifunction】Pizza container\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homedecorideas #trendingshorts",
-   "title": "Reusable Pizza Storage Container",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794924071.9030654,
-     "id": "1428352113685678_122119121109501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794924071.9030654,
-     "id": "1317760538089559_122130508065480728",
-     "dry": false
-    }
-   },
-   "created": 1794924057.5249262,
-   "after": 0,
-   "handle": "10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
-   "product_url": "https://www.vinzapstore.in/products/10026-reusable-pizza-storage-containers-with-5-microwavable-serving-trays-silicone-container-expandable-adjustable-for-packing-pizza-at-home-outdoor",
-   "file": "f3ed80b3.jpg",
-   "thumb": "f3ed80b3.jpg"
-  },
-  {
    "id": "539df717",
    "status": "scheduled",
    "kind": "reel",
@@ -4582,12 +4526,60 @@
      "id": "1170254165997095"
     }
    }
+  },
+  {
+   "id": "43231c63",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Silicone Foldable Travel Cup",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 439,
+    "was": 0,
+    "feats": [
+     "Collapsible silicone body folds",
+     "Includes a reusable straw",
+     "Food-grade silicone construction"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Silicone Foldable Travel Cup | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Foldable Travel Cup"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSilicone Foldable Travel Cup\n✔ Collapsible silicone body folds\n✔ Includes a reusable straw\n✔ Food-grade silicone construction\n\nOnly ₹439. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Silicone Foldable Travel Cup",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795260659.994071,
+     "id": "1428352113685678_122120033235501659",
+     "dry": false
+    }
+   },
+   "created": 1795260645.7463377,
+   "after": 0,
+   "handle": "silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/silicone-foldable-collapsible-travel-cup-with-straw-and-dome-lid-1-pc",
+   "file": "43231c63.jpg",
+   "thumb": "43231c63.jpg"
   }
  ],
- "last_post": 1795258886.8782697,
+ "last_post": 1795260659.994071,
  "log": [
-  "17:46:13 READY 1d086f6c Durable Plastic Ice Cube Tray (auto-approved)",
-  "17:46:18 POSTED facebook@Vinzap-Finds 1d086f6c: 1428352113685678_122119335381501659",
   "18:16:13 READY 5af3fa0e Stainless Steel Paring Knife | Kitchen Gadgets (auto-approved)",
   "18:16:18 POSTED facebook@Vinzap-Finds 5af3fa0e: 1602920221120815",
   "18:16:21 POSTED facebook@Vijayendra-Singh 5af3fa0e: 1843262486913831",
@@ -4785,13 +4777,15 @@
   "16:31:31 POSTED facebook@Vinzap-Finds 4859d199: 40511554231791208",
   "16:31:36 POSTED facebook@Vijayendra-Singh 4859d199: 2556638154828086",
   "16:31:44 STORY POSTED facebook@Vinzap-Finds 4859d199",
-  "16:31:52 STORY POSTED facebook@Vijayendra-Singh 4859d199"
+  "16:31:52 STORY POSTED facebook@Vijayendra-Singh 4859d199",
+  "17:00:59 READY 43231c63 Silicone Foldable Travel Cup (auto-approved)",
+  "17:01:05 POSTED facebook@Vinzap-Finds 43231c63: 1428352113685678_122120033235501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795258886.8782697,
+  "facebook@Vinzap-Finds": 1795260659.994071,
   "facebook@Vijayendra-Singh": 1795258886.8782697,
   "youtube": 1795255296.686113
  },
- "n": 717
+ "n": 718
 }
