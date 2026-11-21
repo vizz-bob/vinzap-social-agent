@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "7b08bfd4",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Reusable Plastic Fork Set of 24 Multicolour",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Value pack of 24 forks provides",
-     "Reusable and durable plastic is",
-     "Cheerful multicolour shades add"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Reusable Plastic Fork Set of 24 Multicolour | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Plastic Fork Set of 24 Multicolour"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nReusable Plastic Fork Set of 24 Multicolour\n✔ Value pack of 24 forks provides\n✔ Reusable and durable plastic is\n✔ Cheerful multicolour shades add\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
-   "title": "Reusable Plastic Fork Set of 24 Multicolour | Home Essentials",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794915119.85362,
-     "id": "1146425174758569",
-     "dry": false
-    }
-   },
-   "created": 1794915079.9574904,
-   "after": 0,
-   "handle": "plastic-fork-24-pc-set-reusable-multicolour-dinner-forks-unbreakable-24-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-fork-24-pc-set-reusable-multicolour-dinner-forks-unbreakable-24-pc-set",
-   "file": "7b08bfd4.mp4",
-   "thumb": "7b08bfd4_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1642931377519955"
-    }
-   }
-  },
-  {
    "id": "fb0997a6",
    "status": "scheduled",
    "kind": "image",
@@ -4576,13 +4519,65 @@
    "product_url": "https://www.vinzapstore.in/products/apex-everyday-plastic-glass-set-6-pieces-lightweight-unbreakable",
    "file": "c64b13e2.jpg",
    "thumb": "c64b13e2.jpg"
+  },
+  {
+   "id": "c6ca4ce3",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Rubber Pet Grooming Glove Brush",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Rubber Pet Cleaning Massaging"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Rubber Pet Grooming Glove Brush | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Rubber Pet Grooming Glove Brush"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nRubber Pet Grooming Glove Brush\n✔ Rubber Pet Cleaning Massaging\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cleaninghacks #homecleaning #petlovers #petessentials #kitchenorganization #cooking",
+   "title": "Rubber Pet Grooming Glove Brush | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795251688.9677434,
+     "id": "1804726190794219",
+     "dry": false
+    }
+   },
+   "created": 1795251660.4161634,
+   "after": 0,
+   "handle": "172-rubber-pet-cleaning-massaging-grooming-glove-brush",
+   "product_url": "https://www.vinzapstore.in/products/172-rubber-pet-cleaning-massaging-grooming-glove-brush",
+   "file": "c6ca4ce3.mp4",
+   "thumb": "c6ca4ce3_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1467230152012560"
+    }
+   }
   }
  ],
- "last_post": 1795249862.1043372,
+ "last_post": 1795251688.9677434,
  "log": [
-  "15:16:03 READY 7dbffbac Multifunction Melon Baller and Fruit Cutter | Home Essentials (auto-approved)",
-  "15:16:07 POSTED facebook@Vinzap-Finds 7dbffbac: 1924450705588840",
-  "15:16:12 POSTED facebook@Vijayendra-Singh 7dbffbac: 1147820697753147",
   "15:16:20 POSTED youtube 7dbffbac: 3uYNagrjzQk",
   "15:16:30 STORY POSTED facebook@Vinzap-Finds 7dbffbac",
   "15:16:39 STORY POSTED facebook@Vijayendra-Singh 7dbffbac",
@@ -4779,13 +4774,16 @@
   "13:31:36 STORY POSTED facebook@Vinzap-Finds 90693edc",
   "13:31:45 STORY POSTED facebook@Vijayendra-Singh 90693edc",
   "14:01:02 READY c64b13e2 Apex Everyday Plastic Glass Set of 6 (auto-approved)",
-  "14:01:06 POSTED facebook@Vinzap-Finds c64b13e2: 1428352113685678_122119999611501659"
+  "14:01:06 POSTED facebook@Vinzap-Finds c64b13e2: 1428352113685678_122119999611501659",
+  "14:31:28 READY c6ca4ce3 Rubber Pet Grooming Glove Brush | Kitchen Organization (auto-approved)",
+  "14:31:33 POSTED facebook@Vinzap-Finds c6ca4ce3: 1804726190794219",
+  "14:31:39 STORY POSTED facebook@Vinzap-Finds c6ca4ce3"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795249862.1043372,
+  "facebook@Vinzap-Finds": 1795251688.9677434,
   "facebook@Vijayendra-Singh": 1795248078.1434617,
   "youtube": 1795244501.1167083
  },
- "n": 712
+ "n": 713
 }
