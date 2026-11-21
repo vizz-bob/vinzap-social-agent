@@ -1,62 +1,6 @@
 {
  "items": [
   {
-   "id": "ef1a546b",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "3-in-1 Tea and Coffee Accessories Combo Set",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Complete 3 in 1 beverage",
-     "Reusable tea infuser for loose",
-     "Decorative drink stirrer for tea"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "3-in-1 Tea and Coffee Accessories Combo Set | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3-in-1 Tea and Coffee Accessories Combo Set"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\n3-in-1 Tea and Coffee Accessories Combo Set\n✔ Complete 3 in 1 beverage\n✔ Reusable tea infuser for loose\n✔ Decorative drink stirrer for tea\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #combooffer #valuedeals #kitchenorganization #cooking",
-   "title": "3-in-1 Tea and Coffee Accessories Combo Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794934900.9630373,
-     "id": "1428352113685678_122119157559501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1794934900.9630373,
-     "id": "1317760538089559_122130548343480728",
-     "dry": false
-    }
-   },
-   "created": 1794934886.1385064,
-   "after": 0,
-   "handle": "3-in-1-tea-coffee-accessories-combo-set",
-   "product_url": "https://www.vinzapstore.in/products/3-in-1-tea-coffee-accessories-combo-set",
-   "file": "ef1a546b.jpg",
-   "thumb": "ef1a546b.jpg"
-  },
-  {
    "id": "9ecced4c",
    "status": "posted",
    "kind": "reel",
@@ -4582,12 +4526,60 @@
      "id": "1125391743802409"
     }
    }
+  },
+  {
+   "id": "9a8cadc6",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Wooden Mouse Rat Trap",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "EASY MOUSE TRAP: Classic easy",
+     "PREMIUM AND REUSABLE: Made from",
+     "EASY TO SET MOUSE TRAP: With just"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Wooden Mouse Rat Trap | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Wooden Mouse Rat Trap"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nWooden Mouse Rat Trap\n✔ EASY MOUSE TRAP: Classic easy\n✔ PREMIUM AND REUSABLE: Made from\n✔ EASY TO SET MOUSE TRAP: With just\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Wooden Mouse Rat Trap",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795271458.3806946,
+     "id": "1428352113685678_122120064849501659",
+     "dry": false
+    }
+   },
+   "created": 1795271443.490484,
+   "after": 0,
+   "handle": "wooden-mouse-rat-traps-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/wooden-mouse-rat-traps-1-pc",
+   "file": "9a8cadc6.jpg",
+   "thumb": "9a8cadc6.jpg"
   }
  ],
- "last_post": 1795269694.6517158,
+ "last_post": 1795271458.3806946,
  "log": [
-  "20:46:29 READY 2bb4dd9a LED Dual Flow Faucet Adapter (auto-approved)",
-  "20:46:33 POSTED facebook@Vinzap-Finds 2bb4dd9a: 1428352113685678_122119365843501659",
   "21:16:03 READY 3157da68 Cooking Essentials Combo | Home Decor (auto-approved)",
   "21:16:09 POSTED facebook@Vinzap-Finds 3157da68: 1477052600974630",
   "21:16:13 POSTED facebook@Vijayendra-Singh 3157da68: 2186677685278217",
@@ -4785,13 +4777,15 @@
   "19:31:40 POSTED facebook@Vinzap-Finds dfef5808: 985473227519007",
   "19:31:44 POSTED facebook@Vijayendra-Singh dfef5808: 2463529557722991",
   "19:31:53 STORY POSTED facebook@Vinzap-Finds dfef5808",
-  "19:32:01 STORY POSTED facebook@Vijayendra-Singh dfef5808"
+  "19:32:01 STORY POSTED facebook@Vijayendra-Singh dfef5808",
+  "20:00:58 READY 9a8cadc6 Wooden Mouse Rat Trap (auto-approved)",
+  "20:01:01 POSTED facebook@Vinzap-Finds 9a8cadc6: 1428352113685678_122120064849501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795269694.6517158,
+  "facebook@Vinzap-Finds": 1795271458.3806946,
   "facebook@Vijayendra-Singh": 1795269694.6517158,
   "youtube": 1795266088.2437499
  },
- "n": 723
+ "n": 724
 }
