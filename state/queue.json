@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "d1cd3ed3",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Apex Mocktail Mug Glass Set of 2, 400ml",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 269,
-    "was": 0,
-    "feats": [
-     "Elegant",
-     "Built to Last Made from virgin",
-     "Perfect Size"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Apex Mocktail Mug Glass Set of 2, 400ml | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Mocktail Mug Glass Set of 2, 400ml"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nApex Mocktail Mug Glass Set of 2, 400ml\n✔ Elegant\n✔ Built to Last Made from virgin\n✔ Perfect Size\n\nOnly ₹269. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #homedecor #homedecorideas",
-   "title": "Apex Mocktail Mug Glass Set of 2, 400ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794909695.4729052,
-     "id": "1428352113685678_122119074411501659",
-     "dry": false
-    }
-   },
-   "created": 1794909651.2923224,
-   "after": 0,
-   "handle": "apex-mocktail-mug-glass-2-pc-set-400-ml",
-   "product_url": "https://www.vinzapstore.in/products/apex-mocktail-mug-glass-2-pc-set-400-ml",
-   "file": "d1cd3ed3.jpg",
-   "thumb": "d1cd3ed3.jpg"
-  },
-  {
    "id": "f0fac402",
    "status": "scheduled",
    "kind": "reel",
@@ -4574,12 +4524,60 @@
      "id": "1462377715867414"
     }
    }
+  },
+  {
+   "id": "ffb9c852",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "4-in-1 Silicone Bottle Cleaning Brush",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "4-in-1 bottle and nipple brush",
+     "Soft sturdy silicone bristle head",
+     "Cleans without scratching surfaces"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "4-in-1 Silicone Bottle Cleaning Brush | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "4-in-1 Silicone Bottle Cleaning Brush"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\n4-in-1 Silicone Bottle Cleaning Brush\n✔ 4-in-1 bottle and nipple brush\n✔ Soft sturdy silicone bristle head\n✔ Cleans without scratching surfaces\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cleaninghacks #homecleaning #bottle #homeessentials #kitchenhacks",
+   "title": "4-in-1 Silicone Bottle Cleaning Brush",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795246263.3140624,
+     "id": "1428352113685678_122119988991501659",
+     "dry": false
+    }
+   },
+   "created": 1795246249.2105339,
+   "after": 0,
+   "handle": "4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/4-in-1-silicone-bottle-cleaning-brush-with-nipple-brush-long-handle-1-pc",
+   "file": "ffb9c852.jpg",
+   "thumb": "ffb9c852.jpg"
   }
  ],
- "last_post": 1795244501.1167083,
+ "last_post": 1795246263.3140624,
  "log": [
-  "13:16:24 STORY POSTED facebook@Vinzap-Finds fbe1fc52",
-  "13:45:49 READY 0042ddd2 Leakproof Sports Water Bottle 500 ml (auto-approved)",
   "13:45:55 POSTED facebook@Vinzap-Finds 0042ddd2: 1428352113685678_122119296027501659",
   "13:46:00 POSTED facebook@Vijayendra-Singh 0042ddd2: 1317760538089559_122130737301480728",
   "14:16:07 READY 8f61102f Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas (auto-approved)",
@@ -4777,13 +4775,15 @@
   "12:31:41 READY 9f8e446c Foldable Rotating Wall Mounted Hook Rack | Home Decor (auto-approved)",
   "12:31:44 POSTED facebook@Vinzap-Finds 9f8e446c: 1327701572787416",
   "12:31:48 POSTED youtube 9f8e446c: fnmo68lTWoM",
-  "12:31:56 STORY POSTED facebook@Vinzap-Finds 9f8e446c"
+  "12:31:56 STORY POSTED facebook@Vinzap-Finds 9f8e446c",
+  "13:01:03 READY ffb9c852 4-in-1 Silicone Bottle Cleaning Brush (auto-approved)",
+  "13:01:07 POSTED facebook@Vinzap-Finds ffb9c852: 1428352113685678_122119988991501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795244501.1167083,
+  "facebook@Vinzap-Finds": 1795246263.3140624,
   "facebook@Vijayendra-Singh": 1795242657.3959851,
   "youtube": 1795244501.1167083
  },
- "n": 709
+ "n": 710
 }
