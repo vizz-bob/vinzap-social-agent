@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "8f61102f",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Apex Smart 3 in 1 Fruit and Vegetable",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 329,
-    "was": 0,
-    "feats": [
-     "3-in-1 Functionality Wash",
-     "Food-Grade Plastic Construction",
-     "Perforated Colander Base Helps"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "trending shorts"
-    ],
-    "yt_title": "Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Smart 3 in 1 Fruit and Vegetable"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nApex Smart 3 in 1 Fruit and Vegetable\n✔ 3-in-1 Functionality Wash\n✔ Food-Grade Plastic Construction\n✔ Perforated Colander Base Helps\n\nOnly ₹329. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
-   "title": "Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1794991567.2961223,
-     "id": "1115098927964638",
-     "dry": false
-    }
-   },
-   "created": 1794991537.0463948,
-   "after": 0,
-   "handle": "apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
-   "product_url": "https://www.vinzapstore.in/products/apex-smart-basket-3in1-multiuse-fruit-and-vegetable-bowl-1-pc-mix-color",
-   "file": "8f61102f.mp4",
-   "thumb": "8f61102f_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3292763781114239"
-    }
-   }
-  },
-  {
    "id": "b8cee14e",
    "status": "scheduled",
    "kind": "image",
@@ -4564,15 +4507,77 @@
    "product_url": "https://www.vinzapstore.in/products/metal-sink-drain-mesh-strainer-filter-basket-food-catcher-for-kitchen-1-pc",
    "file": "9d9cff26.jpg",
    "thumb": "9d9cff26.jpg"
+  },
+  {
+   "id": "fbc1f30c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Glass Water Jug",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 709,
+    "was": 0,
+    "feats": [
+     "7-piece drinkware set : 1 jug",
+     "Made from durable",
+     "Food-safe and hygienic material"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Glass Water Jug | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Glass Water Jug"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nGlass Water Jug\n✔ 7-piece drinkware set : 1 jug\n✔ Made from durable\n✔ Food-safe and hygienic material\n\nOnly ₹709. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
+   "title": "Glass Water Jug | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795280486.4525564,
+     "id": "1929274274717800",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795280486.4525564,
+     "id": "1169494268946709",
+     "dry": false
+    }
+   },
+   "created": 1795280449.6292145,
+   "after": 0,
+   "handle": "supermom-marina-jug-with-6-glass-set",
+   "product_url": "https://www.vinzapstore.in/products/supermom-marina-jug-with-6-glass-set",
+   "file": "fbc1f30c.mp4",
+   "thumb": "fbc1f30c_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2597790367312770"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1499839022364737"
+    }
+   }
   }
  ],
- "last_post": 1795278686.9094975,
+ "last_post": 1795280486.4525564,
  "log": [
-  "12:01:05 POSTED facebook@Vinzap-Finds b765ec1e: 1428352113685678_122119504695501659",
-  "12:01:09 POSTED facebook@Vijayendra-Singh b765ec1e: 1317760538089559_122131064463480728",
-  "12:31:36 READY fa0d7bef Frosted Glass Water Bottle 350ml | Home Decor (auto-approved)",
-  "12:31:40 POSTED facebook@Vinzap-Finds fa0d7bef: 29222756474053491",
-  "12:31:48 POSTED youtube fa0d7bef: gMcOKPwzlks",
   "12:31:58 STORY POSTED facebook@Vinzap-Finds fa0d7bef",
   "13:02:25 READY 5d93e3ee Slant Lid Kitchen Storage Jar Set (auto-approved)",
   "13:02:28 POSTED facebook@Vinzap-Finds 5d93e3ee: 1428352113685678_122119513155501659",
@@ -4767,13 +4772,18 @@
   "21:31:30 POSTED youtube 1cab394a: cSJx3xQdteM",
   "21:31:40 STORY POSTED facebook@Vinzap-Finds 1cab394a",
   "22:01:26 READY 9d9cff26 Metal Sink Drain Mesh Strainer Basket (auto-approved)",
-  "22:01:29 POSTED facebook@Vinzap-Finds 9d9cff26: 1428352113685678_122120087541501659"
+  "22:01:29 POSTED facebook@Vinzap-Finds 9d9cff26: 1428352113685678_122120087541501659",
+  "22:31:26 READY fbc1f30c Glass Water Jug | Kitchen Gadgets (auto-approved)",
+  "22:31:29 POSTED facebook@Vinzap-Finds fbc1f30c: 1929274274717800",
+  "22:31:33 POSTED facebook@Vijayendra-Singh fbc1f30c: 1169494268946709",
+  "22:31:42 STORY POSTED facebook@Vinzap-Finds fbc1f30c",
+  "22:31:50 STORY POSTED facebook@Vijayendra-Singh fbc1f30c"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795278686.9094975,
-  "facebook@Vijayendra-Singh": 1795275063.314933,
+  "facebook@Vinzap-Finds": 1795280486.4525564,
+  "facebook@Vijayendra-Singh": 1795280486.4525564,
   "youtube": 1795276882.1722083
  },
- "n": 728
+ "n": 729
 }
