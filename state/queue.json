@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "c00dfbbc",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Black Coffee Mug Custom Printed",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 432,
-    "was": 0,
-    "feats": [
-     "Material: glossy ceramic",
-     "Capacity: 11 oz",
-     "Clean black finish"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen hacks",
-     "home essentials"
-    ],
-    "yt_title": "Black Coffee Mug Custom Printed | Kitchen Hacks"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Black Coffee Mug Custom Printed"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nBlack Coffee Mug Custom Printed\n✔ Material: glossy ceramic\n✔ Capacity: 11 oz\n✔ Clean black finish\n\nOnly ₹432. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #mug #giftideas #festivegifts #kitchenhacks #homeessentials",
-   "title": "Black Coffee Mug Custom Printed",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795007761.9862506,
-     "id": "1428352113685678_122119344921501659",
-     "dry": false
-    }
-   },
-   "created": 1795007748.7575371,
-   "after": 0,
-   "handle": "black-coffee-mug",
-   "product_url": "https://www.vinzapstore.in/products/black-coffee-mug",
-   "file": "c00dfbbc.jpg",
-   "thumb": "c00dfbbc.jpg"
-  },
-  {
    "id": "4aaf9345",
    "status": "scheduled",
    "kind": "reel",
@@ -4568,12 +4518,60 @@
      "id": "1687880916226406"
     }
    }
+  },
+  {
+   "id": "79f527b9",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Protein Shaker Tumbler 400ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Leakproof flip lid design",
+     "Ideal for mixing protein shakes",
+     "Easy to carry and travel-friendly"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Protein Shaker Tumbler 400ml | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Protein Shaker Tumbler 400ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nProtein Shaker Tumbler 400ml\n✔ Leakproof flip lid design\n✔ Ideal for mixing protein shakes\n✔ Easy to carry and travel-friendly\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials",
+   "title": "Protein Shaker Tumbler 400ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795343484.1523862,
+     "id": "1428352113685678_122120279709501659",
+     "dry": false
+    }
+   },
+   "created": 1795343469.5569468,
+   "after": 0,
+   "handle": "multipurpose-protein-tumbler-with-secure-flip-lid-400ml-approx",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-protein-tumbler-with-secure-flip-lid-400ml-approx",
+   "file": "79f527b9.jpg",
+   "thumb": "79f527b9.jpg"
   }
  ],
- "last_post": 1795341686.0078344,
+ "last_post": 1795343484.1523862,
  "log": [
-  "17:02:40 STORY POSTED facebook@Vijayendra-Singh 11f82731",
-  "17:51:23 READY f83d620d 6 in 1 Premium Kitchen Knife Set (auto-approved)",
   "17:51:27 POSTED facebook@Vinzap-Finds f83d620d: 1428352113685678_122119557183501659",
   "18:16:10 READY d0fc2aaf Reusable Plastic Dessert Knife Set of 24 | Home Decor Ideas (auto-approved)",
   "18:16:15 POSTED facebook@Vinzap-Finds d0fc2aaf: 1857683198590642",
@@ -4771,13 +4769,15 @@
   "15:31:25 READY 7e9eb568 3 in 1 Anti Slip Bathroom Mat Set | Home Essentials (auto-approved)",
   "15:31:30 POSTED facebook@Vinzap-Finds 7e9eb568: 4293999864066745",
   "15:31:34 POSTED youtube 7e9eb568: HdXYdtZ-M-Q",
-  "15:31:41 STORY POSTED facebook@Vinzap-Finds 7e9eb568"
+  "15:31:41 STORY POSTED facebook@Vinzap-Finds 7e9eb568",
+  "16:01:24 READY 79f527b9 Protein Shaker Tumbler 400ml (auto-approved)",
+  "16:01:27 POSTED facebook@Vinzap-Finds 79f527b9: 1428352113685678_122120279709501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795341686.0078344,
+  "facebook@Vinzap-Finds": 1795343484.1523862,
   "facebook@Vijayendra-Singh": 1795339865.2393935,
   "youtube": 1795341686.0078344
  },
- "n": 737
+ "n": 738
 }
