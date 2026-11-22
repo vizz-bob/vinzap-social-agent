@@ -1,69 +1,6 @@
 {
  "items": [
   {
-   "id": "fa0d7bef",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Frosted Glass Water Bottle 350ml",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Frosted glass body keeps water",
-     "Cheerful Lucky Day smiley face",
-     "Compact 350ml size — perfect"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Frosted Glass Water Bottle 350ml | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Frosted Glass Water Bottle 350ml"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nFrosted Glass Water Bottle 350ml\n✔ Frosted glass body keeps water\n✔ Cheerful Lucky Day smiley face\n✔ Compact 350ml size — perfect\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #homedecor #homedecorideas",
-   "title": "Frosted Glass Water Bottle 350ml | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795071696.1338975,
-     "id": "29222756474053491",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1795071696.1338975,
-     "id": "gMcOKPwzlks",
-     "dry": false
-    }
-   },
-   "created": 1795071657.6366909,
-   "after": 0,
-   "handle": "350-ml-frosted-glass-water-bottle-lucky-day-print-for-office-travel-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/350-ml-frosted-glass-water-bottle-lucky-day-print-for-office-travel-1-pc",
-   "file": "fa0d7bef.mp4",
-   "thumb": "fa0d7bef_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1498563985467839"
-    }
-   }
-  },
-  {
    "id": "5d93e3ee",
    "status": "scheduled",
    "kind": "image",
@@ -4571,13 +4508,67 @@
    "product_url": "https://www.vinzapstore.in/products/adjustable-microwave-oven-storage-rack-metal-kitchen-shelf-with-hooks-1-pc",
    "file": "ab9bc126.jpg",
    "thumb": "ab9bc126.jpg"
+  },
+  {
+   "id": "a2589cc8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Chopping Board",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 409,
+    "was": 0,
+    "feats": [
+     "【 Material 】：The cutting board is",
+     "【 Advantage 】：Not easy to crack",
+     "【Maintenance】：The surface"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Stainless Steel Chopping Board | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Chopping Board"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Chopping Board\n✔ 【 Material 】：The cutting board is\n✔ 【 Advantage 】：Not easy to crack\n✔ 【Maintenance】：The surface\n\nOnly ₹409. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Stainless Steel Chopping Board | Kitchen Hacks",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795359690.0616868,
+     "id": "1513928297300947",
+     "dry": false
+    }
+   },
+   "created": 1795359656.25733,
+   "after": 0,
+   "handle": "stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/stainless-steel-vegetable-fruit-cutting-chopping-board-3120-cm-1-pc",
+   "file": "a2589cc8.mp4",
+   "thumb": "a2589cc8_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1624689356006544"
+    }
+   }
   }
  ],
- "last_post": 1795357878.6156695,
+ "last_post": 1795359690.0616868,
  "log": [
-  "22:01:20 POSTED facebook@Vijayendra-Singh c685e4ab: 1317760538089559_122131227123480728",
-  "22:31:24 READY 124b8bae Stainless Steel Vegetable Cutter | Cooking (auto-approved)",
-  "22:31:32 POSTED facebook@Vinzap-Finds 124b8bae: 4678219912459846",
   "22:31:41 STORY POSTED facebook@Vinzap-Finds 124b8bae",
   "12:00:59 READY ea4d1917 Stainless Steel Apple Cutter and Slicer, (auto-approved)",
   "12:01:03 POSTED facebook@Vinzap-Finds ea4d1917: 1428352113685678_122119736121501659",
@@ -4774,13 +4765,16 @@
   "19:31:47 STORY POSTED facebook@Vinzap-Finds c91ef4bb",
   "19:31:55 STORY POSTED facebook@Vijayendra-Singh c91ef4bb",
   "20:01:18 READY ab9bc126 Adjustable Microwave Oven Storage Rack (auto-approved)",
-  "20:01:23 POSTED facebook@Vinzap-Finds ab9bc126: 1428352113685678_122120325063501659"
+  "20:01:23 POSTED facebook@Vinzap-Finds ab9bc126: 1428352113685678_122120325063501659",
+  "20:31:30 READY a2589cc8 Stainless Steel Chopping Board | Kitchen Hacks (auto-approved)",
+  "20:31:34 POSTED facebook@Vinzap-Finds a2589cc8: 1513928297300947",
+  "20:31:44 STORY POSTED facebook@Vinzap-Finds a2589cc8"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795357878.6156695,
+  "facebook@Vinzap-Finds": 1795359690.0616868,
   "facebook@Vijayendra-Singh": 1795356091.9645681,
   "youtube": 1795352475.9935157
  },
- "n": 746
+ "n": 747
 }
