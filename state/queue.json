@@ -1,78 +1,6 @@
 {
  "items": [
   {
-   "id": "3157da68",
-   "status": "posted",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Cooking Essentials Combo",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "Glass Oil Sprayer Bottle",
-     "Manual Egg Beater for Eggs"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Cooking Essentials Combo | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Cooking Essentials Combo"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nCooking Essentials Combo\n✔ Glass Oil Sprayer Bottle\n✔ Manual Egg Beater for Eggs\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #combooffer #valuedeals #homedecor #homedecorideas",
-   "title": "Cooking Essentials Combo | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795016763.2509432,
-     "id": "1477052600974630",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795016763.2509432,
-     "id": "2186677685278217",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1795016763.2509432,
-     "id": "hSU2QHhzSrk",
-     "dry": false
-    }
-   },
-   "created": 1795016735.2838814,
-   "after": 0,
-   "handle": "cooking-essentials-combo-oil-sprayer-egg-beater",
-   "product_url": "https://www.vinzapstore.in/products/cooking-essentials-combo-oil-sprayer-egg-beater",
-   "file": "3157da68.mp4",
-   "thumb": "3157da68_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1088913107480409"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "3623263177853737"
-    }
-   }
-  },
-  {
    "id": "ec3e567e",
    "status": "scheduled",
    "kind": "image",
@@ -4576,14 +4504,73 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-portable-pet-hair-and-lint-remover-brush-for-clothes-and-furniture-1-pc",
    "file": "4bb2b168.jpg",
    "thumb": "4bb2b168.jpg"
+  },
+  {
+   "id": "c94468cb",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Hot Water Bag",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Small hot water bag pain",
+     "The soft cover is designed",
+     "This hot water bag is made"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Hot Water Bag | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Hot Water Bag"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nHot Water Bag\n✔ Small hot water bag pain\n✔ The soft cover is designed\n✔ This hot water bag is made\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Hot Water Bag | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795352475.9935157,
+     "id": "4488433688088471",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795352475.9935157,
+     "id": "QjjjAOxRzY0",
+     "dry": false
+    }
+   },
+   "created": 1795352447.7991369,
+   "after": 0,
+   "handle": "6504-doremon-small-hot-water-bag-with-cover-for-pain-relief-neck-shoulder-pain-and-hand-feet-warmer-menstrual-cramps",
+   "product_url": "https://www.vinzapstore.in/products/6504-doremon-small-hot-water-bag-with-cover-for-pain-relief-neck-shoulder-pain-and-hand-feet-warmer-menstrual-cramps",
+   "file": "c94468cb.mp4",
+   "thumb": "c94468cb_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "2238837187016125"
+    }
+   }
   }
  ],
- "last_post": 1795350680.2236843,
+ "last_post": 1795352475.9935157,
  "log": [
-  "20:16:22 READY 6a227357 Apex Ovel Manual Chilli and Dry Fruit | Home Decor Ideas (auto-approved)",
-  "20:16:26 POSTED facebook@Vinzap-Finds 6a227357: 1704668937685492",
-  "20:16:30 POSTED facebook@Vijayendra-Singh 6a227357: 1963131847997684",
-  "20:16:36 STORY POSTED facebook@Vinzap-Finds 6a227357",
   "20:16:43 STORY POSTED facebook@Vijayendra-Singh 6a227357",
   "20:45:55 READY 1e7e6d3e 2 in 1 Fruit Scooper and Cutter Tool (auto-approved)",
   "20:45:58 POSTED facebook@Vinzap-Finds 1e7e6d3e: 1428352113685678_122119590201501659",
@@ -4779,13 +4766,17 @@
   "17:31:50 STORY POSTED facebook@Vinzap-Finds 1259f585",
   "18:01:20 READY 4bb2b168 Pet Hair and Lint Remover Brush 2 in 1 (auto-approved)",
   "18:01:25 POSTED facebook@Vinzap-Finds 4bb2b168: 1428352113685678_122120299605501659",
-  "18:01:29 POSTED facebook@Vijayendra-Singh 4bb2b168: 1317760538089559_122132318595480728"
+  "18:01:29 POSTED facebook@Vijayendra-Singh 4bb2b168: 1317760538089559_122132318595480728",
+  "18:31:15 READY c94468cb Hot Water Bag | Home Decor Ideas (auto-approved)",
+  "18:31:20 POSTED facebook@Vinzap-Finds c94468cb: 4488433688088471",
+  "18:31:24 POSTED youtube c94468cb: QjjjAOxRzY0",
+  "18:31:32 STORY POSTED facebook@Vinzap-Finds c94468cb"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795350680.2236843,
+  "facebook@Vinzap-Finds": 1795352475.9935157,
   "facebook@Vijayendra-Singh": 1795350680.2236843,
-  "youtube": 1795341266.0078344
+  "youtube": 1795352475.9935157
  },
- "n": 742
+ "n": 743
 }
