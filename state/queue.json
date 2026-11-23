@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "4a8ecdec",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Portable Plastic Kitchen Dustbin Hanging",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 609,
-    "was": 0,
-    "feats": [
-     "Compact portable dustbin",
-     "Hanging design suitable",
-     "Lid helps keep waste covered"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen hacks",
-     "home essentials"
-    ],
-    "yt_title": "Portable Plastic Kitchen Dustbin Hanging | Kitchen Hacks"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Portable Plastic Kitchen Dustbin Hanging"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nPortable Plastic Kitchen Dustbin Hanging\n✔ Compact portable dustbin\n✔ Hanging design suitable\n✔ Lid helps keep waste covered\n\nOnly ₹609. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
-   "title": "Portable Plastic Kitchen Dustbin Hanging",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795159886.780571,
-     "id": "1428352113685678_122119751127501659",
-     "dry": false
-    }
-   },
-   "created": 1795159872.494181,
-   "after": 0,
-   "handle": "portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
-   "product_url": "https://www.vinzapstore.in/products/portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
-   "file": "4a8ecdec.jpg",
-   "thumb": "4a8ecdec.jpg"
-  },
-  {
    "id": "e8a40515",
    "status": "scheduled",
    "kind": "reel",
@@ -4577,12 +4527,60 @@
      "id": "1468643198787237"
     }
    }
+  },
+  {
+   "id": "ec7c4f74",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Slant Lid Kitchen Storage Jar Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 239,
+    "was": 0,
+    "feats": [
+     "Modern Slanted Lid Design : Each",
+     "Airtight Seal : Keeps contents",
+     "Premium Quality Materials : Body"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Slant Lid Kitchen Storage Jar Set | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Slant Lid Kitchen Storage Jar Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSlant Lid Kitchen Storage Jar Set\n✔ Modern Slanted Lid Design : Each\n✔ Airtight Seal : Keeps contents\n✔ Premium Quality Materials : Body\n\nOnly ₹239. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homedecor #homedecorideas",
+   "title": "Slant Lid Kitchen Storage Jar Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795445208.493935,
+     "id": "1428352113685678_122120646579501659",
+     "dry": false
+    }
+   },
+   "created": 1795445193.1329494,
+   "after": 0,
+   "handle": "apex-slant-lid-kitchen-storage-jar-set-2-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-slant-lid-kitchen-storage-jar-set-2-pc",
+   "file": "ec7c4f74.jpg",
+   "thumb": "ec7c4f74.jpg"
   }
  ],
- "last_post": 1795443425.9978032,
+ "last_post": 1795445208.493935,
  "log": [
-  "22:01:44 POSTED facebook@Vinzap-Finds eca04714: 1428352113685678_122119852503501659",
-  "22:52:37 READY 01a75977 Fancy Ice Tray | Home Decor (auto-approved)",
   "22:52:43 POSTED facebook@Vinzap-Finds 01a75977: 1145363757982347",
   "22:52:48 POSTED facebook@Vijayendra-Singh 01a75977: 1744560433755573",
   "22:52:57 STORY POSTED facebook@Vinzap-Finds 01a75977",
@@ -4780,13 +4778,15 @@
   "19:47:10 POSTED facebook@Vinzap-Finds 90fcc1c0: 1680019793563851",
   "19:47:15 POSTED facebook@Vijayendra-Singh 90fcc1c0: 1028403283651916",
   "19:47:23 STORY POSTED facebook@Vinzap-Finds 90fcc1c0",
-  "19:47:30 STORY POSTED facebook@Vijayendra-Singh 90fcc1c0"
+  "19:47:30 STORY POSTED facebook@Vijayendra-Singh 90fcc1c0",
+  "20:16:48 READY ec7c4f74 Slant Lid Kitchen Storage Jar Set (auto-approved)",
+  "20:16:52 POSTED facebook@Vinzap-Finds ec7c4f74: 1428352113685678_122120646579501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795443425.9978032,
+  "facebook@Vinzap-Finds": 1795445208.493935,
   "facebook@Vijayendra-Singh": 1795443425.9978032,
   "youtube": 1795439771.4357853
  },
- "n": 767
+ "n": 768
 }
