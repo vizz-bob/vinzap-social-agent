@@ -1,69 +1,6 @@
 {
  "items": [
   {
-   "id": "e74b06cd",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Ice Cube Tray",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "14-grid design for making",
-     "Comes with a lid to keep ice",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Ice Cube Tray | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Cube Tray"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
-   "title": "Ice Cube Tray | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795103729.1659112,
-     "id": "4423235714477367",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1795103729.1659112,
-     "id": "vJ_GIzzQf-s",
-     "dry": false
-    }
-   },
-   "created": 1795103697.7378216,
-   "after": 0,
-   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride-blue",
-   "file": "e74b06cd.mp4",
-   "thumb": "e74b06cd_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1171293438706595"
-    }
-   }
-  },
-  {
    "id": "c685e4ab",
    "status": "posted",
    "kind": "image",
@@ -4579,13 +4516,67 @@
    "product_url": "https://www.vinzapstore.in/products/5914-plastic-kitchen-knife-drawer-organizer-knife-stand-storage-for-your-kitchen-replace-your-knife-block-with-a-revolutionary-product-clear-your-counter-top-of-clutter-and-easily-identify-the-desired-knife-1pc",
    "file": "ad7a1f45.jpg",
    "thumb": "ad7a1f45.jpg"
+  },
+  {
+   "id": "8efec44d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Silicone Ice Cube Tray 24 Cavity Multicolour",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 291,
+    "was": 0,
+    "feats": [
+     "The trays are made of lightweight",
+     "Easy to use",
+     "Convenient storage"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Tray 24 Cavity Multicolour"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSilicone Ice Cube Tray 24 Cavity Multicolour\n✔ The trays are made of lightweight\n✔ Easy to use\n✔ Convenient storage\n\nOnly ₹291. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795436168.4119508,
+     "id": "1170687505413848",
+     "dry": false
+    }
+   },
+   "created": 1795436135.1590214,
+   "after": 0,
+   "handle": "1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "product_url": "https://www.vinzapstore.in/products/1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "file": "8efec44d.mp4",
+   "thumb": "8efec44d_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1477459801019713"
+    }
+   }
   }
  ],
- "last_post": 1795434365.6214585,
+ "last_post": 1795436168.4119508,
  "log": [
-  "19:31:40 POSTED facebook@Vinzap-Finds 2d251e07: 2066229047415490",
-  "19:31:43 POSTED facebook@Vijayendra-Singh 2d251e07: 1919175729456491",
-  "19:31:51 STORY POSTED facebook@Vinzap-Finds 2d251e07",
   "19:31:59 STORY POSTED facebook@Vijayendra-Singh 2d251e07",
   "20:01:11 READY ad822654 Ganesh Classic Glass Set of 6, 350 ml Each (auto-approved)",
   "20:01:15 POSTED facebook@Vinzap-Finds ad822654: 1428352113685678_122119826619501659",
@@ -4782,13 +4773,16 @@
   "16:46:30 STORY POSTED facebook@Vinzap-Finds 1cd62103",
   "16:46:40 STORY POSTED facebook@Vijayendra-Singh 1cd62103",
   "17:16:05 READY ad7a1f45 Plastic Knife Organizer Stand (auto-approved)",
-  "17:16:10 POSTED facebook@Vinzap-Finds ad7a1f45: 1428352113685678_122120617839501659"
+  "17:16:10 POSTED facebook@Vinzap-Finds ad7a1f45: 1428352113685678_122120617839501659",
+  "17:46:08 READY 8efec44d Silicone Ice Cube Tray 24 Cavity Multicolour | Cooking (auto-approved)",
+  "17:46:13 POSTED facebook@Vinzap-Finds 8efec44d: 1170687505413848",
+  "17:46:26 STORY POSTED facebook@Vinzap-Finds 8efec44d"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795434365.6214585,
+  "facebook@Vinzap-Finds": 1795436168.4119508,
   "facebook@Vijayendra-Singh": 1795432570.877486,
   "youtube": 1795428082.7918823
  },
- "n": 762
+ "n": 763
 }
