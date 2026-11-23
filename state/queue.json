@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "545f6cf0",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Reusable Airtight Mason Jar Zipper Pouch",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 45.86,
-    "was": 0,
-    "feats": [
-     "The unique appearance design",
-     "Realistic Mason jar shape design",
-     "They are lightweight and easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "trending shorts"
-    ],
-    "yt_title": "Reusable Airtight Mason Jar Zipper Pouch | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Airtight Mason Jar Zipper Pouch"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nReusable Airtight Mason Jar Zipper Pouch\n✔ The unique appearance design\n✔ Realistic Mason jar shape design\n✔ They are lightweight and easy\n\nOnly ₹45.86. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homedecorideas #trendingshorts",
-   "title": "Reusable Airtight Mason Jar Zipper Pouch",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795097993.8614333,
-     "id": "1428352113685678_122119579605501659",
-     "dry": false
-    }
-   },
-   "created": 1795097979.3510349,
-   "after": 0,
-   "handle": "1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
-   "product_url": "https://www.vinzapstore.in/products/1073-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-150ml",
-   "file": "545f6cf0.jpg",
-   "thumb": "545f6cf0.jpg"
-  },
-  {
    "id": "6a227357",
    "status": "scheduled",
    "kind": "reel",
@@ -4579,12 +4529,60 @@
      "id": "1157859710306638"
     }
    }
+  },
+  {
+   "id": "7762e750",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Soft Facial Tissue Paper Napkins Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "50 pcs value pack – convenient",
+     "Made from high-quality pulp paper",
+     "Highly absorbent – ideal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Soft Facial Tissue Paper Napkins Set | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Soft Facial Tissue Paper Napkins Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSoft Facial Tissue Paper Napkins Set\n✔ 50 pcs value pack – convenient\n✔ Made from high-quality pulp paper\n✔ Highly absorbent – ideal\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
+   "title": "Soft Facial Tissue Paper Napkins Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795430449.8085501,
+     "id": "1428352113685678_122120592315501659",
+     "dry": false
+    }
+   },
+   "created": 1795430435.354503,
+   "after": 0,
+   "handle": "soft-facial-tissue-paper-napkins-set-50-pcs-set",
+   "product_url": "https://www.vinzapstore.in/products/soft-facial-tissue-paper-napkins-set-50-pcs-set",
+   "file": "7762e750.jpg",
+   "thumb": "7762e750.jpg"
   }
  ],
- "last_post": 1795428082.7918823,
+ "last_post": 1795430449.8085501,
  "log": [
-  "18:01:13 POSTED facebook@Vinzap-Finds cb0a659a: 1428352113685678_122119801599501659",
-  "18:01:17 POSTED facebook@Vijayendra-Singh cb0a659a: 1317760538089559_122131598253480728",
   "18:32:24 READY 47c0ba50 Multifunction Collapsible Extendable Stick | Home Essentials (auto-approved)",
   "18:32:29 POSTED facebook@Vinzap-Finds 47c0ba50: 2937547719949927",
   "18:32:39 POSTED youtube 47c0ba50: Y2cdEIwLfdg",
@@ -4782,13 +4780,15 @@
   "15:31:22 READY fc556540 4 Compartment Plastic Food Storage Container | Kitchen Gadgets (auto-approved)",
   "15:31:27 POSTED facebook@Vinzap-Finds fc556540: 1144331301895018",
   "15:31:35 POSTED youtube fc556540: lqqr87K_yRU",
-  "15:31:44 STORY POSTED facebook@Vinzap-Finds fc556540"
+  "15:31:44 STORY POSTED facebook@Vinzap-Finds fc556540",
+  "16:10:49 READY 7762e750 Soft Facial Tissue Paper Napkins Set (auto-approved)",
+  "16:10:53 POSTED facebook@Vinzap-Finds 7762e750: 1428352113685678_122120592315501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795428082.7918823,
+  "facebook@Vinzap-Finds": 1795430449.8085501,
   "facebook@Vijayendra-Singh": 1795426255.654175,
   "youtube": 1795428082.7918823
  },
- "n": 759
+ "n": 760
 }
