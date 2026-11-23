@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "11f82731",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Reusable Plastic Spoon Set of 20",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Value pack of 20 spoons provides",
-     "Reusable and durable plastic is",
-     "Bright colour adds a fun"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Reusable Plastic Spoon Set of 20 | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Reusable Plastic Spoon Set of 20"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nReusable Plastic Spoon Set of 20\n✔ Value pack of 20 spoons provides\n✔ Reusable and durable plastic is\n✔ Bright colour adds a fun\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
-   "title": "Reusable Plastic Spoon Set of 20 | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795087930.4825056,
-     "id": "2057351148316851",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795087930.4825056,
-     "id": "1393531879523995",
-     "dry": false
-    }
-   },
-   "created": 1795087896.4179776,
-   "after": 0,
-   "handle": "plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-spoon-20-pc-set-reusable-dinner-spoons-unbreakable-cutlery-20-pc-set",
-   "file": "11f82731.mp4",
-   "thumb": "11f82731_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1678432614063310"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1774845190285331"
-    }
-   }
-  },
-  {
    "id": "f83d620d",
    "status": "scheduled",
    "kind": "image",
@@ -4577,15 +4510,77 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
    "file": "beedf7af.jpg",
    "thumb": "beedf7af.jpg"
+  },
+  {
+   "id": "f5c7cb1c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Transparent Plastic Cup",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Transparent body lets you see",
+     "Comfortable side handle",
+     "Anti-slip grip band around"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Transparent Plastic Cup | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Transparent Plastic Cup"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nTransparent Plastic Cup\n✔ Transparent body lets you see\n✔ Comfortable side handle\n✔ Anti-slip grip band around\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #trendingshorts #kitchenhacks",
+   "title": "Transparent Plastic Cup | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795420891.0278528,
+     "id": "2445631572943616",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795420891.0278528,
+     "id": "947179081666578",
+     "dry": false
+    }
+   },
+   "created": 1795420855.197577,
+   "after": 0,
+   "handle": "transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
+   "file": "f5c7cb1c.mp4",
+   "thumb": "f5c7cb1c_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1487858119929652"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "29200695472931455"
+    }
+   }
   }
  ],
- "last_post": 1795419086.8235612,
+ "last_post": 1795420891.0278528,
  "log": [
-  "15:31:27 READY d1a8097d Knife Sharpening Stone Silicon Carbide | Kitchen Organization (auto-approved)",
-  "15:31:32 POSTED facebook@Vinzap-Finds d1a8097d: 1795374648400400",
-  "15:31:37 POSTED youtube d1a8097d: N3LT9vw07Wk",
-  "15:31:46 STORY POSTED facebook@Vinzap-Finds d1a8097d",
-  "16:01:32 READY 10fe3790 2-in-1 Pet Food Scoop (auto-approved)",
   "16:01:35 POSTED facebook@Vinzap-Finds 10fe3790: 1428352113685678_122119781067501659",
   "16:32:06 READY 454b299c Ice Cube Tray | Home Decor (auto-approved)",
   "16:32:11 POSTED facebook@Vinzap-Finds 454b299c: 1143989228214396",
@@ -4780,13 +4775,18 @@
   "12:31:56 POSTED youtube 159949a2: vJJ7a_fGWMY",
   "12:32:03 STORY POSTED facebook@Vinzap-Finds 159949a2",
   "13:01:26 READY beedf7af Stainless Steel Oil Pourer 750ml (auto-approved)",
-  "13:01:31 POSTED facebook@Vinzap-Finds beedf7af: 1428352113685678_122120494539501659"
+  "13:01:31 POSTED facebook@Vinzap-Finds beedf7af: 1428352113685678_122120494539501659",
+  "13:31:31 READY f5c7cb1c Transparent Plastic Cup | Trending Shorts (auto-approved)",
+  "13:31:36 POSTED facebook@Vinzap-Finds f5c7cb1c: 2445631572943616",
+  "13:31:41 POSTED facebook@Vijayendra-Singh f5c7cb1c: 947179081666578",
+  "13:31:52 STORY POSTED facebook@Vinzap-Finds f5c7cb1c",
+  "13:32:02 STORY POSTED facebook@Vijayendra-Singh f5c7cb1c"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795419086.8235612,
-  "facebook@Vijayendra-Singh": 1795415460.1956203,
+  "facebook@Vinzap-Finds": 1795420891.0278528,
+  "facebook@Vijayendra-Singh": 1795420891.0278528,
   "youtube": 1795417308.4019706
  },
- "n": 754
+ "n": 755
 }
