@@ -1,61 +1,6 @@
 {
  "items": [
   {
-   "id": "6d2fed01",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Lollipop Candy Maker Machine, Pink",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "Lollipop Candy Maker and Lollipop"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "trending shorts"
-    ],
-    "yt_title": "Lollipop Candy Maker Machine, Pink | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Lollipop Candy Maker Machine, Pink"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nLollipop Candy Maker Machine, Pink\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
-   "title": "Lollipop Candy Maker Machine, Pink | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795095980.455953,
-     "id": "4599475900309187",
-     "dry": false
-    }
-   },
-   "created": 1795095941.9026835,
-   "after": 0,
-   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
-   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-pink",
-   "file": "6d2fed01.mp4",
-   "thumb": "6d2fed01_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1007876131705399"
-    }
-   }
-  },
-  {
    "id": "545f6cf0",
    "status": "scheduled",
    "kind": "image",
@@ -4571,14 +4516,73 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-ice-cream-spoon-3-pc-set",
    "file": "8e9e467d.jpg",
    "thumb": "8e9e467d.jpg"
+  },
+  {
+   "id": "fc556540",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "4 Compartment Plastic Food Storage Container",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 459,
+    "was": 0,
+    "feats": [
+     "4 separate compartments",
+     "Transparent lid for easy content",
+     "Multipurpose use for dry food"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "4 Compartment Plastic Food Storage Container | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "4 Compartment Plastic Food Storage Container"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\n4 Compartment Plastic Food Storage Container\n✔ 4 separate compartments\n✔ Transparent lid for easy content\n✔ Multipurpose use for dry food\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #kitchenorganization",
+   "title": "4 Compartment Plastic Food Storage Container | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795428082.7918823,
+     "id": "1144331301895018",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795428082.7918823,
+     "id": "lqqr87K_yRU",
+     "dry": false
+    }
+   },
+   "created": 1795428053.78399,
+   "after": 0,
+   "handle": "4-compartment-multipurpose-plastic-food-storage-container-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/4-compartment-multipurpose-plastic-food-storage-container-1-pc",
+   "file": "fc556540.mp4",
+   "thumb": "fc556540_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1157859710306638"
+    }
+   }
   }
  ],
- "last_post": 1795426255.654175,
+ "last_post": 1795428082.7918823,
  "log": [
-  "17:31:27 READY 84b0883a Vegetable and Fruit Peeler | Cooking (auto-approved)",
-  "17:31:31 POSTED facebook@Vinzap-Finds 84b0883a: 4613172268971643",
-  "17:31:38 STORY POSTED facebook@Vinzap-Finds 84b0883a",
-  "18:01:08 READY cb0a659a Bagasse Clamshell Food Box 9x6 Inch (auto-approved)",
   "18:01:13 POSTED facebook@Vinzap-Finds cb0a659a: 1428352113685678_122119801599501659",
   "18:01:17 POSTED facebook@Vijayendra-Singh cb0a659a: 1317760538089559_122131598253480728",
   "18:32:24 READY 47c0ba50 Multifunction Collapsible Extendable Stick | Home Essentials (auto-approved)",
@@ -4774,13 +4778,17 @@
   "14:31:53 STORY POSTED facebook@Vinzap-Finds b1c9093d",
   "15:00:55 READY 8e9e467d Stainless Steel Ice Cream Spoon Set (auto-approved)",
   "15:00:59 POSTED facebook@Vinzap-Finds 8e9e467d: 1428352113685678_122120518761501659",
-  "15:01:04 POSTED facebook@Vijayendra-Singh 8e9e467d: 1317760538089559_122132616639480728"
+  "15:01:04 POSTED facebook@Vijayendra-Singh 8e9e467d: 1317760538089559_122132616639480728",
+  "15:31:22 READY fc556540 4 Compartment Plastic Food Storage Container | Kitchen Gadgets (auto-approved)",
+  "15:31:27 POSTED facebook@Vinzap-Finds fc556540: 1144331301895018",
+  "15:31:35 POSTED youtube fc556540: lqqr87K_yRU",
+  "15:31:44 STORY POSTED facebook@Vinzap-Finds fc556540"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795426255.654175,
+  "facebook@Vinzap-Finds": 1795428082.7918823,
   "facebook@Vijayendra-Singh": 1795426255.654175,
-  "youtube": 1795416888.4019706
+  "youtube": 1795428082.7918823
  },
- "n": 758
+ "n": 759
 }
