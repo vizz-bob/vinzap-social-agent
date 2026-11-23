@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "f83d620d",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "6 in 1 Premium Kitchen Knife Set",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 699,
-    "was": 0,
-    "feats": [
-     "Complete 6 in 1 kitchen tool set",
-     "Sharp stainless steel blades",
-     "Ergonomic handles for comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "6 in 1 Premium Kitchen Knife Set | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "6 in 1 Premium Kitchen Knife Set"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\n6 in 1 Premium Kitchen Knife Set\n✔ Complete 6 in 1 kitchen tool set\n✔ Sharp stainless steel blades\n✔ Ergonomic handles for comfortable\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization #cooking",
-   "title": "6 in 1 Premium Kitchen Knife Set",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795090883.6567101,
-     "id": "1428352113685678_122119557183501659",
-     "dry": false
-    }
-   },
-   "created": 1795090868.4306946,
-   "after": 0,
-   "handle": "6-in-1-premium-kitchen-knife-set-1-set",
-   "product_url": "https://www.vinzapstore.in/products/6-in-1-premium-kitchen-knife-set-1-set",
-   "file": "f83d620d.jpg",
-   "thumb": "f83d620d.jpg"
-  },
-  {
    "id": "d0fc2aaf",
    "status": "scheduled",
    "kind": "reel",
@@ -4577,12 +4527,60 @@
      "id": "29200695472931455"
     }
    }
+  },
+  {
+   "id": "46efc5e4",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Professional Kitchen Knife Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 1509,
+    "was": 0,
+    "feats": [
+     "✅ 6-in-1 Multi-Purpose Set –",
+     "✅ Sharp Stainless Steel Blades –",
+     "✅ Non-Stick Yellow Blade Coating"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Professional Kitchen Knife Set | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Professional Kitchen Knife Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nProfessional Kitchen Knife Set\n✔ ✅ 6-in-1 Multi-Purpose Set –\n✔ ✅ Sharp Stainless Steel Blades –\n✔ ✅ Non-Stick Yellow Blade Coating\n\nOnly ₹1509. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Professional Kitchen Knife Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795422659.0639575,
+     "id": "1428352113685678_122120503833501659",
+     "dry": false
+    }
+   },
+   "created": 1795422644.9482164,
+   "after": 0,
+   "handle": "6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
+   "product_url": "https://www.vinzapstore.in/products/6-pcs-professional-kitchen-knife-set-with-chef-knives-cleaver-peeler-scissors",
+   "file": "46efc5e4.jpg",
+   "thumb": "46efc5e4.jpg"
   }
  ],
- "last_post": 1795420891.0278528,
+ "last_post": 1795422659.0639575,
  "log": [
-  "16:01:35 POSTED facebook@Vinzap-Finds 10fe3790: 1428352113685678_122119781067501659",
-  "16:32:06 READY 454b299c Ice Cube Tray | Home Decor (auto-approved)",
   "16:32:11 POSTED facebook@Vinzap-Finds 454b299c: 1143989228214396",
   "16:32:16 POSTED facebook@Vijayendra-Singh 454b299c: 2044677582861925",
   "16:32:25 STORY POSTED facebook@Vinzap-Finds 454b299c",
@@ -4780,13 +4778,15 @@
   "13:31:36 POSTED facebook@Vinzap-Finds f5c7cb1c: 2445631572943616",
   "13:31:41 POSTED facebook@Vijayendra-Singh f5c7cb1c: 947179081666578",
   "13:31:52 STORY POSTED facebook@Vinzap-Finds f5c7cb1c",
-  "13:32:02 STORY POSTED facebook@Vijayendra-Singh f5c7cb1c"
+  "13:32:02 STORY POSTED facebook@Vijayendra-Singh f5c7cb1c",
+  "14:00:59 READY 46efc5e4 Professional Kitchen Knife Set (auto-approved)",
+  "14:01:02 POSTED facebook@Vinzap-Finds 46efc5e4: 1428352113685678_122120503833501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795420891.0278528,
+  "facebook@Vinzap-Finds": 1795422659.0639575,
   "facebook@Vijayendra-Singh": 1795420891.0278528,
   "youtube": 1795417308.4019706
  },
- "n": 755
+ "n": 756
 }
