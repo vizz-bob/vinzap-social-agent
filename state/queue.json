@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "454b299c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Ice Cube Tray",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "2 trays with 14-grid design each",
-     "Each tray comes with a lid",
-     "Easy release design"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Ice Cube Tray | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ice Cube Tray"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nIce Cube Tray\n✔ 2 trays with 14-grid design each\n✔ Each tray comes with a lid\n✔ Easy release design\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
-   "title": "Ice Cube Tray | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795172526.7650898,
-     "id": "1143989228214396",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795172526.7650898,
-     "id": "2044677582861925",
-     "dry": false
-    }
-   },
-   "created": 1795172494.7024167,
-   "after": 0,
-   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-pack-of-2-14-grid-each",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-pack-of-2-14-grid-each",
-   "file": "454b299c.mp4",
-   "thumb": "454b299c_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2376251726460334"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1148513091423959"
-    }
-   }
-  },
-  {
    "id": "1f221fcd",
    "status": "scheduled",
    "kind": "image",
@@ -4583,14 +4516,73 @@
    "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-19-cm",
    "file": "7ad5c938.jpg",
    "thumb": "7ad5c938.jpg"
+  },
+  {
+   "id": "407dd6b2",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Electric Lunch Box",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 1399,
+    "was": 0,
+    "feats": [
+     "Power: 40 W",
+     "Size: 23 x 16 x 11 cm",
+     "Removable containers"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Electric Lunch Box | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Lunch Box"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nElectric Lunch Box\n✔ Power: 40 W\n✔ Size: 23 x 16 x 11 cm\n✔ Removable containers\n\nOnly ₹1399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #lunchbox #tiffin #homeessentials",
+   "title": "Electric Lunch Box | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795503672.7456088,
+     "id": "5253307358230284",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795503672.7456088,
+     "id": "YnP1ksGciWw",
+     "dry": false
+    }
+   },
+   "created": 1795503646.7812283,
+   "after": 0,
+   "handle": "058-electric-lunch-box-1",
+   "product_url": "https://www.vinzapstore.in/products/058-electric-lunch-box-1",
+   "file": "407dd6b2.mp4",
+   "thumb": "407dd6b2_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1675926387319149"
+    }
+   }
   }
  ],
- "last_post": 1795501874.8600068,
+ "last_post": 1795503672.7456088,
  "log": [
-  "14:31:28 READY c6ca4ce3 Rubber Pet Grooming Glove Brush | Kitchen Organization (auto-approved)",
-  "14:31:33 POSTED facebook@Vinzap-Finds c6ca4ce3: 1804726190794219",
-  "14:31:39 STORY POSTED facebook@Vinzap-Finds c6ca4ce3",
-  "15:01:10 READY 8e6c1a07 Stainless Steel Dinner Spoon (auto-approved)",
   "15:01:14 POSTED facebook@Vinzap-Finds 8e6c1a07: 1428352113685678_122120010831501659",
   "15:01:19 POSTED facebook@Vijayendra-Singh 8e6c1a07: 1317760538089559_122131890621480728",
   "15:31:36 READY ae31501d 2-in-1 Kitchen Bag Clip & Measuring Scoop | Home Decor (auto-approved)",
@@ -4786,13 +4778,17 @@
   "22:47:07 STORY POSTED facebook@Vijayendra-Singh 97f73900",
   "12:01:14 READY 7ad5c938 Silicone Cooking Spatula 19cm (auto-approved)",
   "12:01:20 POSTED facebook@Vinzap-Finds 7ad5c938: 1428352113685678_122120791593501659",
-  "12:01:26 POSTED facebook@Vijayendra-Singh 7ad5c938: 1317760538089559_122133010383480728"
+  "12:01:26 POSTED facebook@Vijayendra-Singh 7ad5c938: 1317760538089559_122133010383480728",
+  "12:31:12 READY 407dd6b2 Electric Lunch Box | Home Essentials (auto-approved)",
+  "12:31:17 POSTED facebook@Vinzap-Finds 407dd6b2: 5253307358230284",
+  "12:31:20 POSTED youtube 407dd6b2: YnP1ksGciWw",
+  "12:31:28 STORY POSTED facebook@Vinzap-Finds 407dd6b2"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795501874.8600068,
+  "facebook@Vinzap-Finds": 1795503672.7456088,
   "facebook@Vijayendra-Singh": 1795501874.8600068,
-  "youtube": 1795450162.5578873
+  "youtube": 1795503672.7456088
  },
- "n": 774
+ "n": 775
 }
