@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "ad822654",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Ganesh Classic Glass Set of 6, 350 ml Each",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 429,
-    "was": 0,
-    "feats": [
-     "6 Pieces of Transparent ABS",
-     "Colour: Transparent",
-     "Content : 6 pieces"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Ganesh Classic Glass Set of 6, 350 ml Each | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Ganesh Classic Glass Set of 6, 350 ml Each"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nGanesh Classic Glass Set of 6, 350 ml Each\n✔ 6 Pieces of Transparent ABS\n✔ Colour: Transparent\n✔ Content : 6 pieces\n\nOnly ₹429. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
-   "title": "Ganesh Classic Glass Set of 6, 350 ml Each",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795185071.8771882,
-     "id": "1428352113685678_122119826619501659",
-     "dry": false
-    }
-   },
-   "created": 1795185057.244763,
-   "after": 0,
-   "handle": "ganesh-classic-glass-set-of-6-each-glass-350ml",
-   "product_url": "https://www.vinzapstore.in/products/ganesh-classic-glass-set-of-6-each-glass-350ml",
-   "file": "ad822654.jpg",
-   "thumb": "ad822654.jpg"
-  },
-  {
    "id": "53c2b1db",
    "status": "scheduled",
    "kind": "reel",
@@ -4581,12 +4531,60 @@
      "id": "1788841848863242"
     }
    }
+  },
+  {
+   "id": "3e99dc09",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "6 in 1 Premium Kitchen Knife Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 699,
+    "was": 0,
+    "feats": [
+     "Complete 6 in 1 kitchen tool set",
+     "Sharp stainless steel blades",
+     "Ergonomic handles for comfortable"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "6 in 1 Premium Kitchen Knife Set | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "6 in 1 Premium Kitchen Knife Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\n6 in 1 Premium Kitchen Knife Set\n✔ Complete 6 in 1 kitchen tool set\n✔ Sharp stainless steel blades\n✔ Ergonomic handles for comfortable\n\nOnly ₹699. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization #cooking",
+   "title": "6 in 1 Premium Kitchen Knife Set",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795516254.5623507,
+     "id": "1428352113685678_122120843439501659",
+     "dry": false
+    }
+   },
+   "created": 1795516240.035583,
+   "after": 0,
+   "handle": "6-in-1-premium-kitchen-knife-set-1-set",
+   "product_url": "https://www.vinzapstore.in/products/6-in-1-premium-kitchen-knife-set-1-set",
+   "file": "3e99dc09.jpg",
+   "thumb": "3e99dc09.jpg"
   }
  ],
- "last_post": 1795514491.0859835,
+ "last_post": 1795516254.5623507,
  "log": [
-  "18:00:59 POSTED facebook@Vinzap-Finds 416a3547: 1428352113685678_122120041071501659",
-  "18:01:02 POSTED facebook@Vijayendra-Singh 416a3547: 1317760538089559_122131964295480728",
   "18:31:28 READY 2ab6e67c Natural Wood Chopping Board | Home Essentials (auto-approved)",
   "18:31:32 POSTED facebook@Vinzap-Finds 2ab6e67c: 1320721293514224",
   "18:31:37 POSTED youtube 2ab6e67c: d8SPp34Bv9s",
@@ -4784,13 +4782,15 @@
   "15:31:31 READY c4a989f6 Gas Stove Burner Stand, Stainless Steel Wok | Home Essentials (auto-approved)",
   "15:31:35 POSTED facebook@Vinzap-Finds c4a989f6: 1622497243241829",
   "15:31:42 POSTED youtube c4a989f6: A6wHvg15f9Y",
-  "15:31:50 STORY POSTED facebook@Vinzap-Finds c4a989f6"
+  "15:31:50 STORY POSTED facebook@Vinzap-Finds c4a989f6",
+  "16:00:54 READY 3e99dc09 6 in 1 Premium Kitchen Knife Set (auto-approved)",
+  "16:00:58 POSTED facebook@Vinzap-Finds 3e99dc09: 1428352113685678_122120843439501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795514491.0859835,
+  "facebook@Vinzap-Finds": 1795516254.5623507,
   "facebook@Vijayendra-Singh": 1795512662.4557054,
   "youtube": 1795514491.0859835
  },
- "n": 781
+ "n": 782
 }
