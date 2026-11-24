@@ -1,62 +1,6 @@
 {
  "items": [
   {
-   "id": "cb0a659a",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Bagasse Clamshell Food Box 9x6 Inch",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 249,
-    "was": 0,
-    "feats": [
-     "Premium bagasse clamshell food",
-     "Pack of 10 pieces for restaurant",
-     "9x6 inch size ideal for lunch"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "trending shorts"
-    ],
-    "yt_title": "Bagasse Clamshell Food Box 9x6 Inch | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Bagasse Clamshell Food Box 9x6 Inch"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nBagasse Clamshell Food Box 9x6 Inch\n✔ Premium bagasse clamshell food\n✔ Pack of 10 pieces for restaurant\n✔ 9x6 inch size ideal for lunch\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
-   "title": "Bagasse Clamshell Food Box 9x6 Inch",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795177868.8470502,
-     "id": "1428352113685678_122119801599501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795177868.8470502,
-     "id": "1317760538089559_122131598253480728",
-     "dry": false
-    }
-   },
-   "created": 1795177854.36617,
-   "after": 0,
-   "handle": "vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
-   "product_url": "https://www.vinzapstore.in/products/vegnar-premium-bagasse-clamshell-food-box-10-pc-9x6-inch",
-   "file": "cb0a659a.jpg",
-   "thumb": "cb0a659a.jpg"
-  },
-  {
    "id": "47c0ba50",
    "status": "scheduled",
    "kind": "reel",
@@ -4589,12 +4533,60 @@
      "id": "1325131029741523"
     }
    }
+  },
+  {
+   "id": "77f6d909",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Finger Guard Protector",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 49,
+    "was": 0,
+    "feats": [
+     "Protects your fingers from cuts",
+     "Sturdy shield design guards",
+     "Comfortable to hold and works"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Finger Guard Protector | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Finger Guard Protector"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nFinger Guard Protector\n✔ Protects your fingers from cuts\n✔ Sturdy shield design guards\n✔ Comfortable to hold and works\n\nOnly ₹49. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Finger Guard Protector",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795509060.4810183,
+     "id": "1428352113685678_122120815899501659",
+     "dry": false
+    }
+   },
+   "created": 1795509045.9298985,
+   "after": 0,
+   "handle": "finger-guard-protector-kitchen-cutting-chopping-safety-tool-mixed-color-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/finger-guard-protector-kitchen-cutting-chopping-safety-tool-mixed-color-1-pc",
+   "file": "77f6d909.jpg",
+   "thumb": "77f6d909.jpg"
   }
  ],
- "last_post": 1795507292.1782677,
+ "last_post": 1795509060.4810183,
  "log": [
-  "16:01:07 POSTED facebook@Vinzap-Finds c9685abb: 1428352113685678_122120022291501659",
-  "16:31:26 READY 4859d199 Smiley Face Glass Water Bottle 400ml | Home Decor Ideas (auto-approved)",
   "16:31:31 POSTED facebook@Vinzap-Finds 4859d199: 40511554231791208",
   "16:31:36 POSTED facebook@Vijayendra-Singh 4859d199: 2556638154828086",
   "16:31:44 STORY POSTED facebook@Vinzap-Finds 4859d199",
@@ -4792,13 +4784,15 @@
   "13:31:37 POSTED facebook@Vinzap-Finds a8787357: 1186338030591544",
   "13:31:42 POSTED facebook@Vijayendra-Singh a8787357: 1169639115755400",
   "13:31:51 STORY POSTED facebook@Vinzap-Finds a8787357",
-  "13:31:58 STORY POSTED facebook@Vijayendra-Singh a8787357"
+  "13:31:58 STORY POSTED facebook@Vijayendra-Singh a8787357",
+  "14:01:00 READY 77f6d909 Finger Guard Protector (auto-approved)",
+  "14:01:04 POSTED facebook@Vinzap-Finds 77f6d909: 1428352113685678_122120815899501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795507292.1782677,
+  "facebook@Vinzap-Finds": 1795509060.4810183,
   "facebook@Vijayendra-Singh": 1795507292.1782677,
   "youtube": 1795503672.7456088
  },
- "n": 777
+ "n": 778
 }
