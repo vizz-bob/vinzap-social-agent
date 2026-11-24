@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "10fe3790",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "2-in-1 Pet Food Scoop",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 119,
-    "was": 0,
-    "feats": [
-     "Dual Function Design: Works as",
-     "Durable & Safe Material: Made",
-     "Ergonomic Handle: Comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "2-in-1 Pet Food Scoop | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "2-in-1 Pet Food Scoop"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\n2-in-1 Pet Food Scoop\n✔ Dual Function Design: Works as\n✔ Durable & Safe Material: Made\n✔ Ergonomic Handle: Comfortable\n\nOnly ₹119. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #petlovers #petessentials #kitchenorganization #cooking",
-   "title": "2-in-1 Pet Food Scoop",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795170692.0219972,
-     "id": "1428352113685678_122119781067501659",
-     "dry": false
-    }
-   },
-   "created": 1795170678.2257905,
-   "after": 0,
-   "handle": "2-in-1-pet-food-scoop-with-bag-clip",
-   "product_url": "https://www.vinzapstore.in/products/2-in-1-pet-food-scoop-with-bag-clip",
-   "file": "10fe3790.jpg",
-   "thumb": "10fe3790.jpg"
-  },
-  {
    "id": "454b299c",
    "status": "scheduled",
    "kind": "reel",
@@ -4579,13 +4529,64 @@
      "id": "40158059930504890"
     }
    }
+  },
+  {
+   "id": "7ad5c938",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Silicone Cooking Spatula 19cm",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Silicone Spatula for Baking, 1 PC"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Silicone Cooking Spatula 19cm | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Cooking Spatula 19cm"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSilicone Cooking Spatula 19cm\n✔ Silicone Spatula for Baking, 1 PC\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
+   "title": "Silicone Cooking Spatula 19cm",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795501874.8600068,
+     "id": "1428352113685678_122120791593501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795501874.8600068,
+     "id": "1317760538089559_122133010383480728",
+     "dry": false
+    }
+   },
+   "created": 1795501859.8048208,
+   "after": 0,
+   "handle": "silicone-cooking-spatula-for-baking-1-pc-19-cm",
+   "product_url": "https://www.vinzapstore.in/products/silicone-cooking-spatula-for-baking-1-pc-19-cm",
+   "file": "7ad5c938.jpg",
+   "thumb": "7ad5c938.jpg"
   }
  ],
- "last_post": 1795454193.3071773,
+ "last_post": 1795501874.8600068,
  "log": [
-  "13:31:45 STORY POSTED facebook@Vijayendra-Singh 90693edc",
-  "14:01:02 READY c64b13e2 Apex Everyday Plastic Glass Set of 6 (auto-approved)",
-  "14:01:06 POSTED facebook@Vinzap-Finds c64b13e2: 1428352113685678_122119999611501659",
   "14:31:28 READY c6ca4ce3 Rubber Pet Grooming Glove Brush | Kitchen Organization (auto-approved)",
   "14:31:33 POSTED facebook@Vinzap-Finds c6ca4ce3: 1804726190794219",
   "14:31:39 STORY POSTED facebook@Vinzap-Finds c6ca4ce3",
@@ -4782,13 +4783,16 @@
   "22:46:41 POSTED facebook@Vinzap-Finds 97f73900: 1508549794756543",
   "22:46:48 POSTED facebook@Vijayendra-Singh 97f73900: 1622807315813568",
   "22:46:58 STORY POSTED facebook@Vinzap-Finds 97f73900",
-  "22:47:07 STORY POSTED facebook@Vijayendra-Singh 97f73900"
+  "22:47:07 STORY POSTED facebook@Vijayendra-Singh 97f73900",
+  "12:01:14 READY 7ad5c938 Silicone Cooking Spatula 19cm (auto-approved)",
+  "12:01:20 POSTED facebook@Vinzap-Finds 7ad5c938: 1428352113685678_122120791593501659",
+  "12:01:26 POSTED facebook@Vijayendra-Singh 7ad5c938: 1317760538089559_122133010383480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795454193.3071773,
-  "facebook@Vijayendra-Singh": 1795454193.3071773,
-  "youtube": 1795450582.5578873
+  "facebook@Vinzap-Finds": 1795501874.8600068,
+  "facebook@Vijayendra-Singh": 1795501874.8600068,
+  "youtube": 1795450162.5578873
  },
- "n": 773
+ "n": 774
 }
