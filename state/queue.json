@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "53c2b1db",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Masala Box",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 399,
-    "was": 0,
-    "feats": [
-     "6 Compartment Design: Offers",
-     "Durable Plastic Construction:",
-     "Transparent Lid: Allows easy"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Masala Box | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Masala Box"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nMasala Box\n✔ 6 Compartment Design: Offers\n✔ Durable Plastic Construction:\n✔ Transparent Lid: Allows easy\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #kitchenorganization #cooking",
-   "title": "Masala Box | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795186522.5599804,
-     "id": "1730177745349538",
-     "dry": false
-    }
-   },
-   "created": 1795186489.532078,
-   "after": 0,
-   "handle": "plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
-   "product_url": "https://www.vinzapstore.in/products/plastic-real-masala-masti-box-with-6-compartments-for-spice-storage",
-   "file": "53c2b1db.mp4",
-   "thumb": "53c2b1db_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1146093904469948"
-    }
-   }
-  },
-  {
    "id": "faabb09d",
    "status": "posted",
    "kind": "image",
@@ -4581,15 +4524,77 @@
    "product_url": "https://www.vinzapstore.in/products/6-in-1-premium-kitchen-knife-set-1-set",
    "file": "3e99dc09.jpg",
    "thumb": "3e99dc09.jpg"
+  },
+  {
+   "id": "c16c9b64",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Apex Compact Coffee Mug 300ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 349,
+    "was": 0,
+    "feats": [
+     "300 ML is the size you finish",
+     "Lid keeps the drink warm through",
+     "Slim handle sits close to the body"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Apex Compact Coffee Mug 300ml | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Apex Compact Coffee Mug 300ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nApex Compact Coffee Mug 300ml\n✔ 300 ML is the size you finish\n✔ Lid keeps the drink warm through\n✔ Slim handle sits close to the body\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #homeessentials",
+   "title": "Apex Compact Coffee Mug 300ml | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795518107.0880585,
+     "id": "1439087868395920",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795518107.0880585,
+     "id": "2114284785880046",
+     "dry": false
+    }
+   },
+   "created": 1795518075.8436923,
+   "after": 0,
+   "handle": "apex-compact-coffee-mug-300-ml-with-handle-and-lid-matte-black-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-compact-coffee-mug-300-ml-with-handle-and-lid-matte-black-1-pc",
+   "file": "c16c9b64.mp4",
+   "thumb": "c16c9b64_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "3795210157284992"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1688185132911932"
+    }
+   }
   }
  ],
- "last_post": 1795516254.5623507,
+ "last_post": 1795518107.0880585,
  "log": [
-  "18:31:28 READY 2ab6e67c Natural Wood Chopping Board | Home Essentials (auto-approved)",
-  "18:31:32 POSTED facebook@Vinzap-Finds 2ab6e67c: 1320721293514224",
-  "18:31:37 POSTED youtube 2ab6e67c: d8SPp34Bv9s",
-  "18:31:45 STORY POSTED facebook@Vinzap-Finds 2ab6e67c",
-  "19:01:04 READY d0adac94 Glass Water Bottle 400ml (auto-approved)",
   "19:01:08 POSTED facebook@Vinzap-Finds d0adac94: 1428352113685678_122120051703501659",
   "19:31:34 READY dfef5808 Premium Round Tea Cup Set of 6 | Kitchen Hacks (auto-approved)",
   "19:31:40 POSTED facebook@Vinzap-Finds dfef5808: 985473227519007",
@@ -4784,13 +4789,18 @@
   "15:31:42 POSTED youtube c4a989f6: A6wHvg15f9Y",
   "15:31:50 STORY POSTED facebook@Vinzap-Finds c4a989f6",
   "16:00:54 READY 3e99dc09 6 in 1 Premium Kitchen Knife Set (auto-approved)",
-  "16:00:58 POSTED facebook@Vinzap-Finds 3e99dc09: 1428352113685678_122120843439501659"
+  "16:00:58 POSTED facebook@Vinzap-Finds 3e99dc09: 1428352113685678_122120843439501659",
+  "16:31:47 READY c16c9b64 Apex Compact Coffee Mug 300ml | Home Essentials (auto-approved)",
+  "16:31:51 POSTED facebook@Vinzap-Finds c16c9b64: 1439087868395920",
+  "16:31:56 POSTED facebook@Vijayendra-Singh c16c9b64: 2114284785880046",
+  "16:32:04 STORY POSTED facebook@Vinzap-Finds c16c9b64",
+  "16:32:11 STORY POSTED facebook@Vijayendra-Singh c16c9b64"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795516254.5623507,
-  "facebook@Vijayendra-Singh": 1795512662.4557054,
+  "facebook@Vinzap-Finds": 1795518107.0880585,
+  "facebook@Vijayendra-Singh": 1795518107.0880585,
   "youtube": 1795514491.0859835
  },
- "n": 782
+ "n": 783
 }
