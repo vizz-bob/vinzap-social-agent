@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "01a75977",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Fancy Ice Tray",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 169,
-    "was": 0,
-    "feats": [
-     "Pack of 4 trays",
-     "Fun shapes for drinks",
-     "Fits household fridge freezers"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Fancy Ice Tray | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Fancy Ice Tray"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nFancy Ice Tray\n✔ Pack of 4 trays\n✔ Fun shapes for drinks\n✔ Fits household fridge freezers\n\nOnly ₹169. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
-   "title": "Fancy Ice Tray | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795195357.5640838,
-     "id": "1145363757982347",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795195357.5640838,
-     "id": "1744560433755573",
-     "dry": false
-    }
-   },
-   "created": 1795195328.2943158,
-   "after": 0,
-   "handle": "0784-4-pc-fancy-ice-tray-used-widely-in-all-kinds-of-household-places-while-making-ices-and-all-purposes",
-   "product_url": "https://www.vinzapstore.in/products/0784-4-pc-fancy-ice-tray-used-widely-in-all-kinds-of-household-places-while-making-ices-and-all-purposes",
-   "file": "01a75977.mp4",
-   "thumb": "01a75977_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1857311518956174"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "40630867516504037"
-    }
-   }
-  },
-  {
    "id": "8b8431eb",
    "status": "posted",
    "kind": "image",
@@ -4587,14 +4520,73 @@
    "product_url": "https://www.vinzapstore.in/products/premium-white-glass-water-bottle-1-pc-400-ml",
    "file": "b9d245c9.jpg",
    "thumb": "b9d245c9.jpg"
+  },
+  {
+   "id": "f02f2470",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Ice Cube Tray",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "14-grid design for making",
+     "Comes with a lid to keep ice",
+     "Easy release design"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Ice Cube Tray | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Cube Tray"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nIce Cube Tray\n✔ 14-grid design for making\n✔ Comes with a lid to keep ice\n✔ Easy release design\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "Ice Cube Tray | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795525292.9721727,
+     "id": "1820218152461883",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795525292.9721727,
+     "id": "DzaXT9VCghY",
+     "dry": false
+    }
+   },
+   "created": 1795525254.4800844,
+   "after": 0,
+   "handle": "multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
+   "product_url": "https://www.vinzapstore.in/products/multipurpose-plastic-ice-cube-tray-with-lid-1-pc-14-gride",
+   "file": "f02f2470.mp4",
+   "thumb": "f02f2470_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1427878282669053"
+    }
+   }
   }
  ],
- "last_post": 1795523461.0233405,
+ "last_post": 1795525292.9721727,
  "log": [
-  "20:31:38 READY aa2cfce5 Scalloped Disposable Paper Napkins 23x23cm | Home Decor Ideas (auto-approved)",
-  "20:31:42 POSTED facebook@Vinzap-Finds aa2cfce5: 1126150293606901",
-  "20:31:55 STORY POSTED facebook@Vinzap-Finds aa2cfce5",
-  "21:01:03 READY e89b56f4 Stainless Steel Fruit Fork Set (auto-approved)",
   "21:01:08 POSTED facebook@Vinzap-Finds e89b56f4: 1428352113685678_122120075625501659",
   "21:01:13 POSTED facebook@Vijayendra-Singh e89b56f4: 1317760538089559_122132017431480728",
   "21:31:22 READY 1cab394a Disposable Clear Plastic Gloves Medium Pack | Home Essentials (auto-approved)",
@@ -4790,13 +4782,17 @@
   "17:31:56 STORY POSTED facebook@Vinzap-Finds 2a813f55",
   "18:01:01 READY b9d245c9 White Glass Water Bottle 400ml (auto-approved)",
   "18:01:05 POSTED facebook@Vinzap-Finds b9d245c9: 1428352113685678_122120865813501659",
-  "18:01:09 POSTED facebook@Vijayendra-Singh b9d245c9: 1317760538089559_122133085371480728"
+  "18:01:09 POSTED facebook@Vijayendra-Singh b9d245c9: 1317760538089559_122133085371480728",
+  "18:31:32 READY f02f2470 Ice Cube Tray | Home Decor (auto-approved)",
+  "18:31:37 POSTED facebook@Vinzap-Finds f02f2470: 1820218152461883",
+  "18:31:42 POSTED youtube f02f2470: DzaXT9VCghY",
+  "18:31:53 STORY POSTED facebook@Vinzap-Finds f02f2470"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795523461.0233405,
+  "facebook@Vinzap-Finds": 1795525292.9721727,
   "facebook@Vijayendra-Singh": 1795523461.0233405,
-  "youtube": 1795514071.0859835
+  "youtube": 1795525292.9721727
  },
- "n": 786
+ "n": 787
 }
