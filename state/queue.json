@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "eca04714",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Apex Flexi Stainless Steel Lunch Box",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 979,
-    "was": 0,
-    "feats": [
-     "Wide rectangular container takes",
-     "Round bowl is sized right",
-     "Flexible sealing lids press tight"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen gadgets",
-     "kitchen organization"
-    ],
-    "yt_title": "Apex Flexi Stainless Steel Lunch Box | Kitchen Gadgets"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Flexi Stainless Steel Lunch Box"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nApex Flexi Stainless Steel Lunch Box\n✔ Wide rectangular container takes\n✔ Round bowl is sized right\n✔ Flexible sealing lids press tight\n\nOnly ₹979. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #lunchbox #tiffin #kitchenorganization",
-   "title": "Apex Flexi Stainless Steel Lunch Box",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795192300.4879718,
-     "id": "1428352113685678_122119852503501659",
-     "dry": false
-    }
-   },
-   "created": 1795192285.943707,
-   "after": 0,
-   "handle": "apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-flexi-stainless-steel-lunch-box-set-with-container-and-bowl-2-pc",
-   "file": "eca04714.jpg",
-   "thumb": "eca04714.jpg"
-  },
-  {
    "id": "01a75977",
    "status": "scheduled",
    "kind": "reel",
@@ -4581,13 +4531,66 @@
      "id": "1611842930255618"
     }
    }
+  },
+  {
+   "id": "b9d245c9",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "White Glass Water Bottle 400ml",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Premium glass bottle design",
+     "400 ML capacity ideal for travel",
+     "Leakproof lid helps prevent"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "White Glass Water Bottle 400ml | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "White Glass Water Bottle 400ml"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nWhite Glass Water Bottle 400ml\n✔ Premium glass bottle design\n✔ 400 ML capacity ideal for travel\n✔ Leakproof lid helps prevent\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #homedecor #homedecorideas",
+   "title": "White Glass Water Bottle 400ml",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795523461.0233405,
+     "id": "1428352113685678_122120865813501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795523461.0233405,
+     "id": "1317760538089559_122133085371480728",
+     "dry": false
+    }
+   },
+   "created": 1795523447.6589715,
+   "after": 0,
+   "handle": "premium-white-glass-water-bottle-1-pc-400-ml",
+   "product_url": "https://www.vinzapstore.in/products/premium-white-glass-water-bottle-1-pc-400-ml",
+   "file": "b9d245c9.jpg",
+   "thumb": "b9d245c9.jpg"
   }
  ],
- "last_post": 1795521701.7881107,
+ "last_post": 1795523461.0233405,
  "log": [
-  "19:32:01 STORY POSTED facebook@Vijayendra-Singh dfef5808",
-  "20:00:58 READY 9a8cadc6 Wooden Mouse Rat Trap (auto-approved)",
-  "20:01:01 POSTED facebook@Vinzap-Finds 9a8cadc6: 1428352113685678_122120064849501659",
   "20:31:38 READY aa2cfce5 Scalloped Disposable Paper Napkins 23x23cm | Home Decor Ideas (auto-approved)",
   "20:31:42 POSTED facebook@Vinzap-Finds aa2cfce5: 1126150293606901",
   "20:31:55 STORY POSTED facebook@Vinzap-Finds aa2cfce5",
@@ -4784,13 +4787,16 @@
   "17:01:28 POSTED facebook@Vinzap-Finds 70c5fb26: 1428352113685678_122120854011501659",
   "17:31:41 READY 2a813f55 Reusable Plastic Spoon Set of 20 | Cooking (auto-approved)",
   "17:31:47 POSTED facebook@Vinzap-Finds 2a813f55: 1125059720125157",
-  "17:31:56 STORY POSTED facebook@Vinzap-Finds 2a813f55"
+  "17:31:56 STORY POSTED facebook@Vinzap-Finds 2a813f55",
+  "18:01:01 READY b9d245c9 White Glass Water Bottle 400ml (auto-approved)",
+  "18:01:05 POSTED facebook@Vinzap-Finds b9d245c9: 1428352113685678_122120865813501659",
+  "18:01:09 POSTED facebook@Vijayendra-Singh b9d245c9: 1317760538089559_122133085371480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795521701.7881107,
-  "facebook@Vijayendra-Singh": 1795518107.0880585,
-  "youtube": 1795514491.0859835
+  "facebook@Vinzap-Finds": 1795523461.0233405,
+  "facebook@Vijayendra-Singh": 1795523461.0233405,
+  "youtube": 1795514071.0859835
  },
- "n": 785
+ "n": 786
 }
