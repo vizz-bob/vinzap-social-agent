@@ -1,61 +1,6 @@
 {
  "items": [
   {
-   "id": "c6ca4ce3",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Rubber Pet Grooming Glove Brush",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Rubber Pet Cleaning Massaging"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen organization",
-     "cooking"
-    ],
-    "yt_title": "Rubber Pet Grooming Glove Brush | Kitchen Organization"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Rubber Pet Grooming Glove Brush"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nRubber Pet Grooming Glove Brush\n✔ Rubber Pet Cleaning Massaging\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cleaninghacks #homecleaning #petlovers #petessentials #kitchenorganization #cooking",
-   "title": "Rubber Pet Grooming Glove Brush | Kitchen Organization",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795251688.9677434,
-     "id": "1804726190794219",
-     "dry": false
-    }
-   },
-   "created": 1795251660.4161634,
-   "after": 0,
-   "handle": "172-rubber-pet-cleaning-massaging-grooming-glove-brush",
-   "product_url": "https://www.vinzapstore.in/products/172-rubber-pet-cleaning-massaging-grooming-glove-brush",
-   "file": "c6ca4ce3.mp4",
-   "thumb": "c6ca4ce3_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1467230152012560"
-    }
-   }
-  },
-  {
    "id": "8e6c1a07",
    "status": "posted",
    "kind": "image",
@@ -4579,14 +4524,73 @@
    "product_url": "https://www.vinzapstore.in/products/5-in-1-multipurpose-kitchen-tool-combo-set-1-set",
    "file": "e1eef4c2.jpg",
    "thumb": "e1eef4c2.jpg"
+  },
+  {
+   "id": "6fd050bd",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Manual Plastic Fruit and Vegetable Juicer",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 399,
+    "was": 0,
+    "feats": [
+     "All parts are easily detachable",
+     "Made from abs plastic.",
+     "Non-electrical. Easy to operate."
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Manual Plastic Fruit and Vegetable Juicer | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Manual Plastic Fruit and Vegetable Juicer"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nManual Plastic Fruit and Vegetable Juicer\n✔ All parts are easily detachable\n✔ Made from abs plastic.\n✔ Non-electrical. Easy to operate.\n\nOnly ₹399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
+   "title": "Manual Plastic Fruit and Vegetable Juicer | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795536091.4595468,
+     "id": "1698528645284990",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795536091.4595468,
+     "id": "KExvEAYguug",
+     "dry": false
+    }
+   },
+   "created": 1795536053.1620836,
+   "after": 0,
+   "handle": "manual-juicer-modern-plastic-fruit-and-vegetable-juicer-1-pc-bowl-not-included",
+   "product_url": "https://www.vinzapstore.in/products/manual-juicer-modern-plastic-fruit-and-vegetable-juicer-1-pc-bowl-not-included",
+   "file": "6fd050bd.mp4",
+   "thumb": "6fd050bd_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4560123604203710"
+    }
+   }
   }
  ],
- "last_post": 1795534277.0855043,
+ "last_post": 1795536091.4595468,
  "log": [
-  "12:01:04 POSTED facebook@Vijayendra-Singh 7086314e: 1317760538089559_122132221941480728",
-  "12:31:50 READY 705bdbd8 Multipurpose Kitchen Lid and Spoon Holder | Trending Shorts (auto-approved)",
-  "12:31:55 POSTED facebook@Vinzap-Finds 705bdbd8: 29187293080879460",
-  "12:31:59 POSTED youtube 705bdbd8: QKs_YcGu4Z8",
   "12:32:07 STORY POSTED facebook@Vinzap-Finds 705bdbd8",
   "13:00:55 READY 9f19fe68 Leak Proof Sports Water Bottle 400ml BPA (auto-approved)",
   "13:00:58 POSTED facebook@Vinzap-Finds 9f19fe68: 1428352113685678_122120251029501659",
@@ -4782,13 +4786,17 @@
   "20:31:46 STORY POSTED facebook@Vinzap-Finds 03de2bc9",
   "21:01:17 READY e1eef4c2 5 in 1 Multipurpose Kitchen Tool Combo Set (auto-approved)",
   "21:01:21 POSTED facebook@Vinzap-Finds e1eef4c2: 1428352113685678_122120897313501659",
-  "21:01:25 POSTED facebook@Vijayendra-Singh e1eef4c2: 1317760538089559_122133119031480728"
+  "21:01:25 POSTED facebook@Vijayendra-Singh e1eef4c2: 1317760538089559_122133119031480728",
+  "21:31:31 READY 6fd050bd Manual Plastic Fruit and Vegetable Juicer | Trending Shorts (auto-approved)",
+  "21:31:36 POSTED facebook@Vinzap-Finds 6fd050bd: 1698528645284990",
+  "21:31:40 POSTED youtube 6fd050bd: KExvEAYguug",
+  "21:31:48 STORY POSTED facebook@Vinzap-Finds 6fd050bd"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795534277.0855043,
+  "facebook@Vinzap-Finds": 1795536091.4595468,
   "facebook@Vijayendra-Singh": 1795534277.0855043,
-  "youtube": 1795524872.9721727
+  "youtube": 1795536091.4595468
  },
- "n": 792
+ "n": 793
 }
