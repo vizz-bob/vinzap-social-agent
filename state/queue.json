@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "c9685abb",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "2-in-1 Oil Dispenser Bottle",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Glass bottle",
-     "Silicone brush in the cap",
-     "Roughly 7 x 7 x 19 cm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen hacks",
-     "home essentials"
-    ],
-    "yt_title": "2-in-1 Oil Dispenser Bottle | Kitchen Hacks"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "2-in-1 Oil Dispenser Bottle"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\n2-in-1 Oil Dispenser Bottle\n✔ Glass bottle\n✔ Silicone brush in the cap\n✔ Roughly 7 x 7 x 19 cm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #kitchenhacks",
-   "title": "2-in-1 Oil Dispenser Bottle",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795257064.7480276,
-     "id": "1428352113685678_122120022291501659",
-     "dry": false
-    }
-   },
-   "created": 1795257050.211518,
-   "after": 0,
-   "handle": "2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
-   "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
-   "file": "c9685abb.jpg",
-   "thumb": "c9685abb.jpg"
-  },
-  {
    "id": "4859d199",
    "status": "scheduled",
    "kind": "reel",
@@ -4585,13 +4535,66 @@
      "id": "3605064119674649"
     }
    }
+  },
+  {
+   "id": "ff610f58",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Oval Chalkboard Sticker Labels",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Classic oval chalkboard style",
+     "Write",
+     "Strong self adhesive backing"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Oval Chalkboard Sticker Labels | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Oval Chalkboard Sticker Labels"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nOval Chalkboard Sticker Labels\n✔ Classic oval chalkboard style\n✔ Write\n✔ Strong self adhesive backing\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Oval Chalkboard Sticker Labels",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795588264.7009037,
+     "id": "1428352113685678_122121033771501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795588264.7009037,
+     "id": "1317760538089559_122133280365480728",
+     "dry": false
+    }
+   },
+   "created": 1795588250.4880464,
+   "after": 0,
+   "handle": "oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
+   "product_url": "https://www.vinzapstore.in/products/oval-chalkboard-sticker-labels-with-marker-pen-reusable-jar-labels-1-set",
+   "file": "ff610f58.jpg",
+   "thumb": "ff610f58.jpg"
   }
  ],
- "last_post": 1795539572.8949597,
+ "last_post": 1795588264.7009037,
  "log": [
-  "13:31:39 STORY POSTED facebook@Vijayendra-Singh 6544e4af",
-  "14:01:12 READY 962ad37e Reusable Bamboo Chopsticks (auto-approved)",
-  "14:01:16 POSTED facebook@Vinzap-Finds 962ad37e: 1428352113685678_122120260311501659",
   "14:31:23 READY 5b60ddf5 Disposable Clear Plastic Gloves Large | Home Decor (auto-approved)",
   "14:31:27 POSTED facebook@Vinzap-Finds 5b60ddf5: 1004918008720606",
   "14:31:37 STORY POSTED facebook@Vinzap-Finds 5b60ddf5",
@@ -4788,13 +4791,16 @@
   "22:29:38 POSTED facebook@Vinzap-Finds ae41bd5e: 1130429453151226",
   "22:29:42 POSTED facebook@Vijayendra-Singh ae41bd5e: 2351829698992289",
   "22:29:51 STORY POSTED facebook@Vinzap-Finds ae41bd5e",
-  "22:29:59 STORY POSTED facebook@Vijayendra-Singh ae41bd5e"
+  "22:29:59 STORY POSTED facebook@Vijayendra-Singh ae41bd5e",
+  "12:01:04 READY ff610f58 Oval Chalkboard Sticker Labels (auto-approved)",
+  "12:01:08 POSTED facebook@Vinzap-Finds ff610f58: 1428352113685678_122121033771501659",
+  "12:01:11 POSTED facebook@Vijayendra-Singh ff610f58: 1317760538089559_122133280365480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795539572.8949597,
-  "facebook@Vijayendra-Singh": 1795539572.8949597,
-  "youtube": 1795536091.4595468
+  "facebook@Vinzap-Finds": 1795588264.7009037,
+  "facebook@Vijayendra-Singh": 1795588264.7009037,
+  "youtube": 1795535671.4595468
  },
- "n": 795
+ "n": 796
 }
