@@ -1,62 +1,6 @@
 {
  "items": [
   {
-   "id": "7086314e",
-   "status": "posted",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Squarion Airtight Plastic Storage Container",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 419,
-    "was": 0,
-    "feats": [
-     "Set of 3 storage containers",
-     "Secure airtight flip lock lids",
-     "Locks out moisture and pests"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Squarion Airtight Plastic Storage Container | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Squarion Airtight Plastic Storage Container"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nSquarion Airtight Plastic Storage Container\n✔ Set of 3 storage containers\n✔ Secure airtight flip lock lids\n✔ Locks out moisture and pests\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homeessentials",
-   "title": "Squarion Airtight Plastic Storage Container",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795329058.2401257,
-     "id": "1428352113685678_122120242407501659",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795329058.2401257,
-     "id": "1317760538089559_122132221941480728",
-     "dry": false
-    }
-   },
-   "created": 1795329043.354629,
-   "after": 0,
-   "handle": "squarion-airtight-plastic-storage-containers-set-for-kitchen-grocery-4-pc",
-   "product_url": "https://www.vinzapstore.in/products/squarion-airtight-plastic-storage-containers-set-for-kitchen-grocery-4-pc",
-   "file": "7086314e.jpg",
-   "thumb": "7086314e.jpg"
-  },
-  {
    "id": "705bdbd8",
    "status": "scheduled",
    "kind": "reel",
@@ -4585,12 +4529,60 @@
      "id": "1632689737871506"
     }
    }
+  },
+  {
+   "id": "51d9f63f",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Fancy Ice Tray",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 169,
+    "was": 0,
+    "feats": [
+     "Pack of 4 trays",
+     "Fun shapes for drinks",
+     "Fits household fridge freezers"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Fancy Ice Tray | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Fancy Ice Tray"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nFancy Ice Tray\n✔ Pack of 4 trays\n✔ Fun shapes for drinks\n✔ Fits household fridge freezers\n\nOnly ₹169. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "Fancy Ice Tray",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795613473.0095685,
+     "id": "1428352113685678_122121098043501659",
+     "dry": false
+    }
+   },
+   "created": 1795613458.661571,
+   "after": 0,
+   "handle": "0784-4-pc-fancy-ice-tray-used-widely-in-all-kinds-of-household-places-while-making-ices-and-all-purposes",
+   "product_url": "https://www.vinzapstore.in/products/0784-4-pc-fancy-ice-tray-used-widely-in-all-kinds-of-household-places-while-making-ices-and-all-purposes",
+   "file": "51d9f63f.jpg",
+   "thumb": "51d9f63f.jpg"
   }
  ],
- "last_post": 1795611719.9052107,
+ "last_post": 1795613473.0095685,
  "log": [
-  "21:01:12 POSTED facebook@Vinzap-Finds 2146ed87: 1428352113685678_122120334891501659",
-  "21:01:16 POSTED facebook@Vijayendra-Singh 2146ed87: 1317760538089559_122132373105480728",
   "21:31:21 READY ca3d90ab Premium Plastic Tea and Coffee Cup Mug | Cooking (auto-approved)",
   "21:31:26 POSTED facebook@Vinzap-Finds ca3d90ab: 1419588623589452",
   "21:31:32 POSTED youtube ca3d90ab: uVb8pudk-Ng",
@@ -4788,13 +4780,15 @@
   "18:31:59 READY 89f42612 Food Grade Cling Wrap Bags,  300x300mm | Home Decor (auto-approved)",
   "18:32:05 POSTED facebook@Vinzap-Finds 89f42612: 1738610744494362",
   "18:32:10 POSTED youtube 89f42612: Jo4v3vDali8",
-  "18:32:19 STORY POSTED facebook@Vinzap-Finds 89f42612"
+  "18:32:19 STORY POSTED facebook@Vinzap-Finds 89f42612",
+  "19:01:12 READY 51d9f63f Fancy Ice Tray (auto-approved)",
+  "19:01:16 POSTED facebook@Vinzap-Finds 51d9f63f: 1428352113685678_122121098043501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795611719.9052107,
+  "facebook@Vinzap-Finds": 1795613473.0095685,
   "facebook@Vijayendra-Singh": 1795609867.6767814,
   "youtube": 1795611719.9052107
  },
- "n": 809
+ "n": 810
 }
