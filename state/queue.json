@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "9a8cadc6",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Wooden Mouse Rat Trap",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 199,
-    "was": 0,
-    "feats": [
-     "EASY MOUSE TRAP: Classic easy",
-     "PREMIUM AND REUSABLE: Made from",
-     "EASY TO SET MOUSE TRAP: With just"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Wooden Mouse Rat Trap | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Wooden Mouse Rat Trap"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nWooden Mouse Rat Trap\n✔ EASY MOUSE TRAP: Classic easy\n✔ PREMIUM AND REUSABLE: Made from\n✔ EASY TO SET MOUSE TRAP: With just\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
-   "title": "Wooden Mouse Rat Trap",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795271458.3806946,
-     "id": "1428352113685678_122120064849501659",
-     "dry": false
-    }
-   },
-   "created": 1795271443.490484,
-   "after": 0,
-   "handle": "wooden-mouse-rat-traps-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/wooden-mouse-rat-traps-1-pc",
-   "file": "9a8cadc6.jpg",
-   "thumb": "9a8cadc6.jpg"
-  },
-  {
    "id": "aa2cfce5",
    "status": "scheduled",
    "kind": "reel",
@@ -4585,12 +4535,60 @@
      "id": "1845118636536969"
     }
    }
+  },
+  {
+   "id": "3d5513b3",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Microfiber Hanging Hand Towel",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "The napkins are highly absorbent",
+     "This range of premium Hanging",
+     "This lovely towel set is soft"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Microfiber Hanging Hand Towel | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Microfiber Hanging Hand Towel"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nMicrofiber Hanging Hand Towel\n✔ The napkins are highly absorbent\n✔ This range of premium Hanging\n✔ This lovely towel set is soft\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Microfiber Hanging Hand Towel",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795602690.217613,
+     "id": "1428352113685678_122121069111501659",
+     "dry": false
+    }
+   },
+   "created": 1795602675.8978467,
+   "after": 0,
+   "handle": "microfiber-wash-basin-hanging-hand-kitchen-towel-napkin-with-loop",
+   "product_url": "https://www.vinzapstore.in/products/microfiber-wash-basin-hanging-hand-kitchen-towel-napkin-with-loop",
+   "file": "3d5513b3.jpg",
+   "thumb": "3d5513b3.jpg"
   }
  ],
- "last_post": 1795600886.7417207,
+ "last_post": 1795602690.217613,
  "log": [
-  "18:01:25 POSTED facebook@Vinzap-Finds 4bb2b168: 1428352113685678_122120299605501659",
-  "18:01:29 POSTED facebook@Vijayendra-Singh 4bb2b168: 1317760538089559_122132318595480728",
   "18:31:15 READY c94468cb Hot Water Bag | Home Decor Ideas (auto-approved)",
   "18:31:20 POSTED facebook@Vinzap-Finds c94468cb: 4488433688088471",
   "18:31:24 POSTED youtube c94468cb: QjjjAOxRzY0",
@@ -4788,13 +4786,15 @@
   "15:31:26 READY 301dd526 Ganesh Classic Glass Set of 6, 350 ml Each | Cooking (auto-approved)",
   "15:31:29 POSTED facebook@Vinzap-Finds 301dd526: 2169500577011966",
   "15:31:34 POSTED youtube 301dd526: 5dLDL4aAlAA",
-  "15:31:40 STORY POSTED facebook@Vinzap-Finds 301dd526"
+  "15:31:40 STORY POSTED facebook@Vinzap-Finds 301dd526",
+  "16:01:30 READY 3d5513b3 Microfiber Hanging Hand Towel (auto-approved)",
+  "16:01:35 POSTED facebook@Vinzap-Finds 3d5513b3: 1428352113685678_122121069111501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795600886.7417207,
+  "facebook@Vinzap-Finds": 1795602690.217613,
   "facebook@Vijayendra-Singh": 1795599059.1968896,
   "youtube": 1795600886.7417207
  },
- "n": 803
+ "n": 804
 }
