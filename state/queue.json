@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "d26c79a9",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Caterpillar Self-Adhesive Wall Toothbrush",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Open-top caterpillar design",
-     "Self-adhesive pad",
-     "Use for toothbrushes"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Caterpillar Self-Adhesive Wall Toothbrush | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Caterpillar Self-Adhesive Wall Toothbrush"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nCaterpillar Self-Adhesive Wall Toothbrush\n✔ Open-top caterpillar design\n✔ Self-adhesive pad\n✔ Use for toothbrushes\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bathroomaccessories #homedecor #homedecorideas",
-   "title": "Caterpillar Self-Adhesive Wall Toothbrush | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795262491.973742,
-     "id": "1127292866978029",
-     "dry": false
-    }
-   },
-   "created": 1795262454.2434738,
-   "after": 0,
-   "handle": "plastic-caterpillar-shape-self-adhesive-wall-toothbrush-and-storage-holder-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/plastic-caterpillar-shape-self-adhesive-wall-toothbrush-and-storage-holder-1-pc",
-   "file": "d26c79a9.mp4",
-   "thumb": "d26c79a9_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1124448437082428"
-    }
-   }
-  },
-  {
    "id": "416a3547",
    "status": "posted",
    "kind": "image",
@@ -4587,15 +4530,77 @@
    "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
    "file": "f7465b45.jpg",
    "thumb": "f7465b45.jpg"
+  },
+  {
+   "id": "9103311c",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Electric Barbecue Grill 2000W",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 2889,
+    "was": 0,
+    "feats": [
+     "Perfect electric barbecue grill",
+     "It has a non-stick steel grill",
+     "Cool touch handles"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Electric Barbecue Grill 2000W | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Electric Barbecue Grill 2000W"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nElectric Barbecue Grill 2000W\n✔ Perfect electric barbecue grill\n✔ It has a non-stick steel grill\n✔ Cool touch handles\n\nOnly ₹2889. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
+   "title": "Electric Barbecue Grill 2000W | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795593681.821719,
+     "id": "1654931752781307",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795593681.821719,
+     "id": "1820339299219890",
+     "dry": false
+    }
+   },
+   "created": 1795593647.8659666,
+   "after": 0,
+   "handle": "electric-barbecue-grill-2000w-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/electric-barbecue-grill-2000w-1-pc",
+   "file": "9103311c.mp4",
+   "thumb": "9103311c_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1092064330471354"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1428418999276203"
+    }
+   }
   }
  ],
- "last_post": 1795591857.4454343,
+ "last_post": 1795593681.821719,
  "log": [
-  "15:31:25 READY 7e9eb568 3 in 1 Anti Slip Bathroom Mat Set | Home Essentials (auto-approved)",
-  "15:31:30 POSTED facebook@Vinzap-Finds 7e9eb568: 4293999864066745",
-  "15:31:34 POSTED youtube 7e9eb568: HdXYdtZ-M-Q",
-  "15:31:41 STORY POSTED facebook@Vinzap-Finds 7e9eb568",
-  "16:01:24 READY 79f527b9 Protein Shaker Tumbler 400ml (auto-approved)",
   "16:01:27 POSTED facebook@Vinzap-Finds 79f527b9: 1428352113685678_122120279709501659",
   "16:31:33 READY 3aff2358 Collapsible Food Storage Container Set | Home Decor Ideas (auto-approved)",
   "16:31:36 POSTED facebook@Vinzap-Finds 3aff2358: 1130068123251249",
@@ -4790,13 +4795,18 @@
   "12:31:37 POSTED youtube 7a330d49: G5Ba8HszC4E",
   "12:31:46 STORY POSTED facebook@Vinzap-Finds 7a330d49",
   "13:00:57 READY f7465b45 2-in-1 Oil Dispenser Bottle (auto-approved)",
-  "13:01:01 POSTED facebook@Vinzap-Finds f7465b45: 1428352113685678_122121042435501659"
+  "13:01:01 POSTED facebook@Vinzap-Finds f7465b45: 1428352113685678_122121042435501659",
+  "13:31:21 READY 9103311c Electric Barbecue Grill 2000W | Trending Shorts (auto-approved)",
+  "13:31:27 POSTED facebook@Vinzap-Finds 9103311c: 1654931752781307",
+  "13:31:30 POSTED facebook@Vijayendra-Singh 9103311c: 1820339299219890",
+  "13:31:38 STORY POSTED facebook@Vinzap-Finds 9103311c",
+  "13:31:46 STORY POSTED facebook@Vijayendra-Singh 9103311c"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795591857.4454343,
-  "facebook@Vijayendra-Singh": 1795588264.7009037,
+  "facebook@Vinzap-Finds": 1795593681.821719,
+  "facebook@Vijayendra-Singh": 1795593681.821719,
   "youtube": 1795590084.9858568
  },
- "n": 798
+ "n": 799
 }
