@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "dfef5808",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Premium Round Tea Cup Set of 6",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 419,
-    "was": 0,
-    "feats": [
-     "Set of 6 matching tea cups",
-     "Elegant round design enhances",
-     "Comfortable handle for easy grip"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen hacks",
-     "home essentials"
-    ],
-    "yt_title": "Premium Round Tea Cup Set of 6 | Kitchen Hacks"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Premium Round Tea Cup Set of 6"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nPremium Round Tea Cup Set of 6\n✔ Set of 6 matching tea cups\n✔ Elegant round design enhances\n✔ Comfortable handle for easy grip\n\nOnly ₹419. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
-   "title": "Premium Round Tea Cup Set of 6 | Kitchen Hacks",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795269694.6517158,
-     "id": "985473227519007",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795269694.6517158,
-     "id": "2463529557722991",
-     "dry": false
-    }
-   },
-   "created": 1795269660.8793516,
-   "after": 0,
-   "handle": "premium-round-tea-cup-set-6-pc-set",
-   "product_url": "https://www.vinzapstore.in/products/premium-round-tea-cup-set-6-pc-set",
-   "file": "dfef5808.mp4",
-   "thumb": "dfef5808_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2251787725383274"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1125391743802409"
-    }
-   }
-  },
-  {
    "id": "9a8cadc6",
    "status": "scheduled",
    "kind": "image",
@@ -4589,14 +4522,73 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-lunch-box-with-water-bottle-combo-set-1-set",
    "file": "7d746e6f.jpg",
    "thumb": "7d746e6f.jpg"
+  },
+  {
+   "id": "301dd526",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Ganesh Classic Glass Set of 6, 350 ml Each",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 429,
+    "was": 0,
+    "feats": [
+     "6 Pieces of Transparent ABS",
+     "Colour: Transparent",
+     "Content : 6 pieces"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Ganesh Classic Glass Set of 6, 350 ml Each | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ganesh Classic Glass Set of 6, 350 ml Each"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nGanesh Classic Glass Set of 6, 350 ml Each\n✔ 6 Pieces of Transparent ABS\n✔ Colour: Transparent\n✔ Content : 6 pieces\n\nOnly ₹429. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Ganesh Classic Glass Set of 6, 350 ml Each | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795600886.7417207,
+     "id": "2169500577011966",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795600886.7417207,
+     "id": "5dLDL4aAlAA",
+     "dry": false
+    }
+   },
+   "created": 1795600856.6286495,
+   "after": 0,
+   "handle": "ganesh-classic-glass-set-of-6-each-glass-350ml",
+   "product_url": "https://www.vinzapstore.in/products/ganesh-classic-glass-set-of-6-each-glass-350ml",
+   "file": "301dd526.mp4",
+   "thumb": "301dd526_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1845118636536969"
+    }
+   }
   }
  ],
- "last_post": 1795599059.1968896,
+ "last_post": 1795600886.7417207,
  "log": [
-  "17:31:35 READY 1259f585 Push Soap Dispenser 300ml | Trending Shorts (auto-approved)",
-  "17:31:39 POSTED facebook@Vinzap-Finds 1259f585: 1642909104200093",
-  "17:31:50 STORY POSTED facebook@Vinzap-Finds 1259f585",
-  "18:01:20 READY 4bb2b168 Pet Hair and Lint Remover Brush 2 in 1 (auto-approved)",
   "18:01:25 POSTED facebook@Vinzap-Finds 4bb2b168: 1428352113685678_122120299605501659",
   "18:01:29 POSTED facebook@Vijayendra-Singh 4bb2b168: 1317760538089559_122132318595480728",
   "18:31:15 READY c94468cb Hot Water Bag | Home Decor Ideas (auto-approved)",
@@ -4792,13 +4784,17 @@
   "14:31:37 STORY POSTED facebook@Vinzap-Finds b7ad7196",
   "15:00:59 READY 7d746e6f Plastic Lunch Box (auto-approved)",
   "15:01:02 POSTED facebook@Vinzap-Finds 7d746e6f: 1428352113685678_122121059397501659",
-  "15:01:07 POSTED facebook@Vijayendra-Singh 7d746e6f: 1317760538089559_122133312021480728"
+  "15:01:07 POSTED facebook@Vijayendra-Singh 7d746e6f: 1317760538089559_122133312021480728",
+  "15:31:26 READY 301dd526 Ganesh Classic Glass Set of 6, 350 ml Each | Cooking (auto-approved)",
+  "15:31:29 POSTED facebook@Vinzap-Finds 301dd526: 2169500577011966",
+  "15:31:34 POSTED youtube 301dd526: 5dLDL4aAlAA",
+  "15:31:40 STORY POSTED facebook@Vinzap-Finds 301dd526"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795599059.1968896,
+  "facebook@Vinzap-Finds": 1795600886.7417207,
   "facebook@Vijayendra-Singh": 1795599059.1968896,
-  "youtube": 1795589664.9858568
+  "youtube": 1795600886.7417207
  },
- "n": 802
+ "n": 803
 }
