@@ -1,69 +1,6 @@
 {
  "items": [
   {
-   "id": "705bdbd8",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Multipurpose Kitchen Lid and Spoon Holder",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Holds pot lids and cooking",
-     "Prevents spills and keeps",
-     "Stable base for secure placement"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Multipurpose Kitchen Lid and Spoon Holder | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Multipurpose Kitchen Lid and Spoon Holder"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nMultipurpose Kitchen Lid and Spoon Holder\n✔ Holds pot lids and cooking\n✔ Prevents spills and keeps\n✔ Stable base for secure placement\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
-   "title": "Multipurpose Kitchen Lid and Spoon Holder | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795330910.600508,
-     "id": "29187293080879460",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1795330910.600508,
-     "id": "QKs_YcGu4Z8",
-     "dry": false
-    }
-   },
-   "created": 1795330879.1324196,
-   "after": 0,
-   "handle": "multipurpose-kitchen-lid-spoon-holder-stand-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/multipurpose-kitchen-lid-spoon-holder-stand-1-pc",
-   "file": "705bdbd8.mp4",
-   "thumb": "705bdbd8_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2163660277584250"
-    }
-   }
-  },
-  {
    "id": "9f19fe68",
    "status": "scheduled",
    "kind": "image",
@@ -4579,15 +4516,77 @@
    "product_url": "https://www.vinzapstore.in/products/0784-4-pc-fancy-ice-tray-used-widely-in-all-kinds-of-household-places-while-making-ices-and-all-purposes",
    "file": "51d9f63f.jpg",
    "thumb": "51d9f63f.jpg"
+  },
+  {
+   "id": "be583c32",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Glass Water Jug",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 709,
+    "was": 0,
+    "feats": [
+     "7-piece drinkware set : 1 jug",
+     "Made from durable",
+     "Food-safe and hygienic material"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Glass Water Jug | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Glass Water Jug"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nGlass Water Jug\n✔ 7-piece drinkware set : 1 jug\n✔ Made from durable\n✔ Food-safe and hygienic material\n\nOnly ₹709. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
+   "title": "Glass Water Jug | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795615326.0796165,
+     "id": "1927134761798240",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795615326.0796165,
+     "id": "4633792596910343",
+     "dry": false
+    }
+   },
+   "created": 1795615294.226245,
+   "after": 0,
+   "handle": "supermom-marina-jug-with-6-glass-set",
+   "product_url": "https://www.vinzapstore.in/products/supermom-marina-jug-with-6-glass-set",
+   "file": "be583c32.mp4",
+   "thumb": "be583c32_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4554032918248023"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "29609385825360638"
+    }
+   }
   }
  ],
- "last_post": 1795613473.0095685,
+ "last_post": 1795615326.0796165,
  "log": [
-  "21:31:21 READY ca3d90ab Premium Plastic Tea and Coffee Cup Mug | Cooking (auto-approved)",
-  "21:31:26 POSTED facebook@Vinzap-Finds ca3d90ab: 1419588623589452",
-  "21:31:32 POSTED youtube ca3d90ab: uVb8pudk-Ng",
-  "21:31:41 STORY POSTED facebook@Vinzap-Finds ca3d90ab",
-  "22:01:28 READY c5937954 Car Shape Kids Lunch Box (auto-approved)",
   "22:01:32 POSTED facebook@Vinzap-Finds c5937954: 1428352113685678_122120350791501659",
   "22:31:31 READY 784bd7f7 Stylish Plastic Kitchen Dustbin | Trending Shorts (auto-approved)",
   "22:31:35 POSTED facebook@Vinzap-Finds 784bd7f7: 1450409710622582",
@@ -4782,13 +4781,18 @@
   "18:32:10 POSTED youtube 89f42612: Jo4v3vDali8",
   "18:32:19 STORY POSTED facebook@Vinzap-Finds 89f42612",
   "19:01:12 READY 51d9f63f Fancy Ice Tray (auto-approved)",
-  "19:01:16 POSTED facebook@Vinzap-Finds 51d9f63f: 1428352113685678_122121098043501659"
+  "19:01:16 POSTED facebook@Vinzap-Finds 51d9f63f: 1428352113685678_122121098043501659",
+  "19:32:06 READY be583c32 Glass Water Jug | Kitchen Gadgets (auto-approved)",
+  "19:32:11 POSTED facebook@Vinzap-Finds be583c32: 1927134761798240",
+  "19:32:24 POSTED facebook@Vijayendra-Singh be583c32: 4633792596910343",
+  "19:32:32 STORY POSTED facebook@Vinzap-Finds be583c32",
+  "19:32:41 STORY POSTED facebook@Vijayendra-Singh be583c32"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795613473.0095685,
-  "facebook@Vijayendra-Singh": 1795609867.6767814,
+  "facebook@Vinzap-Finds": 1795615326.0796165,
+  "facebook@Vijayendra-Singh": 1795615326.0796165,
   "youtube": 1795611719.9052107
  },
- "n": 810
+ "n": 811
 }
