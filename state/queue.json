@@ -1,69 +1,6 @@
 {
  "items": [
   {
-   "id": "2ab6e67c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Natural Wood Chopping Board",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 459,
-    "was": 0,
-    "feats": [
-     "Wooden cutting board is made from",
-     "It is Ideal for chopping",
-     "Thick Bamboo that can withstand"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Natural Wood Chopping Board | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Natural Wood Chopping Board"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nNatural Wood Chopping Board\n✔ Wooden cutting board is made from\n✔ It is Ideal for chopping\n✔ Thick Bamboo that can withstand\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
-   "title": "Natural Wood Chopping Board | Home Essentials",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795266088.2437499,
-     "id": "1320721293514224",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1795266088.2437499,
-     "id": "d8SPp34Bv9s",
-     "dry": false
-    }
-   },
-   "created": 1795266060.4395819,
-   "after": 0,
-   "handle": "2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
-   "product_url": "https://www.vinzapstore.in/products/2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
-   "file": "2ab6e67c.mp4",
-   "thumb": "2ab6e67c_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1146254937761439"
-    }
-   }
-  },
-  {
    "id": "d0adac94",
    "status": "scheduled",
    "kind": "image",
@@ -4591,13 +4528,65 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-sink-caddy-organizer-rack-holder-kitchen-sponge-stand-1-pc",
    "file": "72776aad.jpg",
    "thumb": "72776aad.jpg"
+  },
+  {
+   "id": "b7ad7196",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Stainless Steel Potato Peeler",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 99,
+    "was": 0,
+    "feats": [
+     "Apex Stainless Steel Blade Potato"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Stainless Steel Potato Peeler | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Stainless Steel Potato Peeler"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Potato Peeler\n✔ Apex Stainless Steel Blade Potato\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization #cooking",
+   "title": "Stainless Steel Potato Peeler | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795597284.9620616,
+     "id": "1661287292392980",
+     "dry": false
+    }
+   },
+   "created": 1795597247.8079147,
+   "after": 0,
+   "handle": "apex-stainless-steel-blade-potato-peeler-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/apex-stainless-steel-blade-potato-peeler-1-pc",
+   "file": "b7ad7196.mp4",
+   "thumb": "b7ad7196_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "4729060804081107"
+    }
+   }
   }
  ],
- "last_post": 1795595459.000469,
+ "last_post": 1795597284.9620616,
  "log": [
-  "16:31:36 POSTED facebook@Vinzap-Finds 3aff2358: 1130068123251249",
-  "16:31:38 POSTED facebook@Vijayendra-Singh 3aff2358: 1119542407348191",
-  "16:31:46 STORY POSTED facebook@Vinzap-Finds 3aff2358",
   "16:31:53 STORY POSTED facebook@Vijayendra-Singh 3aff2358",
   "17:00:59 READY 5a85fa12 Round Ice Ball Maker Tray, 2-in-1 Portable, (auto-approved)",
   "17:01:03 POSTED facebook@Vinzap-Finds 5a85fa12: 1428352113685678_122120287371501659",
@@ -4794,13 +4783,16 @@
   "13:31:38 STORY POSTED facebook@Vinzap-Finds 9103311c",
   "13:31:46 STORY POSTED facebook@Vijayendra-Singh 9103311c",
   "14:00:58 READY 72776aad Stainless Steel Sink Caddy Organizer (auto-approved)",
-  "14:01:02 POSTED facebook@Vinzap-Finds 72776aad: 1428352113685678_122121050151501659"
+  "14:01:02 POSTED facebook@Vinzap-Finds 72776aad: 1428352113685678_122121050151501659",
+  "14:31:24 READY b7ad7196 Stainless Steel Potato Peeler | Kitchen Organization (auto-approved)",
+  "14:31:29 POSTED facebook@Vinzap-Finds b7ad7196: 1661287292392980",
+  "14:31:37 STORY POSTED facebook@Vinzap-Finds b7ad7196"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795595459.000469,
+  "facebook@Vinzap-Finds": 1795597284.9620616,
   "facebook@Vijayendra-Singh": 1795593681.821719,
   "youtube": 1795590084.9858568
  },
- "n": 800
+ "n": 801
 }
