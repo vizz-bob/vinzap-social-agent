@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "f5c7cb1c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Transparent Plastic Cup",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Transparent body lets you see",
-     "Comfortable side handle",
-     "Anti-slip grip band around"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Transparent Plastic Cup | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Transparent Plastic Cup"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nTransparent Plastic Cup\n✔ Transparent body lets you see\n✔ Comfortable side handle\n✔ Anti-slip grip band around\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #trendingshorts #kitchenhacks",
-   "title": "Transparent Plastic Cup | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795420891.0278528,
-     "id": "2445631572943616",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795420891.0278528,
-     "id": "947179081666578",
-     "dry": false
-    }
-   },
-   "created": 1795420855.197577,
-   "after": 0,
-   "handle": "transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/transparent-plastic-cup-with-handle-reusable-water-tea-and-coffee-mug-1-pc",
-   "file": "f5c7cb1c.mp4",
-   "thumb": "f5c7cb1c_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1487858119929652"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "29200695472931455"
-    }
-   }
-  },
-  {
    "id": "46efc5e4",
    "status": "scheduled",
    "kind": "image",
@@ -4579,13 +4512,67 @@
    "product_url": "https://www.vinzapstore.in/products/supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
    "file": "a94639ab.jpg",
    "thumb": "a94639ab.jpg"
+  },
+  {
+   "id": "ab0c4650",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Microfiber Chenille Hanging Hand Towel",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 319,
+    "was": 0,
+    "feats": [
+     "Soft microfiber chenille strands",
+     "Dense fibre texture helps absorb",
+     "Integrated hanging loop offers"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Microfiber Chenille Hanging Hand Towel | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Microfiber Chenille Hanging Hand Towel"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nMicrofiber Chenille Hanging Hand Towel\n✔ Soft microfiber chenille strands\n✔ Dense fibre texture helps absorb\n✔ Integrated hanging loop offers\n\nOnly ₹319. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bathroomaccessories #homedecorideas #trendingshorts",
+   "title": "Microfiber Chenille Hanging Hand Towel | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795707244.3816526,
+     "id": "1693887842092127",
+     "dry": false
+    }
+   },
+   "created": 1795707210.3697608,
+   "after": 0,
+   "handle": "microfiber-chenille-hanging-hand-towel-for-bathroom-and-kitchen-cleaning-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/microfiber-chenille-hanging-hand-towel-for-bathroom-and-kitchen-cleaning-1-pc",
+   "file": "ab0c4650.mp4",
+   "thumb": "ab0c4650_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1876944553731201"
+    }
+   }
   }
  ],
- "last_post": 1795705266.395882,
+ "last_post": 1795707244.3816526,
  "log": [
-  "22:46:41 POSTED facebook@Vinzap-Finds 97f73900: 1508549794756543",
-  "22:46:48 POSTED facebook@Vijayendra-Singh 97f73900: 1622807315813568",
-  "22:46:58 STORY POSTED facebook@Vinzap-Finds 97f73900",
   "22:47:07 STORY POSTED facebook@Vijayendra-Singh 97f73900",
   "12:01:14 READY 7ad5c938 Silicone Cooking Spatula 19cm (auto-approved)",
   "12:01:20 POSTED facebook@Vinzap-Finds 7ad5c938: 1428352113685678_122120791593501659",
@@ -4782,13 +4769,16 @@
   "20:01:43 STORY POSTED facebook@Vinzap-Finds 0de36ae8",
   "20:01:51 STORY POSTED facebook@Vijayendra-Singh 0de36ae8",
   "20:31:06 READY a94639ab Ice Tray (auto-approved)",
-  "20:31:10 POSTED facebook@Vinzap-Finds a94639ab: 1428352113685678_122121408225501659"
+  "20:31:10 POSTED facebook@Vinzap-Finds a94639ab: 1428352113685678_122121408225501659",
+  "21:04:04 READY ab0c4650 Microfiber Chenille Hanging Hand Towel | Home Decor Ideas (auto-approved)",
+  "21:04:08 POSTED facebook@Vinzap-Finds ab0c4650: 1693887842092127",
+  "21:04:16 STORY POSTED facebook@Vinzap-Finds ab0c4650"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795705266.395882,
+  "facebook@Vinzap-Finds": 1795707244.3816526,
   "facebook@Vijayendra-Singh": 1795703486.8789847,
   "youtube": 1795699869.8320231
  },
- "n": 834
+ "n": 835
 }
