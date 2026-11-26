@@ -1,69 +1,6 @@
 {
  "items": [
   {
-   "id": "159949a2",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Kitchen Dishwashing Glove",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 149,
-    "was": 0,
-    "feats": [
-     "Reusable design supports repeated",
-     "Mitten-style construction",
-     "Textured exterior supports secure"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Kitchen Dishwashing Glove | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Kitchen Dishwashing Glove"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nKitchen Dishwashing Glove\n✔ Reusable design supports repeated\n✔ Mitten-style construction\n✔ Textured exterior supports secure\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
-   "title": "Kitchen Dishwashing Glove | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795417308.4019706,
-     "id": "1037855069330284",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1795417308.4019706,
-     "id": "vJJ7a_fGWMY",
-     "dry": false
-    }
-   },
-   "created": 1795417277.251544,
-   "after": 0,
-   "handle": "kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/kitchen-dishwashing-cleaning-glove-for-cooking-baking-and-household-tasks-1-pc",
-   "file": "159949a2.mp4",
-   "thumb": "159949a2_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1868488410830816"
-    }
-   }
-  },
-  {
    "id": "beedf7af",
    "status": "scheduled",
    "kind": "image",
@@ -4575,15 +4512,77 @@
    "product_url": "https://www.vinzapstore.in/products/royal-scalloped-disposable-paper-napkins-23-x-23-cm-approx-120-pc",
    "file": "41387fbd.jpg",
    "thumb": "41387fbd.jpg"
+  },
+  {
+   "id": "0de36ae8",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Durable Plastic Ice Cube Tray",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "18 diamond-style cavities",
+     "Made from durable",
+     "Easy-release design ensures ice"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen organization",
+     "cooking"
+    ],
+    "yt_title": "Durable Plastic Ice Cube Tray | Kitchen Organization"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Durable Plastic Ice Cube Tray"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nDurable Plastic Ice Cube Tray\n✔ 18 diamond-style cavities\n✔ Made from durable\n✔ Easy-release design ensures ice\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization #cooking",
+   "title": "Durable Plastic Ice Cube Tray | Kitchen Organization",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795703486.8789847,
+     "id": "3355396317964175",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795703486.8789847,
+     "id": "1713888737122343",
+     "dry": false
+    }
+   },
+   "created": 1795703453.0948691,
+   "after": 0,
+   "handle": "durable-plastic-ice-cube-tray-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/durable-plastic-ice-cube-tray-1-pc",
+   "file": "0de36ae8.mp4",
+   "thumb": "0de36ae8_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1514231133958282"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1698562475130260"
+    }
+   }
   }
  ],
- "last_post": 1795701665.147623,
+ "last_post": 1795703486.8789847,
  "log": [
-  "21:46:22 READY 512c1426 Manual Melon Slicer Cutter | Home Decor Ideas (auto-approved)",
-  "21:46:27 POSTED facebook@Vinzap-Finds 512c1426: 1403630002842137",
-  "21:46:31 POSTED youtube 512c1426: JBA6aTLWAmU",
-  "21:46:44 STORY POSTED facebook@Vinzap-Finds 512c1426",
-  "22:15:54 READY 4ece0a77 Lemon Shape Silicone Ice Cube Tray, 8 Slots (auto-approved)",
   "22:15:57 POSTED facebook@Vinzap-Finds 4ece0a77: 1428352113685678_122120667903501659",
   "22:46:33 READY 97f73900 Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas (auto-approved)",
   "22:46:41 POSTED facebook@Vinzap-Finds 97f73900: 1508549794756543",
@@ -4778,13 +4777,18 @@
   "19:01:20 POSTED youtube a241347f: cJMPvQQ9us8",
   "19:01:31 STORY POSTED facebook@Vinzap-Finds a241347f",
   "19:31:05 READY 41387fbd Scalloped Disposable Paper Napkins 23x23cm (auto-approved)",
-  "19:31:11 POSTED facebook@Vinzap-Finds 41387fbd: 1428352113685678_122121394563501659"
+  "19:31:11 POSTED facebook@Vinzap-Finds 41387fbd: 1428352113685678_122121394563501659",
+  "20:01:26 READY 0de36ae8 Durable Plastic Ice Cube Tray | Kitchen Organization (auto-approved)",
+  "20:01:32 POSTED facebook@Vinzap-Finds 0de36ae8: 3355396317964175",
+  "20:01:36 POSTED facebook@Vijayendra-Singh 0de36ae8: 1713888737122343",
+  "20:01:43 STORY POSTED facebook@Vinzap-Finds 0de36ae8",
+  "20:01:51 STORY POSTED facebook@Vijayendra-Singh 0de36ae8"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795701665.147623,
-  "facebook@Vijayendra-Singh": 1795698062.0509312,
+  "facebook@Vinzap-Finds": 1795703486.8789847,
+  "facebook@Vijayendra-Singh": 1795703486.8789847,
   "youtube": 1795699869.8320231
  },
- "n": 832
+ "n": 833
 }
