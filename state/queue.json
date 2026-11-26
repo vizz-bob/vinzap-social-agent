@@ -1,61 +1,6 @@
 {
  "items": [
   {
-   "id": "1259f585",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Push Soap Dispenser 300ml",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 249,
-    "was": 0,
-    "feats": [
-     "Apex Push It! Soap Dispenser |"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Push Soap Dispenser 300ml | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Push Soap Dispenser 300ml"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nPush Soap Dispenser 300ml\n✔ Apex Push It! Soap Dispenser |\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bathroomaccessories #trendingshorts #kitchenhacks",
-   "title": "Push Soap Dispenser 300ml | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795348895.2586942,
-     "id": "1642909104200093",
-     "dry": false
-    }
-   },
-   "created": 1795348861.2125776,
-   "after": 0,
-   "handle": "apex-push-it-soap-dispenser-approx-300ml-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-push-it-soap-dispenser-approx-300ml-1-pc",
-   "file": "1259f585.mp4",
-   "thumb": "1259f585_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1402516041961257"
-    }
-   }
-  },
-  {
    "id": "4bb2b168",
    "status": "posted",
    "kind": "image",
@@ -4585,15 +4530,77 @@
    "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
    "file": "ba226c0b.jpg",
    "thumb": "ba226c0b.jpg"
+  },
+  {
+   "id": "cdc544b4",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Round Ice Cube Tray",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "1 Pc round ice cube tray with lid",
+     "Easy release design for quick ice",
+     "Lid prevents freezer smell"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "trending shorts",
+     "kitchen hacks"
+    ],
+    "yt_title": "Round Ice Cube Tray | Trending Shorts"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Round Ice Cube Tray"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nRound Ice Cube Tray\n✔ 1 Pc round ice cube tray with lid\n✔ Easy release design for quick ice\n✔ Lid prevents freezer smell\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
+   "title": "Round Ice Cube Tray | Trending Shorts",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795681002.6006901,
+     "id": "1607788831121225",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795681002.6006901,
+     "id": "1146888894593509",
+     "dry": false
+    }
+   },
+   "created": 1795680971.5075693,
+   "after": 0,
+   "handle": "premium-round-ice-cube-tray-with-lid-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/premium-round-ice-cube-tray-with-lid-1-pc",
+   "file": "cdc544b4.mp4",
+   "thumb": "cdc544b4_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1900391407982498"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1129893826339050"
+    }
+   }
   }
  ],
- "last_post": 1795678784.237725,
+ "last_post": 1795681002.6006901,
  "log": [
-  "15:31:22 READY fc556540 4 Compartment Plastic Food Storage Container | Kitchen Gadgets (auto-approved)",
-  "15:31:27 POSTED facebook@Vinzap-Finds fc556540: 1144331301895018",
-  "15:31:35 POSTED youtube fc556540: lqqr87K_yRU",
-  "15:31:44 STORY POSTED facebook@Vinzap-Finds fc556540",
-  "16:10:49 READY 7762e750 Soft Facial Tissue Paper Napkins Set (auto-approved)",
   "16:10:53 POSTED facebook@Vinzap-Finds 7762e750: 1428352113685678_122120592315501659",
   "16:46:10 READY 1cd62103 Supermom Creamy Dessert Bowl Set of 6 | Kitchen Organization (auto-approved)",
   "16:46:16 POSTED facebook@Vinzap-Finds 1cd62103: 2141382026493832",
@@ -4788,13 +4795,18 @@
   "12:31:21 POSTED youtube f35a82cc: LrHBHV7EEeI",
   "12:31:28 STORY POSTED facebook@Vinzap-Finds f35a82cc",
   "13:09:44 READY ba226c0b Disposable Small Plastic Gloves (auto-approved)",
-  "13:09:48 POSTED facebook@Vinzap-Finds ba226c0b: 1428352113685678_122121276729501659"
+  "13:09:48 POSTED facebook@Vinzap-Finds ba226c0b: 1428352113685678_122121276729501659",
+  "13:46:42 READY cdc544b4 Round Ice Cube Tray | Trending Shorts (auto-approved)",
+  "13:46:48 POSTED facebook@Vinzap-Finds cdc544b4: 1607788831121225",
+  "13:46:52 POSTED facebook@Vijayendra-Singh cdc544b4: 1146888894593509",
+  "13:47:01 STORY POSTED facebook@Vinzap-Finds cdc544b4",
+  "13:47:09 STORY POSTED facebook@Vijayendra-Singh cdc544b4"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795678784.237725,
-  "facebook@Vijayendra-Singh": 1795674657.273367,
+  "facebook@Vinzap-Finds": 1795681002.6006901,
+  "facebook@Vijayendra-Singh": 1795681002.6006901,
   "youtube": 1795676472.6898096
  },
- "n": 820
+ "n": 821
 }
