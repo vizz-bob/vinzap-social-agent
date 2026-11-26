@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "5a85fa12",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Round Ice Ball Maker Tray, 2-in-1 Portable,",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 899,
-    "was": 0,
-    "feats": [
-     "2 in 1 Function: Our ice cube",
-     "SAFE: The ice cube mold is made",
-     "Suitable for multiple scenarios:"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen hacks",
-     "home essentials"
-    ],
-    "yt_title": "Round Ice Ball Maker Tray, 2-in-1 Portable, | Kitchen Hacks"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Round Ice Ball Maker Tray, 2-in-1 Portable,"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nRound Ice Ball Maker Tray, 2-in-1 Portable,\n✔ 2 in 1 Function: Our ice cube\n✔ SAFE: The ice cube mold is made\n✔ Suitable for multiple scenarios:\n\nOnly ₹899. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
-   "title": "Round Ice Ball Maker Tray, 2-in-1 Portable,",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795347059.866898,
-     "id": "1428352113685678_122120287371501659",
-     "dry": false
-    }
-   },
-   "created": 1795347045.664486,
-   "after": 0,
-   "handle": "ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/ice-cube-trays-2-in-1-portable-ice-ball-maker-17-round-ice-cube-mold-1-pc",
-   "file": "5a85fa12.jpg",
-   "thumb": "5a85fa12.jpg"
-  },
-  {
    "id": "1259f585",
    "status": "scheduled",
    "kind": "reel",
@@ -4585,12 +4535,60 @@
      "id": "1980222339633860"
     }
    }
+  },
+  {
+   "id": "ba226c0b",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Disposable Small Plastic Gloves",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "100 disposable gloves per pack",
+     "size for a comfortable fit",
+     "Transparent design for easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Disposable Small Plastic Gloves | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Small Plastic Gloves"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nDisposable Small Plastic Gloves\n✔ 100 disposable gloves per pack\n✔ size for a comfortable fit\n✔ Transparent design for easy\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cleaninghacks #homecleaning #cooking #homedecor",
+   "title": "Disposable Small Plastic Gloves",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795678784.237725,
+     "id": "1428352113685678_122121276729501659",
+     "dry": false
+    }
+   },
+   "created": 1795678769.7515147,
+   "after": 0,
+   "handle": "disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
+   "product_url": "https://www.vinzapstore.in/products/disposable-small-plastic-gloves-for-kitchen-food-handling-and-cleaning-tasks-100-pc",
+   "file": "ba226c0b.jpg",
+   "thumb": "ba226c0b.jpg"
   }
  ],
- "last_post": 1795676472.6898096,
+ "last_post": 1795678784.237725,
  "log": [
-  "15:00:59 POSTED facebook@Vinzap-Finds 8e9e467d: 1428352113685678_122120518761501659",
-  "15:01:04 POSTED facebook@Vijayendra-Singh 8e9e467d: 1317760538089559_122132616639480728",
   "15:31:22 READY fc556540 4 Compartment Plastic Food Storage Container | Kitchen Gadgets (auto-approved)",
   "15:31:27 POSTED facebook@Vinzap-Finds fc556540: 1144331301895018",
   "15:31:35 POSTED youtube fc556540: lqqr87K_yRU",
@@ -4788,13 +4786,15 @@
   "12:31:12 READY f35a82cc Fresca Stainless Steel Lunch Box | Kitchen Organization (auto-approved)",
   "12:31:16 POSTED facebook@Vinzap-Finds f35a82cc: 1104757229231354",
   "12:31:21 POSTED youtube f35a82cc: LrHBHV7EEeI",
-  "12:31:28 STORY POSTED facebook@Vinzap-Finds f35a82cc"
+  "12:31:28 STORY POSTED facebook@Vinzap-Finds f35a82cc",
+  "13:09:44 READY ba226c0b Disposable Small Plastic Gloves (auto-approved)",
+  "13:09:48 POSTED facebook@Vinzap-Finds ba226c0b: 1428352113685678_122121276729501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795676472.6898096,
+  "facebook@Vinzap-Finds": 1795678784.237725,
   "facebook@Vijayendra-Singh": 1795674657.273367,
   "youtube": 1795676472.6898096
  },
- "n": 819
+ "n": 820
 }
