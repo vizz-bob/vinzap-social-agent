@@ -1,69 +1,6 @@
 {
  "items": [
   {
-   "id": "c94468cb",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Hot Water Bag",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 99,
-    "was": 0,
-    "feats": [
-     "Small hot water bag pain",
-     "The soft cover is designed",
-     "This hot water bag is made"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "trending shorts"
-    ],
-    "yt_title": "Hot Water Bag | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Hot Water Bag"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nHot Water Bag\n✔ Small hot water bag pain\n✔ The soft cover is designed\n✔ This hot water bag is made\n\nOnly ₹99. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
-   "title": "Hot Water Bag | Home Decor Ideas",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795352475.9935157,
-     "id": "4488433688088471",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1795352475.9935157,
-     "id": "QjjjAOxRzY0",
-     "dry": false
-    }
-   },
-   "created": 1795352447.7991369,
-   "after": 0,
-   "handle": "6504-doremon-small-hot-water-bag-with-cover-for-pain-relief-neck-shoulder-pain-and-hand-feet-warmer-menstrual-cramps",
-   "product_url": "https://www.vinzapstore.in/products/6504-doremon-small-hot-water-bag-with-cover-for-pain-relief-neck-shoulder-pain-and-hand-feet-warmer-menstrual-cramps",
-   "file": "c94468cb.mp4",
-   "thumb": "c94468cb_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "2238837187016125"
-    }
-   }
-  },
-  {
    "id": "3077b4ce",
    "status": "scheduled",
    "kind": "image",
@@ -4591,13 +4528,67 @@
    "product_url": "https://www.vinzapstore.in/products/premium-adjustable-vegetable-fruit-slicer-with-sharp-stainless-steel-blade",
    "file": "3ecc0c69.jpg",
    "thumb": "3ecc0c69.jpg"
+  },
+  {
+   "id": "ddbeae31",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Long Handle Silicone Bottle Cleaning Brush",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 59,
+    "was": 0,
+    "feats": [
+     "Long 32 cm handle for deep",
+     "Soft silicone bristles for gentle",
+     "Flexible head to reach corners"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Long Handle Silicone Bottle Cleaning Brush | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Long Handle Silicone Bottle Cleaning Brush"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nLong Handle Silicone Bottle Cleaning Brush\n✔ Long 32 cm handle for deep\n✔ Soft silicone bristles for gentle\n✔ Flexible head to reach corners\n\nOnly ₹59. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cleaninghacks #homecleaning #bottle #homeessentials",
+   "title": "Long Handle Silicone Bottle Cleaning Brush | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795684564.0440516,
+     "id": "1668826761452855",
+     "dry": false
+    }
+   },
+   "created": 1795684534.890441,
+   "after": 0,
+   "handle": "long-handle-silicone-bottle-cleaning-brush-32-cm-1-pc-1",
+   "product_url": "https://www.vinzapstore.in/products/long-handle-silicone-bottle-cleaning-brush-32-cm-1-pc-1",
+   "file": "ddbeae31.mp4",
+   "thumb": "ddbeae31_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1616998033045260"
+    }
+   }
   }
  ],
- "last_post": 1795682771.732631,
+ "last_post": 1795684564.0440516,
  "log": [
-  "16:46:16 POSTED facebook@Vinzap-Finds 1cd62103: 2141382026493832",
-  "16:46:20 POSTED facebook@Vijayendra-Singh 1cd62103: 1903541811010597",
-  "16:46:30 STORY POSTED facebook@Vinzap-Finds 1cd62103",
   "16:46:40 STORY POSTED facebook@Vijayendra-Singh 1cd62103",
   "17:16:05 READY ad7a1f45 Plastic Knife Organizer Stand (auto-approved)",
   "17:16:10 POSTED facebook@Vinzap-Finds ad7a1f45: 1428352113685678_122120617839501659",
@@ -4794,13 +4785,16 @@
   "13:47:01 STORY POSTED facebook@Vinzap-Finds cdc544b4",
   "13:47:09 STORY POSTED facebook@Vijayendra-Singh cdc544b4",
   "14:16:11 READY 3ecc0c69 Adjustable Vegetable and Fruit Slicer (auto-approved)",
-  "14:16:15 POSTED facebook@Vinzap-Finds 3ecc0c69: 1428352113685678_122121285399501659"
+  "14:16:15 POSTED facebook@Vinzap-Finds 3ecc0c69: 1428352113685678_122121285399501659",
+  "14:46:04 READY ddbeae31 Long Handle Silicone Bottle Cleaning Brush | Home Essentials (auto-approved)",
+  "14:46:09 POSTED facebook@Vinzap-Finds ddbeae31: 1668826761452855",
+  "14:46:16 STORY POSTED facebook@Vinzap-Finds ddbeae31"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795682771.732631,
+  "facebook@Vinzap-Finds": 1795684564.0440516,
   "facebook@Vijayendra-Singh": 1795681002.6006901,
   "youtube": 1795676472.6898096
  },
- "n": 822
+ "n": 823
 }
