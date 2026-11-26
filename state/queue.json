@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "beedf7af",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Oil Pourer 750ml",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 639,
-    "was": 0,
-    "feats": [
-     "750ml Approx. Capacity: Ample",
-     "Stainless Steel Body: Made from",
-     "Ergonomic Handle: Comfortable"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Stainless Steel Oil Pourer 750ml | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Oil Pourer 750ml"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Oil Pourer 750ml\n✔ 750ml Approx. Capacity: Ample\n✔ Stainless Steel Body: Made from\n✔ Ergonomic Handle: Comfortable\n\nOnly ₹639. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
-   "title": "Stainless Steel Oil Pourer 750ml",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795419086.8235612,
-     "id": "1428352113685678_122120494539501659",
-     "dry": false
-    }
-   },
-   "created": 1795419072.4847107,
-   "after": 0,
-   "handle": "supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/supermom-750ml-approx-stainless-steel-oil-pourer-1-pc",
-   "file": "beedf7af.jpg",
-   "thumb": "beedf7af.jpg"
-  },
-  {
    "id": "f5c7cb1c",
    "status": "scheduled",
    "kind": "reel",
@@ -4579,12 +4529,60 @@
      "id": "1698562475130260"
     }
    }
+  },
+  {
+   "id": "a94639ab",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Ice Tray",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 259,
+    "was": 0,
+    "feats": [
+     "2-in-1 Compartment: Features",
+     "Durable Construction: Made from",
+     "Space-Saving Design: Ideal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Ice Tray | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Tray"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nIce Tray\n✔ 2-in-1 Compartment: Features\n✔ Durable Construction: Made from\n✔ Space-Saving Design: Ideal\n\nOnly ₹259. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homeessentials",
+   "title": "Ice Tray",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795705266.395882,
+     "id": "1428352113685678_122121408225501659",
+     "dry": false
+    }
+   },
+   "created": 1795705252.2783873,
+   "after": 0,
+   "handle": "supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/supermom-frizzy-ice-tray-with-2-in-1-compartment-for-ice-cubes-and-storage-box-1-pc",
+   "file": "a94639ab.jpg",
+   "thumb": "a94639ab.jpg"
   }
  ],
- "last_post": 1795703486.8789847,
+ "last_post": 1795705266.395882,
  "log": [
-  "22:15:57 POSTED facebook@Vinzap-Finds 4ece0a77: 1428352113685678_122120667903501659",
-  "22:46:33 READY 97f73900 Apex Smart 3 in 1 Fruit and Vegetable | Home Decor Ideas (auto-approved)",
   "22:46:41 POSTED facebook@Vinzap-Finds 97f73900: 1508549794756543",
   "22:46:48 POSTED facebook@Vijayendra-Singh 97f73900: 1622807315813568",
   "22:46:58 STORY POSTED facebook@Vinzap-Finds 97f73900",
@@ -4782,13 +4780,15 @@
   "20:01:32 POSTED facebook@Vinzap-Finds 0de36ae8: 3355396317964175",
   "20:01:36 POSTED facebook@Vijayendra-Singh 0de36ae8: 1713888737122343",
   "20:01:43 STORY POSTED facebook@Vinzap-Finds 0de36ae8",
-  "20:01:51 STORY POSTED facebook@Vijayendra-Singh 0de36ae8"
+  "20:01:51 STORY POSTED facebook@Vijayendra-Singh 0de36ae8",
+  "20:31:06 READY a94639ab Ice Tray (auto-approved)",
+  "20:31:10 POSTED facebook@Vinzap-Finds a94639ab: 1428352113685678_122121408225501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795703486.8789847,
+  "facebook@Vinzap-Finds": 1795705266.395882,
   "facebook@Vijayendra-Singh": 1795703486.8789847,
   "youtube": 1795699869.8320231
  },
- "n": 833
+ "n": 834
 }
