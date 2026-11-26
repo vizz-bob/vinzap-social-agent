@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "ab9bc126",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Adjustable Microwave Oven Storage Rack",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 3359,
-    "was": 0,
-    "feats": [
-     "Adjustable expandable width fits",
-     "Upper shelf turns dead space",
-     "Side hooks hang ladles"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Adjustable Microwave Oven Storage Rack | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Adjustable Microwave Oven Storage Rack"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nAdjustable Microwave Oven Storage Rack\n✔ Adjustable expandable width fits\n✔ Upper shelf turns dead space\n✔ Side hooks hang ladles\n\nOnly ₹3359. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #trendingshorts #kitchenhacks",
-   "title": "Adjustable Microwave Oven Storage Rack",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795357878.6156695,
-     "id": "1428352113685678_122120325063501659",
-     "dry": false
-    }
-   },
-   "created": 1795357864.595211,
-   "after": 0,
-   "handle": "adjustable-microwave-oven-storage-rack-metal-kitchen-shelf-with-hooks-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/adjustable-microwave-oven-storage-rack-metal-kitchen-shelf-with-hooks-1-pc",
-   "file": "ab9bc126.jpg",
-   "thumb": "ab9bc126.jpg"
-  },
-  {
    "id": "a2589cc8",
    "status": "scheduled",
    "kind": "reel",
@@ -4587,12 +4537,58 @@
      "id": "2396972694436124"
     }
    }
+  },
+  {
+   "id": "d980c279",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Lollipop Candy Maker Machine, Blue",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 199,
+    "was": 0,
+    "feats": [
+     "Lollipop Candy Maker and Lollipop"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen hacks",
+     "home essentials"
+    ],
+    "yt_title": "Lollipop Candy Maker Machine, Blue | Kitchen Hacks"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Lollipop Candy Maker Machine, Blue"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nLollipop Candy Maker Machine, Blue\n✔ Lollipop Candy Maker and Lollipop\n\nOnly ₹199. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenhacks #homeessentials",
+   "title": "Lollipop Candy Maker Machine, Blue",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795690864.9398952,
+     "id": "1428352113685678_122121325029501659",
+     "dry": false
+    }
+   },
+   "created": 1795690850.324714,
+   "after": 0,
+   "handle": "lollipop-candy-maker-and-lollipop-candy-machine-1-pc-blue",
+   "product_url": "https://www.vinzapstore.in/products/lollipop-candy-maker-and-lollipop-candy-machine-1-pc-blue",
+   "file": "d980c279.jpg",
+   "thumb": "d980c279.jpg"
   }
  ],
- "last_post": 1795689081.9962676,
+ "last_post": 1795690864.9398952,
  "log": [
-  "18:16:08 POSTED facebook@Vinzap-Finds 28dc7d65: 1428352113685678_122120630211501659",
-  "18:16:13 POSTED facebook@Vijayendra-Singh 28dc7d65: 1317760538089559_122132688411480728",
   "18:46:11 READY 5a45f2a0 Large Stainless Steel Chopping Board | Kitchen Hacks (auto-approved)",
   "18:46:15 POSTED facebook@Vinzap-Finds 5a45f2a0: 1036250586158823",
   "18:46:18 POSTED youtube 5a45f2a0: lVXyeQRWTkY",
@@ -4790,13 +4786,15 @@
   "16:01:21 READY 3b6e4753 Electric Popper Maker Machine | Home Decor Ideas (auto-approved)",
   "16:01:26 POSTED facebook@Vinzap-Finds 3b6e4753: 1489616913108930",
   "16:01:30 POSTED youtube 3b6e4753: RY-0Q_XCZVk",
-  "16:01:39 STORY POSTED facebook@Vinzap-Finds 3b6e4753"
+  "16:01:39 STORY POSTED facebook@Vinzap-Finds 3b6e4753",
+  "16:31:04 READY d980c279 Lollipop Candy Maker Machine, Blue (auto-approved)",
+  "16:31:11 POSTED facebook@Vinzap-Finds d980c279: 1428352113685678_122121325029501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795689081.9962676,
+  "facebook@Vinzap-Finds": 1795690864.9398952,
   "facebook@Vijayendra-Singh": 1795686908.0748913,
   "youtube": 1795689081.9962676
  },
- "n": 825
+ "n": 826
 }
