@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "90fcc1c0",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Apex Vista Unbreakable Pitcher Glass Set",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 289,
-    "was": 0,
-    "feats": [
-     "Elegant Curved Design: The sleek",
-     "Unbreakable Material: Made from",
-     "Crystal Clear Finish: Offers"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Apex Vista Unbreakable Pitcher Glass Set | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Vista Unbreakable Pitcher Glass Set"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nApex Vista Unbreakable Pitcher Glass Set\n✔ Elegant Curved Design: The sleek\n✔ Unbreakable Material: Made from\n✔ Crystal Clear Finish: Offers\n\nOnly ₹289. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
-   "title": "Apex Vista Unbreakable Pitcher Glass Set | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795443425.9978032,
-     "id": "1680019793563851",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795443425.9978032,
-     "id": "1028403283651916",
-     "dry": false
-    }
-   },
-   "created": 1795443387.3062747,
-   "after": 0,
-   "handle": "apex-vista-unbreakable-pitcher-glass-set-350-ml-approx-2-piece",
-   "product_url": "https://www.vinzapstore.in/products/apex-vista-unbreakable-pitcher-glass-set-350-ml-approx-2-piece",
-   "file": "90fcc1c0.mp4",
-   "thumb": "90fcc1c0_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1454287446183399"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1468643198787237"
-    }
-   }
-  },
-  {
    "id": "ec7c4f74",
    "status": "scheduled",
    "kind": "image",
@@ -4583,13 +4516,67 @@
    "product_url": "https://www.vinzapstore.in/products/kids-stainless-steel-cutlery-set-3-in-1-fork-knife-spoon-with-case-3-pc-set",
    "file": "5f98907f.jpg",
    "thumb": "5f98907f.jpg"
+  },
+  {
+   "id": "860eea8b",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Heart Shape Ice Cube Tray",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "Add water",
+     "DIY & Reserve dessert",
+     "The cubes fit your small diameter"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "Heart Shape Ice Cube Tray | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Heart Shape Ice Cube Tray"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nHeart Shape Ice Cube Tray\n✔ Add water\n✔ DIY & Reserve dessert\n✔ The cubes fit your small diameter\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "Heart Shape Ice Cube Tray | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795775507.5805764,
+     "id": "29825621460458879",
+     "dry": false
+    }
+   },
+   "created": 1795775478.6843626,
+   "after": 0,
+   "handle": "1133-heart-shape-ice-cube-tray",
+   "product_url": "https://www.vinzapstore.in/products/1133-heart-shape-ice-cube-tray",
+   "file": "860eea8b.mp4",
+   "thumb": "860eea8b_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1190791180541351"
+    }
+   }
   }
  ],
- "last_post": 1795773664.8809152,
+ "last_post": 1795775507.5805764,
  "log": [
-  "17:31:41 READY 2a813f55 Reusable Plastic Spoon Set of 20 | Cooking (auto-approved)",
-  "17:31:47 POSTED facebook@Vinzap-Finds 2a813f55: 1125059720125157",
-  "17:31:56 STORY POSTED facebook@Vinzap-Finds 2a813f55",
   "18:01:01 READY b9d245c9 White Glass Water Bottle 400ml (auto-approved)",
   "18:01:05 POSTED facebook@Vinzap-Finds b9d245c9: 1428352113685678_122120865813501659",
   "18:01:09 POSTED facebook@Vijayendra-Singh b9d245c9: 1317760538089559_122133085371480728",
@@ -4786,13 +4773,16 @@
   "15:01:50 STORY POSTED facebook@Vinzap-Finds 683dd70b",
   "15:02:03 STORY POSTED facebook@Vijayendra-Singh 683dd70b",
   "15:31:04 READY 5f98907f Kids Stainless Steel Cutlery Set 3 in 1 (auto-approved)",
-  "15:31:12 POSTED facebook@Vinzap-Finds 5f98907f: 1428352113685678_122121619623501659"
+  "15:31:12 POSTED facebook@Vinzap-Finds 5f98907f: 1428352113685678_122121619623501659",
+  "16:01:47 READY 860eea8b Heart Shape Ice Cube Tray | Home Decor Ideas (auto-approved)",
+  "16:01:52 POSTED facebook@Vinzap-Finds 860eea8b: 29825621460458879",
+  "16:02:01 STORY POSTED facebook@Vinzap-Finds 860eea8b"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795773664.8809152,
+  "facebook@Vinzap-Finds": 1795775507.5805764,
   "facebook@Vijayendra-Singh": 1795771878.2265334,
   "youtube": 1795771878.2265334
  },
- "n": 846
+ "n": 847
 }
