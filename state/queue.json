@@ -1,69 +1,6 @@
 {
  "items": [
   {
-   "id": "407dd6b2",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Electric Lunch Box",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 1399,
-    "was": 0,
-    "feats": [
-     "Power: 40 W",
-     "Size: 23 x 16 x 11 cm",
-     "Removable containers"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Electric Lunch Box | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Lunch Box"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nElectric Lunch Box\n✔ Power: 40 W\n✔ Size: 23 x 16 x 11 cm\n✔ Removable containers\n\nOnly ₹1399. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #lunchbox #tiffin #homeessentials",
-   "title": "Electric Lunch Box | Home Essentials",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795503672.7456088,
-     "id": "5253307358230284",
-     "dry": false
-    },
-    "youtube": {
-     "ok": true,
-     "ts": 1795503672.7456088,
-     "id": "YnP1ksGciWw",
-     "dry": false
-    }
-   },
-   "created": 1795503646.7812283,
-   "after": 0,
-   "handle": "058-electric-lunch-box-1",
-   "product_url": "https://www.vinzapstore.in/products/058-electric-lunch-box-1",
-   "file": "407dd6b2.mp4",
-   "thumb": "407dd6b2_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1675926387319149"
-    }
-   }
-  },
-  {
    "id": "27a3bbbd",
    "status": "scheduled",
    "kind": "image",
@@ -4573,13 +4510,67 @@
    "product_url": "https://www.vinzapstore.in/products/plastic-8-grid-ice-cube-tray-with-lid-skull-shape-freezer-ice-mold-1-pc",
    "file": "9bc06b8f.jpg",
    "thumb": "9bc06b8f.jpg"
+  },
+  {
+   "id": "26eca1a1",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Natural Wood Chopping Board",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 459,
+    "was": 0,
+    "feats": [
+     "Wooden cutting board is made from",
+     "It is Ideal for chopping",
+     "Thick Bamboo that can withstand"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Natural Wood Chopping Board | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Natural Wood Chopping Board"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nNatural Wood Chopping Board\n✔ Wooden cutting board is made from\n✔ It is Ideal for chopping\n✔ Thick Bamboo that can withstand\n\nOnly ₹459. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Natural Wood Chopping Board | Home Essentials",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795789872.9128494,
+     "id": "1387000566671138",
+     "dry": false
+    }
+   },
+   "created": 1795789844.169247,
+   "after": 0,
+   "handle": "2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
+   "product_url": "https://www.vinzapstore.in/products/2193-natural-wood-chopping-cutting-board-for-kitchen-vegetables-fruits-cheese-bpa-free",
+   "file": "26eca1a1.mp4",
+   "thumb": "26eca1a1_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1935446990775262"
+    }
+   }
   }
  ],
- "last_post": 1795788094.4169302,
+ "last_post": 1795789872.9128494,
  "log": [
-  "21:31:31 READY 6fd050bd Manual Plastic Fruit and Vegetable Juicer | Trending Shorts (auto-approved)",
-  "21:31:36 POSTED facebook@Vinzap-Finds 6fd050bd: 1698528645284990",
-  "21:31:40 POSTED youtube 6fd050bd: KExvEAYguug",
   "21:31:48 STORY POSTED facebook@Vinzap-Finds 6fd050bd",
   "22:01:31 READY e5d73b57 Manual Garlic Press Crusher (auto-approved)",
   "22:01:36 POSTED facebook@Vinzap-Finds e5d73b57: 1428352113685678_122120906013501659",
@@ -4776,13 +4767,16 @@
   "19:01:36 STORY POSTED facebook@Vinzap-Finds d98c4304",
   "19:31:34 READY 9bc06b8f Skull Shape Ice Cube Tray 8 Grid (auto-approved)",
   "19:31:38 POSTED facebook@Vinzap-Finds 9bc06b8f: 1428352113685678_122121662853501659",
-  "19:31:41 POSTED facebook@Vijayendra-Singh 9bc06b8f: 1317760538089559_122133997035480728"
+  "19:31:41 POSTED facebook@Vijayendra-Singh 9bc06b8f: 1317760538089559_122133997035480728",
+  "20:01:12 READY 26eca1a1 Natural Wood Chopping Board | Home Essentials (auto-approved)",
+  "20:01:16 POSTED facebook@Vinzap-Finds 26eca1a1: 1387000566671138",
+  "20:01:23 STORY POSTED facebook@Vinzap-Finds 26eca1a1"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795788094.4169302,
+  "facebook@Vinzap-Finds": 1795789872.9128494,
   "facebook@Vijayendra-Singh": 1795788094.4169302,
   "youtube": 1795782685.847504
  },
- "n": 854
+ "n": 855
 }
