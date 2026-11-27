@@ -1,63 +1,6 @@
 {
  "items": [
   {
-   "id": "8efec44d",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Silicone Ice Cube Tray 24 Cavity Multicolour",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 291,
-    "was": 0,
-    "feats": [
-     "The trays are made of lightweight",
-     "Easy to use",
-     "Convenient storage"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "cooking",
-     "home decor"
-    ],
-    "yt_title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Cooking"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Silicone Ice Cube Tray 24 Cavity Multicolour"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nSilicone Ice Cube Tray 24 Cavity Multicolour\n✔ The trays are made of lightweight\n✔ Easy to use\n✔ Convenient storage\n\nOnly ₹291. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
-   "title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Cooking",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795436168.4119508,
-     "id": "1170687505413848",
-     "dry": false
-    }
-   },
-   "created": 1795436135.1590214,
-   "after": 0,
-   "handle": "1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
-   "product_url": "https://www.vinzapstore.in/products/1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
-   "file": "8efec44d.mp4",
-   "thumb": "8efec44d_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1477459801019713"
-    }
-   }
-  },
-  {
    "id": "28dc7d65",
    "status": "posted",
    "kind": "image",
@@ -4577,13 +4520,67 @@
    "product_url": "https://www.vinzapstore.in/products/premium-stainless-steel-lunch-box-set",
    "file": "c9db7ff5.jpg",
    "thumb": "c9db7ff5.jpg"
+  },
+  {
+   "id": "bc57d9d5",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Green Tea Strainer",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 109,
+    "was": 0,
+    "feats": [
+     "High-Quality Wire Mesh : Fine",
+     "Ergonomic Plastic Handle :",
+     "Compact and Lightweight : Easy"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "kitchen gadgets",
+     "kitchen organization"
+    ],
+    "yt_title": "Green Tea Strainer | Kitchen Gadgets"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Green Tea Strainer"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nGreen Tea Strainer\n✔ High-Quality Wire Mesh : Fine\n✔ Ergonomic Plastic Handle :\n✔ Compact and Lightweight : Easy\n\nOnly ₹109. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #kitchenorganization",
+   "title": "Green Tea Strainer | Kitchen Gadgets",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795768279.918912,
+     "id": "2401720977263610",
+     "dry": false
+    }
+   },
+   "created": 1795768246.519372,
+   "after": 0,
+   "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
+   "product_url": "https://www.vinzapstore.in/products/apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
+   "file": "bc57d9d5.mp4",
+   "thumb": "bc57d9d5_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1945911573042918"
+    }
+   }
   }
  ],
- "last_post": 1795766466.1364906,
+ "last_post": 1795768279.918912,
  "log": [
-  "15:31:31 READY c4a989f6 Gas Stove Burner Stand, Stainless Steel Wok | Home Essentials (auto-approved)",
-  "15:31:35 POSTED facebook@Vinzap-Finds c4a989f6: 1622497243241829",
-  "15:31:42 POSTED youtube c4a989f6: A6wHvg15f9Y",
   "15:31:50 STORY POSTED facebook@Vinzap-Finds c4a989f6",
   "16:00:54 READY 3e99dc09 6 in 1 Premium Kitchen Knife Set (auto-approved)",
   "16:00:58 POSTED facebook@Vinzap-Finds 3e99dc09: 1428352113685678_122120843439501659",
@@ -4780,13 +4777,16 @@
   "13:01:14 STORY POSTED facebook@Vinzap-Finds ad515500",
   "13:31:06 READY c9db7ff5 Stainless Steel Lunch Box Set (auto-approved)",
   "13:31:09 POSTED facebook@Vinzap-Finds c9db7ff5: 1428352113685678_122121591717501659",
-  "13:31:11 POSTED facebook@Vijayendra-Singh c9db7ff5: 1317760538089559_122133907167480728"
+  "13:31:11 POSTED facebook@Vijayendra-Singh c9db7ff5: 1317760538089559_122133907167480728",
+  "14:01:19 READY bc57d9d5 Green Tea Strainer | Kitchen Gadgets (auto-approved)",
+  "14:01:25 POSTED facebook@Vinzap-Finds bc57d9d5: 2401720977263610",
+  "14:01:35 STORY POSTED facebook@Vinzap-Finds bc57d9d5"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795766466.1364906,
+  "facebook@Vinzap-Finds": 1795768279.918912,
   "facebook@Vijayendra-Singh": 1795766466.1364906,
   "youtube": 1795761079.8573766
  },
- "n": 842
+ "n": 843
 }
