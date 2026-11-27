@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "27a3bbbd",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "3 Layer Wall Mounted Food Organizer Rack",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 1059,
-    "was": 0,
-    "feats": [
-     "High quality and Eco-friendly pp",
-     "Perfect solution many vegetable",
-     "Multi-function for Pantry Storage"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor ideas",
-     "trending shorts"
-    ],
-    "yt_title": "3 Layer Wall Mounted Food Organizer Rack | Home Decor Ideas"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "3 Layer Wall Mounted Food Organizer Rack"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\n3 Layer Wall Mounted Food Organizer Rack\n✔ High quality and Eco-friendly pp\n✔ Perfect solution many vegetable\n✔ Multi-function for Pantry Storage\n\nOnly ₹1059. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #storageideas #organizer #homedecorideas #trendingshorts",
-   "title": "3 Layer Wall Mounted Food Organizer Rack",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795505460.3767269,
-     "id": "1428352113685678_122120802513501659",
-     "dry": false
-    }
-   },
-   "created": 1795505445.3757706,
-   "after": 0,
-   "handle": "plastic-3-layer-wall-mounted-food-organizer-rack-1-set",
-   "product_url": "https://www.vinzapstore.in/products/plastic-3-layer-wall-mounted-food-organizer-rack-1-set",
-   "file": "27a3bbbd.jpg",
-   "thumb": "27a3bbbd.jpg"
-  },
-  {
    "id": "a8787357",
    "status": "scheduled",
    "kind": "reel",
@@ -4567,12 +4517,60 @@
      "id": "1935446990775262"
     }
    }
+  },
+  {
+   "id": "1be97f38",
+   "status": "scheduled",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Liger Multipurpose Dry Fruit and Ginger",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 49,
+    "was": 0,
+    "feats": [
+     "Stainless Steel Blade: Ultra-sharp",
+     "Ergonomic Design: Comfortable",
+     "Multipurpose Use: Ideal"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home essentials",
+     "kitchen gadgets"
+    ],
+    "yt_title": "Liger Multipurpose Dry Fruit and Ginger | Home Essentials"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Liger Multipurpose Dry Fruit and Ginger"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nLiger Multipurpose Dry Fruit and Ginger\n✔ Stainless Steel Blade: Ultra-sharp\n✔ Ergonomic Design: Comfortable\n✔ Multipurpose Use: Ideal\n\nOnly ₹49. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homeessentials",
+   "title": "Liger Multipurpose Dry Fruit and Ginger",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795791672.2474697,
+     "id": "1428352113685678_122121679275501659",
+     "dry": false
+    }
+   },
+   "created": 1795791657.4563246,
+   "after": 0,
+   "handle": "liger-multipurpose-dry-fruit-slicer-ginger-1-pc",
+   "product_url": "https://www.vinzapstore.in/products/liger-multipurpose-dry-fruit-slicer-ginger-1-pc",
+   "file": "1be97f38.jpg",
+   "thumb": "1be97f38.jpg"
   }
  ],
- "last_post": 1795789872.9128494,
+ "last_post": 1795791672.2474697,
  "log": [
-  "21:31:48 STORY POSTED facebook@Vinzap-Finds 6fd050bd",
-  "22:01:31 READY e5d73b57 Manual Garlic Press Crusher (auto-approved)",
   "22:01:36 POSTED facebook@Vinzap-Finds e5d73b57: 1428352113685678_122120906013501659",
   "22:29:32 READY ae41bd5e Supermom  Multipurpose Serving Tray Set | Kitchen Gadgets (auto-approved)",
   "22:29:38 POSTED facebook@Vinzap-Finds ae41bd5e: 1130429453151226",
@@ -4770,13 +4768,15 @@
   "19:31:41 POSTED facebook@Vijayendra-Singh 9bc06b8f: 1317760538089559_122133997035480728",
   "20:01:12 READY 26eca1a1 Natural Wood Chopping Board | Home Essentials (auto-approved)",
   "20:01:16 POSTED facebook@Vinzap-Finds 26eca1a1: 1387000566671138",
-  "20:01:23 STORY POSTED facebook@Vinzap-Finds 26eca1a1"
+  "20:01:23 STORY POSTED facebook@Vinzap-Finds 26eca1a1",
+  "20:31:12 READY 1be97f38 Liger Multipurpose Dry Fruit and Ginger (auto-approved)",
+  "20:31:16 POSTED facebook@Vinzap-Finds 1be97f38: 1428352113685678_122121679275501659"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795789872.9128494,
+  "facebook@Vinzap-Finds": 1795791672.2474697,
   "facebook@Vijayendra-Singh": 1795788094.4169302,
-  "youtube": 1795782685.847504
+  "youtube": 1795782265.847504
  },
- "n": 855
+ "n": 856
 }
