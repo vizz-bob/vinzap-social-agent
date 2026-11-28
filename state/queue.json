@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "c16c9b64",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Apex Compact Coffee Mug 300ml",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 349,
-    "was": 0,
-    "feats": [
-     "300 ML is the size you finish",
-     "Lid keeps the drink warm through",
-     "Slim handle sits close to the body"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home essentials",
-     "kitchen gadgets"
-    ],
-    "yt_title": "Apex Compact Coffee Mug 300ml | Home Essentials"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Apex Compact Coffee Mug 300ml"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nApex Compact Coffee Mug 300ml\n✔ 300 ML is the size you finish\n✔ Lid keeps the drink warm through\n✔ Slim handle sits close to the body\n\nOnly ₹349. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #mug #giftideas #homeessentials",
-   "title": "Apex Compact Coffee Mug 300ml | Home Essentials",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795518107.0880585,
-     "id": "1439087868395920",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795518107.0880585,
-     "id": "2114284785880046",
-     "dry": false
-    }
-   },
-   "created": 1795518075.8436923,
-   "after": 0,
-   "handle": "apex-compact-coffee-mug-300-ml-with-handle-and-lid-matte-black-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/apex-compact-coffee-mug-300-ml-with-handle-and-lid-matte-black-1-pc",
-   "file": "c16c9b64.mp4",
-   "thumb": "c16c9b64_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "3795210157284992"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1688185132911932"
-    }
-   }
-  },
-  {
    "id": "70c5fb26",
    "status": "scheduled",
    "kind": "image",
@@ -4573,15 +4506,77 @@
    "product_url": "https://www.vinzapstore.in/products/portable-plastic-kitchen-dustbin-trash-bin-1-pc-25x22-cm",
    "file": "189f4825.jpg",
    "thumb": "189f4825.jpg"
+  },
+  {
+   "id": "d5bd8c9d",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Silicone Ice Cube Tray 24 Cavity Multicolour",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 291,
+    "was": 0,
+    "feats": [
+     "The trays are made of lightweight",
+     "Easy to use",
+     "Convenient storage"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Silicone Ice Cube Tray 24 Cavity Multicolour"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nSilicone Ice Cube Tray 24 Cavity Multicolour\n✔ The trays are made of lightweight\n✔ Easy to use\n✔ Convenient storage\n\nOnly ₹291. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Silicone Ice Cube Tray 24 Cavity Multicolour | Cooking",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795852884.6239192,
+     "id": "2366352567482726",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795852884.6239192,
+     "id": "1848935586414854",
+     "dry": false
+    }
+   },
+   "created": 1795852857.2103276,
+   "after": 0,
+   "handle": "1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "product_url": "https://www.vinzapstore.in/products/1144-silicone-ice-cube-trays-24-cavity-per-ice-tray-multicolour",
+   "file": "d5bd8c9d.mp4",
+   "thumb": "d5bd8c9d_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1112936061805801"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "1132375729767726"
+    }
+   }
   }
  ],
- "last_post": 1795851062.3954856,
+ "last_post": 1795852884.6239192,
  "log": [
-  "14:00:58 READY 72776aad Stainless Steel Sink Caddy Organizer (auto-approved)",
-  "14:01:02 POSTED facebook@Vinzap-Finds 72776aad: 1428352113685678_122121050151501659",
-  "14:31:24 READY b7ad7196 Stainless Steel Potato Peeler | Kitchen Organization (auto-approved)",
-  "14:31:29 POSTED facebook@Vinzap-Finds b7ad7196: 1661287292392980",
-  "14:31:37 STORY POSTED facebook@Vinzap-Finds b7ad7196",
   "15:00:59 READY 7d746e6f Plastic Lunch Box (auto-approved)",
   "15:01:02 POSTED facebook@Vinzap-Finds 7d746e6f: 1428352113685678_122121059397501659",
   "15:01:07 POSTED facebook@Vijayendra-Singh 7d746e6f: 1317760538089559_122133312021480728",
@@ -4776,13 +4771,18 @@
   "12:31:37 POSTED youtube ff340d45: J8LihhTEIRo",
   "12:31:44 STORY POSTED facebook@Vinzap-Finds ff340d45",
   "13:01:02 READY 189f4825 Portable Plastic Kitchen Dustbin Hanging (auto-approved)",
-  "13:01:09 POSTED facebook@Vinzap-Finds 189f4825: 1428352113685678_122121820977501659"
+  "13:01:09 POSTED facebook@Vinzap-Finds 189f4825: 1428352113685678_122121820977501659",
+  "13:31:24 READY d5bd8c9d Silicone Ice Cube Tray 24 Cavity Multicolour | Cooking (auto-approved)",
+  "13:31:27 POSTED facebook@Vinzap-Finds d5bd8c9d: 2366352567482726",
+  "13:31:31 POSTED facebook@Vijayendra-Singh d5bd8c9d: 1848935586414854",
+  "13:31:40 STORY POSTED facebook@Vinzap-Finds d5bd8c9d",
+  "13:31:48 STORY POSTED facebook@Vijayendra-Singh d5bd8c9d"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795851062.3954856,
-  "facebook@Vijayendra-Singh": 1795847457.1183596,
+  "facebook@Vinzap-Finds": 1795852884.6239192,
+  "facebook@Vijayendra-Singh": 1795852884.6239192,
   "youtube": 1795849286.5095863
  },
- "n": 862
+ "n": 863
 }
