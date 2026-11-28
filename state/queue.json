@@ -1,56 +1,6 @@
 {
  "items": [
   {
-   "id": "f7465b45",
-   "status": "scheduled",
-   "kind": "image",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "2-in-1 Oil Dispenser Bottle",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 299,
-    "was": 0,
-    "feats": [
-     "Glass bottle",
-     "Silicone brush in the cap",
-     "Roughly 7 x 7 x 19 cm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "kitchen hacks",
-     "home essentials"
-    ],
-    "yt_title": "2-in-1 Oil Dispenser Bottle | Kitchen Hacks"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "2-in-1 Oil Dispenser Bottle"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\n2-in-1 Oil Dispenser Bottle\n✔ Glass bottle\n✔ Silicone brush in the cap\n✔ Roughly 7 x 7 x 19 cm\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #bottle #homeessentials #kitchenhacks",
-   "title": "2-in-1 Oil Dispenser Bottle",
-   "platforms": [
-    "instagram",
-    "facebook"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795591857.4454343,
-     "id": "1428352113685678_122121042435501659",
-     "dry": false
-    }
-   },
-   "created": 1795591843.5496008,
-   "after": 0,
-   "handle": "2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
-   "product_url": "https://www.vinzapstore.in/products/2-in-1-oil-dispenser-bottle-with-silicone-basting-brush-1-set",
-   "file": "f7465b45.jpg",
-   "thumb": "f7465b45.jpg"
-  },
-  {
    "id": "9103311c",
    "status": "scheduled",
    "kind": "reel",
@@ -4559,13 +4509,66 @@
      "id": "2362577284590882"
     }
    }
+  },
+  {
+   "id": "e8a64e47",
+   "status": "posted",
+   "kind": "image",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Disposable Plastic Fruit Fork",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 149,
+    "was": 0,
+    "feats": [
+     "Clear transparent plastic fruit",
+     "2-tine design for easy fruit",
+     "Decorative beaded handle"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "cooking",
+     "home decor"
+    ],
+    "yt_title": "Disposable Plastic Fruit Fork | Cooking"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Disposable Plastic Fruit Fork"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nDisposable Plastic Fruit Fork\n✔ Clear transparent plastic fruit\n✔ 2-tine design for easy fruit\n✔ Decorative beaded handle\n\nOnly ₹149. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #cooking #homedecor",
+   "title": "Disposable Plastic Fruit Fork",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795880751.2090685,
+     "id": "1428352113685678_122121902649501659",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795880751.2090685,
+     "id": "1317760538089559_122134504317480728",
+     "dry": false
+    }
+   },
+   "created": 1795880736.6718152,
+   "after": 0,
+   "handle": "mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
+   "product_url": "https://www.vinzapstore.in/products/mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
+   "file": "e8a64e47.jpg",
+   "thumb": "e8a64e47.jpg"
   }
  ],
- "last_post": 1795878973.4914603,
+ "last_post": 1795880751.2090685,
  "log": [
-  "21:31:25 POSTED youtube 8be3c6b0: 2IDVCKC4Lwg",
-  "21:31:33 STORY POSTED facebook@Vinzap-Finds 8be3c6b0",
-  "22:00:58 READY 35884f15 Knife Sharpener (auto-approved)",
   "22:01:03 POSTED facebook@Vinzap-Finds 35884f15: 1428352113685678_122121128889501659",
   "22:31:40 READY fa196d29 Apex Miny Steel Mixing Bowl Set | Home Essentials (auto-approved)",
   "22:31:46 POSTED facebook@Vinzap-Finds fa196d29: 1885426989147733",
@@ -4762,13 +4765,16 @@
   "20:15:54 POSTED facebook@Vinzap-Finds 5d3ee022: 1428352113685678_122121893835501659",
   "20:46:13 READY 903dde87 Cartoon Self Adhesive Hooks, Set of 2 | Kitchen Hacks (auto-approved)",
   "20:46:18 POSTED facebook@Vinzap-Finds 903dde87: 1213014698058456",
-  "20:46:27 STORY POSTED facebook@Vinzap-Finds 903dde87"
+  "20:46:27 STORY POSTED facebook@Vinzap-Finds 903dde87",
+  "21:15:51 READY e8a64e47 Disposable Plastic Fruit Fork (auto-approved)",
+  "21:15:54 POSTED facebook@Vinzap-Finds e8a64e47: 1428352113685678_122121902649501659",
+  "21:15:57 POSTED facebook@Vijayendra-Singh e8a64e47: 1317760538089559_122134504317480728"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795878973.4914603,
-  "facebook@Vijayendra-Singh": 1795875396.038494,
-  "youtube": 1795870883.9809697
+  "facebook@Vinzap-Finds": 1795880751.2090685,
+  "facebook@Vijayendra-Singh": 1795880751.2090685,
+  "youtube": 1795870463.9809697
  },
- "n": 877
+ "n": 878
 }
