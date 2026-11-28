@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "f17b2549",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Stainless Steel Ice Cream Scoop",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 499,
-    "was": 0,
-    "feats": [
-     "Trigger release lever pushes out",
-     "Sturdy stainless steel build is",
-     "Comfortable handle gives a firm"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "home decor",
-     "home decor ideas"
-    ],
-    "yt_title": "Stainless Steel Ice Cream Scoop | Home Decor"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Stainless Steel Ice Cream Scoop"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nStainless Steel Ice Cream Scoop\n✔ Trigger release lever pushes out\n✔ Sturdy stainless steel build is\n✔ Comfortable handle gives a firm\n\nOnly ₹499. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
-   "title": "Stainless Steel Ice Cream Scoop | Home Decor",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795528925.9468582,
-     "id": "1168464462309113",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795528925.9468582,
-     "id": "1428421449320460",
-     "dry": false
-    }
-   },
-   "created": 1795528894.2138941,
-   "after": 0,
-   "handle": "stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/stainless-steel-trigger-release-ice-cream-scoop-cookie-dough-scooper-1-pc",
-   "file": "f17b2549.mp4",
-   "thumb": "f17b2549_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1459869685565378"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1809469786931629"
-    }
-   }
-  },
-  {
    "id": "0c0e41ae",
    "status": "scheduled",
    "kind": "image",
@@ -4573,15 +4506,77 @@
    "product_url": "https://www.vinzapstore.in/products/stainless-steel-ice-cream-spoon-3-pc-set",
    "file": "58906ec5.jpg",
    "thumb": "58906ec5.jpg"
+  },
+  {
+   "id": "cc6bf77b",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "3 in 1 Kids Cutlery Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 299,
+    "was": 0,
+    "feats": [
+     "3 in 1 set includes a spoon",
+     "Durable stainless steel heads are",
+     "Cute cartoon print handles make"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor ideas",
+     "trending shorts"
+    ],
+    "yt_title": "3 in 1 Kids Cutlery Set | Home Decor Ideas"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "3 in 1 Kids Cutlery Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\n3 in 1 Kids Cutlery Set\n✔ 3 in 1 set includes a spoon\n✔ Durable stainless steel heads are\n✔ Cute cartoon print handles make\n\nOnly ₹299. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecorideas #trendingshorts",
+   "title": "3 in 1 Kids Cutlery Set | Home Decor Ideas",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795863676.2442951,
+     "id": "3656054044566647",
+     "dry": false
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "ts": 1795863676.2442951,
+     "id": "1491303916267944",
+     "dry": false
+    }
+   },
+   "created": 1795863647.3685102,
+   "after": 0,
+   "handle": "3-in-1-kids-cutlery-set-with-case-spoon-fork-knife-for-children-1-set",
+   "product_url": "https://www.vinzapstore.in/products/3-in-1-kids-cutlery-set-with-case-spoon-fork-knife-for-children-1-set",
+   "file": "cc6bf77b.mp4",
+   "thumb": "cc6bf77b_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1119416511084362"
+    },
+    "facebook@Vijayendra-Singh": {
+     "ok": true,
+     "id": "2390733001469129"
+    }
+   }
   }
  ],
- "last_post": 1795861859.8374789,
+ "last_post": 1795863676.2442951,
  "log": [
-  "17:01:02 READY 4f6ee796 Stainless Steel Vegetable Grater (auto-approved)",
-  "17:01:07 POSTED facebook@Vinzap-Finds 4f6ee796: 1428352113685678_122121078447501659",
-  "17:31:36 READY ff9550ba Ketchup and Mustard Dispenser Bottle Gun | Kitchen Gadgets (auto-approved)",
-  "17:31:42 POSTED facebook@Vinzap-Finds ff9550ba: 1111720815018621",
-  "17:31:50 STORY POSTED facebook@Vinzap-Finds ff9550ba",
   "18:01:07 READY 92e5a8d6 3 in 1 Water Bottle Set 2000 ml, 900 ml and (auto-approved)",
   "18:01:12 POSTED facebook@Vinzap-Finds 92e5a8d6: 1428352113685678_122121088677501659",
   "18:01:16 POSTED facebook@Vijayendra-Singh 92e5a8d6: 1317760538089559_122133373413480728",
@@ -4776,13 +4771,18 @@
   "15:31:26 POSTED youtube af058d79: P1IYjf2RHnA",
   "15:31:34 STORY POSTED facebook@Vinzap-Finds af058d79",
   "16:00:59 READY 58906ec5 Stainless Steel Ice Cream Spoon Set (auto-approved)",
-  "16:01:03 POSTED facebook@Vinzap-Finds 58906ec5: 1428352113685678_122121848343501659"
+  "16:01:03 POSTED facebook@Vinzap-Finds 58906ec5: 1428352113685678_122121848343501659",
+  "16:31:16 READY cc6bf77b 3 in 1 Kids Cutlery Set | Home Decor Ideas (auto-approved)",
+  "16:31:19 POSTED facebook@Vinzap-Finds cc6bf77b: 3656054044566647",
+  "16:31:22 POSTED facebook@Vijayendra-Singh cc6bf77b: 1491303916267944",
+  "16:31:33 STORY POSTED facebook@Vinzap-Finds cc6bf77b",
+  "16:31:43 STORY POSTED facebook@Vijayendra-Singh cc6bf77b"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795861859.8374789,
-  "facebook@Vijayendra-Singh": 1795858257.90702,
+  "facebook@Vinzap-Finds": 1795863676.2442951,
+  "facebook@Vijayendra-Singh": 1795863676.2442951,
   "youtube": 1795860078.9196267
  },
- "n": 868
+ "n": 869
 }
