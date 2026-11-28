@@ -1,73 +1,6 @@
 {
  "items": [
   {
-   "id": "9103311c",
-   "status": "scheduled",
-   "kind": "reel",
-   "style": "sale",
-   "info": {
-    "fest": "general",
-    "headline": "Electric Barbecue Grill 2000W",
-    "strip": "Home & Kitchen Special  |  Home & Kitchen",
-    "price": 2889,
-    "was": 0,
-    "feats": [
-     "Perfect electric barbecue grill",
-     "It has a non-stick steel grill",
-     "Cool touch handles"
-    ],
-    "label2": "SPECIAL",
-    "cta": "Comment LINK to order",
-    "site": "www.vinzapstore.in",
-    "kw": [
-     "trending shorts",
-     "kitchen hacks"
-    ],
-    "yt_title": "Electric Barbecue Grill 2000W | Trending Shorts"
-   },
-   "spec": {
-    "theme": "product",
-    "hook": "Electric Barbecue Grill 2000W"
-   },
-   "caption": "Make your kitchen easier today 🍳\n\nElectric Barbecue Grill 2000W\n✔ Perfect electric barbecue grill\n✔ It has a non-stick steel grill\n✔ Cool touch handles\n\nOnly ₹2889. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #trendingshorts #kitchenhacks",
-   "title": "Electric Barbecue Grill 2000W | Trending Shorts",
-   "platforms": [
-    "instagram",
-    "facebook",
-    "youtube"
-   ],
-   "posted": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "ts": 1795593681.821719,
-     "id": "1654931752781307",
-     "dry": false
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "ts": 1795593681.821719,
-     "id": "1820339299219890",
-     "dry": false
-    }
-   },
-   "created": 1795593647.8659666,
-   "after": 0,
-   "handle": "electric-barbecue-grill-2000w-1-pc",
-   "product_url": "https://www.vinzapstore.in/products/electric-barbecue-grill-2000w-1-pc",
-   "file": "9103311c.mp4",
-   "thumb": "9103311c_t.jpg",
-   "stories": {
-    "facebook@Vinzap-Finds": {
-     "ok": true,
-     "id": "1092064330471354"
-    },
-    "facebook@Vijayendra-Singh": {
-     "ok": true,
-     "id": "1428418999276203"
-    }
-   }
-  },
-  {
    "id": "72776aad",
    "status": "scheduled",
    "kind": "image",
@@ -4565,14 +4498,73 @@
    "product_url": "https://www.vinzapstore.in/products/mini-disposable-plastic-fruit-fork-for-parties-snacks-and-desserts-1-pack",
    "file": "e8a64e47.jpg",
    "thumb": "e8a64e47.jpg"
+  },
+  {
+   "id": "550d86ad",
+   "status": "scheduled",
+   "kind": "reel",
+   "style": "sale",
+   "info": {
+    "fest": "general",
+    "headline": "Ice Candy Popsicle Maker 8 Mould Set",
+    "strip": "Home & Kitchen Special  |  Home & Kitchen",
+    "price": 249,
+    "was": 0,
+    "feats": [
+     "✅ 8 Mold Capacity – Make 8",
+     "✅ Food-Grade Plastic – Safe",
+     "✅ Easy-Release Design – Smooth"
+    ],
+    "label2": "SPECIAL",
+    "cta": "Comment LINK to order",
+    "site": "www.vinzapstore.in",
+    "kw": [
+     "home decor",
+     "home decor ideas"
+    ],
+    "yt_title": "Ice Candy Popsicle Maker 8 Mould Set | Home Decor"
+   },
+   "spec": {
+    "theme": "product",
+    "hook": "Ice Candy Popsicle Maker 8 Mould Set"
+   },
+   "caption": "Make your kitchen easier today 🍳\n\nIce Candy Popsicle Maker 8 Mould Set\n✔ ✅ 8 Mold Capacity – Make 8\n✔ ✅ Food-Grade Plastic – Safe\n✔ ✅ Easy-Release Design – Smooth\n\nOnly ₹249. Comment LINK and we will send it, or order at vinzapstore.in (link in bio).\n\n#kitchenessentials #homekitchen #vinzapstore #kitchengadgets #homedecor #homedecorideas",
+   "title": "Ice Candy Popsicle Maker 8 Mould Set | Home Decor",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "youtube"
+   ],
+   "posted": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "ts": 1795882571.878965,
+     "id": "1216929827327385",
+     "dry": false
+    },
+    "youtube": {
+     "ok": true,
+     "ts": 1795882571.878965,
+     "id": "rFPElblS8zc",
+     "dry": false
+    }
+   },
+   "created": 1795882533.424962,
+   "after": 0,
+   "handle": "plastic-ice-candy-popsicle-maker-8-mold-1-set",
+   "product_url": "https://www.vinzapstore.in/products/plastic-ice-candy-popsicle-maker-8-mold-1-set",
+   "file": "550d86ad.mp4",
+   "thumb": "550d86ad_t.jpg",
+   "stories": {
+    "facebook@Vinzap-Finds": {
+     "ok": true,
+     "id": "1710008634084441"
+    }
+   }
   }
  ],
- "last_post": 1795880751.2090685,
+ "last_post": 1795882571.878965,
  "log": [
-  "22:01:03 POSTED facebook@Vinzap-Finds 35884f15: 1428352113685678_122121128889501659",
-  "22:31:40 READY fa196d29 Apex Miny Steel Mixing Bowl Set | Home Essentials (auto-approved)",
-  "22:31:46 POSTED facebook@Vinzap-Finds fa196d29: 1885426989147733",
-  "22:31:50 POSTED facebook@Vijayendra-Singh fa196d29: 2962585270769854",
   "22:31:58 STORY POSTED facebook@Vinzap-Finds fa196d29",
   "22:32:07 STORY POSTED facebook@Vijayendra-Singh fa196d29",
   "12:00:57 READY 584e429d Stainless Steel Dough Scraper Cutter Large (auto-approved)",
@@ -4768,13 +4760,17 @@
   "20:46:27 STORY POSTED facebook@Vinzap-Finds 903dde87",
   "21:15:51 READY e8a64e47 Disposable Plastic Fruit Fork (auto-approved)",
   "21:15:54 POSTED facebook@Vinzap-Finds e8a64e47: 1428352113685678_122121902649501659",
-  "21:15:57 POSTED facebook@Vijayendra-Singh e8a64e47: 1317760538089559_122134504317480728"
+  "21:15:57 POSTED facebook@Vijayendra-Singh e8a64e47: 1317760538089559_122134504317480728",
+  "21:46:11 READY 550d86ad Ice Candy Popsicle Maker 8 Mould Set | Home Decor (auto-approved)",
+  "21:46:19 POSTED facebook@Vinzap-Finds 550d86ad: 1216929827327385",
+  "21:46:25 POSTED youtube 550d86ad: rFPElblS8zc",
+  "21:46:35 STORY POSTED facebook@Vinzap-Finds 550d86ad"
  ],
  "last": {
   "instagram@Vinzap-Finds": 1794589262.6487906,
-  "facebook@Vinzap-Finds": 1795880751.2090685,
+  "facebook@Vinzap-Finds": 1795882571.878965,
   "facebook@Vijayendra-Singh": 1795880751.2090685,
-  "youtube": 1795870463.9809697
+  "youtube": 1795882571.878965
  },
- "n": 878
+ "n": 879
 }
